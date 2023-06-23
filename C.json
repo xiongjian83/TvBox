@@ -1,9 +1,9 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 //本接口无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。
 {
-    "spider": "https://agit.ai/guard/f/raw/branch/main/cr/wqcatyuanban.jar",
-    "spider": "https://agit.ai/guard/f/raw/branch/main/cr/XBiubiuLA3.jar",
-    "spider": "https://agit.ai/guard/f/raw/branch/main/cr/XBiubiuLA4.jar",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/cr/wqcatyuanban.jar",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/cr/XBiubiuLA3.jar",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/cr/XBiubiuLA4.jar",
     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext="]}]}],
     "sites": [
         { "key": "(18+)环亚资源", "name": "(18+不错)环亚资源", "type": 0, "api": "http://wmcj8.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },

@@ -1,0 +1,24 @@
+{
+  "drives": [
+    {
+      "name": "小雅",
+      "server": "http://alist.xiaoya.pro"
+    },
+    {
+      "name": "触光",
+      "server": "https://pan.ichuguang.com"
+    },
+    {
+      "name": "一只鱼",
+      "server": "https://alist.youte.ml"
+    },
+    {
+      "name": "七米蓝",
+      "server": "https://al.chirmyram.com"
+    },
+    {
+      "name": "神族九帝",
+      "server": "https://alist.shenzjd.com"
+    }
+  ]
+}

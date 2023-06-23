@@ -1048,4 +1048,78 @@ JStar极限台,mitv://generationnexxxt.com:19806/a55acb84487242d882b0b53dd110b84
 HAPPY,mitv://generationnexxxt.com:19806/7b02a03ce3094b4e84f883565805f3a4
 K频道,mitv://generationnexxxt.com:19806/1aec46d506634015a1276c5e4d846976
 
-
+电台广播,#genre#
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+CCTV-4 中文国际,https://piccpndali.v.myalicdn.com/audio/cctv4_2.m3u8
+CCTV-13 新闻,https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
+清晨音乐台,http://lhttp.qingting.fm/live/4915/64k.mp3
+AsiaFM 亚洲热歌台,http://asiafm.net:8000/asiafmhot
+AsiaFM 亚洲音乐台,http://asiafm.hk:8000/asiafm
+AsiaFM 亚洲经典台,http://goldfm.cn:8000/goldfm
+AsiaFM 亚洲天空台,http://funradio.cn:8000/funradio
+AsiaFM HD音乐台,http://asiafm.hk:8000/asiahd
+AsiaFM 亚洲粤语台,http://asiafm.net:8000/asiafmyyt
+格莱美音乐台,http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
+民谣音乐台,http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+亚洲流行,http://apop.bigbradio.net/s
+潮流音乐台,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+中文流行,http://cpop.bigbradio.net/s
+电音电台,http://play.redefine.ltd/Stream3/FM1058-3.m3u8
+华语金曲500首,http://ls.qingting.fm/live/3412131.m3u8
+怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8
+老歌音乐台,http://live.xmcdn.com:80/live/2628/64.m3u8
+民谣 蓝调,http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
+清晨音乐台,http://live.xmcdn.com:80/live/1011/64.m3u8
+中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+文艺之声,http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+CityFM,http://fm929.cityfm.tw:8080/929.mp3
+CRI Hit FM FM88.7,http://sk.cri.cn/887.m3u8
+Big B Radio - 中文流行,http://cpop.bigbradio.net/s
+Big B Radio - 韩语流行,http://kpop.bigbradio.net/s
+Big B Radio - 日语流行,http://jpop.bigbradio.net/s
+Big B Radio - 亚洲流行,http://apop.bigbradio.net/s
+Modern Radio,http://play.redefine.ltd/Stream1/FM1058-1.m3u8
+电音电台,http://play.redefine.ltd/Stream3/FM1058-3.m3u8
+古典音乐台,http://play.redefine.ltd/Stream2/FM1058-2.m3u8
+萤火虫网络台,http://211.149.226.193:8066/1022.mp3
+潮流音悦台,http://stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+动感音悦台,http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+80后音悦台,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+经典FM,http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+格莱美音乐台,http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
+卷卷猫电台,http://stream3.hndt.com/now/PHucVOu2/playlist.m3u8
+有声文摘,http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
+安全百科,http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
+民谣音乐台,http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+天籁古典,http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+摇滚天空台,http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
+国乐悠扬,http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
+CRI环球资讯广播,http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
+CRI华语环球广播,http://sk.cri.cn/hyhq.m3u8
+CRI英语环球广播 China Plus Radio,http://sk.cri.cn/am846.m3u8
+CRI外语教学广播 China Plus Radio,http://sk.cri.cn/am1008.m3u8
+CRI南海之声,http://sk.cri.cn/nhzs.m3u8
+CRI轻松调频,http://sk.cri.cn/915.m3u8
+CRI粤语国际,http://sk.cri.cn/hxfh.m3u8
+CNR中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+CNR经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+CNR文艺之声,http://audiows010.cnr.cn/live/wyzs192/playlist.m3u8
+CNR阅读之声,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+CNR台海之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+CNR乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+CNR老年之声,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+CNR民族之声,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+CNR香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+CNR大湾区之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+CNR神州之声,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+CNR中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+POP Radio 台北流行广播电台,http://149.129.100.78:8000/popradio
+POP Radio 好听广播电台,http://149.129.100.78:8000/pop907
+A-line Radio 网路音乐台,http://radio.apple-line.com:987/radio-data/alinePlayer.php
+HitFM联播网|台北之音,http://149.129.100.78:8000/hitfm
+M-Radio全国广播,http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
+CityFM|城市广播,http://fm929.cityfm.tw:8080/929.mp3
+CityFM|台北健康,http://fm901.cityfm.tw:8080/901.mp3
+CityFM|台南之音,http://fm971.cityfm.tw:8080/971.mp3
+CityFM|大苗栗广播,http://fm983.cityfm.tw:8080/983.mp3

@@ -766,6 +766,19 @@ ELEVEN2,rtmp://119.81.124.89/sat/tv741
 台湾体育2,rtmp://9sv2.mine.nu/sat/md051
 台湾体育3,rtmp://9sv2.mine.nu/sat/md021
 台湾体育4,rtmp://9sv2.mine.nu/sat/md041
+东森新闻,https://www.5209.eu.org/live?rid=khuZW5GdBXo
+中视新闻,https://www.5209.eu.org/live?rid=TCnaIE_SAtM
+中天新闻,https://www.5209.eu.org/live?rid=oIgbl7t0S_w
+寰宇新闻,https://www.5209.eu.org/live?rid=B7Zp3d6xXWw
+台视新闻,https://www.5209.eu.org/live?rid=xL0ch83RAK8
+华视新闻,https://www.5209.eu.org/live?rid=wM0g8EoUZ_E
+三立新闻,https://www.5209.eu.org/live?rid=CKjSm5ZeehE
+TVBS新闻,https://www.5209.eu.org/live?rid=YvdcZ_jpLXE
+三立海外,https://www.5209.eu.org/live?rid=FoBfXvlOR6I
+TVBS新闻,https://www.5209.eu.org/live?rid=2mCSYvcfhtc
+东森新闻1,https://www.5209.eu.org/live?rid=R2iMq5LKXco
+镜新闻,https://www.5209.eu.org/live?rid=5n0y6b0Q25o
+民视新闻,https://www.5209.eu.org/live?rid=ylYJSBUgaMA
 
 港澳特区,#genre#
 凤凰中文台,mitv://135.148.104.228:19806/645385720009117848161b4e340f749d

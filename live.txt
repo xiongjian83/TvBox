@@ -1356,6 +1356,44 @@ AXN,mitv://generationnexxxt.com:19806/928f8533e609499cabbd6968526b392a
 AXN亚洲,mitv://generationnexxxt.com:19806/8add116b0e7d408f89cdf74897f02aef
 AMC最爱电影,mitv://generationnexxxt.com:19806/42dc2f449f2c49859e103b0236c34ab1
 
+天映频道,mitv://135.148.104.228:19806/644b68b3000a7c162865d184572c1ff0
+天映经典,mitv://135.148.104.228:19806/644b663d000a432e285c34846b9e74d6
+tvN Movies,mitv://135.148.104.228:19806/0c39816f6b864d57a8a7c9c956e31952
+有线电影台,mitv://135.148.104.228:19806/f64b49e3829e4fe2bf948a18b19c5a98
+凤凰电影台,mitv://135.148.104.228:19806/2df8c6787b0a4f08bee3dcccd49aef8b
+卫视电影台,mitv://135.148.104.228:19806/e6614f107c924a868360f724bf10f9d8
+东森电影台,mitv://135.148.104.228:19806/c4890d819ae5497db49b4f13a019e128
+纬来电影台,mitv://135.148.104.228:19806/ae654eeece794e40b003597793cf810a
+龙祥电影,mitv://135.148.104.228:19806/644b663d0002f2fe285c32b00e0f46ef
+HBO,mitv://135.148.104.228:19806/dc01bf43a9fd4c0594f0a73ee31ab4a5
+东森洋片台,mitv://135.148.104.228:19806/cbe8fad92b7e4497bce416a75eae4708
+AXN,mitv://135.148.104.228:19806/928f8533e609499cabbd6968526b392a
+好莱坞电影台,mitv://135.148.104.228:19806/86c7f4066b9c49f3808094bd356b8b33
+CINEMAX,mitv://135.148.104.228:19806/1d1c586a05ef4c13b029464c6d4644a1
+纬来育乐台,mitv://135.148.104.228:19806/dd458fff62614481a7e9d65da897af75
+HBO强档巨献,mitv://135.148.104.228:19806/f33628c42a3645dba83d317e70abf28c
+HBO原创巨献,mitv://135.148.104.228:19806/8987f1bb3c9740e980bce7d787cfba0d
+美亚电影台,mitv://135.148.104.228:19806/c4cf7dc18295472595398d0ad757ccf1
+龙华电影,mitv://135.148.104.228:19806/cede451738ef405fbb9fd50f010c6e69
+星卫电影台,mitv://135.148.104.228:19806/e241d240f66a45adb8be67c8c5cb7edc
+靖天映画,mitv://135.148.104.228:19806/3ee9183e81d7426b9951e42251877c96
+靖天电影台,mitv://135.148.104.228:19806/030b9d54cd424c6ba0d5e8acf16f9769
+WARNER TV,mitv://135.148.104.228:19806/875d0108135e450485fe55ebca3e1a43
+Star Movies,mitv://135.148.104.228:19806/bcf382b353a74b509a5ca1354b689efe
+AMC最爱电影,mitv://135.148.104.228:19806/42dc2f449f2c49859e103b0236c34ab1
+HBO Family,mitv://135.148.104.228:19806/ac77e78ed9ea4ff384eaa0de73b75df0
+CatchPlay电影台,mitv://135.148.104.228:19806/7e53298e858e453d8cd89a4f09de4f12
+CinemaWorld,mitv://135.148.104.228:19806/82a4e1f9268245ed93f38fcb17732c8f
+壹电视电影台,mitv://135.148.104.228:19806/c4d7d3c0d08941afa5b11dfa41a74576
+采昌影剧台,mitv://135.148.104.228:19806/46320be49d0f44aea4691fe2cc087bab
+BOO,mitv://135.148.104.228:19806/d01f4e4805c743ea82f6623c4859e3c9
+Thrill,mitv://135.148.104.228:19806/14f535a7ec5a4939a67e7165f94ca38e
+HITS Movies,mitv://135.148.104.228:19806/9e0e356e598d4116a9d0f3144516bdfa
+SHOWCASE MOVIES,mitv://135.148.104.228:19806/beabba149e874fc8a5af2b656d596816
+影迷数位电影台,mitv://135.148.104.228:19806/644e9b270003dc3234e2e4fe1d6f0c2b
+美亚电影台(粤语),mitv://135.148.104.228:19806/64550dca000ac0cf4e12b37b0be73efc
+Star Movies Gold,mitv://135.148.104.228:19806/644e9b27000a398734e2e694611871b6
+
 戏剧频道,#genre#
 东森戏剧台,mitv://generationnexxxt.com:19806/d447dc4d5ddf4417941b271bf5da4263
 八大戏剧台,mitv://generationnexxxt.com:19806/844bfa9150ac49c09bbae657b7545df9
@@ -1368,6 +1406,18 @@ EYE TV戏剧台,mitv://generationnexxxt.com:19806/75e45b2ae9bd4a5fa05906c00742d7
 爱尔达影剧台,mitv://generationnexxxt.com:19806/6458c4bf000bb65f5c956b8f6ab30530
 亚洲剧台,mitv://generationnexxxt.com:19806/9d60d2f9f6fa4a368fbe457f8efad108
 Hub娱家,mitv://generationnexxxt.com:19806/645c74d80002def46afd4af57b744ca1
+
+东森戏剧台,mitv://135.148.104.228:19806/d447dc4d5ddf4417941b271bf5da4263
+八大戏剧台,mitv://135.148.104.228:19806/844bfa9150ac49c09bbae657b7545df9
+纬来戏剧台,mitv://135.148.104.228:19806/65109e8fc60e4ebab7a61706f46093b0
+三立戏剧台,mitv://135.148.104.228:19806/3895ac8ec28947a3986879aaaffd940b
+龙华戏剧,mitv://135.148.104.228:19806/955e7726fd614ca882010eedce3fe41f
+靖天戏剧台,mitv://135.148.104.228:19806/3baa9af2462a4ebaaacbff7f0fef72e8
+靖洋戏剧台,mitv://135.148.104.228:19806/1137318be4d5414bbd8dd81b8187154c
+EYE TV戏剧台,mitv://135.148.104.228:19806/75e45b2ae9bd4a5fa05906c00742d7a1
+爱尔达影剧台,mitv://135.148.104.228:19806/6458c4bf000bb65f5c956b8f6ab30530
+Hub娱家,mitv://135.148.104.228:19806/645c74d80002def46afd4af57b744ca1
+亚洲剧台,mitv://135.148.104.228:19806/9d60d2f9f6fa4a368fbe457f8efad108
 
 
 虎牙直播,#genre#
@@ -1403,6 +1453,118 @@ Hub娱家,mitv://generationnexxxt.com:19806/645c74d80002def46afd4af57b744ca1
 康熙王朝,https://epg.112114.xyz/huya/11352940
 康熙王朝,https://www.goodiptv.club/huya/11352940
 康熙王朝,https://www.goodiptv.club/yy/1382736818
+电影_星爷,http://mmitv.top/pltv/huya.php?id=11342412
+电影_英叔,http://mmitv.top/pltv/huya.php?id=11342421
+电影_发哥,http://mmitv.top/pltv/huya.php?id=11342387
+电影_成龙,http://mmitv.top/pltv/huya.php?id=11342386
+电影_王晶,http://mmitv.top/pltv/huya.php?id=11602058
+电影_沈腾,http://mmitv.top/pltv/huya.php?id=11601968
+电影_黄渤,http://mmitv.top/pltv/huya.php?id=11352876
+电影_强森,http://mmitv.top/pltv/huya.php?id=21059581
+电影_漫威,http://mmitv.top/pltv/huya.php?id=11602034
+电影_宇宙,http://mmitv.top/pltv/huya.php?id=11342428
+电影_怪兽,http://mmitv.top/pltv/huya.php?id=21059577
+电影_武侠,http://mmitv.top/pltv/huya.php?id=11342427
+电影_警匪,http://mmitv.top/pltv/huya.php?id=11352886
+电影_罪犯,http://mmitv.top/pltv/huya.php?id=11352962
+电影_枪战,http://mmitv.top/pltv/huya.php?id=21059579
+电影_海盗,http://mmitv.top/pltv/huya.php?id=21059595
+电影_赛车,http://mmitv.top/pltv/huya.php?id=11279247
+电影_推荐,http://mmitv.top/pltv/huya.php?id=11602041
+电影_救援,http://mmitv.top/pltv/huya.php?id=21059594
+电影_热血,http://mmitv.top/pltv/huya.php?id=11352934
+电影_盗墓,http://mmitv.top/pltv/huya.php?id=21059552
+电影_贺岁,http://mmitv.top/pltv/huya.php?id=11601971
+电影_玄幻,http://mmitv.top/pltv/huya.php?id=11342414
+电影_谍战,http://mmitv.top/pltv/huya.php?id=21059585
+电影_战争,http://mmitv.top/pltv/huya.php?id=21059592
+电影_喜剧,http://mmitv.top/pltv/huya.php?id=11352877
+电影_港片,http://mmitv.top/pltv/huya.php?id=11602043
+电影_国产,http://mmitv.top/pltv/huya.php?id=11352973
+电影_周星星,http://mmitv.top/pltv/huya.php?id=11336587
+电影_李连杰,http://mmitv.top/pltv/huya.php?id=11342390
+电影_洪金宝,http://mmitv.top/pltv/huya.php?id=11279251
+电影_梁家辉,http://mmitv.top/pltv/huya.php?id=11342429
+电影_许冠英,http://mmitv.top/pltv/huya.php?id=11601972
+电影_刘德华,http://mmitv.top/pltv/huya.php?id=11342424
+电影_斯坦森,http://mmitv.top/pltv/huya.php?id=21059588
+电影_小鬼头,http://mmitv.top/pltv/huya.php?id=11352963
+电影_八点档,http://mmitv.top/pltv/huya.php?id=880261
+电影_蜘蛛侠,http://mmitv.top/pltv/huya.php?id=21059599
+电影_贺岁片,http://mmitv.top/pltv/huya.php?id=11601986
+电影_功夫片,http://mmitv.top/pltv/huya.php?id=11352941
+电影_黑帮片,http://mmitv.top/pltv/huya.php?id=11336719
+电影_丧尸片,http://mmitv.top/pltv/huya.php?id=21059578
+电影_灾难片,http://mmitv.top/pltv/huya.php?id=11602075
+电影_谍战片,http://mmitv.top/pltv/huya.php?id=21059587
+电影_战争片,http://mmitv.top/pltv/huya.php?id=21059574
+电影_犯罪片,http://mmitv.top/pltv/huya.php?id=11352974
+电影_古装片,http://mmitv.top/pltv/huya.php?id=11336590
+电影_高分动作,http://mmitv.top/pltv/huya.php?id=11352884
+电影_动作电影,http://mmitv.top/pltv/huya.php?id=11602077
+电影_搞笑喜剧,http://mmitv.top/pltv/huya.php?id=11342423
+电影_喜剧专场,http://mmitv.top/pltv/huya.php?id=11602044
+电影_欢笑影院,http://mmitv.top/pltv/huya.php?id=11352894
+电影_不挤影院,http://mmitv.top/pltv/huya.php?id=11352897
+电影_国产悬疑,http://mmitv.top/pltv/huya.php?id=11342395
+电影_快意江湖,http://mmitv.top/pltv/huya.php?id=11342435
+电影_黑帮斗争,http://mmitv.top/pltv/huya.php?id=11342419
+电影_古墓系列,http://mmitv.top/pltv/huya.php?id=11352913
+电影_嫣然影厅,http://mmitv.top/pltv/huya.php?id=11601977
+电影_女神系列,http://mmitv.top/pltv/huya.php?id=11336571
+电影_经典女神,http://mmitv.top/pltv/huya.php?id=11352909
+电影_许氏三杰,http://mmitv.top/pltv/huya.php?id=11602033
+电影_经典港片,http://mmitv.top/pltv/huya.php?id=11352965
+电影_镖行天下,http://mmitv.top/pltv/huya.php?id=11352969
+电影_高能反转,http://mmitv.top/pltv/huya.php?id=11352887
+电影_喜乐影院,http://mmitv.top/pltv/huya.php?id=21059580
+电影_蘑菇影厅,http://mmitv.top/pltv/huya.php?id=11601981
+电影_搞笑恐怖,http://mmitv.top/pltv/huya.php?id=11601960
+电影_死神来了,http://mmitv.top/pltv/huya.php?id=11352903
+电影_变形金刚,http://mmitv.top/pltv/huya.php?id=21059596
+电影_怪兽系列,http://mmitv.top/pltv/huya.php?id=21059554
+搞笑_陈翔六点半,http://mmitv.top/pltv/huya.php?id=11274154
+解说_电影狂人,http://mmitv.top/pltv/huya.php?id=18715610
+解说_鹿哥电影,http://mmitv.top/pltv/huya.php?id=24396360
+解说_斌哥漫说,http://mmitv.top/pltv/huya.php?id=18632116
+解说_续哥说电影,http://mmitv.top/pltv/huya.php?id=24396472
+解说_小川侃电影,http://mmitv.top/pltv/huya.php?id=15870999
+解说_阿钙扒瞎,http://mmitv.top/pltv/huya.php?id=15978172
+解说_阿良说剧,http://mmitv.top/pltv/huya.php?id=20488841
+解说_鱼丸电影,http://mmitv.top/pltv/huya.php?id=16615910
+解说_阿斗说电影,http://mmitv.top/pltv/huya.php?id=13303478
+解说_扁豆看电影,http://mmitv.top/pltv/huya.php?id=16028551
+解说_乌贼说电影,http://mmitv.top/pltv/huya.php?id=16604522
+解说_大象放映室,http://mmitv.top/pltv/huya.php?id=21277391
+解说_科幻梦工场,http://mmitv.top/pltv/huya.php?id=15152155
+解说_亮哥讲电影,http://mmitv.top/pltv/huya.php?id=16144175
+解说_越哥说电影,http://mmitv.top/pltv/huya.php?id=15894162
+解说_小冉看电影,http://mmitv.top/pltv/huya.php?id=17341907
+解说_嫦娥撩电影,http://mmitv.top/pltv/huya.php?id=18201106
+解说_阿翔说电影,http://mmitv.top/pltv/huya.php?id=16868935
+解说_疯狂解说家,http://mmitv.top/pltv/huya.php?id=18366196
+解说_虎妞说电影,http://mmitv.top/pltv/huya.php?id=20343144
+解说_顾久撩电影,http://mmitv.top/pltv/huya.php?id=16422212
+解说_涵哥评电影,http://mmitv.top/pltv/huya.php?id=16865726
+解说_俗哥看电影,http://mmitv.top/pltv/huya.php?id=15452736
+解说_老皮讲电影,http://mmitv.top/pltv/huya.php?id=16968572
+解说_默爷侃电影,http://mmitv.top/pltv/huya.php?id=17204307
+解说_冷君说电影,http://mmitv.top/pltv/huya.php?id=16739452
+解说_老炮说电影,http://mmitv.top/pltv/huya.php?id=15454716
+解说_刘老师说电影,http://mmitv.top/pltv/huya.php?id=20289754
+解说_恐怖电影解说,http://mmitv.top/pltv/huya.php?id=16741179
+剧集_老三国,http://mmitv.top/pltv/huya.php?id=11602081
+剧集_新三国,http://mmitv.top/pltv/huya.php?id=11352944
+剧集_新水浒,http://mmitv.top/pltv/huya.php?id=11342384
+剧集_纪晓岚,http://mmitv.top/pltv/huya.php?id=11342396
+剧集_庆余年,http://mmitv.top/pltv/huya.php?id=11352960
+剧集_雍正王朝,http://mmitv.top/pltv/huya.php?id=11342439
+剧集_士兵突击,http://mmitv.top/pltv/huya.php?id=11342430
+剧集_爱情公寓,http://mmitv.top/pltv/huya.php?id=11336726
+剧集_家有儿女,http://mmitv.top/pltv/huya.php?id=11352872
+剧集_武林外传,http://mmitv.top/pltv/huya.php?id=21059598
+剧集_地下交通站,http://mmitv.top/pltv/huya.php?id=11342433
+剧集_邻里一家亲,http://mmitv.top/pltv/huya.php?id=11342426
 
 斗鱼直播,#genre#
 斗鱼电影4K,http://epg.112114.xyz/douyu/9249162
@@ -1489,6 +1651,45 @@ Hub娱家,mitv://generationnexxxt.com:19806/645c74d80002def46afd4af57b744ca1
 斗鱼电视剧27,http://epg.112114.xyz/douyu/10068957
 斗鱼电视剧28,http://epg.112114.xyz/douyu/308752
 斗鱼电视剧29,http://epg.112114.xyz/douyu/3758762
+
+埋堆堆（港剧）,#genre#
+埋堆堆01,http://mmitv.top/pltv/huya.php?id=23749096
+埋堆堆02,http://mmitv.top/pltv/huya.php?id=23735126
+埋堆堆03,http://mmitv.top/pltv/huya.php?id=23740156
+埋堆堆04,http://mmitv.top/pltv/huya.php?id=23728660
+埋堆堆05,http://mmitv.top/pltv/huya.php?id=23865080
+埋堆堆06,http://mmitv.top/pltv/huya.php?id=23863804
+埋堆堆07,http://mmitv.top/pltv/huya.php?id=23864973
+埋堆堆08,http://mmitv.top/pltv/huya.php?id=23734169
+埋堆堆09,http://mmitv.top/pltv/huya.php?id=23865171
+埋堆堆10,http://mmitv.top/pltv/huya.php?id=23903130
+埋堆堆11,http://mmitv.top/pltv/huya.php?id=23860039
+埋堆堆12,http://mmitv.top/pltv/huya.php?id=23865142
+埋堆堆13,http://mmitv.top/pltv/huya.php?id=23903123
+埋堆堆14,http://mmitv.top/pltv/huya.php?id=23734183
+埋堆堆15,http://mmitv.top/pltv/huya.php?id=23734256
+埋堆堆16,http://mmitv.top/pltv/huya.php?id=23903183
+埋堆堆17,http://mmitv.top/pltv/huya.php?id=23903196
+埋堆堆18,http://mmitv.top/pltv/huya.php?id=23829543
+埋堆堆19,http://mmitv.top/pltv/huya.php?id=23728674
+埋堆堆20,http://mmitv.top/pltv/huya.php?id=23865036
+埋堆堆21,http://mmitv.top/pltv/huya.php?id=23749083
+埋堆堆22,http://mmitv.top/pltv/huya.php?id=23865164
+埋堆堆23,http://mmitv.top/pltv/huya.php?id=23863818
+埋堆堆24,http://mmitv.top/pltv/huya.php?id=23865058
+埋堆堆25,http://mmitv.top/pltv/huya.php?id=23860049
+埋堆堆26,http://mmitv.top/pltv/huya.php?id=23734246
+埋堆堆27,http://mmitv.top/pltv/huya.php?id=23865161
+埋堆堆28,http://mmitv.top/pltv/huya.php?id=23746486
+埋堆堆29,http://mmitv.top/pltv/huya.php?id=23829447
+埋堆堆30,http://mmitv.top/pltv/huya.php?id=23863778
+埋堆堆31,http://mmitv.top/pltv/huya.php?id=23734176
+埋堆堆32,http://mmitv.top/pltv/huya.php?id=23863796
+埋堆堆33,http://mmitv.top/pltv/huya.php?id=23734211
+埋堆堆34,http://mmitv.top/pltv/huya.php?id=23865179
+埋堆堆35,http://mmitv.top/pltv/huya.php?id=23749068
+埋堆堆36,http://mmitv.top/pltv/huya.php?id=23863787
+埋堆堆37,http://mmitv.top/pltv/huya.php?id=23824164
 
 🇨🇳其他频道,#genre#
 凤凰中文,https://live.goodiptv.club/api/sxg.php?id=test1_4000

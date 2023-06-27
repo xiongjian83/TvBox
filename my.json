@@ -17,16 +17,16 @@
   "sites": [
     {"key":"T4","name":"豆瓣荐片","type":4,"api":"https://t4.secan.icu/vod?sites=all&timeout=10","searchable":0,"quickSearch":0,"filterable":1},
     {"key":"Yj1211","name":"网络直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"Live2Vod","name":"电视直播","type":3,"api":"https://gitee.com/robor/bin/raw/master/js/live2vod.js","ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
+    {"key":"Live2Vod","name":"电视直播","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/live2vod.js","ext":"阿剑（港澳台）$https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/live.txt"},
     {"key":"MV_vod","name":"卡拉OK","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
     {"key":"csp_Kunyu77","name":"推荐┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Ddrk","name":"影视┃欧美日韩","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
 
-    {"key":"csp_JRSKan","name":"赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/robor/bin/raw/master/sub/JRSKan.json"},
-    {"key":"csp_Bili","name":"bili哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Bili.json"},
-    {"key":"dr_Douyu","name":"斗鱼直播","type":3,"api":"https://gitee.com/robor/bin/raw/master/js/drpy2.min.js","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/斗鱼直播.js"},
-    {"key":"dr_Huya","name":"虎牙直播","type":3,"api":"https://gitee.com/robor/bin/raw/master/js/drpy2.min.js","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/虎牙直播.js"},
+    {"key":"csp_JRSKan","name":"赛事直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/sub/SsZb.json"},
+    {"key":"csp_Bili","name":"bili哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/sub/Bili.json"},
+    {"key":"dr_Douyu","name":"斗鱼直播","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/斗鱼直播.js"},
+    {"key":"dr_Huya","name":"虎牙直播","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/虎牙直播.js"},
     
     {"key":"影探","name":"秒播┃影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lfytv.cn/api.php/app/"},
     {"key":"酷影","name":"秒播┃酷影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn/api.php/app/"},

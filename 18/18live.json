@@ -16,9 +16,9 @@
   ],
   "flags": ["qq","腾讯","企鹅","iQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
 	"sites": [
-    {"key": "AList","name": "AList","type": 3,"api": "csp_AList","searchable": 1,"changeable": 0,"ext": {"drives": [{"name": "SOD","server": "https://a.sodaz.xyz"}]}},
-    {"key": "量子","name": "量子","type": 0,"api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
-    {"key": "非凡","name": "非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
+    {"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext": {"drives": [{"name":"SOD","server":"https://a.sodaz.xyz"}]}},
+    {"key":"量子","name":"量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
+    {"key":"非凡","name":"非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
     {"key":"玩偶","name":"玩偶","type":3,"api":"csp_Doll","searchable":1,"filterable":1},
     {"key":"18AV","name":"18AV","type":3,"api":"csp_Eighteen","searchable":1,"filterable":1},
     {"key":"Jable","name":"Jable","type":3,"api":"csp_Jable","searchable":1,"filterable":1},

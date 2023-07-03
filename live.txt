@@ -1569,10 +1569,7 @@ EYE TV戏剧台,mitv://135.148.104.228:19806/75e45b2ae9bd4a5fa05906c00742d7a1
 Hub娱家,mitv://135.148.104.228:19806/645c74d80002def46afd4af57b744ca1
 亚洲剧台,mitv://135.148.104.228:19806/9d60d2f9f6fa4a368fbe457f8efad108
 
-🇨🇳IPV6or4K,#genre#
-CHC动作电影,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-CHC高清电影,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC家庭影院,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+🇨🇳数字4K,#genre#
 IPTV淘精彩,http://router.tonyliangli.cn:4022/rtp/239.3.1.178:8001
 IPTV淘电影,http://router.tonyliangli.cn:4022/rtp/239.3.1.250:8001
 IPTV萌宠TV,http://router.tonyliangli.cn:4022/rtp/239.3.1.102:8001
@@ -1623,6 +1620,9 @@ BesTV4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/0000000100000006000000000000
 CHC动作电影,https://live.goodiptv.club/api/sxg.php?id=wqCHCdzdyH265_4000
 CHC高清电影,https://live.goodiptv.club/api/sxg.php?id=lnwsCHC-HDH265_4000
 CHC家庭影院,https://live.goodiptv.club/api/sxg.php?id=jbtygqCHCjtyyH265_4000
+CHC动作电影,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+CHC高清电影,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC家庭影院,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 动漫秀场,https://live.goodiptv.club/api/sxg.php?id=yybb-dmxc-H265_4000
 都市剧场,https://live.goodiptv.club/api/sxg.php?id=yxfydsjcHDH265_4000
 法治天地,https://live.goodiptv.club/api/sxg.php?id=fztx_4000

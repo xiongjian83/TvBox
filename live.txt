@@ -831,7 +831,7 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 内蒙古卫视,http://111.59.63.32:9901/tsfile/live/1038_1.m3u8
 内蒙古卫视,http://125.210.152.19:9120/live/hszx-nmgtv-h264.m3u8
 
-🇭🇰🇲🇴丨港台,#genre#
+🇭🇰丨港台,#genre#
 凤凰资讯,http://113.117.74.20:8081/hls/36/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,https://live.goodiptv.club/api/sxg.php?id=test2_4000
@@ -1005,11 +1005,10 @@ HOY资讯,https://cdn.hklive.tv/hls/78/index.m3u8
 星空卫视,http://120.84.96.23:808/hls/79/index.m3u8
 星空卫视,http://120.84.96.28:808/hls/79/index.m3u8
 星空卫视,http://139.200.84.224:8888/udp/239.93.16.190:9612
-蓮花衛視,http://epg.112114.xyz/lotus
-蓮花衛視,http://anren.live/HK/BiIOU11uLA.m3u8
-蓮花衛視,http://live.cooltv.top/tv/lotus.php
-蓮花衛視,http://107.151.203.111:2209/135/hk.php?id=amlh
-蓮花衛視,http://nettvpro.live/hls/lotustv.php
+莲花卫视,http://epg.112114.xyz/lotus
+莲花卫视,http://anren.live/HK/BiIOU11uLA.m3u8
+莲花卫视,http://live.cooltv.top/tv/lotus.php
+莲花卫视,http://nettvpro.live/hls/lotustv.php
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
 天映频道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941618

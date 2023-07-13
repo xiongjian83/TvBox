@@ -2281,7 +2281,7 @@ BesTV热门剧场,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
 埋堆堆36,http://mmitv.top/pltv/huya.php?id=23863787
 埋堆堆37,http://mmitv.top/pltv/huya.php?id=23824164
 
-📹百视通,#genre#
+🇨🇳百视通,#genre#
 CCTV1,https://bestv.jqlover01.repl.co/bestv.php?id=cctv1hd8m/8000000
 CCTV2,https://bestv.jqlover01.repl.co/bestv.php?id=cctv2hd8m/8000000
 CCTV3,https://bestv.jqlover01.repl.co/bestv.php?id=cctv38m/8000000

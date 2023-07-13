@@ -63,11 +63,13 @@
     {"key":"多线","name":"布雷蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://117.175.212.198:8088/api.php/app/","m3u8ads": "hd.youyhn.com"},
 
 {"key":"csp_XBPQ_追剧兔","name":"💢追剧兔","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/sub/追剧兔.json"},
+{"key":"csp_XBPQ_追剧兔1","name":"💢追剧兔1","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/sub/追剧兔1.json"},
 {"key":"csp_XBPQ_异世琳琅","name":"️💢异世琳琅","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/sub/异世琳琅.json"},
 {"key":"csp_XBPQ_新视觉影院","name":"💢新视觉影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/sub/新视觉影院.json"},
 {"key":"csp_XBPQ_ 暴风资源网","name":"💢暴风资源网","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/sub/暴风资源网.json"},
 {"key":"csp_XBPQ_ 看剧网","name":"💢看剧网","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/sub/看剧网.json"},
 {"key":"csp_XBPQ_大豆高清","name":"💢大豆高清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/sub/大豆高清.json"},
+{"key":"csp_XBPQ_飞云影视","name":"💢飞云影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/sub/飞云影视.json"},
 
 {"key":"csp_XBPQ_南柯","name":"💢南柯","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/sub/南柯.json"},
 {"key":"csp_XBPQ_奇优","name":"️💢奇优","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/sub/奇优.json"},

@@ -1,4 +1,23 @@
 央视频道,#genre#
+CCTV1,http://cfss.cc/ds/bst.php?id=Cf-1
+CCTV2,http://cfss.cc/ds/bst.php?id=Cf-2
+CCTV3,http://cfss.cc/ds/bst.php?id=Cf-3
+CCTV4,http://cfss.cc/ds/bst.php?id=Cf-4
+CCTV5,http://cfss.cc/ds/bst.php?id=Cf-5
+CCTV5+,http://cfss.cc/ds/bst.php?id=Cf-6
+CCTV6,http://cfss.cc/ds/bst.php?id=Cf-7
+CCTV7,http://cfss.cc/ds/bst.php?id=Cf-8
+CCTV8,http://cfss.cc/ds/bst.php?id=Cf-9
+CCTV9,http://cfss.cc/ds/bst.php?id=Cf-10
+CCTV10,http://cfss.cc/ds/bst.php?id=Cf-11
+CCTV-11,http://cfss.cc/ds/bst.php?id=Cf-12
+CCTV12,http://cfss.cc/ds/bst.php?id=Cf-13
+CCTV13,http://cfss.cc/ds/bst.php?id=Cf-14
+CCTV-14,http://cfss.cc/ds/bst.php?id=Cf-15
+CCTV15,http://cfss.cc/ds/bst.php?id=Cf-16
+CCTV16,http://cfss.cc/ds/bst.php?id=Cf-17
+CCTV17,http://cfss.cc/ds/bst.php?id=Cf-18
+
 CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226638/1.m3u8
 CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226667/1.m3u8
 CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/88888888/224/3221226736/1.m3u8
@@ -917,7 +936,6 @@ TVB无线财经,http://162.19.247.76:22222/live/tvbj5/index.m3u8
 TVB无线财经,http://jylt.jdshipin.com:808/hls/86/index.m3u8
 TVB无线财经,http://radius.8866.org:800/hls/83/index.m3u8
 TVB无线财经,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
-TVB J1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153395
 Now 爆谷台,http://ali.hlspull.yximgs.com/live/fa7cdfa58985jjygh858855024.flv
 TVB千禧经典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
 TVB千禧经典台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153503&extension=ts&play_token=XgkUlCEKCM

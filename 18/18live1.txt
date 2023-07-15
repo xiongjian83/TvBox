@@ -1,20 +1,3 @@
-【AV直播】,#genre#
-彩虹e台,mitv://generationnexxxt.com:19806/26193e4740334b55b5ac2a2055439296
-彩虹电影台,mitv://generationnexxxt.com:19806/c0a37d19259d4e8781d405f5a086daa8
-LOOK TV,mitv://generationnexxxt.com:19806/f8c43fd6cbfd47a296bfed61a33135ae
-潘朵啦玩美台,mitv://generationnexxxt.com:19806/e44852f128644c76b6b35cb4953d8e6c
-惊艳成人电影台,mitv://generationnexxxt.com:19806/fbceec270a3c4b61b90afea385ea9112
-松视1台,mitv://generationnexxxt.com:19806/92c2114176b94e119fab676322c582b0
-松视2台,mitv://generationnexxxt.com:19806/d13083f3306544a496d5b5f87ab30281
-PLAYBOY,mitv://generationnexxxt.com:19806/8e5d0fed0a4346e2ab51e46a2bf93b8e
-香蕉台,mitv://generationnexxxt.com:19806/17d2e415f6514da3842f1467fae4e955
-松视3台,mitv://generationnexxxt.com:19806/73a8812084f443c1b3378918ec569471
-JStar极限台,mitv://generationnexxxt.com:19806/c927fff68262429db938f1facd454bf2
-HAPPY,mitv://generationnexxxt.com:19806/3a8a5adf93674ce2b85012f87ad07709
-彩虹K,mitv://generationnexxxt.com:19806/e20dca54b1324dac8e48bfa7b604f1b7
-
-
-
 【AdultIPTV】,#genre#
 Anal,http://live.redtraffic.xyz/anal.m3u8
 Anal,http://cdn.adultiptv.net/anal.m3u8

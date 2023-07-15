@@ -2,8 +2,9 @@
 //本接口无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。
 
 {
-                "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/ncdjaj.jar",          
-	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+                "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/ncdjaj.jar;md5;f17bb5bc83e93945ea737ac673310043",          
+	"spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/XBiubiuLA3.jar;md5;389c60fa426852cd2b35baee5a302285",     
+                 "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 
 	"sites":[
 {"key":"csp_77","name":"👒酷云七七┃本接口免费-🈲贩卖","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},

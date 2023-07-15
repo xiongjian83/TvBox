@@ -7,6 +7,7 @@
 
 	"sites":[
 {"key":"csp_77","name":"👒酷云七七┃本接口免费-🈲贩卖","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"dr_酷云77","name":"酷云77","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/酷云77.js"},
 {"key":"dr_豆瓣","name":"🔍豆瓣","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/drpy.js"},
 {"key":"360","name":"💘360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},

@@ -1024,10 +1024,11 @@ https://t.me/fongmi_release
 /*电视直播聚合*/
 "lives":
 [
+
 	{
-    "name":"自用收集直播",
+    "name":"小三直播",
     "type":0,
-    "url":"https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/自用直播.txt",
+    "url":"https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/live.txt",
     "playerType":1,
     "ua":"okhttp/3.12.13",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",

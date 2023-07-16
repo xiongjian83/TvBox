@@ -1398,6 +1398,8 @@ BesTV热门剧场,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
 王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 王者荣耀-张大仙,https://epg.112114.xyz/huya/688
 王者荣耀-张大仙,https://www.goodiptv.club/huya/688
+雨神,https://epg.112114.xyz/douyu/6512
+雨神,https://www.goodiptv.club/douyu/6512
 周星驰,https://epg.112114.xyz/huya/11342412
 周星驰,https://www.goodiptv.club/huya/11342412
 李连杰,https://epg.112114.xyz/huya/11342390

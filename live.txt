@@ -1813,10 +1813,6 @@ BesTV热门剧场,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
 
 大话西游之宝盒,https://hnzy.bfvvs.com/play/Pdyr3ReQ/index.m3u8
 
-大话西游之娶亲,https://vip.lz-cdn2.com/20220323/295_5da1424a/index.m3u8
-
-大话西游之娶亲,https://jisu-xhzy.com/videos/202206/13/62a682b1a3799d319a021652/fbc119/index.m3u8
-
 大话西游之娶亲,https://hnzy.bfvvs.com/play/DbDR3qel/index.m3u8
 
 大话西游之娶亲,https://hnzy.bfvvs.com/play/Rb48MnbB/index.m3u8
@@ -1829,19 +1825,11 @@ BesTV热门剧场,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
 
 九品芝麻官,https://ukzy.ukubf4.com/20220407/CQI7owSE/index.m3u8
 
-鹿鼎记,https://cdn.dalv666.top/a3u8/89b7b344969f211a05c4ef9ff0d50e9c.m3u8
-
-鹿鼎记,https://v3.dious.cc/20220329/ELzhdaDW/index.m3u8
-
 鹿鼎记,https://hnzy.bfvvs.com/play/PdyrY6eQ/index.m3u8
-
-鹿鼎记2之神龙教,https://cdn.zoubuting.com/20220521/NMUgIjm3/index.m3u8
 
 鹿鼎记2之神龙教,https://hnzy.bfvvs.com/play/1aKvlxeQ/index.m3u8
 
 鹿鼎记2之神龙教,https://ukzy.ukubf4.com/20220404/gfSdtuvX/index.m3u8
-
-武状元苏乞儿,https://m1.taopianplay1.com:43333/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/feb7d963-714f-47a8-8094-714255671600/2244/8d14b20a-3ef9-4b71-aae7-b4548b9a5a06/SD/playlist.m3u8
 
 武状元苏乞儿,https://hnzy.bfvvs.com/play/5eVJ0MeE/index.m3u8
 

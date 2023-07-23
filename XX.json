@@ -3,7 +3,9 @@
 
 {
                 "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/ncdjaj.jar;md5;28c65181aa6ed80e799751c4bca8017b",          
-
+                 
+                 "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/custom_spider.jar;md5;edab3976b24e102336354d445026329f",   
+                 
                  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 	"sites":[
 { "key": "js豆瓣", "name": "🍥┃豆瓣┃", "type": 3, "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/douban.js" },

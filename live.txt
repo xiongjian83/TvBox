@@ -2037,7 +2037,30 @@ BesTV热门剧场,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
 纬来电影,rtmp://pull-f5-spe.ixigua.com/live/xykefkkxchkhkpfkxcvjwpejyptepjkxftvnxvskklkhvkfhwlky
 HBO,rtmp://pull-f5-spe.ixigua.com/live/xykmkklkpwkjctjfhjvkjkjuklvcbeywekweefshkfhhkskkcxhbo
 CINEMAX,rtmp://pull-f5-spe.ixigua.com/live/xykkekcxlvofbkbvbkkkbvyvblcfybkxjbckcfjvsfcbkbnktcknemkx
-AXN,rtmp://pull-f5-spe.ixigua.com/live/xykkekcxlvofbkbvbkkkfkvkhslcfybkssxskbckcfjvsfcbkbnktykxn
+
+壹电视新闻台,mitv://generationnexxxt.com:19806/f17f02c60650410fbecf35ee817228aa
+年代新闻,mitv://generationnexxxt.com:19806/a06323c71a534f5080a099224d29fe19
+now新闻台,mitv://generationnexxxt.com:19806/eb7c688010c04448a100c8ee580c7650
+东森新闻台,mitv://generationnexxxt.com:19806/f9a85e8e15c4455db657b542433fdd73
+中天新闻台,mitv://generationnexxxt.com:19806/91ccadc82fbf468bbc4a566ded05854e
+民视新闻台,mitv://generationnexxxt.com:19806/409598b6976d40ae910b106737a9cff6
+三立新闻台,mitv://generationnexxxt.com:19806/8c97a4c5bb104866adc4c483b59f0543
+TVBS新闻台,mitv://generationnexxxt.com:19806/c7c90c4ae22d4b40bb11245d092a91a6
+中视新闻台,mitv://generationnexxxt.com:19806/2a1602ea48c14bca864aef59f46bb641
+寰宇新闻台,mitv://generationnexxxt.com:19806/61bd2b78579a497eb8031bd9936aefd8
+华视新闻,mitv://generationnexxxt.com:19806/010e5852399b4cd3b2d81cc41642ca2b
+非凡新闻台,mitv://generationnexxxt.com:19806/13b84b10435d457f9f0e1166854074b1
+HBO,mitv://generationnexxxt.com:19806/8cfe0b79b15646bdb56b5cfac4de3d6e
+东森洋片台,mitv://generationnexxxt.com:19806/5b6deb0d182c4962b66e709777c54e84
+AXN,mitv://generationnexxxt.com:19806/a61594ab252e4daea32355a520d2bca4
+好莱坞电影台,mitv://generationnexxxt.com:19806/05cb694ba11848af8f7084217ddeb9cb
+CINEMAX,mitv://generationnexxxt.com:19806/55dad4c7223b40708a6f4115d3cc7cf9
+纬来育乐台,mitv://generationnexxxt.com:19806/26fcc9192030453f9fa71db3ea0e37ae
+HBO强档巨献,mitv://generationnexxxt.com:19806/1bb473a5fe3c4feda0eb06c69eed600d
+HBO原创巨献,mitv://generationnexxxt.com:19806/204ee05399b54af1bdd27f54ee46d5b9
+美亚电影台HD,mitv://generationnexxxt.com:19806/68d0b9b4084c49779ccb4fb415309319
+龙华电影,mitv://generationnexxxt.com:19806/643357e017d04a9a8b85a3837e0d796a
+星卫HD电影台,mitv://generationnexxxt.com:19806/0513b0a4b6ef4024828b7e310e4eb089
 
 
 🇨🇳网络频道,#genre#

@@ -1,6 +1,4 @@
 ⚛️  央视频道,#genre#
-
-
 CCTV1,http://685123.xyz:4022/udp/239.61.4.176:1025
 CCTV1,http://685123.xyz:4022/udp/239.61.4.27:1025
 CCTV1,http://685123.xyz:4022/udp/239.61.5.163:1025
@@ -969,8 +967,7 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
 凤凰香港,http://sc2022.stream-link.org/tv2306.php?id=h17
 凤凰香港,http://171.110.62.181:8181/tsfile/live/1071_1.m3u8
-翡翠台,http://nas.jdshipin.com:8801/gudoufc.php?id=1350_4500&/PLTV/hls.smil.m3u8
-翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
+翡翠台,http://39.106.73.140/g.php?id=1350_4500&/PLTV/hls.smil.m3u8
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://120.132.122.244:59847/hls/98/index.m3u8
 翡翠台,http://120.132.122.244:59847/hls/80/index.m3u8
@@ -991,7 +988,6 @@ J2,https://sc2022.stream-link.org/tv2306.php?id=h03
 J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
 J2,https://live.astradamy.com/tvbj2/index.m3u8
 J2,http://baidu.douyincdn.freetvtv.com/j22/m2.m3u8
-明珠台,http://nas.jdshipin.com:8801/gudoumz.php?id=1351_4500&/PLTV/hls.smil.m3u8
 明珠台,http://39.106.73.140/g.php?id=1351_4500&/PLTV/hls.smil.m3u8
 明珠台,http://pull-l3-cny.douyincdn.com/third/stream-81c6196a626a87b4bc7a81d032b0bf7f.m3u8
 明珠台,http://120.132.122.244:59847/hls/84/index.m3u8
@@ -1298,6 +1294,9 @@ TVBS新闻,https://www.5209.eu.org/live?rid=2mCSYvcfhtc
 
 🇨🇳数字4K,#genre#
 CHC动作电影,http://685123.xyz:4022/udp/239.61.4.169:1025
+CHC动作电影,http://www.51nas.top:4022/udp/239.81.0.239:4056
+CHC高清电影,http://www.51nas.top:4022/udp/239.81.0.240:4056
+CHC家庭影院,http://www.51nas.top:4022/udp/239.81.0.238:4056
 CHC动作电影,https://live.goodiptv.club/api/sxg.php?id=wqCHCdzdyH265_4000
 CHC高清电影,https://live.goodiptv.club/api/sxg.php?id=lnwsCHC-HDH265_4000
 CHC家庭影院,https://live.goodiptv.club/api/sxg.php?id=jbtygqCHCjtyyH265_4000

@@ -1096,9 +1096,9 @@ RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
 有线财经,http://61.10.2.67/live_freedirect/freehd208_h.live/playlist.m3u
 有线财经,http://61.10.2.151/live_freedirect/freehd208_h.live/playlist.m3u
 有线财经,http://61.10.2.144/live_freedirect/freehd208_h.live/playlist.m3u
-国际财经,http://sc2022.stream-link.org/tv2306.php?id=h12
-国际财经,http://sc2022.stream-link.org/tv2306.php?id=h12
 国际财经,https://live.astradamy.com/hk76/index.m3u8
+国际财经,http://sc2022.stream-link.org/tv2306.php?id=h12
+国际财经,http://sc2022.stream-link.org/tv2306.php?id=h13
 HOY TV,http://sc2022.stream-link.org/tv2306.php?id=h14
 HOY TV,http://sc2022.stream-link.org/tv2306.php?id=h15
 HOY TV,https://live.astradamy.com/hk77/index.m3u8
@@ -1110,11 +1110,10 @@ HOY资讯,https://pull-f5-spe.ixigua.com/live/xyzzezcxlvofbncvshhzszcvnjfncvbjzp
 HOY资讯,http://sc2022.stream-link.org/tv2306.php?id=h16
 HOY资讯,,https://live.astradamy.com/hk78/index.m3u8
 HOY资讯,https://cdn.hklive.tv/hls/78/index.m3u8
-星空音乐,http://xcm13.f3322.net:4000/udp/239.93.1.7:2194
+星空卫视,http://120.236.57.77:9901/tsfile/live/1106_1.m3u8
 星空卫视,http://113.117.74.21:8081/hls/87/index.m3u8
 星空卫视,http://113.117.74.22:8081/hls/87/index.m3u8
 星空卫视,http://113.117.74.24:8081/hls/87/index.m3u8
-星空卫视,http://120.236.57.77:9901/tsfile/live/1106_1.m3u8
 星空卫视,http://120.84.96.82:808/hls/79/index.m3u8
 星空卫视,http://120.84.96.87:808/hls/79/index.m3u8
 星空卫视,http://120.84.96.73:808/hls/79/index.m3u8
@@ -1136,13 +1135,8 @@ HOY资讯,https://cdn.hklive.tv/hls/78/index.m3u8
 天映频道,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941618&extension=ts&play_token=vFR5CkmzbA
 天映频道,http://103.112.191.9:880/LAOSAT1029.m3u8
 天映经典CCM,http://pull-f5-spe.ixigua.com/live/xyzvcnyjszfzsetzzfcvbcjtszzfvxcvsznmbnlzzhzznmyhszzftyjz.flv
-天映经典CCM,http://171.108.239.112:8181/tsfile/live/1009_1.m3u8
-天映经典CCM,,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571182&extension=ts
 天映经典CCM,http://120.84.96.138:808/hls/85/index.m3u8
-天映经典CCM,http://107.151.203.111:2209/135/hk.php?id=ccmt
-天映经典CCM,http://210.210.155.35/qwr9ew/s/s31/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCM_Celestial_Classic_MV-
-天映经典CCM,http://120.84.96.82:808/hls/85/index.m3u8
-天映经典CCM,http://120.84.96.103:808/hls/85/index.m3u8
+天映经典CCM,,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571182&extension=ts
 天映经典CCM,http://162.19.247.76:22222/live/tyjd/index.m3u8
 八大第一台,http://123.51.230.108:18539/.m3u8
 八大第一台,http://61.221.81.93:8078/hls/38/80/gtvfirst.m3u8
@@ -1309,7 +1303,6 @@ ELEVEN2,rtmp://119.81.124.89/sat/tv741
 台湾体育2,rtmp://9sv2.mine.nu/sat/md051
 台湾体育3,rtmp://9sv2.mine.nu/sat/md021
 台湾体育4,rtmp://9sv2.mine.nu/sat/md041
-东森新闻,https://www.5209.eu.org/live?rid=khuZW5GdBXo
 中视新闻,https://www.5209.eu.org/live?rid=TCnaIE_SAtM
 中天新闻,https://www.5209.eu.org/live?rid=oIgbl7t0S_w
 寰宇新闻,https://www.5209.eu.org/live?rid=B7Zp3d6xXWw

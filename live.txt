@@ -962,6 +962,7 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 凤凰香港,http://113.117.74.20:8081/hls/38/index.m3u8
 凤凰香港,http://113.117.74.32:8081/hls/38/index.m3u8
+凤凰香港,http://171.110.62.27:8181/tsfile/live/1071_1.m3u8
 凤凰香港,https://cntv.sbs/fs?id=fhhk&auth=2307100804
 凤凰香港,http://120.84.96.138:808/hls/81/index.m3u8
 凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
@@ -1028,6 +1029,7 @@ TVB千禧经典台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:
 香港 測試002,http://sc2022.stream-link.org/tv2306.php?id=c02
 香港 測試003,http://sc2022.stream-link.org/tv2306.php?id=c03
 香港 測試004,http://sc2022.stream-link.org/tv2306.php?id=c04
+TVB星河(粤语),http://171.110.62.27:8181/tsfile/live/1004_1.m3u8
 TVB星河(粤语),http://171.108.239.112:8181/tsfile/live/1005_1.m3u8
 TVB星河(粤语),http://103.112.191.9:880/LAOSAT1092.m3u8
 TVB星河(粤语),http://120.236.57.77:9901/tsfile/live/1005_1.m3u8
@@ -1114,14 +1116,12 @@ HOY资讯,https://cdn.hklive.tv/hls/78/index.m3u8
 莲花卫视,http://nettvpro.live/hls/lotustv.php
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
-天映频道,rtmp://pull-f5-spe.ixigua.com/live/xykkekcxlvofbkbvnkksfkvbhfhcvxcvkskbcvkfjvksfcbkbnktypk
 天映频道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941618
 天映频道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=571218
 天映频道,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941618&extension=ts&play_token=kr082FQvzN
 天映频道,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571218&extension=ts&play_token=HnxccIWiNo
 天映频道,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941618&extension=ts&play_token=vFR5CkmzbA
 天映频道,http://103.112.191.9:880/LAOSAT1029.m3u8
-天映经典CCM,rtmp://pull-f5-spe.ixigua.com/live/xykvcnyjskfksetkkfcvbcjtskkfvxcvsknmbnlkkhkknmyhskkftyjk
 天映经典CCM,http://171.108.239.112:8181/tsfile/live/1009_1.m3u8
 天映经典CCM,,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571182&extension=ts
 天映经典CCM,http://120.84.96.138:808/hls/85/index.m3u8
@@ -1136,24 +1136,19 @@ HOY资讯,https://cdn.hklive.tv/hls/78/index.m3u8
 八大综合台,http://61.221.81.93:8078/hls/38/80/gtv.m3u8
 八大综合台,http://61.221.81.93:8530/hls/65/807/ch843.m3u8
 八大戏剧,http://61.221.81.93:8078/hls/38/80/gtvdrama.m3u8
-星卫电影,rtmp://pull-f5-spe.ixigua.com/live/xykkpxnmkfhkuowekckxhvklfkffkjwpoehcopvjkokkfxwky
 星卫电影,http://103.112.191.9:880/LAOSAT1082.m3u8
 卫视电影,http://103.112.191.9:880/LAOSAT1085.m3u8
-HBO,rtmp://pull-f5-spe.ixigua.com/live/xykmkklkpwkjctjfhjvkjkjuklvcbeywekweefshkfhhkskkcxhbo
 HBO,http://61.221.81.93:8078/hls/23/80/hbo.m3u8
 StarWorld,http://61.221.81.93:8078/hls/11/80/fox.m3u8
-Cinemax,rtmp://pull-f5-spe.ixigua.com/live/xykkekcxlvofbkbvbkkkbvyvblcfybkxjbckcfjvsfcbkbnktcknemkx
 Cinemax,http://61.221.81.93:8078/hls/22/80/cinemax.m3u8
-AXN,rtmp://pull-f5-spe.ixigua.com/live/xykkekcxlvofbkbvbkkkfkvkhslcfybkssxskbckcfjvsfcbkbnktykxn
 Discovery,http://61.221.81.93:8078/hls/31/80/discovery.m3u8
-东森电影,rtmp://pull-f5-spe.ixigua.com/live/xykkowjxnkltjkhecvxckkekkekyhkjyjuokuomjfkhkkkjksky
 东森电影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
+东森电影,http://171.110.62.27:8181/tsfile/live/1075_1.m3u8
 东森电影,http://103.112.191.9:880/LAOSAT1017.m3u8
 东森电影,http://120.84.96.138:808/hls/32/index.m3u8
 东森电影,http://171.110.62.181:8181/tsfile/live/1075_1.m3u8
 东森电影,http://107.151.203.111:2209/135/hk.php?id=dsdyt
 东森电影,http://116.11.141.144:8181/tsfile/live/1222_1.m3u8
-东森洋片,rtmp://pull-f5-spe.ixigua.com/live/xykkmkptjkkxfkwetkvbkstkkksutyhjkhflkkfhfhykwksyp
 东森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
 东森洋片,http://103.112.191.9:880/LAOSAT1018.m3u8
 东森洋片,http://120.84.96.138:808/hls/33/index.m3u8
@@ -1163,13 +1158,12 @@ Discovery,http://61.221.81.93:8078/hls/31/80/discovery.m3u8
 东森洋片,http://171.110.62.235:8181/tsfile/live/1133_1.m3u8
 东森洋片,http://120.84.96.138:808/hls/33/index.m3u8
 东森洋片,http://120.84.96.89:808/hls/33/index.m3u8
-龙祥时代,rtmp://pull-f5-spe.ixigua.com/live/xykmkloehkbkkkpvboyjetkewskhthkyukfkwetykkkhflxsk
+龙祥时代http://171.110.62.27:8181/tsfile/live/1077_1.m3u8
 龙祥时代,http://103.112.191.9:880/LAOSAT1084.m3u8
 龙祥时代,http://107.151.203.111:2209/135/hk.php?id=lxsdt
 龙祥时代,http://120.84.96.138:808/hls/35/index.m3u8
 龙祥时代,http://116.11.141.144:8181/tsfile/live/1205_1.m3u8
 龙祥时代,http://120.84.96.113:808/hls/35/index.m3u8
-好莱坞电影,rtmp://pull-f5-spe.ixigua.com/live/xykkmpkkweuykskkckvskfklkvkfhfkykuekfkhkwklkcmbhlwky
 好莱坞电影,http://120.84.96.138:808/hls/24/index.m3u8
 好莱坞电影,http://116.11.141.144:8181/tsfile/live/1203_1.m3u8
 好莱坞电影,http://120.84.96.89:808/hls/24/index.m3u8
@@ -1965,45 +1959,69 @@ BesTV热门剧场,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
 
 师兄撞鬼,https://v3.dious.cc/20220329/VxLeWBv1/index.m3u8
 
-🇨🇳测试频道,#genre#
-龙祥时代,rtmp://pull-f5-spe.ixigua.com/live/xykmkloehkbkkkpvboyjetkewskhthkyukfkwetykkkhflxsk
-好莱坞电影,rtmp://pull-f5-spe.ixigua.com/live/xykkmpkkweuykskkckvskfklkvkfhfkykuekfkhkwklkcmbhlwky
-美亚电影,rtmp://pull-f5-spe.ixigua.com/live/xykvcbfyhbxcvswhjkhjlmcbkyukfhkkfkskhnfkhkfkbvmyky
-东森电影,rtmp://pull-f5-spe.ixigua.com/live/xykkowjxnkltjkhecvxckkekkekyhkjyjuokuomjfkhkkkjksky
-东森洋片,rtmp://pull-f5-spe.ixigua.com/live/xykkmkptjkkxfkwetkvbkstkkksutyhjkhflkkfhfhykwksyp
-天映频道,rtmp://pull-f5-spe.ixigua.com/live/xykkekcxlvofbkbvnkksfkvbhfhcvxcvkskbcvkfjvksfcbkbnktypk
-天映经典,rtmp://pull-f5-spe.ixigua.com/live/xykvcnyjskfksetkkfcvbcjtskkfvxcvsknmbnlkkhkknmyhskkftyjk
-星卫电影,rtmp://pull-f5-spe.ixigua.com/live/xykkpxnmkfhkuowekckxhvklfkffkjwpoehcopvjkokkfxwky
-龙华戏剧,rtmp://pull-f5-spe.ixigua.com/live/xyksfbxcvksfkjhnfcvbsxkjnksvmvbskkkfjhyukmkbvnkslhxj
-龙华经典,rtmp://pull-f5-spe.ixigua.com/live/xyksfbxcvksfkjhnfcvbsxkjnksvmbnfkukfjhyukmkbvnkslhjk
-纬来电影,rtmp://pull-f5-spe.ixigua.com/live/xykefkkxchkhkpfkxcvjwpejyptepjkxftvnxvskklkhvkfhwlky
-HBO,rtmp://pull-f5-spe.ixigua.com/live/xykmkklkpwkjctjfhjvkjkjuklvcbeywekweefshkfhhkskkcxhbo
-CINEMAX,rtmp://pull-f5-spe.ixigua.com/live/xykkekcxlvofbkbvbkkkbvyvblcfybkxjbckcfjvsfcbkbnktcknemkx
-
-壹电视新闻台,mitv://generationnexxxt.com:19806/f17f02c60650410fbecf35ee817228aa
-年代新闻,mitv://generationnexxxt.com:19806/a06323c71a534f5080a099224d29fe19
-now新闻台,mitv://generationnexxxt.com:19806/eb7c688010c04448a100c8ee580c7650
-东森新闻台,mitv://generationnexxxt.com:19806/f9a85e8e15c4455db657b542433fdd73
-中天新闻台,mitv://generationnexxxt.com:19806/91ccadc82fbf468bbc4a566ded05854e
-民视新闻台,mitv://generationnexxxt.com:19806/409598b6976d40ae910b106737a9cff6
-三立新闻台,mitv://generationnexxxt.com:19806/8c97a4c5bb104866adc4c483b59f0543
-TVBS新闻台,mitv://generationnexxxt.com:19806/c7c90c4ae22d4b40bb11245d092a91a6
-中视新闻台,mitv://generationnexxxt.com:19806/2a1602ea48c14bca864aef59f46bb641
-寰宇新闻台,mitv://generationnexxxt.com:19806/61bd2b78579a497eb8031bd9936aefd8
-华视新闻,mitv://generationnexxxt.com:19806/010e5852399b4cd3b2d81cc41642ca2b
-非凡新闻台,mitv://generationnexxxt.com:19806/13b84b10435d457f9f0e1166854074b1
-HBO,mitv://generationnexxxt.com:19806/8cfe0b79b15646bdb56b5cfac4de3d6e
-东森洋片台,mitv://generationnexxxt.com:19806/5b6deb0d182c4962b66e709777c54e84
-AXN,mitv://generationnexxxt.com:19806/a61594ab252e4daea32355a520d2bca4
-好莱坞电影台,mitv://generationnexxxt.com:19806/05cb694ba11848af8f7084217ddeb9cb
-CINEMAX,mitv://generationnexxxt.com:19806/55dad4c7223b40708a6f4115d3cc7cf9
-纬来育乐台,mitv://generationnexxxt.com:19806/26fcc9192030453f9fa71db3ea0e37ae
-HBO强档巨献,mitv://generationnexxxt.com:19806/1bb473a5fe3c4feda0eb06c69eed600d
-HBO原创巨献,mitv://generationnexxxt.com:19806/204ee05399b54af1bdd27f54ee46d5b9
-美亚电影台HD,mitv://generationnexxxt.com:19806/68d0b9b4084c49779ccb4fb415309319
-龙华电影,mitv://generationnexxxt.com:19806/643357e017d04a9a8b85a3837e0d796a
-星卫HD电影台,mitv://generationnexxxt.com:19806/0513b0a4b6ef4024828b7e310e4eb089
-
+🇨🇳测试港台频道,#genre#
+凤凰中文,https://pull-f5-spe.ixigua.com/live/xyztvzzpcpvuezlzyzzyfzoxvchzwhzwozzzhzzlszhbzfhzw.flv
+凤凰资讯,https://pull-f5-spe.ixigua.com/live/xyztvzzpcpvuezlzyzzyfzoxvchzwhzwozzzhzzlszhbzfhzx.flv
+翡翠台,https://pull-f5-spe.ixigua.com/live/xyzfhwwzpthzyztzzzxcxbfhzzfzvhjtzjvbtvzszxzfszzcvbctvbfc.flv
+PEARL,https://pull-f5-spe.ixigua.com/live/xyztcfzhvjzzxcojwoetzmncthvbstyreyhbnnvbjzzwthzyztvbmz.flv
+J2,https://pull-f5-spe.ixigua.com/live/xyzfhwohjpthzyfiplhjftuzfbvjimhjznbzszbcvxzfzsehbvbztvbj2.flv
+TV星河,https://pull-f5-spe.ixigua.com/live/xyzzzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzjtvbxh.flv
+无线新闻台,https://pull-f5-spe.ixigua.com/live/xyzfhwzpthlzzszszzbvjlzjmnbzhjhyzyztvbwxxw.flv
+财经体育资讯台,https://pull-f5-spe.ixigua.com/live/xyzfhwylwpthzyzzfzxvzlmnjuhyzmtvbwxcj.flv
+VIUtv,https://pull-f5-spe.ixigua.com/live/xyzfhtzznzzjljzluzobnmzzhnbbmjzlpthzyzvzutv.flv
+VIUTV6,https://pull-f5-spe.ixigua.com/live/xyzfhwzptjzbehztyhbvhfzcvszzfyztvzutvszx.flv
+RHK31,https://pull-f5-spe.ixigua.com/live/xyzhpzjthpthcvhnzuzulsfzhcvbzuyhbnzyzthz31.flv
+RHK32,https://pull-f5-spe.ixigua.com/live/xyzzpzzecxvzzuszfzzfjhnbthzzszfwjtncyzthz32.flv
+HOY资讯台,https://pull-f5-spe.ixigua.com/live/xyzzezcxlvofbncvshhzszcvnjfncvbjzpeyzhxchzszzhzezzzyxxw.flv
+有线新闻,https://pull-f5-spe.ixigua.com/live/xyzzezcszzvzzzzzznmcvhtzhcvshhzpeyzhxchzszzhzezzzyxzb.flv
+民视,https://pull-f5-spe.ixigua.com/live/xyzphzwfpzwvnzfjlsetfzzzzszsftewzhvcbzzfjzuolzbms.flv
+中视,https://pull-f5-spe.ixigua.com/live/xyzzphfwnmfjczfxcvhzzwzfbfzjyuzznmfcbsfzeztyhsjzs.flv
+华视,https://pull-f5-spe.ixigua.com/live/xyzpjymvcznzzzcvbcvbztyzzzffcfzvzftozzbvczfejnhs.flv
+台视,https://pull-f5-spe.ixigua.com/live/xyzptezfsxlvczjewzzzpszfvvxczzzpfossvbxcfzztzvxzhlts.flv
+TVBS新闻台,https://pull-f5-spe.ixigua.com/live/xyzzpzovjxzozfjezojszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
+TVBS新闻,https://pull-f5-spe.ixigua.com/live/xyzzozwhzxozhzzzlfhzlzszcnxzfvbhzjzwzfzzjsswvtvbsxw.flv
+民视新闻台,https://pull-f5-spe.ixigua.com/live/xyzcnbvzfhjzuzzvcbnzftuzscxzfzezyhzzvzfmsxw.flv
+中视新闻台,https://pull-f5-spe.ixigua.com/live/xyzpnvzyjstujzbszcvbfzzzszfzszwetymzljhjuzocnzsxw.flv
+台视新闻台,https://pull-f5-spe.ixigua.com/live/xyznczztzzutzlzcvbcvntzzzsfwetzfvcbcxvzbzfflvcztsxw.flv
+寰宇新闻台,https://pull-f5-spe.ixigua.com/live/xyzphxehmffzuxcxzvezezyhmnzzxzzhzjhnzbnxfjzfhyxw.flv
+中天新闻台,https://pull-f5-spe.ixigua.com/live/xyzpzztvvzzzyzuuzzfvbscvzjztwzfszzszzzcvuyzemzeztxw.flv
+年代新闻台,https://pull-f5-spe.ixigua.com/live/xyzozevjyscvbujlozlnsfzewtzujvbbzxfznzlvczjzjnzxw.flv
+东森LIVE,https://pull-f5-spe.ixigua.com/live/xyzmhzttuzzcvbyzuozjzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
+三立新闻,https://pull-f5-spe.ixigua.com/live/xyzhmcyoywzzubzfzfvchtzuzxczxvcbszfsxcbmzsllivexw.flv
+非凡新闻,https://pull-f5-spe.ixigua.com/live/xyzsztnfzzozjcbfcxvzfuuzzwezzzszyuhhjzszhzynffxw.flv
+壹新闻,https://pull-f5-spe.ixigua.com/live/xyzmzfoyzvzsjvbnweztzuzzxzcvfzzszfhfzjjzzlhtbchyxw.flv
+HBO,https://pull-f5-spe.ixigua.com/live/xyzmzzlzpwzjctjfhjvzjzjuzlvcbeywezweefshzfhhzszzcxhbo.flv
+天映频道,https://pull-f5-spe.ixigua.com/live/xyzzezcxlvofbzbvnzzsfzvbhfhcvxcvzszbcvzfjvzsfcbzbnztypz.flv
+CCM,http://pull-f5-spe.ixigua.com/live/xyzvcnyjszfzsetzzfcvbcjtszzfvxcvsznmbnlzzhzznmyhszzftyjz.flv
+THRILL,https://pull-f5-spe.ixigua.com/live/xyzecvzwezzosvozzzszzzjezfzxzuczshvzcszzfcztchplzy.flv
+龙华洋片,https://pull-f5-spe.ixigua.com/live/xyzsfbxcvzsfzjhnfcvbsxzjnzsvmbnfzuzfjhyuzmzbvnzslhjz.flv
+龙华戏剧,https://pull-f5-spe.ixigua.com/live/xyzsfbxcvzsfzjhnfcvbsxzjnzsvmvbszzzfjhyuzmzbvnzslhxj.flv
+东森电影,https://pull-f5-spe.ixigua.com/live/xyzzowjxnzltjzhecvxczzezzezyhzjyjuozuomjfzhzzzjzszy.flv
+东森洋片,https://pull-f5-spe.ixigua.com/live/xyzzmzptjzzxfzwetzvbzstzzzsutyhjzhflzzfhfhyzwzsyp.flv
+龙祥时代,https://pull-f5-spe.ixigua.com/live/xyzmzloehzbzzzpvboyjetzewszhthzyuzfzwetyzzzhflxsz.flv
+AXN,https://pull-f5-spe.ixigua.com/live/xyzzezcxlvofbzbvbzzzfzvzhslcfybzssxszbczcfjvsfcbzbnztyzxn.flv
+星卫电影,https://pull-f5-spe.ixigua.com/live/xyzzpxnmzfhzuowezczxhvzlfzffzjwpoehcopvjzozzfxwzy.flv
+美亚电影,https://pull-f5-spe.ixigua.com/live/xyzvcbfyhbxcvswhjzhjlmcbzyuzfhzzfzszhnfzhzfzbvmyzy.flv
+环球,https://pull-f5-spe.ixigua.com/live/xyzzezcxlvofbzbvnzzsfzvbhfhcvbcvzfjvbnzczzszzzezztspz.flv
+NOW新闻,https://pull-f5-spe.ixigua.com/live/xyzyvzozmfjyzzjzjzhjnowspzzlfzhztycxzfzzoztspzzmenowxw.flv
+好莱坞电影,https://pull-f5-spe.ixigua.com/live/xyzzmpzzweuyzszzczvszfzlzvzfhfzyzuezfzhzwzlzcmbhlwzy.flv
+CINEMAX,https://pull-f5-spe.ixigua.com/live/xyzzezcxlvofbzbvbzzzbvyvblcfybzxjbczcfjvsfcbzbnztcznemzx.flv
+ELEVEN1,https://pull-f5-spe.ixigua.com/live/xyzzzozzxcvyhzszhtezwfhfvzzjvbjzszzzhzlzszvcelevenj.flv
+WILD,https://pull-f5-spe.ixigua.com/live/xyzxcvbpzyhvzbvnzzsfzvbhfhczhbnzszbcvzfjvzsfcbzbnzlys.flv
+博斯高球,https://pull-f5-spe.ixigua.com/live/xyzzmxzcvpzozzjezhjbcxhvzsztzhwozzfszzzhvcxvhbszzyz.flv
+博斯高球2,https://pull-f5-spe.ixigua.com/live/xyztvzzpcpvuezlzyzzyfzoxvchzwhzwozzzhzzlszhbzbszzez.flv
+全佳,https://pull-f5-spe.ixigua.com/live/xyzzezcxlvofbzbvnzzsfzvbhslcfvxcvzszbcvzfjvzsfcbzbnztyqj.flv
+小太阳,https://pull-f5-spe.ixigua.com/live/xyzzezcxlvofbzbvbzzzfzvzhslcfvxcvxszbcvzfjvsfcbzbnztyxty.flv
+惊辣台,https://pull-f5-spe.ixigua.com/live/xyzzezcxlvofbncvshhzszcvnjfncvbjzpxyzhzchzszbhzezzzvboo.flv
+astro，http://api.huanqiuzhibo.cn/hklive/4492.php?id=71,https://pull-f5-spe.ixigua.com/live/xyzyvzozmfjycvbzcxlzjzfxjcvnzvjwspzcophzfvztycxzpzzmenhlfc.flv
+ELTA1,https://pull-f5-spe.ixigua.com/live/xyzzezpzxcvzpzozjxcvjzozjzpoejhopzfvxczhetouhzzvzzztyy.flv
+ELTA2,https://pull-f5-spe.ixigua.com/live/xyzcxvpzetzjcxozvmzlzztzwzpohujscbcxozcvmnfuzlbhhztye.flv
+ELTA3,https://pull-f5-spe.ixigua.com/live/xyzcxvpzeyzjcxozvmzlzbtzwzhozujscbcxozcvmnfuzlbhhztys.flv
+纬来体育,https://pull-f5-spe.ixigua.com/live/xyzefzzxchzhzpfzxcvjwpejypwepjzxfcvnxvszzlzhszfhwlty.flv
+镜新闻,https://pull-f5-spe.ixigua.com/live/xyzexcvzzocvuozxucfjexzpzzyxchvlzxzfezhcelethzzjxw.flv
+三立,https://pull-f5-spe.ixigua.com/live/xyzhmcyoywzzubzfzfvchtcbszzzvfzhncvnvbsxcbmzsllive.flv
+不是,https://pull-f5-spe.ixigua.com/live/xyzxcvbpzyhvzcvnzzsfvvbhfzczhbnzszbcvzftzzsfcbzbnzgjzl.flv
+动物星球,https://pull-f5-spe.ixigua.com/live/xyzxcvbpzyhvzcvnzzsfzvbhfhczhbnzszbcvzfjvzsfcbzbnzzwxz.flv
 
 🇨🇳网络频道,#genre#
 NewTv超级电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8

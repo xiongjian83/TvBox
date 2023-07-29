@@ -146,7 +146,7 @@
 {"key":"非凡","name":"非凡","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
 {"key":"直播转点播","name":"电视直播","type":3,"api":"http://我不是.肥猫.love:63/JS/直播转点播2.js","ext":"http://我不是.肥猫.love:63/lives/直播仓.json","changeable":0},
 
-
+{"key":"csp_XBPQ_音乐现场","name":"💢音乐现场","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/sub/音乐现场.json"},
 {"key":"csp_XBPQ_电影港","name":"💢电影港","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/sub/电影港.json"},
 {"key":"csp_XBPQ_追剧兔","name":"💢追剧兔","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/sub/追剧兔.json"},
 {"key":"csp_XBPQ_冷曦影视","name":"💢冷曦影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/sub/冷曦影视.json"},

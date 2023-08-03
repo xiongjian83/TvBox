@@ -1222,8 +1222,10 @@ HOY资讯,https://cdn.hklive.tv/hls/78/index.m3u8
 八大第一台,http://123.51.230.108:18539/.m3u8
 八大第一台,http://61.221.81.93:8078/hls/38/80/gtvfirst.m3u8
 八大第一台,http://61.221.81.93:8531/hls/65/807/ch843.m3u8
+八大综合台,https://cdn.ggapk.net/live/tv?id=8ba25qo0jTPHf9oN1NixschZc0HtDqTIK0vdxfSMXguusylREumbSjvAOclvkgqmh0N4o65dc_VwJfIYhOFAh14CJK-dXSs_8uZN41P7moC5o8nhdCWKFRXzarTLyJ6Q1K4ZAd0Dy2m1t2Q_1wUKbzxdJEYcXIRZETyJeA7wIh7m1YpJ1L1kn-oFyJ0MNNQ7oed_AeCvTjvz0VW_fXbz3z2vLi6XhjeLhCs8kCHFcZ9ebtDYfc8Q6LOPy-pVlA4WI-JDq3ouUwA9BLeV5zFNw5NuGvm5RA
 八大综合台,http://61.221.81.93:8078/hls/38/80/gtv.m3u8
 八大综合台,http://61.221.81.93:8530/hls/65/807/ch843.m3u8
+八大戏剧,https://cdn.ggapk.net/live/tv?id=5ef93c_wnFQcjgnKBfMVkE3wofNvSrUJzD28PsMH0k6lL1CPNyA4rIfeKvoW7K50DBQMXTCrmyQOiUCTuiszOw_n3-UHu3IGfcTjr8jM2f5yJUJjgopx9Bt_TkIl9FwlFk97Oig4W0yWNYg9fS2iNCcUcDUHpaz_3x-2YN_ui805PR3byaZJG6MeUE1ge8HWHIQ7MGOQPxxSyzJ_Qrs1KRUiNnzN9L7y5DxCDNX0_SfljPAA6ynNaB9xrpd_Gl0C7ObIohienu9Bn_49obYYVZ4VP-uPMQ
 八大戏剧,http://61.221.81.93:8078/hls/38/80/gtvdrama.m3u8
 美亚电影,https://pull-f5-spe.ixigua.com/live/xyzvcbfyhbxcvswhjzhjlmcbzyuzfhzzfzszhnfzhzfzbvmyzy.flv
 星卫电影,https://pull-f5-spe.ixigua.com/live/xyzzpxnmzfhzuowezczxhvzlfzffzjwpoehcopvjzozzfxwzy.flv
@@ -1340,6 +1342,7 @@ MoMo综合,rtmp://9sv2.mine.nu/sat/tv761
 MoMo综合,rtmp://9wv7.mine.nu/sat/tv761
 MoMo综合,rtmp://219.80.97.77/sat/tv761
 MoMo综合,rtmp://119.81.124.89/sat/tv761
+卫视中文台,https://cdn.ggapk.net/live/tv?id=a244f2ngSd3LEi0FX6O-qbn25qhXFUU9HwtaLh-BqIjRMiGtYEK7CCdEugDkPkneGFntoqJT-kcacC85dZn1QpWrX5IKpzPgDd3z8TVQ0sX4pYk7tDglM__ctZGW7ll0_8NMO8NmvhYSD_kgryVxkPVwVtEes6vcGqrkaBsGN6o4_p8xjYXyE0TtP2k3CRlfwzQa55DMXyW01Go50XIeTFx4AlRL8K04cxI5FMTriynF3sbnCCiReP-6RkLaSkr_xbqhmQkE5viR2yr1J49srYKSFcvhyw
 卫视中文台,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941624
 卫视中文台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941624&extension=ts&play_token=xmfFOBilCP
 中天亚洲台,http://sc2022.stream-link.org/tv2306.php?id=t16
@@ -1347,6 +1350,7 @@ MoMo综合,rtmp://119.81.124.89/sat/tv761
 中天亚洲台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571212&extension=ts&play_token=yaoffzUbUJ
 中天亚洲台,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941638
 年代新闻台,https://pull-f5-spe.ixigua.com/live/xyzozevjyscvbujlozlnsfzewtzujvbbzxfznzlvczjzjnzxw.flv
+年代新闻台,https://cdn.ggapk.net/live/tv?id=e611dclLql7aDrXFvbprF-8nuZoE0zSKQafdIU-464_nBkybJe-xtJl_MzKYr11S-rX4RQKstGPhtnJ0a7nxcCp-9dnWbdlf5t9GZl3Y8GYCUY0ElMRg0hjcZvn6Uwsikp8nJZrg44PNRqJJf4H429AMWW8GoFyKMUelPZg0fDlXFsFkhkV3dSp6-XbflASzo2FYr5iFaAC_BVipgccHsjdj0ZrjsAzHTe7Q02KvHlt-IPv6gkGOFOOYOc0y-g4HV_Svea0R2NBMKmeG0cQv912lL4rpEA
 非凡新闻,https://pull-f5-spe.ixigua.com/live/xyzsztnfzzozjcbfcxvzfuuzzwezzzszyuhhjzszhzynffxw.flv
 壹新闻,https://pull-f5-spe.ixigua.com/live/xyzmzfoyzvzsjvbnweztzuzzxzcvfzzszfhfzjjzzlhtbchyxw.flv
 镜新闻,https://pull-f5-spe.ixigua.com/live/xyzexcvzzocvuozxucfjexzpzzyxchvlzxzfezhcelethzzjxw.flv

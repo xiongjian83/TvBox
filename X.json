@@ -10,13 +10,14 @@
                  
                  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 	"sites":[
-{"key":"豆瓣","name":"豆瓣","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/lib/douban.js"},
-{"key": "csp_XBPQ_nmys","name": "农民┃APP","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/sub/农民影视2.json"},
-{"key":"csp_Kunyu77","name":"酷云┃APP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Zxzj","name":"在线┃APP","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
-{"key": "酷影","name": "泰泰┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"}, 
-{"key": "狐狸","name": "狐狸┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/"}, 
-{"key": "瑞丰","name": "辣辣┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
+{"key":"豆瓣","name":"🍥┃豆瓣┃","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/lib/douban.js"},
+{ "key": "js豆瓣备用", "name": "🍥┃豆瓣备用┃", "type": 3, "api": "https://jihulab.com/duomv/duo/-/raw/main/js/doubanbf.js", "searchable": 1, "quickSearch": 1, "filterable": 0 }, 
+{"key": "csp_XBPQ_nmys","name": "🍥农民┃APP","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/sub/农民影视2.json"},
+{"key":"csp_Kunyu77","name":"🍥酷云┃APP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Zxzj","name":"🍥在线┃APP","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
+{"key": "酷影","name": "🍥泰泰┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"}, 
+{"key": "狐狸","name": "🍥狐狸┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/"}, 
+{"key": "瑞丰","name": "🍥辣辣┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.miniku.cc/xgapp.php/v2/"},
 {"key":"csp_WoGG","name":"玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/token.txt"},
 {"key":"dr_荐片","name":"荐片","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/lib/drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/荐片.js"},
 {"key":"ddys","name":"杳音影院","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/lib/drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/ddys.js"},
@@ -76,7 +77,7 @@
 {"key":"gym","name":"光影猫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://gymcms.xn--654a.cc/api.php/app/"},
 {"key":"鸭奈飞","name":"鸭奈飞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanaifei.tv/api.php/app/"}，
 
-{ "key": "js豆瓣备用", "name": "🍥┃豆瓣备用┃", "type": 3, "api": "https://jihulab.com/duomv/duo/-/raw/main/js/doubanbf.js", "searchable": 1, "quickSearch": 1, "filterable": 0 }, 
+
 { "key": "直播转点播", "name": "📺︎┃电视┃点播", "type": 3, "api": "https://jihulab.com/duomv/duo/-/raw/main/js/zbzdb.js", "searchable": 1, "quickSearch": 0, "filterable": 0, "ext": "https://bitbucket.org/xduo/json/raw/master/zb.json" }, 
 { "key": "csp_Bili", "name": "🅱️┃哔哩┃合集", "type": 3, "api": "csp_Bili", "searchable": 1, "quickSearch": 0, "filterable": 1, "ext": "https://bitbucket.org/xduo/json/raw/master/bili.json" }, 
 { "key": "短视频", "name": "📱┃网红┃美女", "type": 3, "api": "csp_XYQBiu", "searchable": 0, "quickSearch": 0, "filterable": 0, "ext": "https://bitbucket.org/xduo/json/raw/master/短视频聚合.json" }, 

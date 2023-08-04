@@ -1,0 +1,6 @@
+{
+"数组": "<div class=\"stui-vodlist__box\">&&</div>",
+"副标题": "<span class=\"pic-text text-right\"><b>&&</b></span>",
+"分类": "电影$1#电视剧$2#动漫$4#综艺$3#记录$5#动画片$6",
+"分类url": "https://www.citydy.com/show/id-{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"
+}

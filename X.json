@@ -4,9 +4,8 @@
 {
                 "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/ncdjaj.jar;md5;8ce41aea35c3393f3dc3d2187d202912",          
                  
-            // "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/custom_spider.jar;md5;edab3976b24e102336354d445026329f",   
+             "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/custom_spider.jar;md5;edab3976b24e102336354d445026329f",   
 
-           // "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/spider.jar;md5;5d436860e9fdcb2815fe6b48cc2443bd",  
                  
                  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 	"sites":[

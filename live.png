@@ -115,7 +115,7 @@ CCTV15,http://china.733240.com/cqyx.php?id=cctv15HD
 CCTV16,http://china.733240.com/cqyx.php?id=cctv16HD
 CCTV17,http://china.733240.com/cqyx.php?id=cctv17HD
 CCTV4K,http://china.733240.com/cqyx.php?id=CCTV4K
-CCTV16-4K,http://china.733240.com/cqyx.php?id=CCTV16_4k
+CCTV164K,http://china.733240.com/cqyx.php?id=CCTV16_4k
 
 
 
@@ -136,7 +136,7 @@ CCTV13,https://cntv.sbs/tv?auth=230813&id=cctv13
 CCTV14,https://cntv.sbs/tv?auth=230813&id=cctv14
 CCTV15,https://cntv.sbs/tv?auth=230813&id=cctv15
 CCTV16,https://cntv.sbs/tv?auth=230813&id=cctv16
-CCTV16-4K,https://cntv.sbs/tv?auth=230813&id=cctv164k
+CCTV164K,https://cntv.sbs/tv?auth=230813&id=cctv164k
 CCTV17,https://cntv.sbs/tv?auth=230813&id=cctv17
 
 
@@ -2416,6 +2416,8 @@ TVBS新闻,https://www.5209.eu.org/live?rid=2mCSYvcfhtc
 民视新闻,https://www.5209.eu.org/live?rid=ylYJSBUgaMA
 
 🇨🇳数字4K,#genre#
+江西都市,rtsp://115.153.233.154/PLTV/88888888/224/3221227069/94448631.smil
+江西移动,rtsp://115.153.233.154/PLTV/88888888/224/3221227070/96801473.smil
 CHC动作电影,http://www.51nas.top:4022/udp/239.81.0.239:4056
 CHC高清电影,http://www.51nas.top:4022/udp/239.81.0.240:4056
 CHC家庭影院,http://www.51nas.top:4022/udp/239.81.0.238:4056

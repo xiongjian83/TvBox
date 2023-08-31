@@ -2,7 +2,7 @@
 //本接口无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。
 
 {
-                "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/ncdjaj.jar;md5;95ca55dc78798800fe9085dd8e47de26",          
+                "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/ncdjaj.jar;md5;CB79A023D795989F42EBF76D64FD7AFA",          
                  
             // "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/custom_spider.jar;md5;edab3976b24e102336354d445026329f",   
 
@@ -83,6 +83,8 @@
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_fantuan","name":"🍙饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuan3.com"},
 {"key":"csp_YQKAPP","name":"🌎一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
+{"key":"酷酷","name":"🚀酷酷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.realdou.cn:35264/api.php/app/"},
+{"key":"彩虹","name":"🌈彩虹","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://jh.dytt996.com:996/api.php/app/"},
 {"key":"影探","name":"👿影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yt3823.lfytyl.com/api.php/app/"},
 {"key":"酷影","name":"🚀酷影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn:62703/api.php/app/","categories":["4K电影","4K电视剧","儿童4K"]},
 {"key":"狐狸","name":"🦊狐狸","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
@@ -176,7 +178,7 @@
 {"key":"drpy_js_酷狗MV","name":"MV | 酷狗[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/lib/drpy2.min.js","changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/酷狗MV.js"},
 {"key":"drpy_js_酷奇MV","name":"MV | 酷奇[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/lib/drpy2.min.js","changeable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/酷奇MV.js"},
 
-
+{"key":"云云","name":"💢云云","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.shangui.cc/f/lGMwIk/云云.json"},
 {"key":"dr_荐片","name":"荐片","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/lib/drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/荐片.js"},
 {"key":"北川","name":"💢北川","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"请求头":"手机#Referer$http://bczhuiju.com/","主页url":"http://bczhuiju.com","副标题":"<div class=\"module-item-note\">&&</div>","线路数组":"data-dropdown-value=&&</div>[不包含:LZ在线#备用线路]","线路标题":"<span>&&</span>","嗅探词":".m3u8#aliyundrive.net#auth_key=#mp4","播放数组":"<div class=\"module-play-list-content&&</div>","影片类型":"<div class=\"module-info-tag\">&&立即播放","导演":"导演：</span>&&</div>","主演":"主演：</span>&&</div>","简介":"style=\"line-height: 20px;\"&&</p>","播放列表":"<a&&</a>","播放标题":"<span>&&</span>","播放链接":"href=\"&&\"","分类":"电影$1#电视剧$2#综艺$3#动漫$4","分类url":"http://bczhuiju.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/;;mu0"}},
 {"key":"鲸落","name":"💢鲸落","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"主页url":"http://www.tvyb03.com/","请求头":"手机","简介":"class=\"sketch content\">&&</span>","数组":"myui-vodlist__thumb&&</a>","标题":"title=\"&&\"","副标题":"pic-tag pic-tag-top\">&&</span>","图片":"data-original=\"&&\"","链接":"href=\"&&\"","搜索url":"/vod/search.html?wd={wd}&submit=","搜索数组":"myui-vodlist__thumb&&</a>","搜索标题":"title=\"&&\"","搜索副标题":"pic-tag pic-tag-top\">&&</span>","搜索图片":"http://w.g9.pub:66/f/Y1ksA/sorry.ico","搜索链接":"href=\"&&\"","搜索模式":"1","嗅探词":".m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com#v.123pan.cn#auth_key#app-ali-cdn.fqfilm.com","搜索后缀":"/vod/detail/id/","线路数组":"</a><h3&&/h3>","线路标题":"title\">&&<","播放数组":"<ul class=\"myui-content__list scrollbar&&</ul>","播放标题":">&&<","播放列表":"<a&&/a>","分类url":"http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;m","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},

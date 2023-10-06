@@ -67,25 +67,25 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 CCTV17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061_461954091/migu/kailu/20200324/cctv17hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208133753&ContentId=265667526&timezone=UTC&mtv_session=2ab00b83c917e8ba1b1bb082711b8b77&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4c04c5308e4761e3cc4b36134b05b864
 
 
-CCTV1,https://cntv.sbs/tv?auth=230927&id=cctv1
-CCTV2,https://cntv.sbs/tv?auth=230927&id=cctv2
-CCTV3,https://cntv.sbs/tv?auth=230927&id=cctv3
-CCTV4,https://cntv.sbs/tv?auth=230927&id=cctv4
-CCTV5,https://cntv.sbs/tv?auth=230927&id=cctv5
-CCTV5+,https://cntv.sbs/tv?auth=230927&id=cctv5p
-CCTV6,https://cntv.sbs/tv?auth=230927&id=cctv6
-CCTV7,https://cntv.sbs/tv?auth=230927&id=cctv7
-CCTV8,https://cntv.sbs/tv?auth=230927&id=cctv8
-CCTV9,https://cntv.sbs/tv?auth=230927&id=cctv9
-CCTV10,https://cntv.sbs/tv?auth=230927&id=cctv10
-CCTV11,https://cntv.sbs/tv?auth=230927&id=cctv11
-CCTV12,https://cntv.sbs/tv?auth=230927&id=cctv12
-CCTV13,https://cntv.sbs/tv?auth=230927&id=cctv13
-CCTV14,https://cntv.sbs/tv?auth=230927&id=cctv14
-CCTV15,https://cntv.sbs/tv?auth=230927&id=cctv15
-CCTV16,https://cntv.sbs/tv?auth=230927&id=cctv16
-CCTV164K,https://cntv.sbs/tv?auth=230927&id=cctv164k
-CCTV17,https://cntv.sbs/tv?auth=230927&id=cctv17
+CCTV1,https://cntv.sbs/tv?auth=231005&id=cctv1
+CCTV2,https://cntv.sbs/tv?auth=231005&id=cctv2
+CCTV3,https://cntv.sbs/tv?auth=231005&id=cctv3
+CCTV4,https://cntv.sbs/tv?auth=231005&id=cctv4
+CCTV5,https://cntv.sbs/tv?auth=231005&id=cctv5
+CCTV5+,https://cntv.sbs/tv?auth=231005&id=cctv5p
+CCTV6,https://cntv.sbs/tv?auth=231005&id=cctv6
+CCTV7,https://cntv.sbs/tv?auth=231005&id=cctv7
+CCTV8,https://cntv.sbs/tv?auth=231005&id=cctv8
+CCTV9,https://cntv.sbs/tv?auth=231005&id=cctv9
+CCTV10,https://cntv.sbs/tv?auth=231005&id=cctv10
+CCTV11,https://cntv.sbs/tv?auth=231005&id=cctv11
+CCTV12,https://cntv.sbs/tv?auth=231005&id=cctv12
+CCTV13,https://cntv.sbs/tv?auth=231005&id=cctv13
+CCTV14,https://cntv.sbs/tv?auth=231005&id=cctv14
+CCTV15,https://cntv.sbs/tv?auth=231005&id=cctv15
+CCTV16,https://cntv.sbs/tv?auth=231005&id=cctv16
+CCTV164K,https://cntv.sbs/tv?auth=231005&id=cctv164k
+CCTV17,https://cntv.sbs/tv?auth=231005&id=cctv17
 
 
 CCTV1,rtsp://115.153.233.154/PLTV/88888888/224/3221225699/iptv8040.smil
@@ -383,42 +383,42 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
 
 📡  卫视频道,#genre#
-湖南卫视,https://cntv.sbs/tv?auth=230927&id=hunws
-浙江卫视,https://cntv.sbs/tv?auth=230927&id=zjws
-东方卫视,https://cntv.sbs/tv?auth=230927&id=dfws
-北京卫视,https://cntv.sbs/tv?auth=230927&id=bjws
-江苏卫视,https://cntv.sbs/tv?auth=230927&id=jsws
-东南卫视,https://cntv.sbs/tv?auth=230927&id=dnws
-广东卫视,https://cntv.sbs/tv?auth=230927&id=gdws
-安徽卫视,https://cntv.sbs/tv?auth=230927&id=ahws
-湖北卫视,https://cntv.sbs/tv?auth=230927&id=hubws
-河南卫视,https://cntv.sbs/tv?auth=230927&id=hnws
-江西卫视,https://cntv.sbs/tv?auth=230927&id=jxws
-厦门卫视,https://cntv.sbs/tv?auth=230927&id=xmws
-深圳卫视,https://cntv.sbs/tv?auth=230927&id=szws
-广西卫视,https://cntv.sbs/tv?auth=230927&id=gxws
-云南卫视,https://cntv.sbs/tv?auth=230927&id=ynws
-贵州卫视,https://cntv.sbs/tv?auth=230927&id=gzws
-四川卫视,https://cntv.sbs/tv?auth=230927&id=scws
-重庆卫视,https://cntv.sbs/tv?auth=230927&id=cqws
-黑龙江卫视,https://cntv.sbs/tv?auth=230927&id=hljws
-天津卫视,https://cntv.sbs/tv?auth=230927&id=tjws
-辽宁卫视,https://cntv.sbs/tv?auth=230927&id=lnws
-内蒙古卫视,https://cntv.sbs/tv?auth=230927&id=nmws
-吉林卫视,https://cntv.sbs/tv?auth=230927&id=jlws
-宁夏卫视,https://cntv.sbs/tv?auth=230927&id=nxws
-甘肃卫视,https://cntv.sbs/tv?auth=230927&id=gsws
-陕西卫视,https://cntv.sbs/tv?auth=230927&id=sxws
-河北卫视,https://cntv.sbs/tv?auth=230927&id=hbws
-青海卫视,https://cntv.sbs/tv?auth=230927&id=qhws
-山西卫视,https://cntv.sbs/tv?auth=230927&id=sxiws
-山东卫视,https://cntv.sbs/tv?auth=230927&id=sdw
-新疆卫视,https://cntv.sbs/tv?auth=230927&id=xjws
-康巴卫视,https://cntv.sbs/tv?auth=230927&id=kbws
-兵团卫视,https://cntv.sbs/tv?auth=230927&id=btws
-西藏卫视,https://cntv.sbs/tv?auth=230927&id=xzws
-海南卫视,https://cntv.sbs/tv?auth=230927&id=hinws
-三沙卫视,https://cntv.sbs/tv?auth=230927&id=ssws
+湖南卫视,https://cntv.sbs/tv?auth=231005&id=hunws
+浙江卫视,https://cntv.sbs/tv?auth=231005&id=zjws
+东方卫视,https://cntv.sbs/tv?auth=231005&id=dfws
+北京卫视,https://cntv.sbs/tv?auth=231005&id=bjws
+江苏卫视,https://cntv.sbs/tv?auth=231005&id=jsws
+东南卫视,https://cntv.sbs/tv?auth=231005&id=dnws
+广东卫视,https://cntv.sbs/tv?auth=231005&id=gdws
+安徽卫视,https://cntv.sbs/tv?auth=231005&id=ahws
+湖北卫视,https://cntv.sbs/tv?auth=231005&id=hubws
+河南卫视,https://cntv.sbs/tv?auth=231005&id=hnws
+江西卫视,https://cntv.sbs/tv?auth=231005&id=jxws
+厦门卫视,https://cntv.sbs/tv?auth=231005&id=xmws
+深圳卫视,https://cntv.sbs/tv?auth=231005&id=szws
+广西卫视,https://cntv.sbs/tv?auth=231005&id=gxws
+云南卫视,https://cntv.sbs/tv?auth=231005&id=ynws
+贵州卫视,https://cntv.sbs/tv?auth=231005&id=gzws
+四川卫视,https://cntv.sbs/tv?auth=231005&id=scws
+重庆卫视,https://cntv.sbs/tv?auth=231005&id=cqws
+黑龙江卫视,https://cntv.sbs/tv?auth=231005&id=hljws
+天津卫视,https://cntv.sbs/tv?auth=231005&id=tjws
+辽宁卫视,https://cntv.sbs/tv?auth=231005&id=lnws
+内蒙古卫视,https://cntv.sbs/tv?auth=231005&id=nmws
+吉林卫视,https://cntv.sbs/tv?auth=231005&id=jlws
+宁夏卫视,https://cntv.sbs/tv?auth=231005&id=nxws
+甘肃卫视,https://cntv.sbs/tv?auth=231005&id=gsws
+陕西卫视,https://cntv.sbs/tv?auth=231005&id=sxws
+河北卫视,https://cntv.sbs/tv?auth=231005&id=hbws
+青海卫视,https://cntv.sbs/tv?auth=231005&id=qhws
+山西卫视,https://cntv.sbs/tv?auth=231005&id=sxiws
+山东卫视,https://cntv.sbs/tv?auth=231005&id=sdw
+新疆卫视,https://cntv.sbs/tv?auth=231005&id=xjws
+康巴卫视,https://cntv.sbs/tv?auth=231005&id=kbws
+兵团卫视,https://cntv.sbs/tv?auth=231005&id=btws
+西藏卫视,https://cntv.sbs/tv?auth=231005&id=xzws
+海南卫视,https://cntv.sbs/tv?auth=231005&id=hinws
+三沙卫视,https://cntv.sbs/tv?auth=231005&id=ssws
 
 湖南卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221225697/iptv8039.smil
 湖南卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221225697/iptv8039.smil
@@ -1793,15 +1793,14 @@ Sky Sports Action,P2p://generationnexxxt.com:19806/d627b2c21c264a13afa935d214060
 
 
 凤凰资讯,http://113.117.74.20:8081/hls/36/index.m3u8
+凤凰资讯,http://113.117.74.22:8081/hls/36/index.m3u8
+凤凰资讯,http://113.117.74.17:8081/hls/36/index.m3u8
 凤凰资讯,https://live.goodiptv.club/api/sxg.php?id=test2_4000
 凤凰资讯,http://113.117.74.12:8081/hls/36/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-凤凰资讯,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=fhzx
-凤凰资讯,http://107.151.203.111:2209/135/hk.php?id=fhzx
 凤凰资讯,http://r.jdshipin.com/0Rp0
-凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 
 凤凰中文,http://113.117.74.20:8081/hls/37/index.m3u8
@@ -1819,6 +1818,7 @@ Sky Sports Action,P2p://generationnexxxt.com:19806/d627b2c21c264a13afa935d214060
 
 凤凰香港,http://113.117.74.20:8081/hls/38/index.m3u8
 凤凰香港,http://113.117.74.12:8081/hls/38/index.m3u8
+凤凰香港,http://113.117.74.17:8081/hls/38/index.m3u8
 凤凰香港,http://120.84.96.138:808/hls/81/index.m3u8
 凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
 凤凰香港,http://sc2022.stream-link.org/tv2306.php?id=h20
@@ -1827,117 +1827,99 @@ Sky Sports Action,P2p://generationnexxxt.com:19806/d627b2c21c264a13afa935d214060
 凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
 凤凰香港,http://php.17186.eu.org/phtv/fhxg.m3u8
 
-
+翡翠台,http://27.46.125.81:800/hls/98/index.m3u8
+翡翠台,http://39.106.73.140/g.php?id=1350_4500&/PLTV/hls.smil.m3u8
 翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20127
 翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=30025
 翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20124
-翡翠台,https://pi.0472.org/tv/fct.php?auth=230927
-翡翠台,http://39.106.73.140/g.php?id=1350_4500&/PLTV/hls.smil.m3u8
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://120.132.122.244:59847/hls/98/index.m3u8
-翡翠台,http://120.132.122.244:59847/hls/80/index.m3u8
 翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h02
+翡翠台,https://pi.0472.org/tv/fct.php?auth=231005
+
+翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://r.jdshipin.com/qrfbg
 
 
-华丽台,mitv://135.148.104.228:19806/441f455bd3c04c628bf607b2e35f538e
-华丽台,https://sc2022.stream-link.org/tv2306.php?id=h26
+华丽台,https://sc2022.stream-link.org/tv2306.php?id=h00
 华丽台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153505
 华丽台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153505&extension=ts&play_token=u4yRheiuaw
 华丽台,http://r.jdshipin.com/thuYX
 华丽台,http://23.237.10.66:16410
 
+J2,http://27.46.125.81:800/hls/81/index.m3u8
 J2,http://107.167.12.58:27347/livehttpplay?channel_id=30030
+J2,https://sc2022.stream-link.org/tv2306.php?id=h03
 J2,http://107.167.12.58:27347/livehttpplay?channel_id=30023
 J2,http://107.167.12.58:27347/livehttpplay?channel_id=20122
-J2,http://120.132.122.244:59847/hls/81/index.m3u8
 J2,http://r.jdshipin.com/Nr5jq
-J2,https://sc2022.stream-link.org/tv2306.php?id=h03
-J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
-J2,https://live.astradamy.com/tvbj2/index.m3u8
-J2,http://baidu.douyincdn.freetvtv.com/j22/m2.m3u8
+
+
+明珠台,http://27.46.125.81:800/hls/84/index.m3u8
+明珠台,http://39.106.73.140/g.php?id=1351_4500&/PLTV/hls.smil.m3u8
 明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=30026
 明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=20125
-明珠台,http://39.106.73.140/g.php?id=1351_4500&/PLTV/hls.smil.m3u8
-明珠台,http://120.132.122.244:59847/hls/84/index.m3u8
-明珠台,http://60.208.16.27:1505/gudou.php?id=364&id=1351_4500
 明珠台,http://r.jdshipin.com/ZQ4kN
-明珠台,https://live.astradamy.com/tvbpearl/index.m3u8
-明珠台,http://107.151.203.111:2209/135/hk.php?id=tvbmzt
+
+ViuTV,http://27.46.125.81:800/hls/86/index.m3u8
 ViuTV,http://107.167.12.58:27347/livehttpplay?channel_id=30032
-ViuTV,http://120.132.122.244:59847/hls/86/index.m3u8
+ViuTV,https://sc2022.stream-link.org/tv2306.php?id=h09
 ViuTV,http://r.jdshipin.com/vSJvl
-ViuTV,http://awei.beimua.com/yes.php?id=15
 ViuTV,https://live.astradamy.com/viutv/index.m3u8
-ViuTV,http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
-ViuTV,https://cdn.hklive.tv/hls/99/index.m3u8
+
+ViUTV6,http://27.46.125.81:800/hls/85/index.m3u8
 ViUTV6,http://107.167.12.58:27347/livehttpplay?channel_id=30033
-ViUTV6,http://120.132.122.244:59847/hls/85/index.m3u8
 ViUTV6,http://107.167.12.58:34809
 ViUTV6,http://107.167.12.58:41803
-ViUTV6,https://cdn.hklive.tv/hls/96/index.m3u8
-TVB无线新闻,http://107.167.12.58:27347/livehttpplay?channel_id=30024
-TVB无线新闻,http://107.167.12.58:27347/livehttpplay?channel_id=20123
-TVB无线新闻,http://120.132.122.244:59847/hls/82/index.m3u8
-TVB无线新闻,http://pull-l3-cny.douyincdn.com/live/78625566800365445000YHTV.flv
-TVB无线新闻,http://r.jdshipin.com/CkuBd
-TVB无线新闻,http://107.167.12.58:46389
-TVB无线新闻,http://162.19.247.76:22222/live/tvbnews/index.m3u8
-TVB无线新闻,http://sc2022.stream-link.org/tv2306.php?id=h04
-TVB无线新闻,http://43.128.40.42:2212/tvb.php?id=1&hq
-TVB无线新闻,http://radius.8866.org:800/hls/82/index.m3u8
-TVB无线财经,http://120.132.122.244:59847/hls/83/index.m3u8
-TVB无线财经,http://sc2022.stream-link.org/tv2306.php?id=h05
-TVB无线财经,http://120.84.96.82:808/hls/86/index.m3u8
-TVB无线财经,http://r.jdshipin.com/jUx8K
-TVB无线财经,http://107.167.12.58:37257
-TVB无线财经,http://162.19.247.76:22222/live/tvbj5/index.m3u8
-TVB无线财经,http://jylt.jdshipin.com:808/hls/86/index.m3u8
-TVB无线财经,http://radius.8866.org:800/hls/83/index.m3u8
-TVB无线财经,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
-TVB千禧经典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
-TVB千禧经典台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153503&extension=ts&play_token=XgkUlCEKCM
+
+
+无线新闻,http://27.46.125.81:800/hls/82/index.m3u8
+无线新闻,http://107.167.12.58:27347/livehttpplay?channel_id=30024
+无线新闻,http://107.167.12.58:27347/livehttpplay?channel_id=20123
+无线新闻,http://sc2022.stream-link.org/tv2306.php?id=h04
+无线新闻,http://r.jdshipin.com/CkuBd
+
+无线财经,http://27.46.125.81:800/hls/83/index.m3u8
+无线财经,http://sc2022.stream-link.org/tv2306.php?id=h05
+无线财经,http://r.jdshipin.com/jUx8K
+
+千禧经典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
+千禧经典台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153503&extension=ts&play_token=XgkUlCEKCM
 香港 測試001,http://sc2022.stream-link.org/tv2306.php?id=c01
 香港 測試002,http://sc2022.stream-link.org/tv2306.php?id=c02
-香港 測試003,http://sc2022.stream-link.org/tv2306.php?id=c03
-香港 測試004,http://sc2022.stream-link.org/tv2306.php?id=c04
-香港 測試005,http://sc2022.stream-link.org/tv2306.php?id=c05
-香港 測試006,http://sc2022.stream-link.org/tv2306.php?id=c06
-TVB華語劇台,https://sc2022.stream-link.org/tv2306.php?id=h22
-TVB經典劇台,https://sc2022.stream-link.org/tv2306.php?id=h24
-TVB星河,http://116.11.140.134:8181/tsfile/live/1206_1.m3u8
-TVB星河,https://sc2022.stream-link.org/tv2306.php?id=h23
+Now新聞台,http://sc2022.stream-link.org/tv2306.php?id=h08
+Now精選體育https://sc2022.stream-link.org/tv2306.php?id=s01
+TVB華語劇台,https://sc2022.stream-link.org/tv2306.php?id=h21
+TVB經典劇台,https://sc2022.stream-link.org/tv2306.php?id=h23
+TVB星河,https://sc2022.stream-link.org/tv2306.php?id=h22
+TVB星河,http://113.117.74.24:8081/hls/135/index.m3u8
+TVB星河,http://171.108.239.89:8181/tsfile/live/1005_1.m3u8
 TVB星河,http://103.112.191.9:880/LAOSAT1092.m3u8
-TVB星河,http://120.236.57.77:9901/tsfile/live/1005_1.m3u8
 TVB星河,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153506&extension=ts&play_token=oBUI7V2RM0
 TVB星河,http://r.jdshipin.com/sXuuD
 TVB娱乐新闻台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153504&extension=ts&play_token=9urlq5p625
 TVB娱乐新闻台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571188&extension=ts&play_token=p582OSpABb
 TVB娱乐新闻台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153398&extension=ts&play_token=TPIp3m3TjC
 RTHK31,http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-RTHK31,https://sc2022.stream-link.org/tv2306.php?id=h09
+RTHK31,https://sc2022.stream-link.org/tv2306.php?id=h11
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream1/streamPlaylist.m3u8
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 RTHK32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+RTHK32,https://sc2022.stream-link.org/tv2306.php?id=h12
 RTHK32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
-RTHK32,https://sc2022.stream-link.org/tv2306.php?id=h10
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream4/streamPlaylist.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
-香港国际财经,https://pull-f5-spe.ixigua.com/live/YesLiveTV-619ff898-81e2-4050-8a0f-ac917b7df41a.flv?by=yeslivetv.com
+香港国际财经,https://pull-f5-spe.ixigua.com/live/YesLiveTV-5158ec32-b7b4-4603-948d-3d317e635488/index.m3u8?by=yeslivetv.com
+香港国际财经,http://sc2022.stream-link.org/tv2306.php?id=h17
 香港国际财经,https://live.astradamy.com/hk76/index.m3u8
-香港国际财经,http://sc2022.stream-link.org/tv2306.php?id=h13
-香港国际财经,http://sc2022.stream-link.org/tv2306.php?id=h14
 香港国际财经,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-HOY TV,https://pull-f5-spe.ixigua.com/live/YesLiveTV-21c17c48-dec2-451d-9350-6aa510ff6207.flv?by=yeslivetv.com
-HOY TV,http://sc2022.stream-link.org/tv2306.php?id=h15
+HOY TV,https://pull-f5-spe.ixigua.com/live/YesLiveTV-5a6e1a11-1c02-41e0-8696-a7f31d6f8719/index.m3u8?by=yeslivetv.com
 HOY TV,http://sc2022.stream-link.org/tv2306.php?id=h16
 HOY TV,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 HOY TV,https://live.astradamy.com/hk77/index.m3u8
@@ -1945,18 +1927,19 @@ HOY TV,https://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/chunklist_w177
 HOY TV,https://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/chunklist_w580457497.m3u8
 HOY TV,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 HOY TV,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-HOY资讯,https://pull-f5-spe.ixigua.com/live/YesLiveTV-65c3bac4-5e0f-4a48-99d1-a2d21eefb61f.flv?by=yeslivetv.com
+HOY资讯,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
 HOY资讯,http://sc2022.stream-link.org/tv2306.php?id=h17
 HOY资讯,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 HOY资讯,https://live.astradamy.com/hk78/index.m3u8
 HOY资讯,https://cdn.hklive.tv/hls/78/index.m3u8
-星空卫视,http://113.117.74.28:8081/hls/87/index.m3u8
-星空卫视,http://120.236.57.77:9901/tsfile/live/1106_1.m3u8
+
+星空卫视,http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
 星空卫视,http://103.112.191.9:880/LAOSAT1016.m3u8
-星空卫视,http://139.200.84.224:8888/udp/239.93.16.190:9612
+
+星空音乐,http://vl15191373.imwork.net:8880/udp/239.93.0.157:2194
+
 莲花卫视,http://epg.112114.xyz/lotus
 莲花卫视,http://anren.live/HK/BiIOU11uLA.m3u8
-莲花卫视,https://cntv.sbs/lhws?auth=2307100804
 莲花卫视,http://live.cooltv.top/tv/lotus.php
 莲花卫视,http://nettvpro.live/hls/lotustv.php
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
@@ -2062,7 +2045,7 @@ TVBS欢乐,rtmp://9sv2.mine.nu/sat/tv421
 TVBS欢乐,rtmp://9wv7.mine.nu/sat/tv421
 TVBS欢乐,rtmp://219.80.97.77/sat/tv421
 TVBS欢乐,rtmp://119.81.124.89/sat/tv421
-TVBS亚洲台,http://sc2022.stream-link.org/tv2306.php?id=t17
+TVBS亚洲台,http://sc2022.stream-link.org/tv2306.php?id=t18
 中天娱乐,http://162.19.247.76:22222/live/ztyl/index.m3u8
 中天综合 HD,http://61.221.81.93:8078/hls/35/80/cti.m3u8
 中天综合 HD,http://23.237.10.66:16372
@@ -2091,7 +2074,7 @@ MoMo综合,rtmp://219.80.97.77/sat/tv761
 MoMo综合,rtmp://119.81.124.89/sat/tv761
 卫视中文台,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941624
 卫视中文台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941624&extension=ts&play_token=xmfFOBilCP
-中天亚洲台,http://sc2022.stream-link.org/tv2306.php?id=t16
+中天亚洲台,http://sc2022.stream-link.org/tv2306.php?id=t17
 中天亚洲台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571212&extension=ts
 中天亚洲台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571212&extension=ts&play_token=yaoffzUbUJ
 中天亚洲台,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941638
@@ -2100,18 +2083,24 @@ MoMo综合,rtmp://119.81.124.89/sat/tv761
 民视新闻 HD,http://61.221.81.93:8078/hls/40/80/ftvnews.m3u8
 三立新闻,http://sc2022.stream-link.org/tv2306.php?id=t11
 三立新闻,http://123.51.230.64:18543/.m3u8
-东森新闻 HD,https://pull-f5-spe.ixigua.com/live/YesLiveTV-99e04f4f-93d6-4e46-bfc2-52e9101c155e.flv?by=yeslivetv.com
+年代新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-738e0ad5-96a9-460b-b163-c4c4c8346a29.flv?by=yeslivetv.com
+东森新闻 HD,https://pull-f5-spe.ixigua.com/live/YesLiveTV-996c2e42-0b8b-4c65-990d-7d1f8f279b0c/index.m3u8?by=yeslivetv.com
 东森新闻 HD,http://sc2022.stream-link.org/tv2306.php?id=t01
 东森新闻 HD,http://61.221.81.93:8527/hls/65/807/ch843.m3u8
 中天新闻 HD,http://sc2022.stream-link.org/tv2306.php?id=t03
 华视新闻 HD,http://sc2022.stream-link.org/tv2306.php?id=t05
-台视新闻 HD,http://sc2022.stream-link.org/tv2306.php?id=t12
+公视新闻 HD,https://sc2022.stream-link.org/tv2306.php?id=t29
+台视新闻 HD,http://sc2022.stream-link.org/tv2306.php?id=t13
 台视新闻 HD,http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
 民视新闻 HD,http://sc2022.stream-link.org/tv2306.php?id=t07
 中视新闻 HD,http://sc2022.stream-link.org/tv2306.php?id=t06
 寰宇新闻 HD,http://sc2022.stream-link.org/tv2306.php?id=t08
 寰宇新闻 台湾,http://sc2022.stream-link.org/tv2306.php?id=t09
 三立新闻 HD,http://sc2022.stream-link.org/tv2306.php?id=t12
+民視第一台,https://sc2022.stream-link.org/tv2306.php?id=t20
+民視台灣台,https://sc2022.stream-link.org/tv2306.php?id=t21
+民視綜藝台,https://sc2022.stream-link.org/tv2306.php?id=t22
+民視影劇台,https://sc2022.stream-link.org/tv2306.php?id=t23
 ELEVEN1,rtmp://9sv2.mine.nu/sat/tv731
 ELEVEN1,rtmp://219.80.97.77/sat/tv731
 ELEVEN1,rtmp://119.81.124.89/sat/tv731
@@ -2180,6 +2169,26 @@ CHC家庭影院,http://61.138.167.36:9901/tsfile/live/1016_1.m3u8
 新视觉,https://live.goodiptv.club/api/sxg.php?id=ycxsjH265_4000
 精品导视,https://live.goodiptv.club/api/sxg.php?id=jpdsH265_4000
 
+上海新闻综合,https://cntv.sbs/tv?auth=231005&id=shxwzh
+上海都市,https://cntv.sbs/tv?auth=231005&id=shds
+北京纪实科教,https://cntv.sbs/tv?auth=231005&id=bjjskj
+五星体育,https://cntv.sbs/tv?auth=231005&id=wxty
+华语影院,https://cntv.sbs/tv?auth=231005&id=hyyy
+星光影院,https://cntv.sbs/tv?auth=231005&id=xgyy
+谍战剧场,https://cntv.sbs/tv?auth=231005&id=dzjc
+全球大片,https://cntv.sbs/tv?auth=231005&id=qqdp
+热门剧场,https://cntv.sbs/tv?auth=231005&id=rmjc
+热门综艺,https://cntv.sbs/tv?auth=231005&id=rmzy
+戏曲精选,https://cntv.sbs/tv?auth=231005&id=xqjx
+福建综合,https://cntv.sbs/tv?auth=231005&id=fjzh
+福建新闻,https://cntv.sbs/tv?auth=231005&id=fjxw
+福建电视剧,https://cntv.sbs/tv?auth=231005&id=fjdsj
+福建文体,https://cntv.sbs/tv?auth=231005&id=fjwt
+福建少儿,https://cntv.sbs/tv?auth=231005&id=fjse
+福建旅游,https://cntv.sbs/tv?auth=231005&id=fjly
+福建经济,https://cntv.sbs/tv?auth=231005&id=fjjj
+福建公共,https://cntv.sbs/tv?auth=231005&id=fjgg
+福建教育,https://cntv.sbs/tv?auth=231005&id=fjjy
 
 🇨🇳虎牙直播,#genre#
 王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2

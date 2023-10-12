@@ -1947,7 +1947,7 @@ RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
 香港国际财经,http://sc2022.stream-link.org/tv2306.php?id=h17
 香港国际财经,https://live.astradamy.com/hk76/index.m3u8
 香港国际财经,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-HOY TV,https://pull-f5-spe.ixigua.com/live/YesLiveTV-5a6e1a11-1c02-41e0-8696-a7f31d6f8719/index.m3u8?by=yeslivetv.com
+HOY TV,https://pull-f5-spe.ixigua.com/live/YesLiveTV-231f06c7-6ec6-47a4-9723-b8c6cd64ad9f/index.m3u8?by=yeslivetv.com
 HOY TV,http://sc2022.stream-link.org/tv2306.php?id=h16
 HOY TV,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 HOY TV,https://live.astradamy.com/hk77/index.m3u8
@@ -2113,8 +2113,8 @@ MoMo综合,rtmp://119.81.124.89/sat/tv761
 民视新闻 HD,http://61.221.81.93:8078/hls/40/80/ftvnews.m3u8
 三立新闻,http://sc2022.stream-link.org/tv2306.php?id=t11
 三立新闻,http://123.51.230.64:18543/.m3u8
-年代新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-738e0ad5-96a9-460b-b163-c4c4c8346a29.flv?by=yeslivetv.com
-东森新闻 HD,https://pull-f5-spe.ixigua.com/live/YesLiveTV-996c2e42-0b8b-4c65-990d-7d1f8f279b0c/index.m3u8?by=yeslivetv.com
+年代新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa8b/index.m3u8?by=yeslivetv.com
+东森新闻 HD,https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e58926-5ddd-4f34-92b1-1b1be2babd73/index.m3u8?by=yeslivetv.com
 东森新闻 HD,http://sc2022.stream-link.org/tv2306.php?id=t01
 东森新闻 HD,http://61.221.81.93:8527/hls/65/807/ch843.m3u8
 中天新闻 HD,http://sc2022.stream-link.org/tv2306.php?id=t03
@@ -2235,11 +2235,12 @@ CHC家庭影院,http://61.138.167.36:9901/tsfile/live/1016_1.m3u8
 🇨🇳虎牙直播,#genre#
 王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-王者荣耀-张大仙,https://epg.112114.xyz/huya/688
-王者荣耀-张大仙,http://mmitv.top/pltv/huya.php?id=688
-王者荣耀-张大仙,https://www.goodiptv.club/huya/688
 雨神,https://epg.112114.xyz/douyu/6512
 雨神,https://www.goodiptv.club/douyu/6512
+雨家张时,https://epg.112114.xyz/douyu/11435361
+雨家张时,https://www.goodiptv.club/douyu/11435361
+麻将靓旭,https://epg.112114.xyz/douyu/1165924
+麻将靓旭,https://www.goodiptv.club/douyu/1165924
 周星驰,http://mmitv.top/pltv/huya.php?id=11342412
 周星驰,https://epg.112114.xyz/huya/11342412
 周星驰,https://www.goodiptv.club/huya/11342412

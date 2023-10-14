@@ -92,25 +92,25 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 CCTV17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061_461954091/migu/kailu/20200324/cctv17hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208133753&ContentId=265667526&timezone=UTC&mtv_session=2ab00b83c917e8ba1b1bb082711b8b77&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4c04c5308e4761e3cc4b36134b05b864
 
 
-CCTV1,https://cntv.sbs/tv?auth=231005&id=cctv1
-CCTV2,https://cntv.sbs/tv?auth=231005&id=cctv2
-CCTV3,https://cntv.sbs/tv?auth=231005&id=cctv3
-CCTV4,https://cntv.sbs/tv?auth=231005&id=cctv4
-CCTV5,https://cntv.sbs/tv?auth=231005&id=cctv5
-CCTV5+,https://cntv.sbs/tv?auth=231005&id=cctv5p
-CCTV6,https://cntv.sbs/tv?auth=231005&id=cctv6
-CCTV7,https://cntv.sbs/tv?auth=231005&id=cctv7
-CCTV8,https://cntv.sbs/tv?auth=231005&id=cctv8
-CCTV9,https://cntv.sbs/tv?auth=231005&id=cctv9
-CCTV10,https://cntv.sbs/tv?auth=231005&id=cctv10
-CCTV11,https://cntv.sbs/tv?auth=231005&id=cctv11
-CCTV12,https://cntv.sbs/tv?auth=231005&id=cctv12
-CCTV13,https://cntv.sbs/tv?auth=231005&id=cctv13
-CCTV14,https://cntv.sbs/tv?auth=231005&id=cctv14
-CCTV15,https://cntv.sbs/tv?auth=231005&id=cctv15
-CCTV16,https://cntv.sbs/tv?auth=231005&id=cctv16
-CCTV164K,https://cntv.sbs/tv?auth=231005&id=cctv164k
-CCTV17,https://cntv.sbs/tv?auth=231005&id=cctv17
+CCTV1,https://cntv.sbs/tv?auth=231013&id=cctv1
+CCTV2,https://cntv.sbs/tv?auth=231013&id=cctv2
+CCTV3,https://cntv.sbs/tv?auth=231013&id=cctv3
+CCTV4,https://cntv.sbs/tv?auth=231013&id=cctv4
+CCTV5,https://cntv.sbs/tv?auth=231013&id=cctv5
+CCTV5+,https://cntv.sbs/tv?auth=231013&id=cctv5p
+CCTV6,https://cntv.sbs/tv?auth=231013&id=cctv6
+CCTV7,https://cntv.sbs/tv?auth=231013&id=cctv7
+CCTV8,https://cntv.sbs/tv?auth=231013&id=cctv8
+CCTV9,https://cntv.sbs/tv?auth=231013&id=cctv9
+CCTV10,https://cntv.sbs/tv?auth=231013&id=cctv10
+CCTV11,https://cntv.sbs/tv?auth=231013&id=cctv11
+CCTV12,https://cntv.sbs/tv?auth=231013&id=cctv12
+CCTV13,https://cntv.sbs/tv?auth=231013&id=cctv13
+CCTV14,https://cntv.sbs/tv?auth=231013&id=cctv14
+CCTV15,https://cntv.sbs/tv?auth=231013&id=cctv15
+CCTV16,https://cntv.sbs/tv?auth=231013&id=cctv16
+CCTV164K,https://cntv.sbs/tv?auth=231013&id=cctv164k
+CCTV17,https://cntv.sbs/tv?auth=231013&id=cctv17
 
 
 CCTV1,rtsp://115.153.233.154/PLTV/88888888/224/3221225699/iptv8040.smil
@@ -188,6 +188,9 @@ CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 CHC动作电影,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC高清电影,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC家庭影院,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CHC动作电影,http://hls.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
+CHC高清电影,http://hls.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
+CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
 CHC动作电影,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC高清电影,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
@@ -411,42 +414,42 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
 
 📡  卫视频道,#genre#
-湖南卫视,https://cntv.sbs/tv?auth=231005&id=hunws
-浙江卫视,https://cntv.sbs/tv?auth=231005&id=zjws
-东方卫视,https://cntv.sbs/tv?auth=231005&id=dfws
-北京卫视,https://cntv.sbs/tv?auth=231005&id=bjws
-江苏卫视,https://cntv.sbs/tv?auth=231005&id=jsws
-东南卫视,https://cntv.sbs/tv?auth=231005&id=dnws
-广东卫视,https://cntv.sbs/tv?auth=231005&id=gdws
-安徽卫视,https://cntv.sbs/tv?auth=231005&id=ahws
-湖北卫视,https://cntv.sbs/tv?auth=231005&id=hubws
-河南卫视,https://cntv.sbs/tv?auth=231005&id=hnws
-江西卫视,https://cntv.sbs/tv?auth=231005&id=jxws
-厦门卫视,https://cntv.sbs/tv?auth=231005&id=xmws
-深圳卫视,https://cntv.sbs/tv?auth=231005&id=szws
-广西卫视,https://cntv.sbs/tv?auth=231005&id=gxws
-云南卫视,https://cntv.sbs/tv?auth=231005&id=ynws
-贵州卫视,https://cntv.sbs/tv?auth=231005&id=gzws
-四川卫视,https://cntv.sbs/tv?auth=231005&id=scws
-重庆卫视,https://cntv.sbs/tv?auth=231005&id=cqws
-黑龙江卫视,https://cntv.sbs/tv?auth=231005&id=hljws
-天津卫视,https://cntv.sbs/tv?auth=231005&id=tjws
-辽宁卫视,https://cntv.sbs/tv?auth=231005&id=lnws
-内蒙古卫视,https://cntv.sbs/tv?auth=231005&id=nmws
-吉林卫视,https://cntv.sbs/tv?auth=231005&id=jlws
-宁夏卫视,https://cntv.sbs/tv?auth=231005&id=nxws
-甘肃卫视,https://cntv.sbs/tv?auth=231005&id=gsws
-陕西卫视,https://cntv.sbs/tv?auth=231005&id=sxws
-河北卫视,https://cntv.sbs/tv?auth=231005&id=hbws
-青海卫视,https://cntv.sbs/tv?auth=231005&id=qhws
-山西卫视,https://cntv.sbs/tv?auth=231005&id=sxiws
-山东卫视,https://cntv.sbs/tv?auth=231005&id=sdw
-新疆卫视,https://cntv.sbs/tv?auth=231005&id=xjws
-康巴卫视,https://cntv.sbs/tv?auth=231005&id=kbws
-兵团卫视,https://cntv.sbs/tv?auth=231005&id=btws
-西藏卫视,https://cntv.sbs/tv?auth=231005&id=xzws
-海南卫视,https://cntv.sbs/tv?auth=231005&id=hinws
-三沙卫视,https://cntv.sbs/tv?auth=231005&id=ssws
+湖南卫视,https://cntv.sbs/tv?auth=231013&id=hunws
+浙江卫视,https://cntv.sbs/tv?auth=231013&id=zjws
+东方卫视,https://cntv.sbs/tv?auth=231013&id=dfws
+北京卫视,https://cntv.sbs/tv?auth=231013&id=bjws
+江苏卫视,https://cntv.sbs/tv?auth=231013&id=jsws
+东南卫视,https://cntv.sbs/tv?auth=231013&id=dnws
+广东卫视,https://cntv.sbs/tv?auth=231013&id=gdws
+安徽卫视,https://cntv.sbs/tv?auth=231013&id=ahws
+湖北卫视,https://cntv.sbs/tv?auth=231013&id=hubws
+河南卫视,https://cntv.sbs/tv?auth=231013&id=hnws
+江西卫视,https://cntv.sbs/tv?auth=231013&id=jxws
+厦门卫视,https://cntv.sbs/tv?auth=231013&id=xmws
+深圳卫视,https://cntv.sbs/tv?auth=231013&id=szws
+广西卫视,https://cntv.sbs/tv?auth=231013&id=gxws
+云南卫视,https://cntv.sbs/tv?auth=231013&id=ynws
+贵州卫视,https://cntv.sbs/tv?auth=231013&id=gzws
+四川卫视,https://cntv.sbs/tv?auth=231013&id=scws
+重庆卫视,https://cntv.sbs/tv?auth=231013&id=cqws
+黑龙江卫视,https://cntv.sbs/tv?auth=231013&id=hljws
+天津卫视,https://cntv.sbs/tv?auth=231013&id=tjws
+辽宁卫视,https://cntv.sbs/tv?auth=231013&id=lnws
+内蒙古卫视,https://cntv.sbs/tv?auth=231013&id=nmws
+吉林卫视,https://cntv.sbs/tv?auth=231013&id=jlws
+宁夏卫视,https://cntv.sbs/tv?auth=231013&id=nxws
+甘肃卫视,https://cntv.sbs/tv?auth=231013&id=gsws
+陕西卫视,https://cntv.sbs/tv?auth=231013&id=sxws
+河北卫视,https://cntv.sbs/tv?auth=231013&id=hbws
+青海卫视,https://cntv.sbs/tv?auth=231013&id=qhws
+山西卫视,https://cntv.sbs/tv?auth=231013&id=sxiws
+山东卫视,https://cntv.sbs/tv?auth=231013&id=sdw
+新疆卫视,https://cntv.sbs/tv?auth=231013&id=xjws
+康巴卫视,https://cntv.sbs/tv?auth=231013&id=kbws
+兵团卫视,https://cntv.sbs/tv?auth=231013&id=btws
+西藏卫视,https://cntv.sbs/tv?auth=231013&id=xzws
+海南卫视,https://cntv.sbs/tv?auth=231013&id=hinws
+三沙卫视,https://cntv.sbs/tv?auth=231013&id=ssws
 
 湖南卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221225697/iptv8039.smil
 湖南卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221225697/iptv8039.smil
@@ -1816,9 +1819,6 @@ Sky Sports Main Event,P2p://generationnexxxt.com:19806/d80cfc5272f14b4bb675b1c86
 Sky Sports Cricket,P2p://generationnexxxt.com:19806/d342ec6589c24499b5f806408bea4ae8
 Sky Sports Action,P2p://generationnexxxt.com:19806/d627b2c21c264a13afa935d214060989
 🇭🇰港台(备用),#genre#
-
-
-
 凤凰资讯,http://113.117.74.22:8081/hls/36/index.m3u8
 凤凰资讯,http://113.117.74.17:8081/hls/36/index.m3u8
 凤凰资讯,http://113.117.74.20:8081/hls/36/index.m3u8
@@ -1857,12 +1857,12 @@ Sky Sports Action,P2p://generationnexxxt.com:19806/d627b2c21c264a13afa935d214060
 
 
 翡翠台,http://39.106.73.140/g.php?id=1350_4500&/PLTV/hls.smil.m3u8
+翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h02
 翡翠台,http://27.46.125.81:800/hls/98/index.m3u8
 翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20127
 翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=30025
 翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20124
-翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h02
-翡翠台,https://pi.0472.org/tv/fct.php?auth=231005
+翡翠台,https://pi.0472.org/tv/fct.php?auth=231013
 
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/62WM7
@@ -1878,23 +1878,25 @@ Sky Sports Action,P2p://generationnexxxt.com:19806/d627b2c21c264a13afa935d214060
 华丽台,http://23.237.10.66:16410
 
 J2,https://sc2022.stream-link.org/tv2306.php?id=h03
+J2,http://r.jdshipin.com/Nr5jq
 J2,http://27.46.125.81:800/hls/81/index.m3u8
 J2,http://107.167.12.58:27347/livehttpplay?channel_id=30030
 J2,http://107.167.12.58:27347/livehttpplay?channel_id=30023
 J2,http://107.167.12.58:27347/livehttpplay?channel_id=20122
-J2,http://r.jdshipin.com/Nr5jq
+
 
 
 明珠台,http://39.106.73.140/g.php?id=1351_4500&/PLTV/hls.smil.m3u8
+明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://27.46.125.81:800/hls/84/index.m3u8
 明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=30026
 明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=20125
-明珠台,http://r.jdshipin.com/ZQ4kN
+
 
 ViuTV,https://sc2022.stream-link.org/tv2306.php?id=h09
+ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,http://27.46.125.81:800/hls/86/index.m3u8
 ViuTV,http://107.167.12.58:27347/livehttpplay?channel_id=30032
-ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,https://live.astradamy.com/viutv/index.m3u8
 
 ViUTV6,http://27.46.125.81:800/hls/85/index.m3u8
@@ -1904,14 +1906,16 @@ ViUTV6,http://107.167.12.58:41803
 
 
 无线新闻,http://sc2022.stream-link.org/tv2306.php?id=h04
+无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://27.46.125.81:800/hls/82/index.m3u8
 无线新闻,http://107.167.12.58:27347/livehttpplay?channel_id=30024
 无线新闻,http://107.167.12.58:27347/livehttpplay?channel_id=20123
-无线新闻,http://r.jdshipin.com/CkuBd
+
 
 无线财经,http://sc2022.stream-link.org/tv2306.php?id=h05
-无线财经,http://27.46.125.81:800/hls/83/index.m3u8
 无线财经,http://r.jdshipin.com/jUx8K
+无线财经,http://27.46.125.81:800/hls/83/index.m3u8
+
 
 千禧经典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
 千禧经典台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153503&extension=ts&play_token=XgkUlCEKCM
@@ -2003,51 +2007,34 @@ HOY资讯,https://cdn.hklive.tv/hls/78/index.m3u8
 东森洋片,http://angtv.cn/jd/gx.php?id=dsyp
 龙祥时代,http://angtv.cn/jd/gx.php?id=lxsd
 
+东森电影,http://120.84.96.124:808/hls/32/index.m3u8
 东森电影,http://171.110.62.195:8181/tsfile/live/1075_1.m3u8
 东森电影,http://116.11.140.134:8181/tsfile/live/1222_1.m3u8
 东森电影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
 东森电影,http://103.112.191.9:880/LAOSAT1017.m3u8
-东森电影,http://120.84.96.21:808/hls/32/index.m3u8
-东森电影,http://171.110.62.181:8181/tsfile/live/1075_1.m3u8
-东森电影,http://107.151.203.111:2209/135/hk.php?id=dsdyt
-东森电影,http://116.11.141.144:8181/tsfile/live/1222_1.m3u8
-东森电影,https://pull-f5-spe.ixigua.com/live/xyzzowjxnzltjzhecvxczzezzezyhzjyjuozuomjfzhzzzjzszy.flv
 
+
+东森洋片,http://120.84.96.124:808/hls/33/index.m3u8
 东森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
 东森洋片,http://116.11.140.134:8181/tsfile/live/1218_1.m3u8
 东森洋片,http://103.112.191.9:880/LAOSAT1018.m3u8
-东森洋片,http://120.84.96.21:808/hls/33/index.m3u8
-东森洋片,http://171.110.62.181:8181/tsfile/live/1133_1.m3u8
-东森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
-东森洋片,http://107.151.203.111:2209/135/hk.php?id=dsypt
-东森洋片,http://171.110.62.235:8181/tsfile/live/1133_1.m3u8
-东森洋片,http://120.84.96.138:808/hls/33/index.m3u8
-东森洋片,http://120.84.96.89:808/hls/33/index.m3u8
-东森洋片,https://pull-f5-spe.ixigua.com/live/xyzzmzptjzzxfzwetzvbzstzzzsutyhjzhflzzfhfhyzwzsyp.flv
 
+
+龙祥时代,http://120.84.96.124:808/hls/35/index.m3u8
 龙祥时代,http://171.110.62.195:8181/tsfile/live/1077_1.m3u8
 龙祥时代,http://103.112.191.9:880/LAOSAT1084.m3u8
-龙祥时代,http://107.151.203.111:2209/135/hk.php?id=lxsdt
-龙祥时代,http://120.84.96.21:808/hls/35/index.m3u8
-龙祥时代,http://116.11.141.144:8181/tsfile/live/1205_1.m3u8
-龙祥时代,http://120.84.96.113:808/hls/35/index.m3u8
 
-好莱坞电影,http://120.84.96.21:808/hls/24/index.m3u8
+
+好莱坞电影,http://120.84.96.124:808/hls/24/index.m3u8
 好莱坞电影,http://116.11.141.144:8181/tsfile/live/1203_1.m3u8
-好莱坞电影,http://120.84.96.89:808/hls/24/index.m3u8
-好莱坞电影,http://120.84.96.28:808/hls/24/index.m3u8
-好莱坞电影,http://120.84.96.73:808/hls/24/index.m3u8
-好莱坞电影,http://120.84.96.87:808/hls/24/index.m3u8
-好莱坞电影,http://120.84.96.108:808/hls/24/index.m3u8
-好莱坞电影,http://120.84.96.113:808/hls/24/index.m3u8
-好莱坞电影,http://120.84.96.28:808/hls/24/index.m3u8
-好莱坞电影,http://120.84.96.113:808/hls/24/index.m3u8
-好莱坞电影,http://120.84.96.130:808/hls/24/index.m3u8
+
 
 三立台灣,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
 三立台灣,http://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042391~exp=9007200918783382~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=29538a1877a3c3728afe61bcd55b5a7b98f517bb3e2c75f8433b9338fda5b3e3
 三立都會,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 三立都會,http://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042191~exp=9007200918783182~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=957e95920f87270a35afde9e5bd3d25c96af4c19596f0f2cc44ff968b89165c1
+三立台灣,https://sc2022.stream-link.org/tv2306.php?id=t25
+三立都會,https://sc2022.stream-link.org/tv2306.php?id=t26
 
 台视 HD,rtmp://9sv2.mine.nu/sat/tv071
 台视 HD,rtmp://9wv7.mine.nu/sat/tv071
@@ -2173,9 +2160,16 @@ CHC家庭影院,http://www.51nas.top:4022/udp/239.81.0.238:4056
 CHC动作电影,https://live.goodiptv.club/api/sxg.php?id=wqCHCdzdyH265_4000
 CHC高清电影,https://live.goodiptv.club/api/sxg.php?id=lnwsCHC-HDH265_4000
 CHC家庭影院,https://live.goodiptv.club/api/sxg.php?id=jbtygqCHCjtyyH265_4000
-CHC动作电影,http://61.138.167.36:9901/tsfile/live/1014_1.m3u8
-CHC高清电影,http://61.138.167.36:9901/tsfile/live/1015_1.m3u8
-CHC家庭影院,http://61.138.167.36:9901/tsfile/live/1016_1.m3u8
+CHC动作电影,http://hls.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
+CHC高清电影,http://hls.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
+CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
+
+IPTV淘精彩,http://111.196.130.165:4022/udp/239.3.1.178:8001
+IPTV淘剧场,http://111.196.130.165:4022/udp/239.3.1.95:8001
+IPTV淘电影,http://111.196.130.165:4022/udp/239.3.1.250:8001
+IPTV淘娱乐,http://111.196.130.165:4022/udp/239.3.1.100:8001
+IPTV淘娱乐,http://www.youku.cf:4022/rtp/239.3.1.100:8001
+IPTV淘电影,http://www.youku.cf:4022/rtp/239.3.1.250:8001
 
 劲爆体育,https://live.metshop.top/bestv.php?id=jbtyhd8m/8000000
 五星体育,https://live.metshop.top/bestv.php?id=wxtyhd8m/8000000
@@ -2213,26 +2207,35 @@ CHC家庭影院,http://61.138.167.36:9901/tsfile/live/1016_1.m3u8
 法治天地,https://live.metshop.top/bestv.php?id=fztd8m/8000000
 魅力足球,https://live.metshop.top/bestv.php?id=mlyyhd8m/8000000
 
-上海新闻综合,https://cntv.sbs/tv?auth=231005&id=shxwzh
-上海都市,https://cntv.sbs/tv?auth=231005&id=shds
-北京纪实科教,https://cntv.sbs/tv?auth=231005&id=bjjskj
-五星体育,https://cntv.sbs/tv?auth=231005&id=wxty
-华语影院,https://cntv.sbs/tv?auth=231005&id=hyyy
-星光影院,https://cntv.sbs/tv?auth=231005&id=xgyy
-谍战剧场,https://cntv.sbs/tv?auth=231005&id=dzjc
-全球大片,https://cntv.sbs/tv?auth=231005&id=qqdp
-热门剧场,https://cntv.sbs/tv?auth=231005&id=rmjc
-热门综艺,https://cntv.sbs/tv?auth=231005&id=rmzy
-戏曲精选,https://cntv.sbs/tv?auth=231005&id=xqjx
-福建综合,https://cntv.sbs/tv?auth=231005&id=fjzh
-福建新闻,https://cntv.sbs/tv?auth=231005&id=fjxw
-福建电视剧,https://cntv.sbs/tv?auth=231005&id=fjdsj
-福建文体,https://cntv.sbs/tv?auth=231005&id=fjwt
-福建少儿,https://cntv.sbs/tv?auth=231005&id=fjse
-福建旅游,https://cntv.sbs/tv?auth=231005&id=fjly
-福建经济,https://cntv.sbs/tv?auth=231005&id=fjjj
-福建公共,https://cntv.sbs/tv?auth=231005&id=fjgg
-福建教育,https://cntv.sbs/tv?auth=231005&id=fjjy
+BST体育1,https://cntv.sbs/tv?auth=231013&id=sport1
+BST体育2,https://cntv.sbs/tv?auth=231013&id=sport2
+BST体育3,https://cntv.sbs/tv?auth=231013&id=sport3
+BST体育4,https://cntv.sbs/tv?auth=231013&id=sport4
+BST体育5,https://cntv.sbs/tv?auth=231013&id=sport5
+BST体育6,https://cntv.sbs/tv?auth=231013&id=sport6
+BST体育7,https://cntv.sbs/tv?auth=231013&id=sport7
+
+
+上海新闻综合,https://cntv.sbs/tv?auth=231013&id=shxwzh
+上海都市,https://cntv.sbs/tv?auth=231013&id=shds
+北京纪实科教,https://cntv.sbs/tv?auth=231013&id=bjjskj
+五星体育,https://cntv.sbs/tv?auth=231013&id=wxty
+华语影院,https://cntv.sbs/tv?auth=231013&id=hyyy
+星光影院,https://cntv.sbs/tv?auth=231013&id=xgyy
+谍战剧场,https://cntv.sbs/tv?auth=231013&id=dzjc
+全球大片,https://cntv.sbs/tv?auth=231013&id=qqdp
+热门剧场,https://cntv.sbs/tv?auth=231013&id=rmjc
+热门综艺,https://cntv.sbs/tv?auth=231013&id=rmzy
+戏曲精选,https://cntv.sbs/tv?auth=231013&id=xqjx
+福建综合,https://cntv.sbs/tv?auth=231013&id=fjzh
+福建新闻,https://cntv.sbs/tv?auth=231013&id=fjxw
+福建电视剧,https://cntv.sbs/tv?auth=231013&id=fjdsj
+福建文体,https://cntv.sbs/tv?auth=231013&id=fjwt
+福建少儿,https://cntv.sbs/tv?auth=231013&id=fjse
+福建旅游,https://cntv.sbs/tv?auth=231013&id=fjly
+福建经济,https://cntv.sbs/tv?auth=231013&id=fjjj
+福建公共,https://cntv.sbs/tv?auth=231013&id=fjgg
+福建教育,https://cntv.sbs/tv?auth=231013&id=fjjy
 
 🇨🇳虎牙直播,#genre#
 王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2

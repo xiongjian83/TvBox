@@ -1,7 +1,6 @@
-    {
-    "作者":"",
+ {
     "站名":"农民影视",
-    "主页url":"https://v.cnmcom.com/",
+    "主页url":"https://m.xiangdao.me/",
     "简介":"+简&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;介：&&</p>",
     "导演":"导演:&&</div>",
     "主演":"主演:&&</div>",
@@ -14,15 +13,17 @@
     "链接":"href=\"&&\"",
     "搜索url":"/index.php?m=vod-search;post;wd={wd}",
     "搜索数组":"<div class=\"pic\">&&<em",
-    "搜索标题":"sTit\">&&</span>",
+    "搜索标题":"<span class=\"sTit\">&&</span>",
+    "搜索副标题":"sStyle\">&&</span>",
     "搜索图片":"data-src=\"&&\"",
     "搜索链接":"href=\"&&\"",
-    "线路数组":"javascript:;\"&&</li>[替换:默认>>农民][不包含:腾讯#优酷#芒果#奇艺]",
-    "线路标题":"+>&&</a>+",
+    "搜索模式":"1",
+    "线路数组":"javascript:;\"&&</li>[替换:默认>>农民][不包含:奇艺#腾讯#优酷#芒果]",
+    "线路标题":"+>&&</a>",
     "播放数组":"<ul>&&</ul>",
     "播放标题":"title=*>&&<",
     "播放列表":"<a&&/a>",
-    "分类url":"https://v.cnmcom.com/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-0-year-{year}-letter--area-{area}-lang-.html;;akv",
+    "分类url":"https://m.xiangdao.me/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-0-year-{year}-letter--area-{area}-lang-.html;;akv",
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
     "筛选":{
     "1":[
@@ -675,4 +676,4 @@
     }
     ]
     }
-    }
+    } 

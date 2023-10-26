@@ -551,7 +551,6 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 青海卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226301/1/index.m3u8?fmt=ts2hls
 三沙卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226324/1/index.m3u8?fmt=ts2hls
 内蒙古卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225718/1/index.m3u8?fmt=ts2hls
-延边卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225721/1/index.m3u8?fmt=ts2hls
 兵团卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225722/1/index.m3u8?fmt=ts2hls
 大湾区卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225738/1/index.m3u8?fmt=ts2hls
 新疆卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225759/1/index.m3u8?fmt=ts2hls
@@ -1189,8 +1188,8 @@ Sky Sports Main Event,P2p://generationnexxxt.com:19806/d80cfc5272f14b4bb675b1c86
 Sky Sports Cricket,P2p://generationnexxxt.com:19806/d342ec6589c24499b5f806408bea4ae8
 Sky Sports Action,P2p://generationnexxxt.com:19806/d627b2c21c264a13afa935d214060989
 🇭🇰港台(备用),#genre#
-凤凰资讯,http://www.terrykang.cn:5678/sxg.php?id=test2_4000
 凤凰资讯,http://183.250.157.35:8880/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,http://www.terrykang.cn:5678/sxg.php?id=test2_4000
 凤凰资讯,http://113.117.74.22:8081/hls/36/index.m3u8
 凤凰资讯,http://113.117.74.17:8081/hls/36/index.m3u8
 凤凰资讯,http://113.117.74.20:8081/hls/36/index.m3u8
@@ -1202,11 +1201,12 @@ Sky Sports Action,P2p://generationnexxxt.com:19806/d627b2c21c264a13afa935d214060
 凤凰资讯,http://r.jdshipin.com/0Rp0
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 
-凤凰中文,http://www.terrykang.cn:5678/sxg.php?id=test1_4000
+
 凤凰中文,http://183.250.157.35:8880/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://113.117.74.22:8081/hls/37/index.m3u8
 凤凰中文,http://113.117.74.20:8081/hls/37/index.m3u8
 凤凰中文,http://113.117.74.12:8081/hls/37/index.m3u8
+凤凰中文,http://www.terrykang.cn:5678/sxg.php?id=test1_4000
 凤凰中文,https://live.goodiptv.club/api/sxg.php?id=test1_4000
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
@@ -1241,13 +1241,15 @@ Sky Sports Action,P2p://generationnexxxt.com:19806/d627b2c21c264a13afa935d214060
 翡翠台,http://r.jdshipin.com/qrfbg
 
 
-华丽台,https://sc2022.stream-link.org/tv2306.php?id=h00
+
 华丽台,mitv://generationnexxxt.com:19806/4ca2b62e4dd94ae9b523456d84428b39
-华丽台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153505
-华丽台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153505&extension=ts&play_token=u4yRheiuaw
+华丽台,https://sc2022.stream-link.org/tv2306.php?id=h00
 华丽台,http://r.jdshipin.com/thuYX
 华丽台,http://23.237.10.66:16410
 
+明珠台,http://39.106.73.140/g.php?id=1351_4500&/PLTV/hls.smil.m3u8
+明珠台,http://27.46.125.240:800/hls/84/index.m3u8
+明珠台,http://r.jdshipin.com/ZQ4kN
 
 ViuTV,https://pull-f5-spe.ixigua.com/live/YesLiveTV-187832ca-0fa9-412c-80a3-f1632bff01da/index.m3u8?by=yeslivetv.com
 ViUTV6,https://pull-f5-spe.ixigua.com/live/YesLiveTV-29f8762c-0271-42b8-aa2f-9b6e28a34d1f/index.m3u8?by=yeslivetv.com
@@ -1259,42 +1261,30 @@ J2,http://r.jdshipin.com/Nr5jq
 J2,http://r.jdshipin.com/ndGgS
 J2,http://27.46.125.240:800/hls/81/index.m3u8
 J2,https://sc2022.stream-link.org/tv2306.php?id=h03
-J2,http://107.167.12.58:27347/livehttpplay?channel_id=30030
-J2,http://107.167.12.58:27347/livehttpplay?channel_id=30023
-J2,http://107.167.12.58:27347/livehttpplay?channel_id=20122
 
 
-
-明珠台,http://39.106.73.140/g.php?id=1351_4500&/PLTV/hls.smil.m3u8
-明珠台,http://27.46.125.240:800/hls/84/index.m3u8
-明珠台,http://r.jdshipin.com/ZQ4kN
-明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=30026
-明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=20125
 
 
 ViuTV,http://27.46.125.240:800/hls/86/index.m3u8
 ViuTV,https://sc2022.stream-link.org/tv2306.php?id=h09
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,http://r.jdshipin.com/ecsRA
-ViuTV,http://107.167.12.58:27347/livehttpplay?channel_id=30032
 ViuTV,https://live.astradamy.com/viutv/index.m3u8
 
 
 ViUTV6,http://27.46.125.240:800/hls/85/index.m3u8
-ViUTV6,http://107.167.12.58:27347/livehttpplay?channel_id=30033
 ViUTV6,http://107.167.12.58:34809
 ViUTV6,http://107.167.12.58:41803
 
+无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://27.46.125.240:800/hls/82/index.m3u8
 无线新闻,http://sc2022.stream-link.org/tv2306.php?id=h04
-无线新闻,http://r.jdshipin.com/CkuBd
-无线新闻,http://107.167.12.58:27347/livehttpplay?channel_id=30024
-无线新闻,http://107.167.12.58:27347/livehttpplay?channel_id=20123
 
 
+无线财经,http://r.jdshipin.com/jUx8K
 无线财经,http://27.46.125.240:800/hls/83/index.m3u8
 无线财经,http://sc2022.stream-link.org/tv2306.php?id=h05
-无线财经,http://r.jdshipin.com/jUx8K
+
 
 
 

@@ -1306,18 +1306,18 @@ TVB星河,http://r.jdshipin.com/sXuuD
 TVB娱乐新闻台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153504&extension=ts&play_token=9urlq5p625
 TVB娱乐新闻台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571188&extension=ts&play_token=p582OSpABb
 TVB娱乐新闻台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153398&extension=ts&play_token=TPIp3m3TjC
+RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 RTHK31,http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 RTHK31,https://sc2022.stream-link.org/tv2306.php?id=h11
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
-RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream1/streamPlaylist.m3u8
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 RTHK32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 RTHK32,https://sc2022.stream-link.org/tv2306.php?id=h12
 RTHK32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
-RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream4/streamPlaylist.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
@@ -1343,7 +1343,6 @@ HOY TV,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 HOY资讯,http://sc2022.stream-link.org/tv2306.php?id=h17
 HOY资讯,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-
 HOY资讯,https://cdn.hklive.tv/hls/78/index.m3u8
 
 
@@ -1514,23 +1513,7 @@ ELEVEN2,rtmp://119.81.124.89/sat/tv741
 台湾体育3,rtmp://9sv1.mine.nu/sat/md021
 台湾体育4,rtmp://9sv1.mine.nu/sat/md041
 
-民视 HD,https://fsv4.yj011.net/sat/tv051.flv
-台视 HD,https://fsv4.yj011.net/sat/tv071.flv
-中视 HD,https://fsv4.yj011.net/sat/tv091.flv
-华视 HD,https://fsv4.yj011.net/sat/tv111.flv
-TVBS新闻 HD,https://fsv4.yj011.net/sat/tv551.flv
-TVBS欢乐,https://fsv4.yj011.net/sat/tv421.flv
-東森財經新聞,https://fsv4.yj011.net/sat/tv571.flv
-纬来育乐,https://fsv4.yj011.net/sat/tv701.flv
-纬来体育,https://fsv4.yj011.net/sat/tv721.flv
-ELEVEN1,https://fsv4.yj011.net/sat/tv731.flv
-ELEVEN2,https://fsv4.yj011.net/sat/tv741.flv
-MoMo综合,https://fsv4.yj011.net/sat/tv761.flv
-纬来日本,https://fsv4.yj011.net/sat/tv771.flv
-博斯魅力,https://fsv4.yj011.net/sat/md021.flv
-ELTA體育3,https://fsv4.yj011.net/sat/md031.flv
-ELEVEN2,https://fsv4.yj011.net/sat/md041.flv
-ELTA體育1,https://fsv4.yj011.net/sat/md051.flv
+
 
 🇨🇳数字4K,#genre#
 

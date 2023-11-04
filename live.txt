@@ -1,32 +1,5 @@
 📡  央视频道,#genre#
 
-CCTV1,https://live.goodiptv.club/api/ghyx.php?id=CCTV1HD_6000
-CCTV2,https://live.goodiptv.club/api/ghyx.php?id=CCTV2HD_6000
-CCTV3,https://live.goodiptv.club/api/ghyx.php?id=CCTV3HD_6000
-CCTV4,https://live.goodiptv.club/api/ghyx.php?id=CCTV4HD_6000
-CCTV5,https://live.goodiptv.club/api/ghyx.php?id=CCTV5HD_6000
-CCTV5+,https://live.goodiptv.club/api/ghyx.php?id=CCTV5plusHD_6000
-CCTV6,https://live.goodiptv.club/api/ghyx.php?id=CCTV6HD_6000
-CCTV7,https://live.goodiptv.club/api/ghyx.php?id=CCTV7HD_6000
-CCTV8,https://live.goodiptv.club/api/ghyx.php?id=CCTV8HD_6000
-CCTV9,https://live.goodiptv.club/api/ghyx.php?id=CCTV9HD_6000
-CCTV10,https://live.goodiptv.club/api/ghyx.php?id=CCTV10HD_6000
-CCTV11,https://live.goodiptv.club/api/ghyx.php?id=CCTV11HD2_6000
-CCTV12,https://live.goodiptv.club/api/ghyx.php?id=CCTV12HD_6000
-CCTV13,https://live.goodiptv.club/api/ghyx.php?id=CCTV13HD2_6000
-CCTV14,https://live.goodiptv.club/api/ghyx.php?id=CCTV14HD_6000
-CCTV15,https://live.goodiptv.club/api/ghyx.php?id=CCTV15HD_6000
-CCTV16,https://live.goodiptv.club/api/ghyx.php?id=CCTV16HD_6000
-CCTV17,https://live.goodiptv.club/api/ghyx.php?id=CCTV17HD_6000
-
-
-
-CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-CCTV4K,https://live.goodiptv.club/api/ghyx.php?id=CCTV4K_25000
-CCTV164K,https://live.goodiptv.club/api/ghyx.php?id=CCTV16UHD_25000
-CCTV164K,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-
-
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV1,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
@@ -95,6 +68,11 @@ CCTV17,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/32212260
 CCTV4K超高清,https://live.metshop.top/bestv.php?id=cctv4k/15000000
 CCTV4K超高清,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 CCTV4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV4K超高清,https://live.goodiptv.club/api/ghyx.php?id=CCTV4K_25000
+CCTV164K,https://live.goodiptv.club/api/ghyx.php?id=CCTV16UHD_25000
+CCTV164K,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+
+
 
 CCTV1,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw3831204341_1349411946/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115080246&ContentId=265183188&timezone=UTC&mtv_session=01b97ad3f1d61532d8f0d40578ee3f47&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ac6f75650a73ab06efc36233598f26b8
 CCTV2,http://hms104nc1972679566.live.aikan.miguvideo.com/wh7f454c46tw3468827325_440542616/wd_r2/cctv/cctv2hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208125733&ContentId=265667329&timezone=UTC&mtv_session=f739dcaed0e05c0e9e14fa47d0810c20&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=c4d54a337744e33e655349fe312a5eed
@@ -117,25 +95,25 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 CCTV17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061_461954091/migu/kailu/20200324/cctv17hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208133753&ContentId=265667526&timezone=UTC&mtv_session=2ab00b83c917e8ba1b1bb082711b8b77&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4c04c5308e4761e3cc4b36134b05b864
 
 
-CCTV1,https://cntv.sbs/tv?auth=2310201855&id=cctv1
-CCTV2,https://cntv.sbs/tv?auth=2310201855&id=cctv2
-CCTV3,https://cntv.sbs/tv?auth=2310201855&id=cctv3
-CCTV4,https://cntv.sbs/tv?auth=2310201855&id=cctv4
-CCTV5,https://cntv.sbs/tv?auth=2310201855&id=cctv5
-CCTV5+,https://cntv.sbs/tv?auth=2310201855&id=cctv5p
-CCTV6,https://cntv.sbs/tv?auth=2310201855&id=cctv6
-CCTV7,https://cntv.sbs/tv?auth=2310201855&id=cctv7
-CCTV8,https://cntv.sbs/tv?auth=2310201855&id=cctv8
-CCTV9,https://cntv.sbs/tv?auth=2310201855&id=cctv9
-CCTV10,https://cntv.sbs/tv?auth=2310201855&id=cctv10
-CCTV11,https://cntv.sbs/tv?auth=2310201855&id=cctv11
-CCTV12,https://cntv.sbs/tv?auth=2310201855&id=cctv12
-CCTV13,https://cntv.sbs/tv?auth=2310201855&id=cctv13
-CCTV14,https://cntv.sbs/tv?auth=2310201855&id=cctv14
-CCTV15,https://cntv.sbs/tv?auth=2310201855&id=cctv15
-CCTV16,https://cntv.sbs/tv?auth=2310201855&id=cctv16
-CCTV164K,https://cntv.sbs/tv?auth=2310201855&id=cctv164k
-CCTV17,https://cntv.sbs/tv?auth=2310201855&id=cctv17
+CCTV1,https://cntv.lat/tv?auth=202311030915&id=cctv1
+CCTV2,https://cntv.lat/tv?auth=202311030915&id=cctv2
+CCTV3,https://cntv.lat/tv?auth=202311030915&id=cctv3
+CCTV4,https://cntv.lat/tv?auth=202311030915&id=cctv4
+CCTV5,https://cntv.lat/tv?auth=202311030915&id=cctv5
+CCTV5+,https://cntv.lat/tv?auth=202311030915&id=cctv5p
+CCTV6,https://cntv.lat/tv?auth=202311030915&id=cctv6
+CCTV7,https://cntv.lat/tv?auth=202311030915&id=cctv7
+CCTV8,https://cntv.lat/tv?auth=202311030915&id=cctv8
+CCTV9,https://cntv.lat/tv?auth=202311030915&id=cctv9
+CCTV10,https://cntv.lat/tv?auth=202311030915&id=cctv10
+CCTV11,https://cntv.lat/tv?auth=202311030915&id=cctv11
+CCTV12,https://cntv.lat/tv?auth=202311030915&id=cctv12
+CCTV13,https://cntv.lat/tv?auth=202311030915&id=cctv13
+CCTV14,https://cntv.lat/tv?auth=202311030915&id=cctv14
+CCTV15,https://cntv.lat/tv?auth=202311030915&id=cctv15
+CCTV16,https://cntv.lat/tv?auth=202311030915&id=cctv16
+CCTV164K,https://cntv.lat/tv?auth=202311030915&id=cctv164k
+CCTV17,https://cntv.lat/tv?auth=202311030915&id=cctv17
 
 
 CCTV1,rtsp://115.153.233.154/PLTV/88888888/224/3221225699/iptv8040.smil
@@ -184,6 +162,25 @@ CCTV12,http://59.47.226.94:8880/sql/2603/hls.m3u8
 CCTV13,http://59.47.226.94:8880/sql/2604/hls.m3u8
 CCTV14,http://59.47.226.94:8880/sql/2605/hls.m3u8
 CCTV15,http://59.47.226.94:8880/sql/2606/hls.m3u8
+
+CCTV1,https://live.goodiptv.club/api/ghyx.php?id=CCTV1HD_6000
+CCTV2,https://live.goodiptv.club/api/ghyx.php?id=CCTV2HD_6000
+CCTV3,https://live.goodiptv.club/api/ghyx.php?id=CCTV3HD_6000
+CCTV4,https://live.goodiptv.club/api/ghyx.php?id=CCTV4HD_6000
+CCTV5,https://live.goodiptv.club/api/ghyx.php?id=CCTV5HD_6000
+CCTV5+,https://live.goodiptv.club/api/ghyx.php?id=CCTV5plusHD_6000
+CCTV6,https://live.goodiptv.club/api/ghyx.php?id=CCTV6HD_6000
+CCTV7,https://live.goodiptv.club/api/ghyx.php?id=CCTV7HD_6000
+CCTV8,https://live.goodiptv.club/api/ghyx.php?id=CCTV8HD_6000
+CCTV9,https://live.goodiptv.club/api/ghyx.php?id=CCTV9HD_6000
+CCTV10,https://live.goodiptv.club/api/ghyx.php?id=CCTV10HD_6000
+CCTV11,https://live.goodiptv.club/api/ghyx.php?id=CCTV11HD2_6000
+CCTV12,https://live.goodiptv.club/api/ghyx.php?id=CCTV12HD_6000
+CCTV13,https://live.goodiptv.club/api/ghyx.php?id=CCTV13HD2_6000
+CCTV14,https://live.goodiptv.club/api/ghyx.php?id=CCTV14HD_6000
+CCTV15,https://live.goodiptv.club/api/ghyx.php?id=CCTV15HD_6000
+CCTV16,https://live.goodiptv.club/api/ghyx.php?id=CCTV16HD_6000
+CCTV17,https://live.goodiptv.club/api/ghyx.php?id=CCTV17HD_6000
 
 
 
@@ -645,42 +642,42 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 贵州卫视,https://live.metshop.top/bestv.php?id=gzwshd8m/8000000
 海南卫视,https://live.metshop.top/bestv.php?id=hainanwshd8m/8000000
 
-湖南卫视,https://cntv.sbs/tv?auth=2310201855&id=hunws
-浙江卫视,https://cntv.sbs/tv?auth=2310201855&id=zjws
-东方卫视,https://cntv.sbs/tv?auth=2310201855&id=dfws
-北京卫视,https://cntv.sbs/tv?auth=2310201855&id=bjws
-江苏卫视,https://cntv.sbs/tv?auth=2310201855&id=jsws
-东南卫视,https://cntv.sbs/tv?auth=2310201855&id=dnws
-广东卫视,https://cntv.sbs/tv?auth=2310201855&id=gdws
-安徽卫视,https://cntv.sbs/tv?auth=2310201855&id=ahws
-湖北卫视,https://cntv.sbs/tv?auth=2310201855&id=hubws
-河南卫视,https://cntv.sbs/tv?auth=2310201855&id=hnws
-江西卫视,https://cntv.sbs/tv?auth=2310201855&id=jxws
-厦门卫视,https://cntv.sbs/tv?auth=2310201855&id=xmws
-深圳卫视,https://cntv.sbs/tv?auth=2310201855&id=szws
-广西卫视,https://cntv.sbs/tv?auth=2310201855&id=gxws
-云南卫视,https://cntv.sbs/tv?auth=2310201855&id=ynws
-贵州卫视,https://cntv.sbs/tv?auth=2310201855&id=gzws
-四川卫视,https://cntv.sbs/tv?auth=2310201855&id=scws
-重庆卫视,https://cntv.sbs/tv?auth=2310201855&id=cqws
-黑龙江卫视,https://cntv.sbs/tv?auth=2310201855&id=hljws
-天津卫视,https://cntv.sbs/tv?auth=2310201855&id=tjws
-辽宁卫视,https://cntv.sbs/tv?auth=2310201855&id=lnws
-内蒙古卫视,https://cntv.sbs/tv?auth=2310201855&id=nmws
-吉林卫视,https://cntv.sbs/tv?auth=2310201855&id=jlws
-宁夏卫视,https://cntv.sbs/tv?auth=2310201855&id=nxws
-甘肃卫视,https://cntv.sbs/tv?auth=2310201855&id=gsws
-陕西卫视,https://cntv.sbs/tv?auth=2310201855&id=sxws
-河北卫视,https://cntv.sbs/tv?auth=2310201855&id=hbws
-青海卫视,https://cntv.sbs/tv?auth=2310201855&id=qhws
-山西卫视,https://cntv.sbs/tv?auth=2310201855&id=sxiws
-山东卫视,https://cntv.sbs/tv?auth=2310201855&id=sdw
-新疆卫视,https://cntv.sbs/tv?auth=2310201855&id=xjws
-康巴卫视,https://cntv.sbs/tv?auth=2310201855&id=kbws
-兵团卫视,https://cntv.sbs/tv?auth=2310201855&id=btws
-西藏卫视,https://cntv.sbs/tv?auth=2310201855&id=xzws
-海南卫视,https://cntv.sbs/tv?auth=2310201855&id=hinws
-三沙卫视,https://cntv.sbs/tv?auth=2310201855&id=ssws
+湖南卫视,https://cntv.lat/tv?auth=202311030915&id=hunws
+浙江卫视,https://cntv.lat/tv?auth=202311030915&id=zjws
+东方卫视,https://cntv.lat/tv?auth=202311030915&id=dfws
+北京卫视,https://cntv.lat/tv?auth=202311030915&id=bjws
+江苏卫视,https://cntv.lat/tv?auth=202311030915&id=jsws
+东南卫视,https://cntv.lat/tv?auth=202311030915&id=dnws
+广东卫视,https://cntv.lat/tv?auth=202311030915&id=gdws
+安徽卫视,https://cntv.lat/tv?auth=202311030915&id=ahws
+湖北卫视,https://cntv.lat/tv?auth=202311030915&id=hubws
+河南卫视,https://cntv.lat/tv?auth=202311030915&id=hnws
+江西卫视,https://cntv.lat/tv?auth=202311030915&id=jxws
+厦门卫视,https://cntv.lat/tv?auth=202311030915&id=xmws
+深圳卫视,https://cntv.lat/tv?auth=202311030915&id=szws
+广西卫视,https://cntv.lat/tv?auth=202311030915&id=gxws
+云南卫视,https://cntv.lat/tv?auth=202311030915&id=ynws
+贵州卫视,https://cntv.lat/tv?auth=202311030915&id=gzws
+四川卫视,https://cntv.lat/tv?auth=202311030915&id=scws
+重庆卫视,https://cntv.lat/tv?auth=202311030915&id=cqws
+黑龙江卫视,https://cntv.lat/tv?auth=202311030915&id=hljws
+天津卫视,https://cntv.lat/tv?auth=202311030915&id=tjws
+辽宁卫视,https://cntv.lat/tv?auth=202311030915&id=lnws
+内蒙古卫视,https://cntv.lat/tv?auth=202311030915&id=nmws
+吉林卫视,https://cntv.lat/tv?auth=202311030915&id=jlws
+宁夏卫视,https://cntv.lat/tv?auth=202311030915&id=nxws
+甘肃卫视,https://cntv.lat/tv?auth=202311030915&id=gsws
+陕西卫视,https://cntv.lat/tv?auth=202311030915&id=sxws
+河北卫视,https://cntv.lat/tv?auth=202311030915&id=hbws
+青海卫视,https://cntv.lat/tv?auth=202311030915&id=qhws
+山西卫视,https://cntv.lat/tv?auth=202311030915&id=sxiws
+山东卫视,https://cntv.lat/tv?auth=202311030915&id=sdw
+新疆卫视,https://cntv.lat/tv?auth=202311030915&id=xjws
+康巴卫视,https://cntv.lat/tv?auth=202311030915&id=kbws
+兵团卫视,https://cntv.lat/tv?auth=202311030915&id=btws
+西藏卫视,https://cntv.lat/tv?auth=202311030915&id=xzws
+海南卫视,https://cntv.lat/tv?auth=202311030915&id=hinws
+三沙卫视,https://cntv.lat/tv?auth=202311030915&id=ssws
 
 
 
@@ -1233,7 +1230,7 @@ Sky Sports Action,P2p://generationnexxxt.com:19806/d627b2c21c264a13afa935d214060
 翡翠台,http://39.106.73.140/g.php?id=1350_4500&/PLTV/hls.smil.m3u8
 翡翠台,http://27.46.125.240:800/hls/98/index.m3u8
 翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h02
-翡翠台,https://pi.0472.org/tv/fct.php?auth=2310201855
+翡翠台,https://pi.0472.org/tv/fct.php?auth=202311030915
 
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/62WM7
@@ -1251,10 +1248,11 @@ Sky Sports Action,P2p://generationnexxxt.com:19806/d627b2c21c264a13afa935d214060
 明珠台,http://27.46.125.240:800/hls/84/index.m3u8
 明珠台,http://r.jdshipin.com/ZQ4kN
 
-ViuTV,https://pull-f5-spe.ixigua.com/live/YesLiveTV-187832ca-0fa9-412c-80a3-f1632bff01da/index.m3u8?by=yeslivetv.com
-ViUTV6,https://pull-f5-spe.ixigua.com/live/YesLiveTV-29f8762c-0271-42b8-aa2f-9b6e28a34d1f/index.m3u8?by=yeslivetv.com
-无线新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e291b2-4abc-4a95-8da7-a22ebf402964/index.m3u8?by=yeslivetv.com
-无线财经,https://pull-f5-spe.ixigua.com/live/YesLiveTV-1294969b-d12a-4471-809b-c017bdd5a70c/index.m3u8?by=yeslivetv.com
+J2,https://pull-f5-spe.ixigua.com/yeslivetv.com/6027316-581799927/index.m3u8?by=yeslivetv.com
+无线新闻,https://pull-f5-spe.ixigua.com/yeslivetv.com/400055610-719123189/index.m3u8?by=yeslivetv.com
+无线财经,https://pull-f5-spe.ixigua.com/yeslivetv.com/812191221-854821921/index.m3u8?by=yeslivetv.com
+ViuTV,https://pull-f5-spe.ixigua.com/yeslivetv.com/711923214-581799927/index.m3u8?by=yeslivetv.com
+ViUTV6,https://pull-f5-spe.ixigua.com/yeslivetv.com/154548299-581799927/index.m3u8?by=yeslivetv.com
 
 
 J2,http://r.jdshipin.com/Nr5jq
@@ -1291,7 +1289,11 @@ ViUTV6,http://107.167.12.58:41803
 千禧经典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
 千禧经典台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153503&extension=ts&play_token=XgkUlCEKCM
 香港 測試001,http://sc2022.stream-link.org/tv2306.php?id=c01
-香港 測試002,http://sc2022.stream-link.org/tv2306.php?id=c02
+香港 測試002,http://sc2022.stream-link.org/tv2306.php?id=c03
+香港 測試003,http://sc2022.stream-link.org/tv2306.php?id=c08
+香港 測試004,http://sc2022.stream-link.org/tv2306.php?id=c09
+香港 測試005,http://sc2022.stream-link.org/tv2306.php?id=c10
+
 Now新聞台,http://sc2022.stream-link.org/tv2306.php?id=h08
 Now精選體育,https://sc2022.stream-link.org/tv2306.php?id=s01
 TVB華語劇台,https://sc2022.stream-link.org/tv2306.php?id=h21
@@ -1323,27 +1325,27 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream4/str
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
 
-香港国际财经,https://pull-f5-spe.ixigua.com/live/YesLiveTV-312f21aa-d8cf-4d55-bd8f-87069342457d/index.m3u8?by=yeslivetv.com
-HOY TV,https://pull-f5-spe.ixigua.com/live/YesLiveTV-231f06c7-6ec6-47a4-9723-b8c6cd64ad9f/index.m3u8?by=yeslivetv.com
-HOY资讯,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
+HOY TV76,https://pull-f5-spe.ixigua.com/live/YesLiveTV-312f21aa-d8cf-4d55-bd8f-87069342457d/index.m3u8?by=yeslivetv.com
+HOY TV77,https://pull-f5-spe.ixigua.com/yeslivetv.com/934973832-202925490/index.m3u8?by=yeslivetv.com
+HOY TV78,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
 
-香港国际财经,http://sc2022.stream-link.org/tv2306.php?id=h17
-香港国际财经,https://live.astradamy.com/hk76/index.m3u8
-香港国际财经,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+HOY TV76,http://sc2022.stream-link.org/tv2306.php?id=h17
+HOY TV76,https://live.astradamy.com/hk76/index.m3u8
+HOY TV76,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 
-HOY TV,http://r.jdshipin.com/NADme
-HOY TV,http://r.jdshipin.com/ZKpTD
-HOY TV,http://sc2022.stream-link.org/tv2306.php?id=h16
-HOY TV,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-HOY TV,https://live.astradamy.com/hk77/index.m3u8
-HOY TV,https://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/chunklist_w1774969640.m3u8
-HOY TV,https://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/chunklist_w580457497.m3u8
-HOY TV,http://media.fantv.hk/m3u8/archive/channel2.m3u8
-HOY TV,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+HOY TV77,http://r.jdshipin.com/NADme
+HOY TV77,http://r.jdshipin.com/ZKpTD
+HOY TV77,http://sc2022.stream-link.org/tv2306.php?id=h16
+HOY TV77,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+HOY TV77,https://live.astradamy.com/hk77/index.m3u8
+HOY TV77,https://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/chunklist_w1774969640.m3u8
+HOY TV77,https://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/chunklist_w580457497.m3u8
+HOY TV77,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+HOY TV77,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-HOY资讯,http://sc2022.stream-link.org/tv2306.php?id=h17
-HOY资讯,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-HOY资讯,https://cdn.hklive.tv/hls/78/index.m3u8
+HOY TV78,http://sc2022.stream-link.org/tv2306.php?id=h17
+HOY TV78,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+HOY TV78,https://cdn.hklive.tv/hls/78/index.m3u8
 
 
 星空卫视,http://171.108.239.89:8181/tsfile/live/1012_1.m3u8
@@ -1358,7 +1360,7 @@ HOY资讯,https://cdn.hklive.tv/hls/78/index.m3u8
 莲花卫视,http://nettvpro.live/hls/lotustv.php
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
-天映频道,mitv://generationnexxxt.com:19806/234e6bd25b9a42f391c7f0ed73a038e2
+天映频道,https://sc2022.stream-link.org/tv2306.php?id=h24
 天映频道,http://103.112.191.9:880/LAOSAT1029.m3u8
 天映频道,http://210.210.155.37/session/6883312c-b2d3-11ed-8d27-c81f66f89318/dr9445/h/h14/index.m3u8
 天映频道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941618
@@ -1473,6 +1475,7 @@ MoMo综合,rtmp://9sv1.mine.nu/sat/tv761
 MoMo综合,rtmp://9wv7.mine.nu/sat/tv761
 MoMo综合,rtmp://219.80.97.77/sat/tv761
 MoMo综合,rtmp://119.81.124.89/sat/tv761
+卫视中文台,https://pull-f5-spe.ixigua.com/yeslivetv.com/765153566-581799927/index.m3u8?by=yeslivetv.com
 卫视中文台,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941624
 卫视中文台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941624&extension=ts&play_token=xmfFOBilCP
 中天亚洲台,http://sc2022.stream-link.org/tv2306.php?id=t17
@@ -1485,7 +1488,7 @@ MoMo综合,rtmp://119.81.124.89/sat/tv761
 三立新闻,http://sc2022.stream-link.org/tv2306.php?id=t11
 三立新闻,http://123.51.230.64:18543/.m3u8
 年代新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa8b/index.m3u8?by=yeslivetv.com
-东森新闻 HD,https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e58926-5ddd-4f34-92b1-1b1be2babd73/index.m3u8?by=yeslivetv.com
+东森新闻 HD,https://pull-f5-spe.ixigua.com/yeslivetv.com/603295384-581799927/index.m3u8?by=yeslivetv.com
 东森新闻 HD,http://sc2022.stream-link.org/tv2306.php?id=t01
 东森新闻 HD,http://61.221.81.93:8527/hls/65/807/ch843.m3u8
 中天新闻 HD,http://sc2022.stream-link.org/tv2306.php?id=t03
@@ -1592,35 +1595,35 @@ IPTV淘电影,http://www.youku.cf:4022/rtp/239.3.1.250:8001
 法治天地,https://live.metshop.top/bestv.php?id=fztd8m/8000000
 魅力足球,https://live.metshop.top/bestv.php?id=mlyyhd8m/8000000
 
-BST体育1,https://cntv.sbs/tv?auth=2310201855&id=sport1
-BST体育2,https://cntv.sbs/tv?auth=2310201855&id=sport2
-BST体育3,https://cntv.sbs/tv?auth=2310201855&id=sport3
-BST体育4,https://cntv.sbs/tv?auth=2310201855&id=sport4
-BST体育5,https://cntv.sbs/tv?auth=2310201855&id=sport5
-BST体育6,https://cntv.sbs/tv?auth=2310201855&id=sport6
-BST体育7,https://cntv.sbs/tv?auth=2310201855&id=sport7
+BST体育1,https://cntv.lat/tv?auth=202311030915&id=sport1
+BST体育2,https://cntv.lat/tv?auth=202311030915&id=sport2
+BST体育3,https://cntv.lat/tv?auth=202311030915&id=sport3
+BST体育4,https://cntv.lat/tv?auth=202311030915&id=sport4
+BST体育5,https://cntv.lat/tv?auth=202311030915&id=sport5
+BST体育6,https://cntv.lat/tv?auth=202311030915&id=sport6
+BST体育7,https://cntv.lat/tv?auth=202311030915&id=sport7
 
 
-上海新闻综合,https://cntv.sbs/tv?auth=2310201855&id=shxwzh
-上海都市,https://cntv.sbs/tv?auth=2310201855&id=shds
-北京纪实科教,https://cntv.sbs/tv?auth=2310201855&id=bjjskj
-五星体育,https://cntv.sbs/tv?auth=2310201855&id=wxty
-华语影院,https://cntv.sbs/tv?auth=2310201855&id=hyyy
-星光影院,https://cntv.sbs/tv?auth=2310201855&id=xgyy
-谍战剧场,https://cntv.sbs/tv?auth=2310201855&id=dzjc
-全球大片,https://cntv.sbs/tv?auth=2310201855&id=qqdp
-热门剧场,https://cntv.sbs/tv?auth=2310201855&id=rmjc
-热门综艺,https://cntv.sbs/tv?auth=2310201855&id=rmzy
-戏曲精选,https://cntv.sbs/tv?auth=2310201855&id=xqjx
-福建综合,https://cntv.sbs/tv?auth=2310201855&id=fjzh
-福建新闻,https://cntv.sbs/tv?auth=2310201855&id=fjxw
-福建电视剧,https://cntv.sbs/tv?auth=2310201855&id=fjdsj
-福建文体,https://cntv.sbs/tv?auth=2310201855&id=fjwt
-福建少儿,https://cntv.sbs/tv?auth=2310201855&id=fjse
-福建旅游,https://cntv.sbs/tv?auth=2310201855&id=fjly
-福建经济,https://cntv.sbs/tv?auth=2310201855&id=fjjj
-福建公共,https://cntv.sbs/tv?auth=2310201855&id=fjgg
-福建教育,https://cntv.sbs/tv?auth=2310201855&id=fjjy
+上海新闻综合,https://cntv.lat/tv?auth=202311030915&id=shxwzh
+上海都市,https://cntv.lat/tv?auth=202311030915&id=shds
+北京纪实科教,https://cntv.lat/tv?auth=202311030915&id=bjjskj
+五星体育,https://cntv.lat/tv?auth=202311030915&id=wxty
+华语影院,https://cntv.lat/tv?auth=202311030915&id=hyyy
+星光影院,https://cntv.lat/tv?auth=202311030915&id=xgyy
+谍战剧场,https://cntv.lat/tv?auth=202311030915&id=dzjc
+全球大片,https://cntv.lat/tv?auth=202311030915&id=qqdp
+热门剧场,https://cntv.lat/tv?auth=202311030915&id=rmjc
+热门综艺,https://cntv.lat/tv?auth=202311030915&id=rmzy
+戏曲精选,https://cntv.lat/tv?auth=202311030915&id=xqjx
+福建综合,https://cntv.lat/tv?auth=202311030915&id=fjzh
+福建新闻,https://cntv.lat/tv?auth=202311030915&id=fjxw
+福建电视剧,https://cntv.lat/tv?auth=202311030915&id=fjdsj
+福建文体,https://cntv.lat/tv?auth=202311030915&id=fjwt
+福建少儿,https://cntv.lat/tv?auth=202311030915&id=fjse
+福建旅游,https://cntv.lat/tv?auth=202311030915&id=fjly
+福建经济,https://cntv.lat/tv?auth=202311030915&id=fjjj
+福建公共,https://cntv.lat/tv?auth=202311030915&id=fjgg
+福建教育,https://cntv.lat/tv?auth=202311030915&id=fjjy
 
 🇨🇳虎牙直播,#genre#
 王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
@@ -1921,153 +1924,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 剧集_邻里一家亲,http://159.75.85.63:35455/huya/11342426
 
 🇨🇳斗鱼直播,#genre#
-斗鱼电影4K,http://epg.112114.xyz/douyu/9249162
-斗鱼电影HD1,http://epg.112114.xyz/douyu/4246519
-斗鱼电影HD2,http://epg.112114.xyz/douyu/10240553
-斗鱼电影HD3,http://epg.112114.xyz/douyu/122402
-斗鱼电影HD4,http://epg.112114.xyz/douyu/85894
-斗鱼电影HD5,http://epg.112114.xyz/douyu/263824
-斗鱼电影HD6,http://epg.112114.xyz/douyu/747764
-斗鱼电影HD7,http://epg.112114.xyz/douyu/20415
-斗鱼电影HD8,http://epg.112114.xyz/douyu/8663752
-斗鱼电影HD9,http://epg.112114.xyz/douyu/323876
-斗鱼电影HD10,http://epg.112114.xyz/douyu/6140589
-斗鱼电影HD11,http://epg.112114.xyz/douyu/8770422
-斗鱼电影HD12,http://epg.112114.xyz/douyu/2436390
-斗鱼电影HD13,http://epg.112114.xyz/douyu/218859
-斗鱼电影HD14,http://epg.112114.xyz/douyu/36337
-斗鱼电影HD15,http://epg.112114.xyz/douyu/413573
-斗鱼电影HD16,http://epg.112114.xyz/douyu/1504768
-斗鱼电影HD17,http://epg.112114.xyz/douyu/3637726
-斗鱼电影HD18,http://epg.112114.xyz/douyu/9292492
-斗鱼电影HD19,http://epg.112114.xyz/douyu/3637765rrt97
-斗鱼电影HD20,http://epg.112114.xyz/douyu/10395991
-斗鱼电影HD21,http://epg.112114.xyz/douyu/10395986
-斗鱼电影HD22,http://epg.112114.xyz/douyu/252802
-斗鱼电影HD24,http://epg.112114.xyz/douyu/315131
-斗鱼电影HD25,http://epg.112114.xyz/douyu/8945323
-斗鱼电影HD26,http://epg.112114.xyz/douyu/2516864
-斗鱼电影HD27,http://epg.112114.xyz/douyu/248753
-斗鱼电影HD28,http://epg.112114.xyz/douyu/4332
-斗鱼电影HD29,http://epg.112114.xyz/douyu/9651304
-斗鱼电影HD30,http://epg.112114.xyz/douyu/9650887
-斗鱼电影HD31,http://epg.112114.xyz/douyu/8814650
-斗鱼电影HD32,http://epg.112114.xyz/douyu/10240510
-斗鱼电影HD34,http://epg.112114.xyz/douyu/8985415
-斗鱼电影HD35,http://epg.112114.xyz/douyu/1165374
-斗鱼电影HD36,http://epg.112114.xyz/douyu/1735337
-斗鱼电影HD37,http://epg.112114.xyz/douyu/6537888
-斗鱼电影HD38,http://epg.112114.xyz/douyu/6003761
-斗鱼电影HD39,http://epg.112114.xyz/douyu/9683979
-斗鱼电影HD40,http://epg.112114.xyz/douyu/1226741
-斗鱼电影HD41,http://epg.112114.xyz/douyu/59612
-斗鱼电影HD42,http://epg.112114.xyz/douyu/925724
-斗鱼电视剧HD1,http://epg.112114.xyz/douyu/2838296
-斗鱼电视剧HD2,http://epg.112114.xyz/douyu/7701735
-斗鱼电视剧HD3,http://epg.112114.xyz/douyu/7517784
-斗鱼电视剧HD4,http://epg.112114.xyz/douyu/7489563
-斗鱼电视剧HD5,http://epg.112114.xyz/douyu/6566658
-斗鱼电视剧HD6,http://epg.112114.xyz/douyu/431460
-斗鱼电视剧HD7,http://epg.112114.xyz/douyu/8600645
-斗鱼电视剧HD8,http://epg.112114.xyz/douyu/7575350
-斗鱼电视剧HD10,http://epg.112114.xyz/douyu/7644931
-斗鱼电视剧HD11,http://epg.112114.xyz/douyu/9650860
-斗鱼电视剧HD12,http://epg.112114.xyz/douyu/9435180
-斗鱼电视剧HD13,http://epg.112114.xyz/douyu/3756989
-斗鱼电视剧HD14,http://epg.112114.xyz/douyu/6706214
-斗鱼电视剧HD15,http://epg.112114.xyz/douyu/6478650
-斗鱼电视剧1,http://epg.112114.xyz/douyu/299854
-斗鱼电视剧2,http://epg.112114.xyz/douyu/6899895
-斗鱼电视剧3,http://epg.112114.xyz/douyu/276200
-斗鱼电视剧4,http://epg.112114.xyz/douyu/4290711
-斗鱼电视剧5,http://epg.112114.xyz/douyu/6648727
-斗鱼电视剧6,http://epg.112114.xyz/douyu/7314294
-斗鱼电视剧7,http://epg.112114.xyz/douyu/9638983
-斗鱼电视剧8,http://epg.112114.xyz/douyu/5261342
-斗鱼电视剧9,http://epg.112114.xyz/douyu/5522351
-斗鱼电视剧10,http://epg.112114.xyz/douyu/9639508
-斗鱼电视剧11,http://epg.112114.xyz/douyu/2083382
-斗鱼电视剧12,http://epg.112114.xyz/douyu/4373285
-斗鱼电视剧13,http://epg.112114.xyz/douyu/3439096
-斗鱼电视剧14,http://epg.112114.xyz/douyu/4549169
-斗鱼电视剧15,http://epg.112114.xyz/douyu/7254536
-斗鱼电视剧16,http://epg.112114.xyz/douyu/3928r9
-斗鱼电视剧17,http://epg.112114.xyz/douyu/7270927
-斗鱼电视剧18,http://epg.112114.xyz/douyu/7116591
-斗鱼电视剧19,http://epg.112114.xyz/douyu/7459925
-斗鱼电视剧20,http://epg.112114.xyz/douyu/674441
-斗鱼电视剧21,http://epg.112114.xyz/douyu/9518204
-斗鱼电视剧22,http://epg.112114.xyz/douyu/10297898
-斗鱼电视剧23,http://epg.112114.xyz/douyu/8901218
-斗鱼电视剧24,http://epg.112114.xyz/douyu/7292330
-斗鱼电视剧25,http://epg.112114.xyz/douyu/7623292
-斗鱼电视剧26,http://epg.112114.xyz/douyu/7356023
-斗鱼电视剧27,http://epg.112114.xyz/douyu/10068957
-斗鱼电视剧28,http://epg.112114.xyz/douyu/308752
-斗鱼电视剧29,http://epg.112114.xyz/douyu/3758762
-
-周星驰,http://epg.112114.xyz/douyu/122402
-刘德华,http://epg.112114.xyz/douyu/2516864
-好先生,http://epg.112114.xyz/douyu/9650792
-庆余年,http://epg.112114.xyz/douyu/5908256
-欢乐综艺,http://epg.112114.xyz/douyu/131977
-万合出品,http://epg.112114.xyz/douyu/9220456
-邵氏影院,http://epg.112114.xyz/douyu/4246519
-吃米滴虫,http://epg.112114.xyz/douyu/315457
-高分电影,http://epg.112114.xyz/douyu/7254536
-豆瓣高分,http://epg.112114.xyz/douyu/8770422
-漫威影院,http://epg.112114.xyz/douyu/6140589
-特辑电影,http://epg.112114.xyz/douyu/3637778
-粤语电影,http://epg.112114.xyz/douyu/1226741
-国产电影,http://epg.112114.xyz/douyu/5423
-精彩电影,http://epg.112114.xyz/douyu/9650887
-喜剧电影,http://epg.112114.xyz/douyu/323876
-动作电影,http://epg.112114.xyz/douyu/6763930
-恐怖电影,http://epg.112114.xyz/douyu/218859
-恐怖鬼怪,http://epg.112114.xyz/douyu/1165374
-童年阴影,http://epg.112114.xyz/douyu/2935323
-惊悚电影,http://epg.112114.xyz/douyu/96577
-粤语电影,http://epg.112114.xyz/douyu/6566671
-华语影视,http://epg.112114.xyz/douyu/3928
-神乐影视,http://epg.112114.xyz/douyu/85894
-周末影院,http://epg.112114.xyz/douyu/3637765
-周末电影,http://epg.112114.xyz/douyu/3637726
-兔子影厅,http://epg.112114.xyz/douyu/8985415
-冰冰影厅,http://epg.112114.xyz/douyu/74374
-刀刀影院,http://epg.112114.xyz/douyu/747764
-奶虫影院,http://epg.112114.xyz/douyu/263824
-贝爷壹厅,http://epg.112114.xyz/douyu/252802
-贝爷贰厅,http://epg.112114.xyz/douyu/4332
-贝爷叁厅,http://epg.112114.xyz/douyu/36337
-凌儿影院,http://epg.112114.xyz/douyu/1377142
-云宝影院,http://epg.112114.xyz/douyu/7305938
-花卷影院,http://epg.112114.xyz/douyu/52787
-菜园小饼,http://epg.112114.xyz/douyu/1735337
-米娅影院,http://epg.112114.xyz/douyu/6537888
-橙記港剧,http://epg.112114.xyz/douyu/4549169
-大宝影视,http://epg.112114.xyz/douyu/805235
-蚂蚱影视,http://epg.112114.xyz/douyu/6079455
-怡寶影视,http://epg.112114.xyz/douyu/434971
-圆子影视,http://epg.112114.xyz/douyu/6566658
-贝贝影视,http://epg.112114.xyz/douyu/431460
-可乐影视,http://epg.112114.xyz/douyu/20415
-萌牛影视,http://epg.112114.xyz/douyu/7494871
-兔兔影视,http://epg.112114.xyz/douyu/1504768
-无双影视,http://epg.112114.xyz/douyu/4870914
-下饭神剧,http://epg.112114.xyz/douyu/276200
-古装神剧,http://epg.112114.xyz/douyu/338759
-晚湾影视,http://epg.112114.xyz/douyu/9461178
-酒染影视,http://epg.112114.xyz/douyu/7550220
-芊珏影视,http://epg.112114.xyz/douyu/8814650
-热门港剧,http://epg.112114.xyz/douyu/5522351
-盗墓剧集,http://epg.112114.xyz/douyu/9292503
-金庸武侠,http://epg.112114.xyz/douyu/7644931
-国产剧集,http://epg.112114.xyz/douyu/8157860
-国产剧场,http://epg.112114.xyz/douyu/308752
-爱情公寓,http://epg.112114.xyz/douyu/2838296
-经典剧集,http://epg.112114.xyz/douyu/6863367
-李卫当官,http://epg.112114.xyz/douyu/7473576
-
 斗鱼电影4K,http://159.75.85.63:35455/douyu/9249162
 斗鱼电影HD1,http://159.75.85.63:35455/douyu/4246519
 斗鱼电影HD2,http://159.75.85.63:35455/douyu/10240553
@@ -2214,6 +2070,153 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 爱情公寓,http://159.75.85.63:35455/douyu/2838296
 经典剧集,http://159.75.85.63:35455/douyu/6863367
 李卫当官,http://159.75.85.63:35455/douyu/7473576
+
+斗鱼电影4K,http://epg.112114.xyz/douyu/9249162
+斗鱼电影HD1,http://epg.112114.xyz/douyu/4246519
+斗鱼电影HD2,http://epg.112114.xyz/douyu/10240553
+斗鱼电影HD3,http://epg.112114.xyz/douyu/122402
+斗鱼电影HD4,http://epg.112114.xyz/douyu/85894
+斗鱼电影HD5,http://epg.112114.xyz/douyu/263824
+斗鱼电影HD6,http://epg.112114.xyz/douyu/747764
+斗鱼电影HD7,http://epg.112114.xyz/douyu/20415
+斗鱼电影HD8,http://epg.112114.xyz/douyu/8663752
+斗鱼电影HD9,http://epg.112114.xyz/douyu/323876
+斗鱼电影HD10,http://epg.112114.xyz/douyu/6140589
+斗鱼电影HD11,http://epg.112114.xyz/douyu/8770422
+斗鱼电影HD12,http://epg.112114.xyz/douyu/2436390
+斗鱼电影HD13,http://epg.112114.xyz/douyu/218859
+斗鱼电影HD14,http://epg.112114.xyz/douyu/36337
+斗鱼电影HD15,http://epg.112114.xyz/douyu/413573
+斗鱼电影HD16,http://epg.112114.xyz/douyu/1504768
+斗鱼电影HD17,http://epg.112114.xyz/douyu/3637726
+斗鱼电影HD18,http://epg.112114.xyz/douyu/9292492
+斗鱼电影HD19,http://epg.112114.xyz/douyu/3637765rrt97
+斗鱼电影HD20,http://epg.112114.xyz/douyu/10395991
+斗鱼电影HD21,http://epg.112114.xyz/douyu/10395986
+斗鱼电影HD22,http://epg.112114.xyz/douyu/252802
+斗鱼电影HD24,http://epg.112114.xyz/douyu/315131
+斗鱼电影HD25,http://epg.112114.xyz/douyu/8945323
+斗鱼电影HD26,http://epg.112114.xyz/douyu/2516864
+斗鱼电影HD27,http://epg.112114.xyz/douyu/248753
+斗鱼电影HD28,http://epg.112114.xyz/douyu/4332
+斗鱼电影HD29,http://epg.112114.xyz/douyu/9651304
+斗鱼电影HD30,http://epg.112114.xyz/douyu/9650887
+斗鱼电影HD31,http://epg.112114.xyz/douyu/8814650
+斗鱼电影HD32,http://epg.112114.xyz/douyu/10240510
+斗鱼电影HD34,http://epg.112114.xyz/douyu/8985415
+斗鱼电影HD35,http://epg.112114.xyz/douyu/1165374
+斗鱼电影HD36,http://epg.112114.xyz/douyu/1735337
+斗鱼电影HD37,http://epg.112114.xyz/douyu/6537888
+斗鱼电影HD38,http://epg.112114.xyz/douyu/6003761
+斗鱼电影HD39,http://epg.112114.xyz/douyu/9683979
+斗鱼电影HD40,http://epg.112114.xyz/douyu/1226741
+斗鱼电影HD41,http://epg.112114.xyz/douyu/59612
+斗鱼电影HD42,http://epg.112114.xyz/douyu/925724
+斗鱼电视剧HD1,http://epg.112114.xyz/douyu/2838296
+斗鱼电视剧HD2,http://epg.112114.xyz/douyu/7701735
+斗鱼电视剧HD3,http://epg.112114.xyz/douyu/7517784
+斗鱼电视剧HD4,http://epg.112114.xyz/douyu/7489563
+斗鱼电视剧HD5,http://epg.112114.xyz/douyu/6566658
+斗鱼电视剧HD6,http://epg.112114.xyz/douyu/431460
+斗鱼电视剧HD7,http://epg.112114.xyz/douyu/8600645
+斗鱼电视剧HD8,http://epg.112114.xyz/douyu/7575350
+斗鱼电视剧HD10,http://epg.112114.xyz/douyu/7644931
+斗鱼电视剧HD11,http://epg.112114.xyz/douyu/9650860
+斗鱼电视剧HD12,http://epg.112114.xyz/douyu/9435180
+斗鱼电视剧HD13,http://epg.112114.xyz/douyu/3756989
+斗鱼电视剧HD14,http://epg.112114.xyz/douyu/6706214
+斗鱼电视剧HD15,http://epg.112114.xyz/douyu/6478650
+斗鱼电视剧1,http://epg.112114.xyz/douyu/299854
+斗鱼电视剧2,http://epg.112114.xyz/douyu/6899895
+斗鱼电视剧3,http://epg.112114.xyz/douyu/276200
+斗鱼电视剧4,http://epg.112114.xyz/douyu/4290711
+斗鱼电视剧5,http://epg.112114.xyz/douyu/6648727
+斗鱼电视剧6,http://epg.112114.xyz/douyu/7314294
+斗鱼电视剧7,http://epg.112114.xyz/douyu/9638983
+斗鱼电视剧8,http://epg.112114.xyz/douyu/5261342
+斗鱼电视剧9,http://epg.112114.xyz/douyu/5522351
+斗鱼电视剧10,http://epg.112114.xyz/douyu/9639508
+斗鱼电视剧11,http://epg.112114.xyz/douyu/2083382
+斗鱼电视剧12,http://epg.112114.xyz/douyu/4373285
+斗鱼电视剧13,http://epg.112114.xyz/douyu/3439096
+斗鱼电视剧14,http://epg.112114.xyz/douyu/4549169
+斗鱼电视剧15,http://epg.112114.xyz/douyu/7254536
+斗鱼电视剧16,http://epg.112114.xyz/douyu/3928r9
+斗鱼电视剧17,http://epg.112114.xyz/douyu/7270927
+斗鱼电视剧18,http://epg.112114.xyz/douyu/7116591
+斗鱼电视剧19,http://epg.112114.xyz/douyu/7459925
+斗鱼电视剧20,http://epg.112114.xyz/douyu/674441
+斗鱼电视剧21,http://epg.112114.xyz/douyu/9518204
+斗鱼电视剧22,http://epg.112114.xyz/douyu/10297898
+斗鱼电视剧23,http://epg.112114.xyz/douyu/8901218
+斗鱼电视剧24,http://epg.112114.xyz/douyu/7292330
+斗鱼电视剧25,http://epg.112114.xyz/douyu/7623292
+斗鱼电视剧26,http://epg.112114.xyz/douyu/7356023
+斗鱼电视剧27,http://epg.112114.xyz/douyu/10068957
+斗鱼电视剧28,http://epg.112114.xyz/douyu/308752
+斗鱼电视剧29,http://epg.112114.xyz/douyu/3758762
+
+周星驰,http://epg.112114.xyz/douyu/122402
+刘德华,http://epg.112114.xyz/douyu/2516864
+好先生,http://epg.112114.xyz/douyu/9650792
+庆余年,http://epg.112114.xyz/douyu/5908256
+欢乐综艺,http://epg.112114.xyz/douyu/131977
+万合出品,http://epg.112114.xyz/douyu/9220456
+邵氏影院,http://epg.112114.xyz/douyu/4246519
+吃米滴虫,http://epg.112114.xyz/douyu/315457
+高分电影,http://epg.112114.xyz/douyu/7254536
+豆瓣高分,http://epg.112114.xyz/douyu/8770422
+漫威影院,http://epg.112114.xyz/douyu/6140589
+特辑电影,http://epg.112114.xyz/douyu/3637778
+粤语电影,http://epg.112114.xyz/douyu/1226741
+国产电影,http://epg.112114.xyz/douyu/5423
+精彩电影,http://epg.112114.xyz/douyu/9650887
+喜剧电影,http://epg.112114.xyz/douyu/323876
+动作电影,http://epg.112114.xyz/douyu/6763930
+恐怖电影,http://epg.112114.xyz/douyu/218859
+恐怖鬼怪,http://epg.112114.xyz/douyu/1165374
+童年阴影,http://epg.112114.xyz/douyu/2935323
+惊悚电影,http://epg.112114.xyz/douyu/96577
+粤语电影,http://epg.112114.xyz/douyu/6566671
+华语影视,http://epg.112114.xyz/douyu/3928
+神乐影视,http://epg.112114.xyz/douyu/85894
+周末影院,http://epg.112114.xyz/douyu/3637765
+周末电影,http://epg.112114.xyz/douyu/3637726
+兔子影厅,http://epg.112114.xyz/douyu/8985415
+冰冰影厅,http://epg.112114.xyz/douyu/74374
+刀刀影院,http://epg.112114.xyz/douyu/747764
+奶虫影院,http://epg.112114.xyz/douyu/263824
+贝爷壹厅,http://epg.112114.xyz/douyu/252802
+贝爷贰厅,http://epg.112114.xyz/douyu/4332
+贝爷叁厅,http://epg.112114.xyz/douyu/36337
+凌儿影院,http://epg.112114.xyz/douyu/1377142
+云宝影院,http://epg.112114.xyz/douyu/7305938
+花卷影院,http://epg.112114.xyz/douyu/52787
+菜园小饼,http://epg.112114.xyz/douyu/1735337
+米娅影院,http://epg.112114.xyz/douyu/6537888
+橙記港剧,http://epg.112114.xyz/douyu/4549169
+大宝影视,http://epg.112114.xyz/douyu/805235
+蚂蚱影视,http://epg.112114.xyz/douyu/6079455
+怡寶影视,http://epg.112114.xyz/douyu/434971
+圆子影视,http://epg.112114.xyz/douyu/6566658
+贝贝影视,http://epg.112114.xyz/douyu/431460
+可乐影视,http://epg.112114.xyz/douyu/20415
+萌牛影视,http://epg.112114.xyz/douyu/7494871
+兔兔影视,http://epg.112114.xyz/douyu/1504768
+无双影视,http://epg.112114.xyz/douyu/4870914
+下饭神剧,http://epg.112114.xyz/douyu/276200
+古装神剧,http://epg.112114.xyz/douyu/338759
+晚湾影视,http://epg.112114.xyz/douyu/9461178
+酒染影视,http://epg.112114.xyz/douyu/7550220
+芊珏影视,http://epg.112114.xyz/douyu/8814650
+热门港剧,http://epg.112114.xyz/douyu/5522351
+盗墓剧集,http://epg.112114.xyz/douyu/9292503
+金庸武侠,http://epg.112114.xyz/douyu/7644931
+国产剧集,http://epg.112114.xyz/douyu/8157860
+国产剧场,http://epg.112114.xyz/douyu/308752
+爱情公寓,http://epg.112114.xyz/douyu/2838296
+经典剧集,http://epg.112114.xyz/douyu/6863367
+李卫当官,http://epg.112114.xyz/douyu/7473576
 
 🇨🇳埋堆堆（港剧）,#genre#
 埋堆堆01,http://159.75.85.63:35455/huya/23749096
@@ -2759,7 +2762,6 @@ Big B Radio - 中文流行,http://cpop.bigbradio.net/s
 Big B Radio - 韩语流行,http://kpop.bigbradio.net/s
 Big B Radio - 日语流行,http://jpop.bigbradio.net/s
 Big B Radio - 亚洲流行,http://apop.bigbradio.net/s
-Modern Radio,http://play.redefine.ltd/Stream1/FM1058-1.m3u8
 电音电台,http://play.redefine.ltd/Stream3/FM1058-3.m3u8
 古典音乐台,http://play.redefine.ltd/Stream2/FM1058-2.m3u8
 萤火虫网络台,http://211.149.226.193:8066/1022.mp3

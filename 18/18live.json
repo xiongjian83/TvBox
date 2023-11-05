@@ -1,16 +1,16 @@
 //以下全部来自网络，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 {
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/custom_spider.jar;md5;2ea1762a8c802608c2222c7051709afc",
+  "spider": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/custom_spider.jar;md5;2ea1762a8c802608c2222c7051709afc",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "lives": [
     {
       "name": "18live",
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/18/18live.txt",
+      "url": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/18/18live.txt",
       "type": 0
     },
     {
       "name":"18m3u8",
-      "url":"https://ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/18/18live.m3u8",
+      "url":"https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/18/18live.m3u8",
       "type": 0
     }
   ],

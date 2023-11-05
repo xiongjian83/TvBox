@@ -1522,10 +1522,8 @@ Sky Sports Main Event,P2p://generationnexxxt.com:19806/d80cfc5272f14b4bb675b1c86
 Sky Sports Cricket,P2p://generationnexxxt.com:19806/d342ec6589c24499b5f806408bea4ae8
 Sky Sports Action,P2p://generationnexxxt.com:19806/d627b2c21c264a13afa935d214060989
 🇭🇰港台(备用),#genre#
-凤凰资讯,http://183.250.157.35:8880/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰资讯,http://www.terrykang.cn:5678/sxg.php?id=test2_4000
-凤凰资讯,http://113.117.74.22:8081/hls/36/index.m3u8
 凤凰资讯,http://113.117.74.17:8081/hls/36/index.m3u8
+凤凰资讯,http://113.117.74.22:8081/hls/36/index.m3u8
 凤凰资讯,http://113.117.74.20:8081/hls/36/index.m3u8
 凤凰资讯,http://113.117.74.12:8081/hls/36/index.m3u8
 凤凰资讯,https://live.goodiptv.club/api/sxg.php?id=test2_4000
@@ -1536,7 +1534,7 @@ Sky Sports Action,P2p://generationnexxxt.com:19806/d627b2c21c264a13afa935d214060
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 
 
-凤凰中文,http://183.250.157.35:8880/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,http://113.117.74.17:8081/hls/37/index.m3u8
 凤凰中文,http://113.117.74.22:8081/hls/37/index.m3u8
 凤凰中文,http://113.117.74.20:8081/hls/37/index.m3u8
 凤凰中文,http://113.117.74.12:8081/hls/37/index.m3u8
@@ -1562,12 +1560,11 @@ Sky Sports Action,P2p://generationnexxxt.com:19806/d627b2c21c264a13afa935d214060
 凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
 凤凰香港,http://php.17186.eu.org/phtv/fhxg.m3u8
 
-
-
+翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/a65b5d46-e09a-442f-913b-770744522db5/index.m3u8?by=yeslivetv.com
+翡翠台,https://pi.0472.org/tv/fct.php?auth=202311030915
 翡翠台,http://39.106.73.140/g.php?id=1350_4500&/PLTV/hls.smil.m3u8
 翡翠台,http://27.46.125.240:800/hls/98/index.m3u8
 翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h02
-翡翠台,https://pi.0472.org/tv/fct.php?auth=202311030915
 
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/62WM7
@@ -1581,16 +1578,18 @@ Sky Sports Action,P2p://generationnexxxt.com:19806/d627b2c21c264a13afa935d214060
 华丽台,http://r.jdshipin.com/thuYX
 华丽台,http://23.237.10.66:16410
 
+明珠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/721214887-85571190/index.m3u8?by=yeslivetv.com
+明珠台,https://pi.0472.org/tv/mzt.php?auth=202311030915
+明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://39.106.73.140/g.php?id=1351_4500&/PLTV/hls.smil.m3u8
 明珠台,http://27.46.125.240:800/hls/84/index.m3u8
-明珠台,http://r.jdshipin.com/ZQ4kN
 
-J2,https://pull-f5-spe.ixigua.com/yeslivetv.com/6027316-581799927/index.m3u8?by=yeslivetv.com
+
+J2,https://pull-f5-spe.ixigua.com/yeslivetv.com/624269048-85571190/index.m3u8?by=yeslivetv.com
 无线新闻,https://pull-f5-spe.ixigua.com/yeslivetv.com/400055610-719123189/index.m3u8?by=yeslivetv.com
 无线财经,https://pull-f5-spe.ixigua.com/yeslivetv.com/812191221-854821921/index.m3u8?by=yeslivetv.com
-ViuTV,https://pull-f5-spe.ixigua.com/yeslivetv.com/711923214-581799927/index.m3u8?by=yeslivetv.com
-ViUTV6,https://pull-f5-spe.ixigua.com/yeslivetv.com/154548299-581799927/index.m3u8?by=yeslivetv.com
-
+ViuTV,https://pull-f5-spe.ixigua.com/yeslivetv.com/234735543-85571190/index.m3u8?by=yeslivetv.com
+ViUTV6,https://pull-f5-spe.ixigua.com/yeslivetv.com/817910247-85571190/index.m3u8?by=yeslivetv.com
 
 J2,http://r.jdshipin.com/Nr5jq
 J2,http://r.jdshipin.com/ndGgS
@@ -1663,7 +1662,7 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
 
 HOY TV76,https://pull-f5-spe.ixigua.com/live/YesLiveTV-312f21aa-d8cf-4d55-bd8f-87069342457d/index.m3u8?by=yeslivetv.com
-HOY TV77,https://pull-f5-spe.ixigua.com/yeslivetv.com/934973832-202925490/index.m3u8?by=yeslivetv.com
+HOY TV77,https://pull-f5-spe.ixigua.com/yeslivetv.com/283513929-661180196/index.m3u8?by=yeslivetv.com
 HOY TV78,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
 
 HOY TV76,http://sc2022.stream-link.org/tv2306.php?id=h17
@@ -1697,6 +1696,8 @@ HOY TV78,https://cdn.hklive.tv/hls/78/index.m3u8
 莲花卫视,http://nettvpro.live/hls/lotustv.php
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
+
+天映频道,mitv://generationnexxxt.com:19806/234e6bd25b9a42f391c7f0ed73a038e2
 天映频道,https://sc2022.stream-link.org/tv2306.php?id=h24
 天映频道,http://103.112.191.9:880/LAOSAT1029.m3u8
 天映频道,http://210.210.155.37/session/6883312c-b2d3-11ed-8d27-c81f66f89318/dr9445/h/h14/index.m3u8
@@ -1812,7 +1813,7 @@ MoMo综合,rtmp://9sv1.mine.nu/sat/tv761
 MoMo综合,rtmp://9wv7.mine.nu/sat/tv761
 MoMo综合,rtmp://219.80.97.77/sat/tv761
 MoMo综合,rtmp://119.81.124.89/sat/tv761
-卫视中文台,https://pull-f5-spe.ixigua.com/yeslivetv.com/765153566-581799927/index.m3u8?by=yeslivetv.com
+卫视中文台,https://pull-f5-spe.ixigua.com/yeslivetv.com/291230613-85571190/index.m3u8?by=yeslivetv.com
 卫视中文台,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941624
 卫视中文台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941624&extension=ts&play_token=xmfFOBilCP
 中天亚洲台,http://sc2022.stream-link.org/tv2306.php?id=t17
@@ -1825,7 +1826,7 @@ MoMo综合,rtmp://119.81.124.89/sat/tv761
 三立新闻,http://sc2022.stream-link.org/tv2306.php?id=t11
 三立新闻,http://123.51.230.64:18543/.m3u8
 年代新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa8b/index.m3u8?by=yeslivetv.com
-东森新闻 HD,https://pull-f5-spe.ixigua.com/yeslivetv.com/603295384-581799927/index.m3u8?by=yeslivetv.com
+东森新闻 HD,https://pull-f5-spe.ixigua.com/yeslivetv.com/290505668-85571190/index.m3u8?by=yeslivetv.com
 东森新闻 HD,http://sc2022.stream-link.org/tv2306.php?id=t01
 东森新闻 HD,http://61.221.81.93:8527/hls/65/807/ch843.m3u8
 中天新闻 HD,http://sc2022.stream-link.org/tv2306.php?id=t03

@@ -1,6 +1,5 @@
 📡  央视频道,#genre#
 
-CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV1,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
@@ -1386,14 +1385,6 @@ NBC news,http://38.55.196.64/geji/live.php?id=nbcnews
 
 
 🇭🇰港台(备用),#genre#
-凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
-凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
-凤凰香港,http://php.17186.eu.org/phtv/fhxg.m3u8
-
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-
 
 凤凰资讯,http://113.117.74.17:8081/hls/36/index.m3u8
 凤凰资讯,http://113.117.74.22:8081/hls/36/index.m3u8
@@ -1426,9 +1417,13 @@ NBC news,http://38.55.196.64/geji/live.php?id=nbcnews
 凤凰香港,http://120.84.96.138:808/hls/81/index.m3u8
 凤凰香港,http://sc2022.stream-link.org/tv2306.php?id=h20
 
+凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
+凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
+凤凰香港,http://php.17186.eu.org/phtv/fhxg.m3u8
 
-
-
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
 
 

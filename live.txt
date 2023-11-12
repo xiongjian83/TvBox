@@ -1118,8 +1118,6 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 江西移动,rtsp://115.153.233.154/PLTV/88888888/224/3221227070/96801473.smil
 
 💫测试频道,#genre#
-
-http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=tvb-asia-drama
 凤凰中文,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=phoenixtv_hd
 凤凰资讯,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=phoenixinfo_hd
 香港台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=hkphoenix_twn

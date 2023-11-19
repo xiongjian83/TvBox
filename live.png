@@ -100,24 +100,24 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 CCTV17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061_461954091/migu/kailu/20200324/cctv17hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208133753&ContentId=265667526&timezone=UTC&mtv_session=2ab00b83c917e8ba1b1bb082711b8b77&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4c04c5308e4761e3cc4b36134b05b864
 
 
-CCTV1,http://cntv.lat/tv/live.php?auth=231110&id=cctv1HD
-CCTV2,http://cntv.lat/tv/live.php?auth=231110&id=cctv2HD
-CCTV3,http://cntv.lat/tv/live.php?auth=231110&id=cctv3HD
-CCTV4,http://cntv.lat/tv/live.php?auth=231110&id=cctv4HD
-CCTV5,http://cntv.lat/tv/live.php?auth=231110&id=cctv5HD
-CCTV5+,http://cntv.lat/tv/live.php?auth=231110&id=cctv5SportHD
-CCTV6,http://cntv.lat/tv/live.php?auth=231110&id=cctv6HD
-CCTV7,http://cntv.lat/tv/live.php?auth=231110&id=cctv7HD
-CCTV8,http://cntv.lat/tv/live.php?auth=231110&id=cctv8HD
-CCTV9,http://cntv.lat/tv/live.php?auth=231110&id=cctv9HD
-CCTV10,http://cntv.lat/tv/live.php?auth=231110&id=cctv10HD
-CCTV11,http://cntv.lat/tv/live.php?auth=231110&id=cctv11HD
-CCTV12,http://cntv.lat/tv/live.php?auth=231110&id=cctv12HD
-CCTV13,http://cntv.lat/tv/live.php?auth=231110&id=CCTVNewsHD
-CCTV14,http://cntv.lat/tv/live.php?auth=231110&id=cctvseHD
-CCTV15,http://cntv.lat/tv/live.php?auth=231110&id=cctv15HD
-CCTV16,http://cntv.lat/tv/live.php?auth=231110&id=cctv16HD
-CCTV17,http://cntv.lat/tv/live.php?auth=231110&id=cctv17HD
+CCTV1,http://cntv.lat/tv/cctv.php?auth=231110&id=cctv1HD
+CCTV2,http://cntv.lat/tv/cctv.php?auth=231110&id=cctv2HD
+CCTV3,http://cntv.lat/tv/cctv.php?auth=231110&id=cctv3HD
+CCTV4,http://cntv.lat/tv/cctv.php?auth=231110&id=cctv4HD
+CCTV5,http://cntv.lat/tv/cctv.php?auth=231110&id=cctv5HD
+CCTV5+,http://cntv.lat/tv/cctv.php?auth=231110&id=cctv5SportHD
+CCTV6,http://cntv.lat/tv/cctv.php?auth=231110&id=cctv6HD
+CCTV7,http://cntv.lat/tv/cctv.php?auth=231110&id=cctv7HD
+CCTV8,http://cntv.lat/tv/cctv.php?auth=231110&id=cctv8HD
+CCTV9,http://cntv.lat/tv/cctv.php?auth=231110&id=cctv9HD
+CCTV10,http://cntv.lat/tv/cctv.php?auth=231110&id=cctv10HD
+CCTV11,http://cntv.lat/tv/cctv.php?auth=231110&id=cctv11HD
+CCTV12,http://cntv.lat/tv/cctv.php?auth=231110&id=cctv12HD
+CCTV13,http://cntv.lat/tv/cctv.php?auth=231110&id=CCTVNewsHD
+CCTV14,http://cntv.lat/tv/cctv.php?auth=231110&id=cctvseHD
+CCTV15,http://cntv.lat/tv/cctv.php?auth=231110&id=cctv15HD
+CCTV16,http://cntv.lat/tv/cctv.php?auth=231110&id=cctv16HD
+CCTV17,http://cntv.lat/tv/lcctv.php?auth=231110&id=cctv17HD
 CCTV4K超高清,http://cntv.lat/tv/live.php?auth=231110&id=CCTV4K
 CCTV164K,http://cntv.lat/tv/live.php?auth=231110&id=CCTV16_4K
 
@@ -1635,6 +1635,11 @@ IPTV淘电影,http://111.196.130.165:4022/udp/239.3.1.250:8001
 IPTV淘娱乐,http://111.196.130.165:4022/udp/239.3.1.100:8001
 IPTV淘娱乐,http://www.youku.cf:4022/rtp/239.3.1.100:8001
 IPTV淘电影,http://www.youku.cf:4022/rtp/239.3.1.250:8001
+
+欢笑剧场,https://cntv.lat/tv/live.php?auth=231110&id=hxjc_4K
+都市剧场,https://cntv.lat/tv/live.php?auth=231110&id=dsjcHD
+魅力足球,https://cntv.lat/tv/live.php?auth=231110&id=mlzqHD
+游戏风云,https://cntv.lat/tv/live.php?auth=231110&id=yxfyHD
 
 
 上海新闻综合,https://pi.0472.org/tv/sh.php?id=xw

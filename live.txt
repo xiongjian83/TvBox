@@ -1176,6 +1176,21 @@ NatGeo,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Natgeo
 BBC Earth,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bbcearth_twn
 
 💫香港频道,#genre#
+凤凰中文,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=phoenixtv_hd
+凤凰资讯,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=phoenixinfo_hd
+凤凰香港,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=hkphoenix_twn
+RTHK31,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=rhk31_twn
+RTHK32,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=rhk32_twn
+翡翠台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=jade_twn
+无线新闻台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=inews_twn
+无线财经台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=tvbcaijing_twn
+TVB J1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=tvbxinhe_twn
+J2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=j2_twn
+明珠台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=pearl_twn
+VIUTV,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=viu1_twn
+VIUTV6,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=viusix_twn
+TVB星河,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Xinhe
+
 天映频道,mitv://generationnexxxt.com:19806/234e6bd25b9a42f391c7f0ed73a038e2
 天映经典,mitv://generationnexxxt.com:19806/0d801de19d074f69acd76de0967585bf
 tvN Movies HD,mitv://generationnexxxt.com:19806/7ad63818eea64677beb87cf16459919f
@@ -1188,8 +1203,87 @@ TVB娱乐新闻台,mitv://generationnexxxt.com:19806/38b5b6844291493b987f3de5afa
 亚洲剧台,mitv://generationnexxxt.com:19806/59e213eaf3b4421fa9bfa35706311450
 功夫台,mitv://generationnexxxt.com:19806/13d08d7212504d1a8b8b9d6e6706147a
 
+💫台湾频道,#genre#
+民视,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ftvhd_taiwan
+华视,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ctshd_twn
+中视,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=zhongshihd_twn
+公视,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ctv_taiwan
+民视台湾台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ftvtaiwan_twn
+民视第一台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=lunghuajingdian_twn
+三立台湾,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=sanlitaiwan
+三立综合台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=sanlizhonghe
+三立戏剧台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=sanlixiju_twn
+龙华戏剧,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=lunghuaxiju_twn
+龙华偶像,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=lunghuaidol_twn
+龙华洋片,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=lunghuawestern_twn
+爱尔达影剧台1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=eltadrama_twn
+爱尔达影剧台2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=eltayingju_twn
+爱尔达综合台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=eltazonghe
+卫视中文台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=weishichinese_twn
+中天综合,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ctizhonghe
+中天娱乐,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ctient
+中天亚洲台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ctiasia_twn
+TVBS,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=tvbs
+TVBS欢乐台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=tvbshuanle_twn
+八大第一台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=badafirst
+八大综合台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=badazhonghe
+八大戏剧台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=badadrama
+纬来日本台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=videolandjapan
+東森戏剧,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ettvdrama
+东森超视,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ettvsuper
+东森综合台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ettvzhonghe
+EYE戏剧,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=eyetvxiju_twn
+靖天卡通,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=jingtiancartoon_twn
+靖天国际台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=jingtianintl_twn
+动物星球,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=animalplanet_twn
+HGTV,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=HGTV
+探索频道,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ba86fcd935
+探索频道,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=discoveryhd_twn
+探索,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=discoverych_twn
+探索亚洲,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=discoverytwn_twn
+国家地理野生,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=natgeowild_twn
+国家地理,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=natgeohd_twn
+EYE旅游,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=eyetvtravel_twn
+CN卡通频道,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Cn
+CN卡通频道2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=momo1_twn
+亚洲美食,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=afc_twn
+美食星球,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=foodplanet_twn
+亚洲旅游台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=asiatravel_twn
+好消息2台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=good2_twn
+大爱台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=daai_twn
+TLC旅游生活频道,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Tlc
+DiscoveryTurbo,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=discoveryturbo_twn
+
+💫电影频道,#genre#
+美亚电影台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=meiyamovie_twn
+天映频道1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Celestialindo
+天映频道2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Celestial
+東森电影台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ettvmovie
+纬来电影,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=videolandmovie
+龙祥电影台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=cb7a1fec69
+龙祥电影台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=lungxiangtime_twn
+星卫电影台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=xingwei_movie
+好莱坞电影台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=hollywoodmovies_twn
+东森洋片,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ettvwestern
+Thrill,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Thrill
+Boo,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Boo
+星空电影 Movies,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=starmovies_raj
+AXN,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Axn
+AXNTW,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=axn_twn
+CINEMAX,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=cinemax_twn
+HBO1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Hbo
+HBO HITS,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=hbohead_twn
+HBO-原创,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=hbosignature_twn
+HBO家庭,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=fyi_twn
+HBO_,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=hbohd_twn
 
 💫新马频道,#genre#
+爱奇艺,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Qiyi
+astro全佳,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Quanjia
+astro双星,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Shuangxing
+astro欢喜台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Huahee
+astro小太阳,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Xiaotaiyang
+
 八度空间,mitv://generationnexxxt.com:19806/4241359c2efb4ae6a0e3706ef76477a3
 爱奇艺,mitv://generationnexxxt.com:19806/18ecea276f6b49e2a6ab9f567d1f0511
 Astro小太阳,mitv://generationnexxxt.com:19806/e15474cab1e9478e8804f173e50a3933
@@ -1239,6 +1333,19 @@ SBS Biz,P2p://generationnexxxt.com:19806/a99ade867d304779a5ac84ab89228575
 
 
 💫新闻频道,#genre#
+中天新闻,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ctinews
+台视新闻,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ttvnews_twn
+中视新闻,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ca73a13c37
+中视新闻,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=zhongshinews_twn
+TVBS新闻台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=tvbs_n
+民视新闻台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ftvnew_taiwan
+東森新闻,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ettvnews
+东森财经新闻,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ettvcaijing_twn
+非凡新闻,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=feifannews_twn
+年代新闻台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=niandainews_twn
+寰宇新闻台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=huanyuxinwen_twn
+寰宇财经,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=huanyutaiwan_twn
+
 CGTN,mitv://generationnexxxt.com:19806/fd57714f6d7844fba72dde1fdc11b902
 Fox News,mitv://generationnexxxt.com:19806/e9305a82b75c42f5901c0594e063e999
 BBC World News,mitv://generationnexxxt.com:19806/416eca57b45148398865fc4dabf40b72
@@ -1263,6 +1370,30 @@ Business News ,P2p://135.148.104.228:19806/dc5be6cec9ba4284900e5670cbcae0bb
 
 
 💫体育频道,#genre#
+纬来体育,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=videolandsport
+博斯运动 1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bosisport1_twn
+博斯运动2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bosisport2_twn
+博斯高球1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bosigolf1_twn
+博斯高球2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bosigolf2_twn
+博斯网球,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bositennis_twn
+ELEVEN 1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=golfchannel_twn
+爱尔达体育1台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=eltasport1_twn
+爱尔达体育2台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=eltasport2_twn
+爱尔达体育3台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=eltasport3_twn
+BTESPN,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=btespn
+BTSports3,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=beethree
+Supersports 1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=go_assp1
+SPOTV 2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=go_spotv2
+BTSports2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=beetwo
+Bein 1 Sports,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bein1_mega
+Bein 2 Sports,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bein2_mega
+Bein 3 Sports,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bein3_mega
+Bein 4 Sports,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bein4_mega
+Bein 5 Sports,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bein5_mega
+Bein 6 Sports,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bein6_mega
+Bein 7 Sports,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bein7_mega
+
+
 WWE,P2p://generationnexxxt.com:19806/32e0838eeab84b3a96297dcceca27f5a
 NBA,P2p://generationnexxxt.com:19806/6fcac440f84e4d6b8a6ebeed5d393dba
 Hub Sports 1,mitv://generationnexxxt.com:19806/64e44da9000b7d207da475c66db01a76
@@ -1317,6 +1448,114 @@ Sky Sports Arena,P2p://generationnexxxt.com:19806/8519ae1db7da40149a83069cbfd48d
 Sky Sports Main Event,P2p://generationnexxxt.com:19806/d80cfc5272f14b4bb675b1c8644ad4c7
 Sky Sports Cricket,P2p://generationnexxxt.com:19806/d342ec6589c24499b5f806408bea4ae8
 Sky Sports Action,P2p://generationnexxxt.com:19806/d627b2c21c264a13afa935d214060989
+
+💫国外频道,#genre#
+DaaiTV,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=DaaiTV
+新加坡CNA,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=cna
+MiaoMi,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=MiaoMi
+One,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=One
+阿里郎Arirang,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=arirang_twn
+NATGEOWILD,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Natgeowild
+BBCWORLDNEWS,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bbcnews_twn
+CBeebies,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Cbeebies
+CNBC,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=cnbc_twn
+France24,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=france24_twn
+TLC Asia,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=tlc_twn
+BBCLifestyle,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bbclifestyle_twn
+Suria,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Suria82
+Suria,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Suria
+RIA,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Ria
+RIA,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Ria_backup
+Bernama,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Bernama82
+Bernama,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Bernama
+Al-Hijrah,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Alhijrah
+Mecca Live,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=quran_mido
+Madinah,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=sunnah_mido
+Oasis,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Oasis
+Ceria,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Ceria
+Sony,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=SetOne
+Bein 1 Premium,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bein1pre_mega
+Bein 2 Premium,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bein2pre_mega
+Bein 3 Premium,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bein3pre_mega
+CBS,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=cbshd_glo
+Boomerang,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Boomerang
+Movies Now,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=moviesnow_raj
+SCM,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Weishimovie
+AEC,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=AEC
+BaBy-TV,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=babytv_twn
+Al-Jazeera,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=aljazeera_twn
+Animax,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Animax
+Awani,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Awani
+BBC1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bbc1_antik
+BBC2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bbc2_antik
+BloombergNews,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bloomberg_twn
+CBBC,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=cbbc_antik
+CBSN,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=cbsn_glo
+CGTN,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=CGTN
+Channel5Thailand,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ch5_pat
+DW(Deutsch),http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=dw_twn
+DiscoveryKidsTamil,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=discoverykidtamil_raj
+DiscoveryWorldTamil,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=discoveryworldtam_raj
+FoxNews,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=foxnews_twn
+WWE,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Wwe
+GmmChannel,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=gmmchannel_pat
+Channel 5,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Channel5HD
+Channel 81,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Channel8HD
+Channel 8,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Ch8114
+ChannelU,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ChannelU
+TPTV,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=tptv_pat
+TV1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=TV1
+TV2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=TV2
+TV3,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=TV3
+TV3 backup,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=TV382_backup
+TVMU,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=TVMU_eko
+NTV71,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=NTV7
+TV8,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=TV8
+TV9,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=TV9
+KBSWorld,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=KBS
+KidsTV,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=KidsTV
+MCOTThailand-1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=mcot_pat
+Mono,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=mono_pat
+MuslimTV,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=MuslimTV
+NatGeoTamil,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=natgeotamil_raj
+Nation,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=nation_pat
+New,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=new_pat
+Prima,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Prima
+RTMSports,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Rtmsport
+SCTV,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Sctv
+SonyTen1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ten1_raj
+StarVijayIndia,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=starvijay_raj
+Starmaa,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=starmaa_raj
+SunTV,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Suntv
+TawafTV,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=TawafTV
+Thairath,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=thairath_pat
+Tnn24,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=tnn24_pat
+TruePremium1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=truepre1_pat
+TruePremium2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=truepre2_pat
+Tvone,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Tvone
+VisionPrime,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=VisionPrime
+Warna,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Warna
+WarnerTV,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=WarnerTV
+ZeeNews,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Zeenews
+itv1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=itv1_antik
+itv2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=itv2_antik
+tpbs,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=tpbs_pat
+Drama Sangat,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Dsangat
+TVN,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=TVN
+AFN,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Afc
+Nick JR,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Nickjr
+Babytv,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Babytv
+AnimalPlanet,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=AnimalPlanet
+Nickelodeon,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Nickelodeon
+ABCNews,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=abcnews_glo
+Euronews,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=euronews_antik
+HISTORY,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=History
+SkyNews,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=skynews_antik
+CNN,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=cnn_twn
+Goshop,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Goshop
+Bein 1 Xtra,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bein1xtra_mega
+NatGeo,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Natgeo
+BBC Earth,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bbcearth_twn
 
 
 🇭🇰港台,#genre#
@@ -2470,94 +2709,94 @@ iHOT爱动漫,http://39.134.32.102:6610/000000001000/6000000006000280630/index.m
 
 
 
-🇨🇳NewTV,#genre#
+🇨🇳,NewTV频道#genre#
 
-NewTV爱情喜剧,http://111.40.196.38:443/PLTV/88888888/224/3221225616/1.m3u8
-NewTV潮妈辣婆,http://111.40.196.27:443/PLTV/88888888/224/3221225680/1.m3u8
-NewTV动作电影,http://111.40.196.31:443/PLTV/88888888/224/3221225620/1.m3u8
-NewTV古装剧场,http://111.40.196.36:443/PLTV/88888888/224/3221225618/1.m3u8
-NewTV家庭剧场,http://111.40.196.29:443/PLTV/88888888/224/3221225626/1.m3u8
-NewTV金牌综艺,http://111.40.196.27:443/PLTV/88888888/224/3221225650/1.m3u8
-NewTV惊悚悬疑,http://111.40.196.30:443/PLTV/88888888/224/3221225638/1.m3u8
-NewTV精品大剧,http://111.40.196.33:443/PLTV/88888888/224/3221225612/1.m3u8
-NewTV精品纪录,http://111.40.196.27:443/PLTV/88888888/224/3221225630/1.m3u8
-NewTV精品体育,http://111.40.196.30:443/PLTV/88888888/224/3221225608/1.m3u8
-NewTV精品综合,http://111.40.196.27:443/PLTV/88888888/224/3221225632/1.m3u8
-NewTV军旅剧场,http://111.40.196.28:443/PLTV/88888888/224/3221225622/1.m3u8
-NewTV军事评论,http://111.40.196.31:443/PLTV/88888888/224/3221225634/1.m3u8
-NewTV农业致富,http://111.40.196.35:443/PLTV/88888888/224/3221225636/1.m3u8
-NewTV热播精选,http://111.40.196.33:443/PLTV/88888888/224/3221225624/1.m3u8
-NewTV武搏世界,http://111.40.196.31:443/PLTV/88888888/224/3221225664/1.m3u8
-NewTV中国功夫,http://111.40.196.31:443/PLTV/88888888/224/3221225678/1.m3u8
-NewTV超级电视剧,http://39.134.32.102:6610/000000001000/2000000003000000032/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000032&livemode=1&stbId=3$ITV
-NewTV超级电视剧,http://39.134.32.102:6610/000000001000/1000000001000008139/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008139&livemode=1&stbId=3$ITV
-NewTV超级电视剧,http://39.134.32.102:6610/000000001000/1000000004000024993/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=3$ITV
-NewTV超级电视剧,http://39.134.32.102:6610/000000001000/1000000006000268003/index.m3u8?channel-id=ystenlive&Contentid=1000000006000268003&livemode=1&stbId=3$ITV
-NewTV超级电影,http://39.134.32.102:6610/000000001000/2000000003000000031/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000031&livemode=1&stbId=3$ITV
-NewTV超级电影,http://39.134.32.102:6610/000000001000/1000000001000012884/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012884&livemode=1&stbId=3$ITV
-NewTV超级电影,http://39.134.32.102:6610/000000001000/1000000003000012426/index.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3$ITV
-NewTV超级电影,http://39.134.32.102:6610/000000001000/1000000004000002120/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=3$ITV
-NewTV超级体育,http://39.134.32.102:6610/000000001000/2000000003000000030/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000030&livemode=1&stbId=3$ITV
-NewTV超级体育,http://39.134.32.102:6610/000000001000/1000000001000009204/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009204&livemode=1&stbId=3$ITV
-NewTV超级体育,http://39.134.32.102:6610/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3$ITV
-NewTV超级体育,http://39.134.32.102:6610/000000001000/1000000004000007755/index.m3u8?channel-id=ystenlive&Contentid=1000000004000007755&livemode=1&stbId=3$ITV
-NewTV超级综艺,http://39.134.32.102:6610/000000001000/2000000003000000029/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000029&livemode=1&stbId=3$ITV
-NewTV超级综艺,http://39.134.32.102:6610/000000001000/1000000001000025771/index.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=3$ITV
-NewTV超级综艺,http://39.134.32.102:6610/000000001000/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=3$ITV
-NewTV超级综艺,http://39.134.32.102:6610/000000001000/1000000006000268002/index.m3u8?channel-id=ystenlive&Contentid=1000000006000268002&livemode=1&stbId=3$ITV
-NewTV潮妈辣婆,http://39.134.32.102:6610/000000001000/2000000003000000018/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000018&livemode=1&stbId=3$ITV
-NewTV东北剧场,http://39.134.32.102:6610/000000001000/1000000005000266013/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266013&livemode=1&stbId=3$ITV
-NewTV东北热剧,http://39.134.32.102:6610/000000001000/2000000003000000051/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000051&livemode=1&stbId=3$ITV
-NewTV动作电影,http://39.134.32.102:6610/000000001000/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3$ITV
-NewTV欢乐剧场,http://39.134.32.102:6610/000000001000/2000000003000000050/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000050&livemode=1&stbId=3$ITV
-NewTV欢乐剧场,http://39.134.32.102:6610/000000001000/1000000005000266012/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266012&livemode=1&stbId=3$ITV
-NewTV家庭剧场,http://39.134.32.102:6610/000000001000/2000000003000000012/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000012&livemode=1&stbId=3$ITV
-NewTV家庭剧场,http://39.134.32.102:6610/000000001000/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=3$ITV
-NewTV金牌综艺,http://39.134.32.102:6610/000000001000/2000000003000000005/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000005&livemode=1&stbId=3$ITV
-NewTV金牌综艺,http://39.134.32.102:6610/000000001000/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=3$ITV
-NewTV惊悚悬疑,http://39.134.32.102:6610/000000001000/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3$ITV
-NewTV精品大剧,http://39.134.32.102:6610/000000001000/2000000003000000020/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000020&livemode=1&stbId=3$ITV
-NewTV精品大剧,http://39.134.32.102:6610/000000001000/1000000004000013968/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=3$ITV
-NewTV精品记录,http://39.134.32.102:6610/000000001000/2000000003000000019/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000019&livemode=1&stbId=3$ITV
-NewTV精品纪录,http://39.134.32.102:6610/000000001000/1000000004000013730/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=3$ITV
-NewTV精品萌宠,http://39.134.32.102:6610/000000001000/2000000003000000067/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000067&livemode=1&stbId=3$ITV
-NewTV精品萌宠,http://39.134.32.102:6610/000000001000/1000000006000032328/index.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=3$ITV
-NewTV精品体育,http://39.134.32.102:6610/000000001000/2000000003000000021/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000021&livemode=1&stbId=3$ITV
-NewTV精品体育,http://39.134.32.102:6610/000000001000/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3$ITV
-NewTV精品综合,http://39.134.32.102:6610/000000001000/2000000003000000008/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000008&livemode=1&stbId=3$ITV
-NewTV精品综合,http://39.134.32.102:6610/000000001000/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=3$ITV
-NewTV军旅剧场,http://39.134.32.102:6610/000000001000/2000000003000000014/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000014&livemode=1&stbId=3$ITV
-NewTV魅力潇湘,http://39.134.32.102:6610/000000001000/2000000003000000041/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000041&livemode=1&stbId=3$ITV
-NewTV魅力潇湘,http://39.134.32.102:6610/000000001000/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3$ITV
-NewTV魅力潇湘,http://39.134.32.102:6610/000000001000/1000000005000266014/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266014&livemode=1&stbId=3$ITV
-NewTV明星大片,http://39.134.32.102:6610/000000001000/2000000003000000016/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000016&livemode=1&stbId=3$ITV
-NewTV农业致富,http://39.134.32.102:6610/000000001000/2000000003000000003/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000003&livemode=1&stbId=3$ITV
-NewTV武博世界,http://39.134.32.102:6610/000000001000/2000000003000000007/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000007&livemode=1&stbId=3$ITV
-NewTV炫舞未来,http://39.134.32.102:6610/000000001000/2000000003000000044/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000044&livemode=1&stbId=3$ITV
-NewTV炫舞未来,http://39.134.32.102:6610/000000001000/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3$ITV
-NewTV中国功夫,http://39.134.32.102:6610/000000001000/2000000003000000009/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000009&livemode=1&stbId=3$ITV
+爱情喜剧,http://111.40.196.38:443/PLTV/88888888/224/3221225616/1.m3u8
+潮妈辣婆,http://111.40.196.27:443/PLTV/88888888/224/3221225680/1.m3u8
+动作电影,http://111.40.196.31:443/PLTV/88888888/224/3221225620/1.m3u8
+古装剧场,http://111.40.196.36:443/PLTV/88888888/224/3221225618/1.m3u8
+家庭剧场,http://111.40.196.29:443/PLTV/88888888/224/3221225626/1.m3u8
+金牌综艺,http://111.40.196.27:443/PLTV/88888888/224/3221225650/1.m3u8
+惊悚悬疑,http://111.40.196.30:443/PLTV/88888888/224/3221225638/1.m3u8
+精品大剧,http://111.40.196.33:443/PLTV/88888888/224/3221225612/1.m3u8
+精品纪录,http://111.40.196.27:443/PLTV/88888888/224/3221225630/1.m3u8
+精品体育,http://111.40.196.30:443/PLTV/88888888/224/3221225608/1.m3u8
+精品综合,http://111.40.196.27:443/PLTV/88888888/224/3221225632/1.m3u8
+军旅剧场,http://111.40.196.28:443/PLTV/88888888/224/3221225622/1.m3u8
+军事评论,http://111.40.196.31:443/PLTV/88888888/224/3221225634/1.m3u8
+农业致富,http://111.40.196.35:443/PLTV/88888888/224/3221225636/1.m3u8
+热播精选,http://111.40.196.33:443/PLTV/88888888/224/3221225624/1.m3u8
+武搏世界,http://111.40.196.31:443/PLTV/88888888/224/3221225664/1.m3u8
+中国功夫,http://111.40.196.31:443/PLTV/88888888/224/3221225678/1.m3u8
+超级电视剧,http://39.134.32.102:6610/000000001000/2000000003000000032/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000032&livemode=1&stbId=3$ITV
+超级电视剧,http://39.134.32.102:6610/000000001000/1000000001000008139/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008139&livemode=1&stbId=3$ITV
+超级电视剧,http://39.134.32.102:6610/000000001000/1000000004000024993/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=3$ITV
+超级电视剧,http://39.134.32.102:6610/000000001000/1000000006000268003/index.m3u8?channel-id=ystenlive&Contentid=1000000006000268003&livemode=1&stbId=3$ITV
+超级电影,http://39.134.32.102:6610/000000001000/2000000003000000031/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000031&livemode=1&stbId=3$ITV
+超级电影,http://39.134.32.102:6610/000000001000/1000000001000012884/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012884&livemode=1&stbId=3$ITV
+超级电影,http://39.134.32.102:6610/000000001000/1000000003000012426/index.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3$ITV
+超级电影,http://39.134.32.102:6610/000000001000/1000000004000002120/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=3$ITV
+超级体育,http://39.134.32.102:6610/000000001000/2000000003000000030/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000030&livemode=1&stbId=3$ITV
+超级体育,http://39.134.32.102:6610/000000001000/1000000001000009204/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009204&livemode=1&stbId=3$ITV
+超级体育,http://39.134.32.102:6610/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3$ITV
+超级体育,http://39.134.32.102:6610/000000001000/1000000004000007755/index.m3u8?channel-id=ystenlive&Contentid=1000000004000007755&livemode=1&stbId=3$ITV
+超级综艺,http://39.134.32.102:6610/000000001000/2000000003000000029/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000029&livemode=1&stbId=3$ITV
+超级综艺,http://39.134.32.102:6610/000000001000/1000000001000025771/index.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=3$ITV
+超级综艺,http://39.134.32.102:6610/000000001000/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=3$ITV
+超级综艺,http://39.134.32.102:6610/000000001000/1000000006000268002/index.m3u8?channel-id=ystenlive&Contentid=1000000006000268002&livemode=1&stbId=3$ITV
+潮妈辣婆,http://39.134.32.102:6610/000000001000/2000000003000000018/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000018&livemode=1&stbId=3$ITV
+东北剧场,http://39.134.32.102:6610/000000001000/1000000005000266013/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266013&livemode=1&stbId=3$ITV
+东北热剧,http://39.134.32.102:6610/000000001000/2000000003000000051/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000051&livemode=1&stbId=3$ITV
+动作电影,http://39.134.32.102:6610/000000001000/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3$ITV
+欢乐剧场,http://39.134.32.102:6610/000000001000/2000000003000000050/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000050&livemode=1&stbId=3$ITV
+欢乐剧场,http://39.134.32.102:6610/000000001000/1000000005000266012/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266012&livemode=1&stbId=3$ITV
+家庭剧场,http://39.134.32.102:6610/000000001000/2000000003000000012/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000012&livemode=1&stbId=3$ITV
+家庭剧场,http://39.134.32.102:6610/000000001000/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=3$ITV
+金牌综艺,http://39.134.32.102:6610/000000001000/2000000003000000005/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000005&livemode=1&stbId=3$ITV
+金牌综艺,http://39.134.32.102:6610/000000001000/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=3$ITV
+惊悚悬疑,http://39.134.32.102:6610/000000001000/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3$ITV
+精品大剧,http://39.134.32.102:6610/000000001000/2000000003000000020/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000020&livemode=1&stbId=3$ITV
+精品大剧,http://39.134.32.102:6610/000000001000/1000000004000013968/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=3$ITV
+精品记录,http://39.134.32.102:6610/000000001000/2000000003000000019/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000019&livemode=1&stbId=3$ITV
+精品纪录,http://39.134.32.102:6610/000000001000/1000000004000013730/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=3$ITV
+精品萌宠,http://39.134.32.102:6610/000000001000/2000000003000000067/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000067&livemode=1&stbId=3$ITV
+精品萌宠,http://39.134.32.102:6610/000000001000/1000000006000032328/index.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=3$ITV
+精品体育,http://39.134.32.102:6610/000000001000/2000000003000000021/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000021&livemode=1&stbId=3$ITV
+精品体育,http://39.134.32.102:6610/000000001000/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3$ITV
+精品综合,http://39.134.32.102:6610/000000001000/2000000003000000008/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000008&livemode=1&stbId=3$ITV
+精品综合,http://39.134.32.102:6610/000000001000/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=3$ITV
+军旅剧场,http://39.134.32.102:6610/000000001000/2000000003000000014/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000014&livemode=1&stbId=3$ITV
+魅力潇湘,http://39.134.32.102:6610/000000001000/2000000003000000041/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000041&livemode=1&stbId=3$ITV
+魅力潇湘,http://39.134.32.102:6610/000000001000/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3$ITV
+魅力潇湘,http://39.134.32.102:6610/000000001000/1000000005000266014/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266014&livemode=1&stbId=3$ITV
+明星大片,http://39.134.32.102:6610/000000001000/2000000003000000016/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000016&livemode=1&stbId=3$ITV
+农业致富,http://39.134.32.102:6610/000000001000/2000000003000000003/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000003&livemode=1&stbId=3$ITV
+武博世界,http://39.134.32.102:6610/000000001000/2000000003000000007/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000007&livemode=1&stbId=3$ITV
+炫舞未来,http://39.134.32.102:6610/000000001000/2000000003000000044/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000044&livemode=1&stbId=3$ITV
+炫舞未来,http://39.134.32.102:6610/000000001000/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3$ITV
+中国功夫,http://39.134.32.102:6610/000000001000/2000000003000000009/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000009&livemode=1&stbId=3$ITV
 
-NewTV东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-NewTV潮妈辣婆,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-NewTV爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-NewTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-NewTV家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-NewTV明星大片,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-NewTV欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-NewTV海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-NewTV精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-NewTV军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-NewTV军旅剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-NewTV精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-NewTV精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-NewTV超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-NewTV超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-NewTV超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-NewTV超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
+东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+潮妈辣婆,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+明星大片,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+军旅剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 
 
 💫周星驰经典,#genre#

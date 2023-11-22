@@ -1725,12 +1725,6 @@ IPTV淘娱乐,http://111.196.130.165:4022/udp/239.3.1.100:8001
 IPTV淘娱乐,http://www.youku.cf:4022/rtp/239.3.1.100:8001
 IPTV淘电影,http://www.youku.cf:4022/rtp/239.3.1.250:8001
 
-欢笑剧场,https://cntv.lat/tv/live.php?auth=231110&id=hxjc_4K
-都市剧场,https://cntv.lat/tv/live.php?auth=231110&id=dsjcHD
-魅力足球,https://cntv.lat/tv/live.php?auth=231110&id=mlzqHD
-游戏风云,https://cntv.lat/tv/live.php?auth=231110&id=yxfyHD
-
-
 上海新闻综合,https://pi.0472.org/tv/sh.php?id=xw
 上海都市,https://pi.0472.org/tv/sh.php?id=ds
 浙江公共新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
@@ -2455,7 +2449,7 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 埋堆堆36,https://www.goodiptv.club/huya/23863787
 埋堆堆37,https://www.goodiptv.club/huya/23824164
 
-📡直播中国,#genre#
+🇨🇳I直播中国,#genre#
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 直播中国精编直播,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 湖南张家界水绕四门,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
@@ -2686,7 +2680,7 @@ iHOT爱动漫,http://39.134.32.102:6610/000000001000/6000000006000280630/index.m
 
 
 
-🇨🇳,NewTV频道#genre#
+🇨🇳INewTV频道#genre#
 
 爱情喜剧,http://111.40.196.38:443/PLTV/88888888/224/3221225616/1.m3u8
 潮妈辣婆,http://111.40.196.27:443/PLTV/88888888/224/3221225680/1.m3u8

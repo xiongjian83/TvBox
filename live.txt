@@ -1,50 +1,39 @@
 📡  央视频道,#genre#
 
-
-CCTV1,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
-CCTV3,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-CCTV5,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-CCTV5+,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
-CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
-CCTV6,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
-CCTV7,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
-CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-CCTV8,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
-CCTV8,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
-CCTV9,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
-CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
-CCTV11,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225746/1/index.m3u8?fmt=ts2hls
-CCTV12,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225747/1/index.m3u8?fmt=ts2hls
-CCTV13,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
-CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
-CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-CCTV16,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-
-CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
-CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-CCTV6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-CCTV7,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-CCTV8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-CCTV9,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-CCTV10,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-CCTV11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
-CCTV12,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
-CCTV13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
-
+CCTV-1,http://175.43.106.172:4022/udp/239.61.4.176:1025
+CCTV-1,http://175.43.106.172:4022/udp/239.61.4.27:1025
+CCTV-1,http://175.43.106.172:4022/udp/239.61.5.163:1025
+CCTV-1,http://175.43.106.172:4022/udp/239.61.5.180:1025
+CCTV-1,http://175.43.106.172:4022/udp/239.61.5.42:1025
+CCTV-2,http://175.43.106.172:4022/udp/239.61.5.61:1025
+CCTV-2,http://175.43.106.172:4022/udp/239.61.2.174:9032
+CCTV-3,http://175.43.106.172:4022/udp/239.61.4.117:1025
+CCTV-3,http://175.43.106.172:4022/udp/239.61.4.120:1025
+CCTV-4,http://175.43.106.172:4022/udp/239.61.5.56:1025
+CCTV-5,http://175.43.106.172:4022/udp/239.61.4.118:1025
+CCTV-5,http://175.43.106.172:4022/udp/239.61.4.121:1025
+CCTV-5,http://175.43.106.172:4022/udp/239.61.5.217:1025
+CCTV-5+,http://175.43.106.172:4022/udp/239.61.5.58:1025
+CCTV-6,http://175.43.106.172:4022/udp/239.61.4.119:1025
+CCTV-6,http://175.43.106.172:4022/udp/239.61.4.122:1025
+CCTV-7,http://175.43.106.172:4022/udp/239.61.5.62:1025
+CCTV-7,http://175.43.106.172:4022/udp/239.61.2.175:9038
+CCTV-8,http://175.43.106.172:4022/udp/239.61.4.116:1025
+CCTV-8,http://175.43.106.172:4022/udp/239.61.4.123:1025
+CCTV-8,http://175.43.106.172:4022/udp/239.61.4.137:1025
+CCTV-9,http://175.43.106.172:4022/udp/239.61.5.59:1025
+CCTV-10,http://175.43.106.172:4022/udp/239.61.5.63:1025
+CCTV-10,http://175.43.106.172:4022/udp/239.61.2.176:9044
+CCTV-11,http://175.43.106.172:4022/udp/239.61.4.21:1025
+CCTV-12,http://175.43.106.172:4022/udp/239.61.4.22:1025
+CCTV-12,http://175.43.106.172:4022/udp/239.61.5.64:1025
+CCTV-12,http://175.43.106.172:4022/udp/239.61.2.177:9050
+CCTV-13,http://175.43.106.172:4022/udp/239.61.4.23:1025
+CCTV-14,http://175.43.106.172:4022/udp/239.61.5.65:1025
+CCTV-14,http://175.43.106.172:4022/udp/239.61.2.178:9056
+CCTV-15,http://175.43.106.172:4022/udp/239.61.4.25:1025
+CCTV-16,http://175.43.106.172:4022/udp/239.61.4.135:1025
+CCTV-17,http://175.43.106.172:4022/udp/239.61.5.158:1025
 
 CCTV1,rtsp://115.153.233.154/PLTV/88888888/224/3221225699/iptv8040.smil
 CCTV2,rtsp://115.153.233.154/PLTV/88888888/224/3221226825/59814584.smil
@@ -75,6 +64,27 @@ CCTV13,rtsp://115.153.212.72/PLTV/88888888/224/3221227037/87447722.smil
 CCTV15,rtsp://115.153.212.72/PLTV/88888888/224/3221226988/85722541.smil
 CCTV17,rtsp://115.153.212.72/PLTV/88888888/224/3221226846/61397282.smil
 
+
+CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+CCTV6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+CCTV7,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+CCTV8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+CCTV9,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+CCTV10,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+CCTV11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+CCTV12,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+CCTV13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+
+
 CCTV1,https://live.metshop.top/hbgd.php?id=cctv1hd_3000
 CCTV2,https://live.metshop.top/hbgd.php?id=cctv2hd_3000
 CCTV3,https://live.metshop.top/hbgd.php?id=cctv3hd_3000
@@ -95,7 +105,7 @@ CCTV16,https://live.metshop.top/hbgd.php?id=cctv16hd_3000
 CCTV17,https://live.metshop.top/hbgd.php?id=cctv14hd_3000
 
 
-CCTV4K超高清,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
+CCTV4K超高清,http://ainm.cc/a/play/php/cctv4k.php?id=4khd
 CCTV4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV164K,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 
@@ -120,26 +130,6 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 CCTV17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061_461954091/migu/kailu/20200324/cctv17hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208133753&ContentId=265667526&timezone=UTC&mtv_session=2ab00b83c917e8ba1b1bb082711b8b77&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4c04c5308e4761e3cc4b36134b05b864
 
 
-CCTV1,https://cntv.lat/tv/zb.php?auth=231122&id=cctv1HD
-CCTV2,https://cntv.lat/tv/zb.php?auth=231122&id=cctv2HD
-CCTV3,https://cntv.lat/tv/zb.php?auth=231122&id=cctv3HD
-CCTV4,https://cntv.lat/tv/zb.php?auth=231122&id=cctv4HD
-CCTV5,https://cntv.lat/tv/zb.php?auth=231122&id=cctv5HD
-CCTV5+,https://cntv.lat/tv/zb.php?auth=231122&id=cctv5SportHD
-CCTV6,https://cntv.lat/tv/zb.php?auth=231122&id=cctv6HD
-CCTV7,https://cntv.lat/tv/zb.php?auth=231122&id=cctv7HD
-CCTV8,https://cntv.lat/tv/zb.php?auth=231122&id=cctv8HD
-CCTV9,https://cntv.lat/tv/zb.php?auth=231122&id=cctv9HD
-CCTV10,https://cntv.lat/tv/zb.php?auth=231122&id=cctv10HD
-CCTV11,https://cntv.lat/tv/zb.php?auth=231122&id=cctv11HD
-CCTV12,https://cntv.lat/tv/zb.php?auth=231122&id=cctv12HD
-CCTV13,https://cntv.lat/tv/zb.php?auth=231122&id=CCTVNewsHD
-CCTV14,https://cntv.lat/tv/zb.php?auth=231122&id=cctvseHD
-CCTV15,https://cntv.lat/tv/zb.php?auth=231122&id=cctv15HD
-CCTV16,https://cntv.lat/tv/zb.php?auth=231122&id=cctv16HD
-CCTV17,http://cntv.lat/tv/lcctv.php?auth=231110&id=cctv17HD
-CCTV4K超高清,https://cntv.lat/tv/zb.php?auth=231122&id=CCTV4K
-CCTV164K,https://cntv.lat/tv/zb.php?auth=231122&id=CCTV16_4K
 
 
 
@@ -200,8 +190,6 @@ CCTV16,https://live.goodiptv.club/api/ghyx.php?id=CCTV16HD_6000
 CCTV17,https://live.goodiptv.club/api/ghyx.php?id=CCTV17HD_6000
 
 
-
-
 CCTV1,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001022/index.m3u8?
 CCTV2,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001220/index.m3u8?
 CCTV3,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001186/index.m3u8?
@@ -223,12 +211,9 @@ CCTV17,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001241/index.m
 CCTV-16 4K,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001258/index.m3u8?
 
 
-CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
+CHC动作电影,http://111.20.40.160/PLTV/88888893/224/3221226465/index.m3u8
 CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
-CHC动作电影,https://cntv.lat/tv/zb.php?auth=231122&id=chcdzdyHD
-CHC家庭影院,https://cntv.lat/tv/zb.php?auth=231122&id=chcjtyyHD
-CHC高清电影,https://cntv.lat/tv/zb.php?auth=231122&id=chcgqdyHD
 CHC动作电影,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC高清电影,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC家庭影院,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -568,39 +553,6 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 新疆卫视,https://live.metshop.top/hbgd.php?id=xjws_1000
 兵团卫视,https://live.metshop.top/hbgd.php?id=btws_1000
 
-
-湖南卫视,https://cntv.lat/tv/zb.php?auth=231122&id=hunanHD
-北京卫视,https://cntv.lat/tv/zb.php?auth=231122&id=beijingHD
-浙江卫视,https://cntv.lat/tv/zb.php?auth=231122&id=zhejiangHD
-东方卫视,https://cntv.lat/tv/zb.php?auth=231122&id=shanghaiHD
-深圳卫视,https://cntv.lat/tv/zb.php?auth=231122&id=shenzhenHD
-辽宁卫视,https://cntv.lat/tv/zb.php?auth=231122&id=liaoningHD
-天津卫视,https://cntv.lat/tv/zb.php?auth=231122&id=tianjinHD
-贵州卫视,https://cntv.lat/tv/zb.php?auth=231122&id=guizhouHD
-四川卫视,https://cntv.lat/tv/zb.php?auth=231122&id=sichuanHD
-重庆卫视,https://cntv.lat/tv/zb.php?auth=231122&id=chongqingHD
-江苏卫视,https://cntv.lat/tv/zb.php?auth=231122&id=jiangsuHD
-云南卫视,https://cntv.lat/tv/zb.php?auth=231122&id=yunnanSD
-东南卫视,https://cntv.lat/tv/zb.php?auth=231122&id=dongnanHD
-黑龙江卫视,https://cntv.lat/tv/zb.php?auth=231122&id=heilongjiangHD
-安徽卫视,https://cntv.lat/tv/zb.php?auth=231122&id=anhuiSD
-河北卫视,https://cntv.lat/tv/zb.php?auth=231122&id=hebeiSD
-江西卫视,https://cntv.lat/tv/zb.php?auth=231122&id=jiangxiHD
-湖北卫视,https://cntv.lat/tv/zb.php?auth=231122&id=hubeiSD
-海南卫视,https://cntv.lat/tv/zb.php?auth=231122&id=hainanSD
-吉林卫视,https://cntv.lat/tv/zb.php?auth=231122&id=jilinHD
-广西卫视,https://cntv.lat/tv/zb.php?auth=231122&id=guangxiHD
-内蒙古卫视,https://cntv.lat/tv/zb.php?auth=231122&id=neimengkuSD
-广东卫视,https://cntv.lat/tv/zb.php?auth=231122&id=guangdongHD
-河南卫视,https://cntv.lat/tv/zb.php?auth=231122&id=henanHD
-山西卫视,https://cntv.lat/tv/zb.php?auth=231122&id=shanxiSD
-兵团卫视,https://cntv.lat/tv/zb.php?auth=231122&id=bingtuanSD
-宁夏卫视,https://cntv.lat/tv/zb.php?auth=231122&id=ningxia
-三沙卫视,https://cntv.lat/tv/zb.php?auth=231122&id=sanshaSD
-青海卫视,https://cntv.lat/tv/zb.php?auth=231122&id=qinghaiSD
-新疆卫视,https://cntv.lat/tv/zb.php?auth=231122&id=xinjiangSD
-西藏卫视,https://cntv.lat/tv/zb.php?auth=231122&id=xizangSD
-中国天气,https://cntv.lat/tv/zb.php?auth=231122&id=tianqiSD
 
 
 北京卫视,http://222.71.90.218:8888/newlive/live/hls/18/live.m3u8
@@ -946,392 +898,11 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 江西移动,rtsp://115.153.233.154/PLTV/88888888/224/3221227070/96801473.smil
 
 
-💫香港频道,#genre#
-凤凰中文,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=phoenixtv_hd
-凤凰资讯,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=phoenixinfo_hd
-凤凰香港,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=hkphoenix_twn
-RTHK31,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=rhk31_twn
-RTHK32,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=rhk32_twn
-翡翠台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=jade_twn
-无线新闻台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=inews_twn
-无线财经台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=tvbcaijing_twn
-TVB J1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=tvbxinhe_twn
-J2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=j2_twn
-明珠台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=pearl_twn
-VIUTV,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=viu1_twn
-VIUTV6,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=viusix_twn
-TVB星河,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Xinhe
-
-天映频道,mitv://generationnexxxt.com:19806/234e6bd25b9a42f391c7f0ed73a038e2
-天映经典,mitv://generationnexxxt.com:19806/0d801de19d074f69acd76de0967585bf
-tvN Movies HD,mitv://generationnexxxt.com:19806/7ad63818eea64677beb87cf16459919f
-私人影院,mitv://generationnexxxt.com:19806/70da0d32acc542c48e992a2dd380fd2f
-翡翠台(华丽台),mitv://generationnexxxt.com:19806/4ca2b62e4dd94ae9b523456d84428b39
-TVB星河(粤),mitv://generationnexxxt.com:19806/d3eb302836af436baef656d5c201f1a3
-戏曲台,mitv://generationnexxxt.com:19806/871860cf869e471e918797abd540fe56
-TVB娱乐新闻台,mitv://generationnexxxt.com:19806/38b5b6844291493b987f3de5afa2b373
-千禧经典台,mitv://generationnexxxt.com:19806/8695a8b7d5e24fb5b31d3bf1ea8a264d
-亚洲剧台,mitv://generationnexxxt.com:19806/59e213eaf3b4421fa9bfa35706311450
-功夫台,mitv://generationnexxxt.com:19806/13d08d7212504d1a8b8b9d6e6706147a
-
-💫台湾频道,#genre#
-民视,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ftvhd_taiwan
-华视,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ctshd_twn
-中视,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=zhongshihd_twn
-公视,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ctv_taiwan
-民视台湾台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ftvtaiwan_twn
-民视第一台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=lunghuajingdian_twn
-三立台湾,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=sanlitaiwan
-三立综合台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=sanlizhonghe
-三立戏剧台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=sanlixiju_twn
-龙华戏剧,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=lunghuaxiju_twn
-龙华偶像,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=lunghuaidol_twn
-龙华洋片,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=lunghuawestern_twn
-爱尔达影剧台1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=eltadrama_twn
-爱尔达影剧台2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=eltayingju_twn
-爱尔达综合台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=eltazonghe
-卫视中文台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=weishichinese_twn
-中天综合,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ctizhonghe
-中天娱乐,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ctient
-中天亚洲台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ctiasia_twn
-TVBS,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=tvbs
-TVBS欢乐台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=tvbshuanle_twn
-八大第一台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=badafirst
-八大综合台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=badazhonghe
-八大戏剧台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=badadrama
-纬来日本台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=videolandjapan
-東森戏剧,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ettvdrama
-东森超视,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ettvsuper
-东森综合台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ettvzhonghe
-EYE戏剧,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=eyetvxiju_twn
-靖天卡通,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=jingtiancartoon_twn
-靖天国际台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=jingtianintl_twn
-动物星球,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=animalplanet_twn
-HGTV,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=HGTV
-探索频道,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ba86fcd935
-探索频道,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=discoveryhd_twn
-探索,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=discoverych_twn
-探索亚洲,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=discoverytwn_twn
-国家地理野生,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=natgeowild_twn
-国家地理,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=natgeohd_twn
-EYE旅游,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=eyetvtravel_twn
-CN卡通频道,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Cn
-CN卡通频道2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=momo1_twn
-亚洲美食,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=afc_twn
-美食星球,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=foodplanet_twn
-亚洲旅游台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=asiatravel_twn
-好消息2台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=good2_twn
-大爱台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=daai_twn
-TLC旅游生活频道,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Tlc
-DiscoveryTurbo,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=discoveryturbo_twn
-
-💫电影频道,#genre#
-美亚电影台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=meiyamovie_twn
-天映频道1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Celestialindo
-天映频道2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Celestial
-東森电影台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ettvmovie
-纬来电影,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=videolandmovie
-龙祥电影台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=cb7a1fec69
-龙祥电影台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=lungxiangtime_twn
-星卫电影台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=xingwei_movie
-好莱坞电影台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=hollywoodmovies_twn
-东森洋片,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ettvwestern
-Thrill,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Thrill
-Boo,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Boo
-星空电影 Movies,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=starmovies_raj
-AXN,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Axn
-AXNTW,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=axn_twn
-CINEMAX,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=cinemax_twn
-HBO1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Hbo
-HBO HITS,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=hbohead_twn
-HBO-原创,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=hbosignature_twn
-HBO家庭,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=fyi_twn
-HBO_,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=hbohd_twn
-
-💫新马频道,#genre#
-爱奇艺,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Qiyi
-astro全佳,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Quanjia
-astro双星,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Shuangxing
-astro欢喜台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Huahee
-astro小太阳,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Xiaotaiyang
-
-八度空间,mitv://generationnexxxt.com:19806/4241359c2efb4ae6a0e3706ef76477a3
-爱奇艺,mitv://generationnexxxt.com:19806/18ecea276f6b49e2a6ab9f567d1f0511
-Astro小太阳,mitv://generationnexxxt.com:19806/e15474cab1e9478e8804f173e50a3933
-Astro AEC(备),mitv://generationnexxxt.com:19806/ca26402e9130497684ae7111c68a67bb
-Astro双星,mitv://generationnexxxt.com:19806/2ddc37cfa52248f88b678af3bf814f02
-天映频道,mitv://generationnexxxt.com:19806/234e6bd25b9a42f391c7f0ed73a038e2
-翡翠台(华丽台),mitv://generationnexxxt.com:19806/4ca2b62e4dd94ae9b523456d84428b39
-Astro AOD HD 311,mitv://generationnexxxt.com:19806/190ff522878f454381273fbe2ec6ae6a
-中天亚洲台,mitv://generationnexxxt.com:19806/32caa156f6c34c7f96095f49def81bfe
-天映经典,mitv://generationnexxxt.com:19806/0d801de19d074f69acd76de0967585bf
-Astro欢喜台,mitv://generationnexxxt.com:19806/b80367bd1d8f4ed5ac3875d22af40cb5
-KIX,mitv://generationnexxxt.com:19806/3f7be3ad31504c9fa358e3fe583fac0a
-WWE,mitv://generationnexxxt.com:19806/32e0838eeab84b3a96297dcceca27f5a
-八度空间(备),mitv://generationnexxxt.com:19806/8796cd8daa694ec8a4dbe9a03d0e5c30
-TVBS亚洲,mitv://generationnexxxt.com:19806/52b66c4260b24e4683a9dac1cbba2d4d
-东森亚洲卫视,mitv://generationnexxxt.com:19806/8a43d9cb067b47aaa8fd5f550930be0c
-KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
-KBS2,mitv://generationnexxxt.com:19806/fa378d3829f643d2a87c4c754bbae507
-KBS Drama,mitv://generationnexxxt.com:19806/10263d570592484e864bf42334ba5a2f
-KBS Joy,mitv://generationnexxxt.com:19806/0a9a842f13284e848e7aa72af382c176
-SBS,mitv://generationnexxxt.com:19806/c8f25b3b0185407792640de06e8781df
-SBS Biz,mitv://generationnexxxt.com:19806/a99ade867d304779a5ac84ab89228575
-
-
-八度空间,P2p://generationnexxxt.com:19806/4241359c2efb4ae6a0e3706ef76477a3
-爱奇艺,P2p://generationnexxxt.com:19806/18ecea276f6b49e2a6ab9f567d1f0511
-Astro小太阳,P2p://generationnexxxt.com:19806/e15474cab1e9478e8804f173e50a3933
-Astro AEC(备),P2p://generationnexxxt.com:19806/ca26402e9130497684ae7111c68a67bb
-Astro双星,P2p://generationnexxxt.com:19806/2ddc37cfa52248f88b678af3bf814f02
-天映频道,P2p://generationnexxxt.com:19806/234e6bd25b9a42f391c7f0ed73a038e2
-翡翠台(华丽台),P2p://generationnexxxt.com:19806/4ca2b62e4dd94ae9b523456d84428b39
-Astro AOD HD 311,P2p://generationnexxxt.com:19806/190ff522878f454381273fbe2ec6ae6a
-中天亚洲台,P2p://generationnexxxt.com:19806/32caa156f6c34c7f96095f49def81bfe
-天映经典,P2p://generationnexxxt.com:19806/0d801de19d074f69acd76de0967585bf
-Astro欢喜台,P2p://generationnexxxt.com:19806/b80367bd1d8f4ed5ac3875d22af40cb5
-KIX,P2p://generationnexxxt.com:19806/3f7be3ad31504c9fa358e3fe583fac0a
-WWE,P2p://generationnexxxt.com:19806/32e0838eeab84b3a96297dcceca27f5a
-八度空间(备),P2p://generationnexxxt.com:19806/8796cd8daa694ec8a4dbe9a03d0e5c30
-TVBS亚洲,P2p://generationnexxxt.com:19806/52b66c4260b24e4683a9dac1cbba2d4d
-东森亚洲卫视,P2p://generationnexxxt.com:19806/8a43d9cb067b47aaa8fd5f550930be0c
-KBS1,P2p://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
-KBS2,P2p://generationnexxxt.com:19806/fa378d3829f643d2a87c4c754bbae507
-KBS Drama,P2p://generationnexxxt.com:19806/10263d570592484e864bf42334ba5a2f
-KBS Joy,P2p://generationnexxxt.com:19806/0a9a842f13284e848e7aa72af382c176
-SBS,P2p://generationnexxxt.com:19806/c8f25b3b0185407792640de06e8781df
-SBS Biz,P2p://generationnexxxt.com:19806/a99ade867d304779a5ac84ab89228575
-
-
-💫新闻频道,#genre#
-中天新闻,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ctinews
-台视新闻,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ttvnews_twn
-中视新闻,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ca73a13c37
-中视新闻,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=zhongshinews_twn
-TVBS新闻台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=tvbs_n
-民视新闻台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ftvnew_taiwan
-東森新闻,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ettvnews
-东森财经新闻,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ettvcaijing_twn
-非凡新闻,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=feifannews_twn
-年代新闻台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=niandainews_twn
-寰宇新闻台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=huanyuxinwen_twn
-寰宇财经,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=huanyutaiwan_twn
-
-CGTN,mitv://generationnexxxt.com:19806/fd57714f6d7844fba72dde1fdc11b902
-Fox News,mitv://generationnexxxt.com:19806/e9305a82b75c42f5901c0594e063e999
-BBC World News,mitv://generationnexxxt.com:19806/416eca57b45148398865fc4dabf40b72
-CNN USA,mitv://generationnexxxt.com:19806/e26f49dc14b34b1abe3e1fea84e1e5f4
-CNN,mitv://generationnexxxt.com:19806/64e312b4000a495878d628702a9c2b2e
-Sky News,mitv://generationnexxxt.com:19806/004e34fc27b949339dc56c7dfc272f76
-CBC News,mitv://generationnexxxt.com:19806/7fbe49af6e5a4041ad124362351e4b20
-CTV News,mitv://generationnexxxt.com:19806/c48d5139ac954dbaa49a8b0e23af6e16
-Business News ,mitv://135.148.104.228:19806/dc5be6cec9ba4284900e5670cbcae0bb
-
-亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CGTN,P2p://generationnexxxt.com:19806/fd57714f6d7844fba72dde1fdc11b902
-Fox News,P2p://generationnexxxt.com:19806/e9305a82b75c42f5901c0594e063e999
-BBC World News,P2p://generationnexxxt.com:19806/416eca57b45148398865fc4dabf40b72
-CNN USA,P2p://generationnexxxt.com:19806/e26f49dc14b34b1abe3e1fea84e1e5f4
-CNN,P2p://generationnexxxt.com:19806/64e312b4000a495878d628702a9c2b2e
-Sky News,P2p://generationnexxxt.com:19806/004e34fc27b949339dc56c7dfc272f76
-CBC News,P2p://generationnexxxt.com:19806/7fbe49af6e5a4041ad124362351e4b20
-CTV News,P2p://generationnexxxt.com:19806/c48d5139ac954dbaa49a8b0e23af6e16
-Business News ,P2p://135.148.104.228:19806/dc5be6cec9ba4284900e5670cbcae0bb
-
-
-
-💫体育频道,#genre#
-纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-纬来体育,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=videolandsport
-博斯运动 1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bosisport1_twn
-博斯运动2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bosisport2_twn
-博斯高球1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bosigolf1_twn
-博斯高球2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bosigolf2_twn
-博斯网球,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bositennis_twn
-ELEVEN 1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=golfchannel_twn
-爱尔达体育1台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=eltasport1_twn
-爱尔达体育2台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=eltasport2_twn
-爱尔达体育3台,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=eltasport3_twn
-BTESPN,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=btespn
-BTSports3,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=beethree
-Supersports 1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=go_assp1
-SPOTV 2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=go_spotv2
-BTSports2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=beetwo
-Bein 1 Sports,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bein1_mega
-Bein 2 Sports,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bein2_mega
-Bein 3 Sports,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bein3_mega
-Bein 4 Sports,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bein4_mega
-Bein 5 Sports,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bein5_mega
-Bein 6 Sports,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bein6_mega
-Bein 7 Sports,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bein7_mega
-
-
-WWE,P2p://generationnexxxt.com:19806/32e0838eeab84b3a96297dcceca27f5a
-NBA,P2p://generationnexxxt.com:19806/6fcac440f84e4d6b8a6ebeed5d393dba
-Hub Sports 1,mitv://generationnexxxt.com:19806/64e44da9000b7d207da475c66db01a76
-Hub Sports 2,mitv://generationnexxxt.com:19806/64e44da90003af9c7da473c3237f3c1b
-Hub Sports 3,mitv://generationnexxxt.com:19806/64e44da8000bb15c7da471ee63963595
-Astro SuperSport 1,mitv://generationnexxxt.com:19806/8f8ad3ee6aa54ccbac64314553dfa1fa
-Astro SuperSport 2,mitv://generationnexxxt.com:19806/650d4fca00064e791dd4dbcd16fd08c0
-Astro SuperSport 3,mitv://generationnexxxt.com:19806/5b9b9986c20244908be60c3f18a3e435
-Astro SuperSport 4,mitv://generationnexxxt.com:19806/c7f1be20958243f68c943016c446501e
-Astro SuperSport 5,mitv://generationnexxxt.com:19806/d41f257d25e54a0aa09227bde87eccf5
-J Sports 1,mitv://generationnexxxt.com:19806/3bf47ad3b3514230bd24efe7178aee5e
-J Sports 2,mitv://generationnexxxt.com:19806/1dec0300cce54ba5853fd5aadc349595
-J Sports 3,mitv://generationnexxxt.com:19806/1a9fd30d67f8480490d1fe07440658b5
-J Sports 4,mitv://generationnexxxt.com:19806/f7915841f9c04692b3c336849b8ed00c
-ESPN,mitv://generationnexxxt.com:19806/2436baa9e481444fa785298d5931bdba
-Sky Sports Golf,mitv://generationnexxxt.com:19806/502e2c431333474a9bda98a37b5152f0
-Sky Sports Premier League,mitv://generationnexxxt.com:19806/89decf25269a434db9dd2d273ec8ce20
-Skynet Sports HD,mitv://generationnexxxt.com:19806/64f03b7d000cf732ac3d879228791c70
-Skynet Sports 2,mitv://generationnexxxt.com:19806/64f03b7e0004ca5cac3d89676c3c51df
-Skynet Sports 5,mitv://generationnexxxt.com:19806/64f03b7f0003688dac3d8cf1521c6e9f
-Skynet Sports 6,mitv://generationnexxxt.com:19806/64f03b7e000b23c7ac3d8b0d775b55a1
-Sky Sports F1,mitv://generationnexxxt.com:19806/5c3a147369fb49bdb0a97859aef87b78
-Sky Sports Arena,mitv://generationnexxxt.com:19806/8519ae1db7da40149a83069cbfd48d23
-Sky Sports Main Event,mitv://generationnexxxt.com:19806/d80cfc5272f14b4bb675b1c8644ad4c7
-Sky Sports Cricket,mitv://generationnexxxt.com:19806/d342ec6589c24499b5f806408bea4ae8
-Sky Sports Action,mitv://generationnexxxt.com:19806/d627b2c21c264a13afa935d214060989
-
-
-WWE,P2p://generationnexxxt.com:19806/32e0838eeab84b3a96297dcceca27f5a
-NBA,P2p://generationnexxxt.com:19806/6fcac440f84e4d6b8a6ebeed5d393dba
-Hub Sports 1,P2p://generationnexxxt.com:19806/64e44da9000b7d207da475c66db01a76
-Hub Sports 2,P2p://generationnexxxt.com:19806/64e44da90003af9c7da473c3237f3c1b
-Hub Sports 3,P2p://generationnexxxt.com:19806/64e44da8000bb15c7da471ee63963595
-Astro SuperSport 1,P2p://generationnexxxt.com:19806/8f8ad3ee6aa54ccbac64314553dfa1fa
-Astro SuperSport 2,P2p://generationnexxxt.com:19806/650d4fca00064e791dd4dbcd16fd08c0
-Astro SuperSport 3,P2p://generationnexxxt.com:19806/5b9b9986c20244908be60c3f18a3e435
-Astro SuperSport 4,P2p://generationnexxxt.com:19806/c7f1be20958243f68c943016c446501e
-Astro SuperSport 5,P2p://generationnexxxt.com:19806/d41f257d25e54a0aa09227bde87eccf5
-J Sports 1,P2p://generationnexxxt.com:19806/3bf47ad3b3514230bd24efe7178aee5e
-J Sports 2,P2p://generationnexxxt.com:19806/1dec0300cce54ba5853fd5aadc349595
-J Sports 3,P2p://generationnexxxt.com:19806/1a9fd30d67f8480490d1fe07440658b5
-J Sports 4,P2p://generationnexxxt.com:19806/f7915841f9c04692b3c336849b8ed00c
-ESPN,P2p://generationnexxxt.com:19806/2436baa9e481444fa785298d5931bdba
-Sky Sports Golf,P2p://generationnexxxt.com:19806/502e2c431333474a9bda98a37b5152f0
-Sky Sports Premier League,P2p://generationnexxxt.com:19806/89decf25269a434db9dd2d273ec8ce20
-Skynet Sports HD,P2p://generationnexxxt.com:19806/64f03b7d000cf732ac3d879228791c70
-Skynet Sports 2,P2p://generationnexxxt.com:19806/64f03b7e0004ca5cac3d89676c3c51df
-Skynet Sports 5,P2p://generationnexxxt.com:19806/64f03b7f0003688dac3d8cf1521c6e9f
-Skynet Sports 6,P2p://generationnexxxt.com:19806/64f03b7e000b23c7ac3d8b0d775b55a1
-Sky Sports F1,P2p://generationnexxxt.com:19806/5c3a147369fb49bdb0a97859aef87b78
-Sky Sports Arena,P2p://generationnexxxt.com:19806/8519ae1db7da40149a83069cbfd48d23
-Sky Sports Main Event,P2p://generationnexxxt.com:19806/d80cfc5272f14b4bb675b1c8644ad4c7
-Sky Sports Cricket,P2p://generationnexxxt.com:19806/d342ec6589c24499b5f806408bea4ae8
-Sky Sports Action,P2p://generationnexxxt.com:19806/d627b2c21c264a13afa935d214060989
-
-💫国外频道,#genre#
-DaaiTV,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=DaaiTV
-新加坡CNA,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=cna
-MiaoMi,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=MiaoMi
-One,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=One
-阿里郎Arirang,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=arirang_twn
-NATGEOWILD,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Natgeowild
-BBCWORLDNEWS,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bbcnews_twn
-CBeebies,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Cbeebies
-CNBC,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=cnbc_twn
-France24,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=france24_twn
-TLC Asia,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=tlc_twn
-BBCLifestyle,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bbclifestyle_twn
-Suria,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Suria82
-Suria,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Suria
-RIA,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Ria
-RIA,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Ria_backup
-Bernama,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Bernama82
-Bernama,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Bernama
-Al-Hijrah,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Alhijrah
-Mecca Live,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=quran_mido
-Madinah,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=sunnah_mido
-Oasis,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Oasis
-Ceria,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Ceria
-Sony,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=SetOne
-Bein 1 Premium,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bein1pre_mega
-Bein 2 Premium,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bein2pre_mega
-Bein 3 Premium,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bein3pre_mega
-CBS,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=cbshd_glo
-Boomerang,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Boomerang
-Movies Now,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=moviesnow_raj
-SCM,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Weishimovie
-AEC,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=AEC
-BaBy-TV,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=babytv_twn
-Al-Jazeera,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=aljazeera_twn
-Animax,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Animax
-Awani,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Awani
-BBC1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bbc1_antik
-BBC2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bbc2_antik
-BloombergNews,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bloomberg_twn
-CBBC,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=cbbc_antik
-CBSN,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=cbsn_glo
-CGTN,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=CGTN
-Channel5Thailand,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ch5_pat
-DW(Deutsch),http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=dw_twn
-DiscoveryKidsTamil,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=discoverykidtamil_raj
-DiscoveryWorldTamil,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=discoveryworldtam_raj
-FoxNews,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=foxnews_twn
-WWE,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Wwe
-GmmChannel,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=gmmchannel_pat
-Channel 5,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Channel5HD
-Channel 81,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Channel8HD
-Channel 8,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Ch8114
-ChannelU,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ChannelU
-TPTV,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=tptv_pat
-TV1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=TV1
-TV2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=TV2
-TV3,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=TV3
-TV3 backup,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=TV382_backup
-TVMU,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=TVMU_eko
-NTV71,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=NTV7
-TV8,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=TV8
-TV9,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=TV9
-KBSWorld,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=KBS
-KidsTV,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=KidsTV
-MCOTThailand-1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=mcot_pat
-Mono,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=mono_pat
-MuslimTV,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=MuslimTV
-NatGeoTamil,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=natgeotamil_raj
-Nation,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=nation_pat
-New,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=new_pat
-Prima,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Prima
-RTMSports,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Rtmsport
-SCTV,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Sctv
-SonyTen1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=ten1_raj
-StarVijayIndia,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=starvijay_raj
-Starmaa,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=starmaa_raj
-SunTV,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Suntv
-TawafTV,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=TawafTV
-Thairath,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=thairath_pat
-Tnn24,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=tnn24_pat
-TruePremium1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=truepre1_pat
-TruePremium2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=truepre2_pat
-Tvone,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Tvone
-VisionPrime,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=VisionPrime
-Warna,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Warna
-WarnerTV,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=WarnerTV
-ZeeNews,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Zeenews
-itv1,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=itv1_antik
-itv2,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=itv2_antik
-tpbs,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=tpbs_pat
-Drama Sangat,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Dsangat
-TVN,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=TVN
-AFN,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Afc
-Nick JR,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Nickjr
-Babytv,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Babytv
-AnimalPlanet,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=AnimalPlanet
-Nickelodeon,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Nickelodeon
-ABCNews,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=abcnews_glo
-Euronews,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=euronews_antik
-HISTORY,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=History
-SkyNews,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=skynews_antik
-CNN,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=cnn_twn
-Goshop,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Goshop
-Bein 1 Xtra,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bein1xtra_mega
-NatGeo,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Natgeo
-BBC Earth,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bbcearth_twn
 
 
 🇭🇰港台,#genre#
-
+凤凰资讯,http://175.43.106.172:4022/udp/239.61.2.183:9086
+凤凰资讯,http://175.43.106.172:4022/udp/239.61.5.47:1025
 凤凰资讯,http://113.117.74.17:8081/hls/36/index.m3u8
 凤凰资讯,http://113.117.74.22:8081/hls/36/index.m3u8
 凤凰资讯,http://113.117.74.20:8081/hls/36/index.m3u8
@@ -1342,7 +913,8 @@ BBC Earth,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bbcea
 凤凰资讯,http://r.jdshipin.com/0Rp0
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 
-
+凤凰中文,http://175.43.106.172:4022/udp/239.61.5.48:1025
+凤凰中文,http://175.43.106.172:4022/udp/239.61.2.184:9092
 凤凰中文,http://113.117.74.17:8081/hls/37/index.m3u8
 凤凰中文,http://113.117.74.22:8081/hls/37/index.m3u8
 凤凰中文,http://113.117.74.20:8081/hls/37/index.m3u8
@@ -1374,7 +946,6 @@ BBC Earth,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bbcea
 
 
 
-翡翠台,https://pi.0472.org/tv/fct.php?auth=231122
 翡翠台,http://php.jdshipin.com:8880/iptv.php?id=fct
 翡翠台,http://39.106.73.140/g.php?id=1350_4500&/PLTV/hls.smil.m3u8
 翡翠台,http://27.46.125.240:800/hls/98/index.m3u8
@@ -1393,7 +964,6 @@ BBC Earth,http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=bbcea
 华丽台,http://23.237.10.66:16410
 
 
-明珠台,https://pi.0472.org/tv/mzt.php?auth=231122
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://39.106.73.140/g.php?id=1351_4500&/PLTV/hls.smil.m3u8
 明珠台,http://27.46.125.240:800/hls/84/index.m3u8
@@ -1674,18 +1244,18 @@ ELEVEN2,rtmp://119.81.124.89/sat/tv741
 
 🇨🇳数字4K,#genre#
 
+都市剧场,http://175.43.106.172:4022/udp/239.61.5.33:1025
+欢笑剧场,http://175.43.106.172:4022/udp/239.61.5.30:1025
+欢笑剧场,http://175.43.106.172:4022/udp/239.61.4.145:1025
+
+
+CHC动作电影,http://175.43.106.172:4022/udp/239.61.4.169:1025
 CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 CHC动作电影,http://www.51nas.top:4022/udp/239.81.0.239:4056
 CHC高清电影,http://www.51nas.top:4022/udp/239.81.0.240:4056
 CHC家庭影院,http://www.51nas.top:4022/udp/239.81.0.238:4056
-CHC动作电影,https://live.goodiptv.club/api/sxg.php?id=wqCHCdzdyH265_4000
-CHC高清电影,https://live.goodiptv.club/api/sxg.php?id=lnwsCHC-HDH265_4000
-CHC家庭影院,https://live.goodiptv.club/api/sxg.php?id=jbtygqCHCjtyyH265_4000
-CHC动作电影,http://hls.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
-CHC高清电影,http://hls.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
-CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
 
 欧洲华文1台,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 欧洲华文2台,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
@@ -1737,6 +1307,9 @@ IPTV淘电影,http://www.youku.cf:4022/rtp/239.3.1.250:8001
 浙江钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 🇨🇳虎牙直播,#genre#
+哆啦A梦,http://159.75.85.63:35455/huya/11601963
+哆啦A梦,https://epg.112114.xyz/huya/11601963
+哆啦A梦,https://yang-1989.eu.org/live/huya/11601963
 王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 雨神,http://159.75.85.63:35455/douyu/6512
@@ -2449,7 +2022,7 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 埋堆堆36,https://www.goodiptv.club/huya/23863787
 埋堆堆37,https://www.goodiptv.club/huya/23824164
 
-🇨🇳I直播中国,#genre#
+🇨🇳直播中国,#genre#
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 直播中国精编直播,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 湖南张家界水绕四门,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
@@ -2647,7 +2220,7 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 乐山大佛全景,https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
 福建武夷山玉女峰,https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
 
-🇨🇳IHOT频道,#genre#
+🇨🇳 HOT频道,#genre#
 iHOT爱院线,http://39.134.32.102:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 iHOT爱科幻,http://39.134.32.102:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
 iHOT爱浪漫,http://39.134.32.102:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
@@ -2678,9 +2251,7 @@ iHOT爱家庭,http://39.134.32.102:6610/000000001000/6000000006000090630/index.m
 iHOT爱动漫,http://39.134.32.102:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 
 
-
-
-🇨🇳INewTV频道#genre#
+🇨🇳 NewTV频道#genre#
 
 爱情喜剧,http://111.40.196.38:443/PLTV/88888888/224/3221225616/1.m3u8
 潮妈辣婆,http://111.40.196.27:443/PLTV/88888888/224/3221225680/1.m3u8

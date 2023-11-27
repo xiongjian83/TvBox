@@ -882,16 +882,19 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 江西影视旅游,rtsp://115.153.212.72/PLTV/88888888/224/3221226704/53213102.smil
 
 江西公共农业,rtsp://115.153.233.154/PLTV/88888888/224/3221226708/53213097.smil
+江西公共农业,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8?source=pc&t=170110249258660&token=79ecc1587fa5ca0b21a18d5e57caa3f0
 江西公共农业,rtsp://115.153.245.70/PLTV/88888888/224/3221226708/53213097.smil
 江西公共农业,rtsp://115.153.212.72/PLTV/88888888/224/3221226708/53213097.smil
 
 江西少儿,rtsp://115.153.233.154/PLTV/88888888/224/3221226938/68733921.smil
+江西少儿,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8?source=pc&t=170110252221034&token=b4ad3434011c7d447ccb0c924ce279c1
 江西少儿,rtsp://115.153.245.70/PLTV/88888888/224/3221226938/68733921.smil
 江西少儿,rtsp://115.153.233.154/PLTV/88888888/224/3221226724/53707450.smil
 江西少儿,rtsp://115.153.212.72/PLTV/88888888/224/3221226938/68733921.smil
 江西少儿,rtsp://115.153.212.72/PLTV/88888888/224/3221226724/53707450.smil
 
 江西新闻,rtsp://115.153.233.154/PLTV/88888888/224/3221226650/53190437.smil
+江西新闻,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8?source=pc&t=170110236280649&token=db74e3d928d6f66d07bd69c138976d91
 江西新闻,rtsp://115.153.245.70/PLTV/88888888/224/3221226650/53190437.smil
 江西新闻,rtsp://115.153.212.72/PLTV/88888888/224/3221226650/53190437.smil
 
@@ -900,6 +903,7 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 江西教育,rtsp://115.153.212.72/PLTV/88888888/224/3221226942/69552502.smil
 
 江西移动,rtsp://115.153.233.154/PLTV/88888888/224/3221227070/96801473.smil
+江西移动,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8?source=pc&t=170110260131540&token=e333e64ab9df6eafb33180a214221bd1
 
 
 
@@ -1032,8 +1036,6 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream4/str
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
 
-HOY TV77,https://t65.iptv200.com/live/kds/index.m3u8?session=3jq7n0efd05r1w0db3jmiss4esfxhyqu
-HOY TV78,https://t3.iptv200.com/live/hoy78/index.m3u8?session=5owd9yjk9ha32bx6mng6d7qc6nc62l8g
 
 HOY TV76,http://sc2022.stream-link.org/tv2306.php?id=h17
 HOY TV76,https://live.astradamy.com/hk76/index.m3u8

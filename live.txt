@@ -876,42 +876,43 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 
 📡  江西频道,#genre#
 江西卫视,rtsp://115.153.245.70/PLTV/88888888/224/3221226656/46275837.smil
-江西卫视,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=170110188048370&token=dd5cbd84794e4836002c21545ef8de34
+https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=170116254524499&token=3ac88bdef1f6ef8fae378c1e05d6b5de
+江西卫视,
 江西卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221226656/46275837.smil
 江西卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221226656/46275837.smil
 
 江西都市,rtsp://115.153.233.154/PLTV/88888888/224/3221227069/94448631.smil
-江西都市,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8?source=pc&t=170110150537546&token=dc7b7e1cb48ec85c20cd4e2c98dde94f
+江西都市,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8?source=pc&t=170116254524499&token=3ac88bdef1f6ef8fae378c1e05d6b5de
 江西都市,rtsp://115.153.245.70/PLTV/88888888/224/3221226728/53707442.smil
 江西都市,rtsp://115.153.233.154/PLTV/88888888/224/3221226728/53707442.smil
 江西都市,rtsp://115.153.212.72/PLTV/88888888/224/3221226728/53707442.smil
 
 江西经济生活,rtsp://115.153.233.154/PLTV/88888888/224/3221226946/70055407.smil
-江西经济生活,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8?source=pc&t=170110179243474&token=ca17868ece5123434ed78fd0f018109d
+江西经济生活,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8?source=pc&t=170116254524499&token=3ac88bdef1f6ef8fae378c1e05d6b5de
 江西经济生活,rtsp://115.153.245.70/PLTV/88888888/224/3221226946/70055407.smil
 江西经济生活,rtsp://115.153.233.154/PLTV/88888888/224/3221226717/53707446.smil
 江西经济生活,rtsp://115.153.212.72/PLTV/88888888/224/3221226946/70055407.smil
 江西经济生活,rtsp://115.153.212.72/PLTV/88888888/224/3221226717/53707446.smil
 
 江西影视旅游,rtsp://115.153.233.154/PLTV/88888888/224/3221226704/53213102.smil
-江西影视旅游,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8?source=pc&t=170110182964123&token=de84899baf5f0734f47dcea6e113cbd0
+江西影视旅游,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8?source=pc&t=170116254524499&token=3ac88bdef1f6ef8fae378c1e05d6b5de
 江西影视旅游,rtsp://115.153.245.70/PLTV/88888888/224/3221226704/53213102.smil
 江西影视旅游,rtsp://115.153.212.72/PLTV/88888888/224/3221226704/53213102.smil
 
 江西公共农业,rtsp://115.153.233.154/PLTV/88888888/224/3221226708/53213097.smil
-江西公共农业,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8?source=pc&t=170110249258660&token=79ecc1587fa5ca0b21a18d5e57caa3f0
+江西公共农业,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8?source=pc&t=170116254524499&token=3ac88bdef1f6ef8fae378c1e05d6b5de
 江西公共农业,rtsp://115.153.245.70/PLTV/88888888/224/3221226708/53213097.smil
 江西公共农业,rtsp://115.153.212.72/PLTV/88888888/224/3221226708/53213097.smil
 
 江西少儿,rtsp://115.153.233.154/PLTV/88888888/224/3221226938/68733921.smil
-江西少儿,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8?source=pc&t=170110252221034&token=b4ad3434011c7d447ccb0c924ce279c1
+江西少儿,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8?source=pc&t=170116254524499&token=3ac88bdef1f6ef8fae378c1e05d6b5de
 江西少儿,rtsp://115.153.245.70/PLTV/88888888/224/3221226938/68733921.smil
 江西少儿,rtsp://115.153.233.154/PLTV/88888888/224/3221226724/53707450.smil
 江西少儿,rtsp://115.153.212.72/PLTV/88888888/224/3221226938/68733921.smil
 江西少儿,rtsp://115.153.212.72/PLTV/88888888/224/3221226724/53707450.smil
 
 江西新闻,rtsp://115.153.233.154/PLTV/88888888/224/3221226650/53190437.smil
-江西新闻,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8?source=pc&t=170110236280649&token=db74e3d928d6f66d07bd69c138976d91
+江西新闻,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8?source=pc&t=170116254524499&token=3ac88bdef1f6ef8fae378c1e05d6b5de
 江西新闻,rtsp://115.153.245.70/PLTV/88888888/224/3221226650/53190437.smil
 江西新闻,rtsp://115.153.212.72/PLTV/88888888/224/3221226650/53190437.smil
 
@@ -920,7 +921,7 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 江西教育,rtsp://115.153.212.72/PLTV/88888888/224/3221226942/69552502.smil
 
 江西移动,rtsp://115.153.233.154/PLTV/88888888/224/3221227070/96801473.smil
-江西移动,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8?source=pc&t=170110260131540&token=e333e64ab9df6eafb33180a214221bd1
+江西移动,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8?source=pc&t=170116254524499&token=3ac88bdef1f6ef8fae378c1e05d6b5de
 
 
 

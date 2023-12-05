@@ -1097,10 +1097,8 @@ CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 
 🇭🇰港台,#genre#
-
-凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
-凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
-凤凰香港,http://php.17186.eu.org/phtv/fhxg.m3u8
+凤凰资讯,http://49.235.110.121:9090/daili/小果.php?id=test2_4000&Cf.m3u8
+凤凰中文,http://49.235.110.121:9090/daili/小果.php?id=test1_4000&Cf.m3u8
 
 凤凰资讯,https://qist.cc/live/sc.php?id=fhzx
 凤凰中文,https://qist.cc/live/sc.php?id=fhzw
@@ -1108,8 +1106,6 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 凤凰资讯,http://r.jdshipin.com/0Rp0
 凤凰中文,http://r.jdshipin.com/cCCzW
 
-凤凰资讯,http://175.43.106.172:4022/udp/239.61.2.183:9086
-凤凰资讯,http://175.43.106.172:4022/udp/239.61.5.47:1025
 凤凰资讯,http://113.117.74.17:8081/hls/36/index.m3u8
 凤凰资讯,http://113.117.74.22:8081/hls/36/index.m3u8
 凤凰资讯,http://113.117.74.20:8081/hls/36/index.m3u8
@@ -1117,11 +1113,8 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 
-凤凰中文,http://175.43.106.172:4022/udp/239.61.5.48:1025
-凤凰中文,http://175.43.106.172:4022/udp/239.61.2.184:9092
 凤凰中文,http://113.117.74.17:8081/hls/37/index.m3u8
 凤凰中文,http://113.117.74.22:8081/hls/37/index.m3u8
 凤凰中文,http://113.117.74.20:8081/hls/37/index.m3u8
@@ -1148,6 +1141,9 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
+凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
+凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
+凤凰香港,http://php.17186.eu.org/phtv/fhxg.m3u8
 
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct720

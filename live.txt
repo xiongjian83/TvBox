@@ -4,6 +4,8 @@ CCTV1,rtsp://115.153.233.154/PLTV/88888888/224/3221225699/iptv8040.smil
 CCTV2,rtsp://115.153.233.154/PLTV/88888888/224/3221226825/59814584.smil
 CCTV3,rtsp://115.153.233.154/PLTV/88888888/224/3221226930/65406412.smil
 CCTV4,rtsp://115.153.233.154/PLTV/88888888/224/3221226838/59814684.smil
+CCTV5,http://120.196.232.31:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
+CCTV5+http://120.196.232.51:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
 CCTV6,rtsp://115.153.233.154/PLTV/88888888/224/3221226909/65396493.smil
 CCTV7,rtsp://115.153.233.154/PLTV/88888888/224/3221226827/59814693.smil
 CCTV8,rtsp://115.153.233.154/PLTV/88888888/224/3221226911/65406606.smil
@@ -19,6 +21,8 @@ CCTV1,rtsp://115.153.212.72/PLTV/88888888/224/3221225699/iptv8040.smil
 CCTV2,rtsp://115.153.212.72/PLTV/88888888/224/3221226825/59814584.smil
 CCTV3,rtsp://115.153.212.72/PLTV/88888888/224/3221226841/63329606.smil
 CCTV4,rtsp://115.153.212.72/PLTV/88888888/224/3221226838/59814684.smil
+CCTV5,http://120.196.232.32:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
+CCTV5+http://120.196.232.52:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
 CCTV6,rtsp://115.153.212.72/PLTV/88888888/224/3221226843/63329570.smil
 CCTV7,rtsp://115.153.212.72/PLTV/88888888/224/3221226827/59814693.smil
 CCTV8,rtsp://115.153.212.72/PLTV/88888888/224/3221226854/63329578.smil
@@ -31,24 +35,27 @@ CCTV15,rtsp://115.153.212.72/PLTV/88888888/224/3221226988/85722541.smil
 CCTV17,rtsp://115.153.212.72/PLTV/88888888/224/3221226846/61397282.smil
 
 
-CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
-CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-CCTV6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-CCTV7,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-CCTV8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-CCTV9,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-CCTV10,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-CCTV11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
-CCTV12,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
-CCTV13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+CCTV1,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv01zh
+CCTV2,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv02jj
+CCTV3,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv03zy
+CCTV4,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv04zw
+CCTV5,http://iptv2.dnwx.vip:18888/udp/239.252.219.198:5140
+CCTV5,http://iptv2.dnwx.vip:18888/udp/239.252.219.236:5140
+CCTV5+,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv05pl
+CCTV6,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv06dy
+CCTV7,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv07js
+CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
+CCTV9,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv09jl
+CCTV10,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv10jy
+CCTV11,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv11xq
+CCTV12,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv12sf
+CCTV13,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv13xw
+CCTV14,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv14se
+CCTV15,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv15yy
+CCTV16,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv16ay
+CCTV17,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv17ny
+CCTV-4欧洲,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv04oz
+CCTV-4美洲,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv04mz
 
 
 CCTV1,https://live.metshop.top/hbgd.php?id=cctv1hd_3000
@@ -1270,164 +1277,29 @@ HOY TV78,https://cdn.hklive.tv/hls/78/index.m3u8
 澳亚卫视,https://pi.0472.org/tv/aoya.php?auth=231122
 澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
 
-天映频道,mitv://generationnexxxt.com:19806/234e6bd25b9a42f391c7f0ed73a038e2
-天映频道,https://sc2022.stream-link.org/tv2306.php?id=h24
-天映频道,http://103.112.191.9:880/LAOSAT1029.m3u8
-天映频道,http://210.210.155.37/session/6883312c-b2d3-11ed-8d27-c81f66f89318/dr9445/h/h14/index.m3u8
-天映频道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941618
-天映频道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=571218
-天映频道,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941618&extension=ts&play_token=kr082FQvzN
-天映频道,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571218&extension=ts&play_token=HnxccIWiNo
-天映频道,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941618&extension=ts&play_token=vFR5CkmzbA
-
-天映经典CCM,http://171.108.239.89:8181/tsfile/live/1009_1.m3u8
-天映经典CCM,http://120.84.96.138:808/hls/85/index.m3u8
-天映经典CCM,,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571182&extension=ts
-天映经典CCM,http://162.19.247.76:22222/live/tyjd/index.m3u8
-美亚电影,http://162.19.247.76:22222/live/my/index.m3u8
-八大第一台,http://123.51.230.108:18539/.m3u8
-八大第一台,http://61.221.81.93:8078/hls/38/80/gtvfirst.m3u8
-八大第一台,http://61.221.81.93:8531/hls/65/807/ch843.m3u8
-八大综合台,http://116.11.140.134:8181/tsfile/live/1205_1.m3u8
-八大综合台,http://61.221.81.93:8078/hls/38/80/gtv.m3u8
-八大综合台,http://61.221.81.93:8530/hls/65/807/ch843.m3u8
-八大戏剧,http://61.221.81.93:8078/hls/38/80/gtvdrama.m3u8
-星卫电影,http://103.112.191.9:880/LAOSAT1082.m3u8
-卫视电影,http://103.112.191.9:880/LAOSAT1085.m3u8
-
-
-私人影院,http://angtv.cn/jd/gx.php?id=sryy
-东森电影,http://angtv.cn/jd/gx.php?id=dsdy
-东森洋片,http://angtv.cn/jd/gx.php?id=dsyp
-龙祥时代,http://angtv.cn/jd/gx.php?id=lxsd
-
-东森电影,http://120.84.96.124:808/hls/32/index.m3u8
-东森电影,http://171.110.62.195:8181/tsfile/live/1075_1.m3u8
-东森电影,http://116.11.140.134:8181/tsfile/live/1222_1.m3u8
-东森电影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
-东森电影,http://103.112.191.9:880/LAOSAT1017.m3u8
-
-
-东森洋片,http://120.84.96.124:808/hls/33/index.m3u8
-东森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
-东森洋片,http://116.11.140.134:8181/tsfile/live/1218_1.m3u8
-东森洋片,http://103.112.191.9:880/LAOSAT1018.m3u8
-
-龙祥时代,http://171.108.239.89:8181/tsfile/live/1011_1.m3u8
-龙祥时代,http://120.84.96.124:808/hls/35/index.m3u8
-龙祥时代,http://171.110.62.46:8181/tsfile/live/1077_1.m3u8
-龙祥时代,http://103.112.191.9:880/LAOSAT1084.m3u8
-
-
-
-好莱坞电影,http://120.84.96.124:808/hls/24/index.m3u8
-好莱坞电影,http://116.11.141.144:8181/tsfile/live/1203_1.m3u8
-好莱坞电影,http://r.jdshipin.com/QFhCq
-
-
-三立台灣,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
-三立台灣,http://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042391~exp=9007200918783382~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=29538a1877a3c3728afe61bcd55b5a7b98f517bb3e2c75f8433b9338fda5b3e3
-三立都會,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
-三立都會,http://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042191~exp=9007200918783182~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=957e95920f87270a35afde9e5bd3d25c96af4c19596f0f2cc44ff968b89165c1
-三立台灣,https://sc2022.stream-link.org/tv2306.php?id=t25
-三立都會,https://sc2022.stream-link.org/tv2306.php?id=t26
-
-台视 HD,rtmp://9sv1.mine.nu/sat/tv071
-台视 HD,rtmp://9wv7.mine.nu/sat/tv071
-台视 HD,http://162.19.247.76:22222/live/taishi/index.m3u8
-台视 HD,rtmp://219.80.97.77/sat/tv071	`
-台视 HD,rtmp://119.81.124.89/sat/tv071
-中视 HD,rtmp://9sv1.mine.nu/sat/tv091
-中视 HD,rtmp://9wv7.mine.nu/sat/tv091
-中视 HD,http://162.19.247.76:22222/live/zhongshi/index.m3u8
-中视 HD,rtmp://219.80.97.77/sat/tv091
-中视 HD,rtmp://119.81.124.89/sat/tv091
-华视 HD,rtmp://9sv1.mine.nu/sat/tv111
-华视 HD,rtmp://9wv7.mine.nu/sat/tv111
-华视 HD,http://162.19.247.76:22222/live/huashi/index.m3u8
-华视 HD,rtmp://219.80.97.77/sat/tv111
-华视 HD,rtmp://119.81.124.89/sat/tv111
-民视 HD,rtmp://9sv1.mine.nu/sat/tv051
-民视 HD,rtmp://9wv7.mine.nu/sat/tv051
-民视 HD,rtmp://219.80.97.77/sat/tv051
-民视 HD,rtmp://119.81.124.89/sat/tv051
-TVBS新闻 HD,rtmp://9sv1.mine.nu/sat/tv551
-TVBS新闻 HD,rtmp://9wv7.mine.nu/sat/tv551
-TVBS新闻 HD,https://2022.stream-link.org/tv2306.php?id=t13
-TVBS新闻 HD,rtmp://219.80.97.77/sat/tv551
+台视 HD,rtmp://9sv2.mine.nu/sat/tv071
+中视 HD,rtmp://9sv2.mine.nu/sat/tv091
+华视 HD,rtmp://9sv2.mine.nu/sat/tv111
+民视 HD,rtmp://9sv2.mine.nu/sat/tv051
+TVBS新闻 HD,rtmp://9sv2.mine.nu/sat/tv551
 TVBS新闻 HD,rtmp://119.81.124.89/sat/tv551
-TVBS欢乐,rtmp://9sv1.mine.nu/sat/tv421
-TVBS欢乐,rtmp://9wv7.mine.nu/sat/tv421
-TVBS欢乐,rtmp://219.80.97.77/sat/tv421
+TVBS欢乐,rtmp://9sv2.mine.nu/sat/tv421
 TVBS欢乐,rtmp://119.81.124.89/sat/tv421
-TVBS亚洲台,http://sc2022.stream-link.org/tv2306.php?id=t18
-中天娱乐,http://162.19.247.76:22222/live/ztyl/index.m3u8
-中天综合 HD,http://61.221.81.93:8078/hls/35/80/cti.m3u8
-中天综合 HD,http://23.237.10.66:16372
-中天综合 HD,http://107.151.203.111:2209/135/us50.php?id=ztz
-东森超视,rtmp://9sv1.mine.nu/sat/tv331
-东森超视,rtmp://9wv7.mine.nu/sat/tv331
-东森超视,rtmp://219.80.97.77/sat/tv331
+东森超视,rtmp://9sv2.mine.nu/sat/tv331
 东森超视,rtmp://119.81.124.89/sat/tv331
-东森综合,http://61.221.81.93:8078/hls/34/80/ebc.m3u8
-东森戏剧台,http://116.11.140.134:8181/tsfile/live/1223_1.m3u8
-东森戏剧台,http://123.51.230.108:18538/0.m3u8
-东森戏剧台,http://61.221.81.93:8078/hls/34/80/ebcdrama.m3u8
-东森戏剧台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156395&extension=ts&play_token=UEKTIim7lP
-纬来体育,rtmp://9sv1.mine.nu/sat/tv721
-纬来体育,rtmp://9wv7.mine.nu/sat/tv721
-纬来体育,http://123.51.230.108:18509/.m3u8
-纬来育乐,rtmp://9sv1.mine.nu/sat/tv701
-纬来育乐,rtmp://9wv7.mine.nu/sat/tv701
-纬来育乐,rtmp://219.80.97.77/sat/tv701
-纬来育乐,http://123.51.230.108:18541/.m3u8
+纬来体育,rtmp://9sv2.mine.nu/sat/tv721
+纬来育乐,rtmp://9sv2.mine.nu/sat/tv701
 纬来育乐,rtmp://119.81.124.89/sat/tv701
-纬来综合,http://123.51.230.108:18540/.m3u8
-MoMo综合,rtmp://9sv1.mine.nu/sat/tv761
-MoMo综合,rtmp://9wv7.mine.nu/sat/tv761
-MoMo综合,rtmp://219.80.97.77/sat/tv761
+纬来日本,rtmp://9sv2.mine.nu/sat/tv771
+MoMo综合,rtmp://9sv2.mine.nu/sat/tv761
 MoMo综合,rtmp://119.81.124.89/sat/tv761
-卫视中文台,https://pull-f5-spe.ixigua.com/yeslivetv.com/628114772-186445521/index.m3u8?by=yeslivetv.com
-卫视中文台,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941624
-卫视中文台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941624&extension=ts&play_token=xmfFOBilCP
-中天亚洲台,http://sc2022.stream-link.org/tv2306.php?id=t17
-中天亚洲台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571212&extension=ts
-中天亚洲台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571212&extension=ts&play_token=yaoffzUbUJ
-中天亚洲台,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941638
-民视新闻 HD,https://sc2022.stream-link.org/tv2306.php?id=t07
-民视新闻 HD,http://123.51.230.108:18663/.m3u8
-民视新闻 HD,http://61.221.81.93:8078/hls/40/80/ftvnews.m3u8
-三立新闻,http://sc2022.stream-link.org/tv2306.php?id=t11
-三立新闻,http://123.51.230.64:18543/.m3u8
-年代新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa8b/index.m3u8?by=yeslivetv.com
-东森新闻 HD,https://pull-f5-spe.ixigua.com/yeslivetv.com/67888624-633347386/index.m3u8?by=yeslivetv.com
-东森新闻 HD,http://sc2022.stream-link.org/tv2306.php?id=t01
-东森新闻 HD,http://61.221.81.93:8527/hls/65/807/ch843.m3u8
-中天新闻 HD,http://sc2022.stream-link.org/tv2306.php?id=t03
-华视新闻 HD,http://sc2022.stream-link.org/tv2306.php?id=t05
-公视新闻 HD,https://sc2022.stream-link.org/tv2306.php?id=t29
-台视新闻 HD,http://sc2022.stream-link.org/tv2306.php?id=t13
-台视新闻 HD,http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
-民视新闻 HD,http://sc2022.stream-link.org/tv2306.php?id=t07
-中视新闻 HD,http://sc2022.stream-link.org/tv2306.php?id=t06
-寰宇新闻 HD,http://sc2022.stream-link.org/tv2306.php?id=t08
-寰宇新闻 台湾,http://sc2022.stream-link.org/tv2306.php?id=t09
-三立新闻 HD,http://sc2022.stream-link.org/tv2306.php?id=t12
-民視第一台,https://sc2022.stream-link.org/tv2306.php?id=t20
-民視台灣台,https://sc2022.stream-link.org/tv2306.php?id=t21
-民視綜藝台,https://sc2022.stream-link.org/tv2306.php?id=t22
-民視影劇台,https://sc2022.stream-link.org/tv2306.php?id=t23
-ELEVEN1,rtmp://9sv1.mine.nu/sat/tv731
-ELEVEN1,rtmp://219.80.97.77/sat/tv731
-ELEVEN1,rtmp://119.81.124.89/sat/tv731
-ELEVEN2,rtmp://9sv1.mine.nu/sat/tv741
-ELEVEN2,rtmp://219.80.97.77/sat/tv741
-ELEVEN2,rtmp://119.81.124.89/sat/tv741
-台湾体育1,rtmp://9sv1.mine.nu/sat/md011
-台湾体育2,rtmp://9sv1.mine.nu/sat/md051
-台湾体育3,rtmp://9sv1.mine.nu/sat/md021
-台湾体育4,rtmp://9sv1.mine.nu/sat/md041
-
+ELEVEN1,rtmp://9sv2.mine.nu/sat/tv731
+ELEVEN2,rtmp://9sv2.mine.nu/sat/tv741
+台湾体育1,rtmp://9sv2.mine.nu/sat/md011
+台湾体育2,rtmp://9sv2.mine.nu/sat/md051
+台湾体育3,rtmp://9sv2.mine.nu/sat/md021
+台湾体育4,rtmp://9sv2.mine.nu/sat/md041
+台湾体育5,rtmp://9sv2.mine.nu/sat/md031
 
 
 🇨🇳数字4K,#genre#

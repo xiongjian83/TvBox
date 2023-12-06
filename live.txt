@@ -14,6 +14,7 @@ CCTV10,rtsp://115.153.233.154/PLTV/88888888/224/3221226630/51813372.smil
 CCTV11,rtsp://115.153.233.154/PLTV/88888888/224/3221226986/85722616.smil
 CCTV12,rtsp://115.153.233.154/PLTV/88888888/224/3221226829/59814709.smil
 CCTV13,rtsp://115.153.233.154/PLTV/88888888/224/3221227037/87447722.smil
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV15,rtsp://115.153.233.154/PLTV/88888888/224/3221226988/85722541.smil
 CCTV17,rtsp://115.153.233.154/PLTV/88888888/224/3221226846/61397282.smil
 
@@ -57,31 +58,31 @@ CCTV17,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv17ny
 CCTV-4欧洲,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv04oz
 CCTV-4美洲,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv04mz
 
-
-CCTV1,https://live.metshop.top/hbgd.php?id=cctv1hd_3000
-CCTV2,https://live.metshop.top/hbgd.php?id=cctv2hd_3000
-CCTV3,https://live.metshop.top/hbgd.php?id=cctv3hd_3000
-CCTV4,https://live.metshop.top/hbgd.php?id=cctv4_1000
-CCTV5,https://live.metshop.top/hbgd.php?id=cctv5hd_3000
-CCTV5+,https://live.metshop.top/hbgd.php?id=cctv5jhd_3000
-CCTV6,https://live.metshop.top/hbgd.php?id=cctv6hd_3000
-CCTV7,https://live.metshop.top/hbgd.php?id=cctv7hd_3000
-CCTV8,https://live.metshop.top/hbgd.php?id=cctv8hd_3000
-CCTV9,https://live.metshop.top/hbgd.php?id=cctv9hd_3000
-CCTV10,https://live.metshop.top/hbgd.php?id=cctv10hd_3000
-CCTV11,https://live.metshop.top/hbgd.php?id=cctv11_1000
-CCTV12,https://live.metshop.top/hbgd.php?id=cctv12hd_3000
-CCTV13,https://live.metshop.top/hbgd.php?id=cctv13_1000
-CCTV14,https://live.metshop.top/hbgd.php?id=cctv17hd_3000
-CCTV15,https://live.metshop.top/hbgd.php?id=cctv14_1000
-CCTV16,https://live.metshop.top/hbgd.php?id=cctv16hd_3000
-CCTV17,https://live.metshop.top/hbgd.php?id=cctv14hd_3000
-
+CCTV1,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
+CCTV2,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
+CCTV3,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
+CCTV4,https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
+CCTV5,https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
+CCTV5+,https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
+CCTV6,https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
+CCTV7,https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
+CCTV8,https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
+CCTV9,https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
+CCTV10,https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
+CCTV11,https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
+CCTV12,https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
+CCTV13,https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
+CCTV14,https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
+CCTV15,https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
+CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
+CCTV17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 
 
+CCTV4K超高清,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 CCTV4K超高清,https://cfyy.cc/ds/ysp/qp.php?id=cctv4k
 CCTV4K超高清,http://ainm.cc/a/play/php/cctv4k.php?id=4khd
 CCTV4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV164K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
 CCTV164K,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
 CCTV164K,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
 CCTV164K,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
@@ -115,26 +116,6 @@ CCTV14,http://175.43.106.172:4022/udp/239.61.2.178:9056
 CCTV15,http://175.43.106.172:4022/udp/239.61.4.25:1025
 CCTV16,http://175.43.106.172:4022/udp/239.61.4.135:1025
 CCTV17,http://175.43.106.172:4022/udp/239.61.5.158:1025
-
-
-CCTV1,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw3831204341_1349411946/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115080246&ContentId=265183188&timezone=UTC&mtv_session=01b97ad3f1d61532d8f0d40578ee3f47&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ac6f75650a73ab06efc36233598f26b8
-CCTV2,http://hms104nc1972679566.live.aikan.miguvideo.com/wh7f454c46tw3468827325_440542616/wd_r2/cctv/cctv2hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208125733&ContentId=265667329&timezone=UTC&mtv_session=f739dcaed0e05c0e9e14fa47d0810c20&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=c4d54a337744e33e655349fe312a5eed
-CCTV3,http://hms44nc1972679560.live.aikan.miguvideo.com/wh7f454c46tw3692367231_1716696590/wd_r2/ocn/cctv3hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130116&ContentId=265667206&timezone=UTC&mtv_session=09b9584da7231a3b6c6b2c20aa3572d6&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f9cf165e747cb07e1e8dd89226e53387
-CCTV4,http://hms284nc1972679584.live.aikan.miguvideo.com/wh7f454c46tw3805527088_-1274597418/wd_r2/cctv/cctv4hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130309&ContentId=265667639&timezone=UTC&mtv_session=2dd2ab7bfb6b74ffa7cc9e8d7b6e5ed2&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d34ff8f1c5a38b07fa8b2d3d15e755a2
-CCTV5,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw3939139141_-877857276/wd_r2/cctv/cctv5hdnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130523&ContentId=265667565&timezone=UTC&mtv_session=e95834282573288096f63eab8a028447&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=12a070f46793605fdbff0e1132d2d0d8
-CCTV5+,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw4035956330_-1197773273/wd_r2/cctv/cctv5plusnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130700&ContentId=265106763&timezone=UTC&mtv_session=b1d7170ccd660150baa2e9435d787064&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=dfe2cfbc447ddc224a226f33be3d0f39
-CCTV6,http://hms424nc1972679598.live.aikan.miguvideo.com/wh7f454c46tw2025729208_-189538202/wd_r2/ocn/cctv6hd/3000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115084415&ContentId=265667482&timezone=UTC&mtv_session=0ac4193cdf07336c58fe3cdb4aac34a4&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=158f70fd4d75270c1810f0c735e78e18
-CCTV7,http://hms284nc1972679584.live.aikan.miguvideo.com/wh7f454c46tw4211155753_-1040212167/migu/kailu/20200324/cctv7hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130955&ContentId=265667268&timezone=UTC&mtv_session=f4a3cbeaf77fa614aed3843cb206bc06&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=38b55b6566aab32075f6169e2d955603
-CCTV8,http://hms84nc1972679564.live.aikan.miguvideo.com/wh7f454c46tw2243817462_1836799824/wd_r2/ocn/cctv8hd/3000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115084753&ContentId=265667466&timezone=UTC&mtv_session=077374df50cdebf0ab55b2ec30d2f01a&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8b9b358180e9e344fe45e67912ce6985
-CCTV9,http://hms444nc1972679601.live.aikan.miguvideo.com/wh7f454c46tw4260577431_-1084507862/migu/kailu/20200324/cctv9hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208131044&ContentId=265667202&timezone=UTC&mtv_session=9444a4df4cb7524a1ec85c4d44200abc&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=efdbccd2a72ff1ba2eabbf08f475f7c6
-CCTV10,http://hms424nc1972679599.live.aikan.miguvideo.com/wh7f454c46tw2383135402_1265174830/wd_r2/ocn/cctv10hd/3000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115085013&ContentId=265667631&timezone=UTC&mtv_session=451a79654bec6f8926b5017302146772&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e74690616e29be77ff1a1992b303b861
-CCTV11,http://59.47.226.94:8880/sql/2602/hls.m3u8
-CCTV12,http://hms204nc1972679577.live.aikan.miguvideo.com/wh7f454c46tw1174495643_-1245391177/migu/kailu/20200324/cctv12hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020243&ContentId=265667607&timezone=UTC&mtv_session=7581c6271c0379b8ca8b268ff7804765&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3906a8574a42ff13aba3e255be4cd8e3
-CCTV13,http://hms184nc1972679575.live.aikan.miguvideo.com/wh7f454c46tw946205927_-649996709/envivo_x/2018/SD/cctv13/2000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208132705&ContentId=265667474&timezone=UTC&mtv_session=36bf599c0c4bc785fd46aaf0ba40ffe7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=91a8a1c4652526079a5b0e294d5bc18d
-CCTV14,http://hms344nc1972679590.live.aikan.miguvideo.com/wh7f454c46tw1297666621_-728046298/wd_r2/ocn/cctv14hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020446&ContentId=265667325&timezone=UTC&mtv_session=ad6cfd6b6dabe31801ca54a4c87f1bac&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=2757ab80a8dee98edfcfd1ee767a17b8
-CCTV15,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw1387986390_1468621622/migu/kailu/20200324/cctv15hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020617&ContentId=265667535&timezone=UTC&mtv_session=e1254803553b7cace3a119612bf266d8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7ba98a3a39d853487109bebe5ed31c43
-CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-CCTV17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061_461954091/migu/kailu/20200324/cctv17hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208133753&ContentId=265667526&timezone=UTC&mtv_session=2ab00b83c917e8ba1b1bb082711b8b77&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4c04c5308e4761e3cc4b36134b05b864
 
 
 
@@ -177,7 +158,7 @@ CCTV14,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001240/index.m
 CCTV15,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001338/index.m3u8?
 CCTV16,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001258/index.m3u8?
 CCTV17,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001241/index.m3u8?
-CCTV-164K,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001258/index.m3u8?
+CCTV164K,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001258/index.m3u8?
 
 
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
@@ -493,6 +474,33 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 兵团卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221225753/iptv101723.smil
 三沙卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221226984/85722645.smil
 
+
+湖南卫视,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
+浙江卫视,https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
+东方卫视,https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
+北京卫视,https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
+江苏卫视,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
+江西卫视,https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
+东南卫视,https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000
+四川卫视,https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
+天津卫视,https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
+辽宁卫视,https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
+安徽卫视,https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
+黑龙江卫视,https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000
+广东卫视,https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
+深圳卫视,https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
+湖北卫视,https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000
+吉林卫视,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
+山东卫视,https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
+广西卫视,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
+河南卫视,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
+河北卫视,https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
+甘肃卫视,https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
+重庆卫视,https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
+云南卫视,https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
+贵州卫视,https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
+海南卫视,https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
+
 湖南卫视,https://live.goodiptv.club/api/cqyx.php?id=hunanHD
 东方卫视,https://live.goodiptv.club/api/cqyx.php?id=shanghaiHD
 北京卫视,https://live.goodiptv.club/api/cqyx.php?id=beijingHD
@@ -525,39 +533,6 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 新疆卫视,https://live.goodiptv.club/api/cqyx.php?id=xinjiangSD
 西藏卫视,https://live.goodiptv.club/api/cqyx.php?id=xizangSD
 
-北京卫视,https://live.metshop.top/hbgd.php?id=bjwshd_3000
-东方卫视,https://live.metshop.top/hbgd.php?id=dfwshd_3000
-浙江卫视,https://live.metshop.top/hbgd.php?id=zjwshd_3000
-江苏卫视,https://live.metshop.top/hbgd.php?id=jswshd_3000
-湖南卫视,https://live.metshop.top/hbgd.php?id=hnwshd_3000
-深圳卫视,https://live.metshop.top/hbgd.php?id=szwshd_3000
-天津卫视,https://live.metshop.top/hbgd.php?id=tjwshd_3000
-广东卫视,https://live.metshop.top/hbgd.php?id=gdwshd_3000
-黑龙江卫视,https://live.metshop.top/hbgd.php?id=hljwshd_3000
-安徽卫视,https://live.metshop.top/hbgd.php?id=ahwshd_3000
-辽宁卫视,https://live.metshop.top/hbgd.php?id=lnwshd_3000
-四川卫视,https://live.metshop.top/hbgd.php?id=scwshd_3000
-重庆卫视,https://live.metshop.top/hbgd.php?id=cqwshd_3000
-贵州卫视,https://live.metshop.top/hbgd.php?id=gzwshd_3000
-江西卫视,https://live.metshop.top/hbgd.php?id=jxwshd_3000
-东南卫视,https://live.metshop.top/hbgd.php?id=dnwshd_3000
-湖北卫视,https://live.metshop.top/hbgd.php?id=hbwshd_3000
-河南卫视,https://live.metshop.top/hbgd.php?id=henwshd_3000
-山东卫视,https://live.metshop.top/hbgd.php?id=sdwdhd_3000
-海南卫视,https://live.metshop.top/hbgd.php?id=hainwshd_3000
-广西卫视,https://live.metshop.top/hbgd.php?id=gxwshd_3000
-吉林卫视,https://live.metshop.top/hbgd.php?id=jlwshd_3000
-陕西卫视,https://live.metshop.top/hbgd.php?id=shxws_1000
-内蒙古卫视,https://live.metshop.top/hbgd.php?id=nmws_1000
-西藏卫视,https://live.metshop.top/hbgd.php?id=xzws_1000
-河北卫视,https://live.metshop.top/hbgd.php?id=hebws_1000
-青海卫视,https://live.metshop.top/hbgd.php?id=qhws_1000
-宁夏卫视,https://live.metshop.top/hbgd.php?id=nxws_1000
-云南卫视,https://live.metshop.top/hbgd.php?id=ynws_1000
-山西卫视,https://live.metshop.top/hbgd.php?id=sxws_1000
-甘肃卫视,https://live.metshop.top/hbgd.php?id=gsws_1000
-新疆卫视,https://live.metshop.top/hbgd.php?id=xjws_1000
-兵团卫视,https://live.metshop.top/hbgd.php?id=btws_1000
 
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
@@ -1307,6 +1282,10 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 
+欢笑剧场,https://live.goodiptv.club/api/bestv.php?id=hxjc4k/15000000
+欢笑剧场,https://live.goodiptv.club/api/bestv.php?id=hxjc8m/8000000
+都市剧场,https://live.goodiptv.club/api/bestv.php?id=dsjc8m/8000000
+
 都市剧场,http://175.43.106.172:4022/udp/239.61.5.33:1025
 欢笑剧场,http://175.43.106.172:4022/udp/239.61.5.30:1025
 欢笑剧场,http://175.43.106.172:4022/udp/239.61.4.145:1025
@@ -1314,6 +1293,15 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 欧洲华文1台,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 欧洲华文2台,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 欧洲华文6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
+
+华语影院,https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
+电竞天堂,https://live.goodiptv.club/api/bestv.php?id=djtt8m/8000000
+青春动漫,https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
+宝宝动画,https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
+星光影院,https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
+谍战剧场,https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
+全球大片,https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
+热门剧场,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
 
 北京IPTV4K,http://nas.jdshipin.com:8801/iptv.php?id=bj4k
 广东4K超高清,http://nas.jdshipin.com:8801/iptv.php?id=gd4k

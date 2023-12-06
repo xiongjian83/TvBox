@@ -277,6 +277,17 @@ CCTV-4美洲,http://120.234.220.107:9000/udp/239.21.0.108:3772
 CCTV-4欧洲,http://maomao.kandiantv.cn/m3u8.php?/migu/608807419
 CCTV-4美洲,http://maomao.kandiantv.cn/m3u8.php?/migu/608807416
 
+CCTV第一剧场,http://cfss.cc/api/ysp/dyjc.m3u8
+CCTV怀旧剧场,http://cfss.cc/api/ysp/hjjc.m3u8
+CCTV风云剧场,http://cfss.cc/api/ysp/fyjc.m3u8
+CCTV风云足球,http://cfss.cc/api/ysp/fyzq.m3u8
+CCTV电视指南,http://cfss.cc/api/ysp/dszn.m3u8
+CCTV央视台球,http://cfss.cc/api/ysp/ystq.m3u8
+CCTV风云音乐,http://cfss.cc/api/ysp/fyyy.m3u8
+CCTV兵器科技,http://cfss.cc/api/ysp/bqkj.m3u8
+CCTV世界地理,http://cfss.cc/api/ysp/sjdl.m3u8
+CCTV央视文化精品,http://cfss.cc/api/ysp/whjp.m3u8
+
 CCTV电视指南,http://111.20.40.162/PLTV/88888893/224/3221226987/index.m3u8
 CCTV电视指南,http://111.20.40.163/PLTV/88888893/224/3221226987/index.m3u8
 CCTV电视指南,http://111.20.40.166/PLTV/88888893/224/3221226987/index.m3u8
@@ -361,16 +372,6 @@ CCTV高尔夫网球,http://111.20.40.162/PLTV/88888893/224/3221226978/index.m3u8
 CCTV高尔夫网球,http://111.20.40.163/PLTV/88888893/224/3221226978/index.m3u8
 CCTV高尔夫网球,http://111.20.40.160/PLTV/88888893/224/3221226978/index.m3u8
 
-CCTV兵器科技,http://cfss.cc/api/ysp/bqkj.m3u8
-CCTV世界地理,http://cfss.cc/api/ysp/sjdl.m3u8
-CCTV央视文化精品,http://cfss.cc/api/ysp/whjp.m3u8
-CCTV怀旧剧场,http://cfss.cc/api/ysp/hjjc.m3u8
-CCTV风云剧场,http://cfss.cc/api/ysp/fyjc.m3u8
-CCTV风云音乐,http://cfss.cc/api/ysp/fyyy.m3u8
-CCTV第一剧场,http://cfss.cc/api/ysp/dyjc.m3u8
-CCTV风云足球,http://cfss.cc/api/ysp/fyzq.m3u8
-CCTV电视指南,http://cfss.cc/api/ysp/dszn.m3u8
-CCTV央视台球,http://cfss.cc/api/ysp/ystq.m3u8
 
 
 CCTV央视台球,http://59.32.98.90:9901/tsfile/live/1055_1.m3u8

@@ -1055,11 +1055,13 @@ CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 
 🇭🇰港台,#genre#
-凤凰资讯,http://49.235.110.121:9090/daili/小果.php?id=test2_4000&Cf.m3u8
-凤凰中文,http://49.235.110.121:9090/daili/小果.php?id=test1_4000&Cf.m3u8
 
 凤凰资讯,http://60.250.216.209:8577/http/61.67.128.130:8078/hls/20/80/phoenixif.m3u8
 凤凰中文,http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/phoenixch.m3u8
+
+凤凰资讯,http://49.235.110.121:9090/daili/小果.php?id=test2_4000&Cf.m3u8
+凤凰中文,http://49.235.110.121:9090/daili/小果.php?id=test1_4000&Cf.m3u8
+
 
 凤凰资讯,https://qist.cc/live/sc.php?id=fhzx
 凤凰中文,https://qist.cc/live/sc.php?id=fhzw
@@ -1106,8 +1108,9 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
 凤凰香港,http://php.17186.eu.org/phtv/fhxg.m3u8
 
-翡翠台,http://r.jdshipin.com/qrfbg
+
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct720
+翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/n90gt
@@ -1226,13 +1229,11 @@ HOY TV78,https://cdn.hklive.tv/hls/78/index.m3u8
 莲花卫视,http://live.cooltv.top/tv/lotus.php
 莲花卫视,http://nettvpro.live/hls/lotustv.php
 
-澳视澳门,http://r.jdshipin.com/n2YZI
-澳视澳门,https://pi.0472.org/tv/asam.php?auth=231122
 澳视澳门,http://61.244.22.5/ch1/ch1.live/index.m3u8
+澳视澳门,http://r.jdshipin.com/n2YZI
+
 
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-澳亚卫视,https://pi.0472.org/tv/aoya.php?auth=231122
-澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
 
 台视 HD,rtmp://9sv2.mine.nu/sat/tv071
 中视 HD,rtmp://9sv2.mine.nu/sat/tv091

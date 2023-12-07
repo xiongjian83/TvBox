@@ -36,27 +36,6 @@ CCTV15,rtsp://115.153.212.72/PLTV/88888888/224/3221226988/85722541.smil
 CCTV17,rtsp://115.153.212.72/PLTV/88888888/224/3221226846/61397282.smil
 
 
-CCTV1,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv01zh
-CCTV2,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv02jj
-CCTV3,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv03zy
-CCTV4,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv04zw
-CCTV5,http://iptv2.dnwx.vip:18888/udp/239.252.219.198:5140
-CCTV5,http://iptv2.dnwx.vip:18888/udp/239.252.219.236:5140
-CCTV5+,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv05pl
-CCTV6,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv06dy
-CCTV7,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv07js
-CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
-CCTV9,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv09jl
-CCTV10,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv10jy
-CCTV11,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv11xq
-CCTV12,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv12sf
-CCTV13,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv13xw
-CCTV14,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv14se
-CCTV15,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv15yy
-CCTV16,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv16ay
-CCTV17,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv17ny
-CCTV-4欧洲,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv04oz
-CCTV-4美洲,http://129.226.149.79:5678/V4free.php?access_token=test1123&id=cctv04mz
 
 CCTV1,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
 CCTV2,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
@@ -78,9 +57,9 @@ CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 CCTV17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 
 
-CCTV4K超高清,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 CCTV4K超高清,https://cfyy.cc/ds/ysp/qp.php?id=cctv4k
 CCTV4K超高清,http://ainm.cc/a/play/php/cctv4k.php?id=4khd
+CCTV4K超高清,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 CCTV4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV164K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
 CCTV164K,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8

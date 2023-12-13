@@ -1054,13 +1054,28 @@ CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 
+📡  国际,#genre#
+卡塔尔·半岛新闻,https://live-hls-v3-aje.getaj.net/AJE-V3/01.m3u8#https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+美国·FOX新闻,http://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+美国·彭博财经,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+新加坡·亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+欧洲·Eurosport1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
+欧洲·Eurosport2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
+加拿大·Global新闻,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+法国·Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+澳大利亚·ABC新闻,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+日本·Fuji,http://asia.vthanhtivi.pw/Fuji_TV/index.m3u8
+日本·24新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+日本·NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+俄罗斯·BRICS中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+
 🇭🇰港台,#genre#
 
 凤凰资讯,http://60.250.216.209:8577/http/61.67.128.130:8078/hls/20/80/phoenixif.m3u8
 凤凰中文,http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/phoenixch.m3u8
 
-凤凰资讯,http://49.235.110.121:9090/daili/小果.php?id=test2_4000&Cf.m3u8
-凤凰中文,http://49.235.110.121:9090/daili/小果.php?id=test1_4000&Cf.m3u8
+凤凰中文,https://live.goodiptv.club/api/sxg.php?id=test1_4000
+凤凰资讯,https://live.goodiptv.club/api/sxg.php?id=test2_4000
 
 
 凤凰资讯,https://qist.cc/live/sc.php?id=fhzx
@@ -1213,12 +1228,10 @@ HOY TV78,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 HOY TV78,https://cdn.hklive.tv/hls/78/index.m3u8
 
 
-星空卫视,http://171.108.239.89:8181/tsfile/live/1012_1.m3u8
-星空卫视,http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
-星空卫视,http://j.cxctu.cf:4000/udp/239.93.0.156:2193
+星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 
-星空音乐,http://vl15191373.imwork.net:8880/udp/239.93.0.157:2194
-星空音乐,http://j.cxctu.cf:4000/udp/239.93.0.157:2194
+星空音乐,http://wouu.net:9977/udp/239.93.0.157:2194
+
 
 
 莲花卫视,http://nas.jdshipin.com:8801/amlh.php
@@ -1237,32 +1250,41 @@ HOY TV78,https://cdn.hklive.tv/hls/78/index.m3u8
 
 美亚电影台,https://epg.pw/stream/ca72433de61915926d1c6a4b14af52bfdf0948b05c5236c8728421d77ee5e218.m3u8
 
-台视 HD,rtmp://9sv2.mine.nu/sat/tv071
-中视 HD,rtmp://9sv2.mine.nu/sat/tv091
-华视 HD,rtmp://9sv2.mine.nu/sat/tv111
-民视 HD,rtmp://9sv2.mine.nu/sat/tv051
-TVBS新闻 HD,rtmp://9sv2.mine.nu/sat/tv551
+台视 HD,rtmp://f13h.mine.nu/sat/tv071
+中视 HD,rtmp://f13h.mine.nu/sat/tv091
+华视 HD,rtmp://f13h.mine.nu/sat/tv111
+民视 HD,rtmp://f13h.mine.nu/sat/tv051
+TVBS新闻 HD,rtmp://f13h.mine.nu/sat/tv551
 TVBS新闻 HD,rtmp://119.81.124.89/sat/tv551
-TVBS欢乐,rtmp://9sv2.mine.nu/sat/tv421
+TVBS欢乐,rtmp://f13h.mine.nu/sat/tv421
 TVBS欢乐,rtmp://119.81.124.89/sat/tv421
-东森超视,rtmp://9sv2.mine.nu/sat/tv331
+东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,rtmp://119.81.124.89/sat/tv331
-纬来体育,rtmp://9sv2.mine.nu/sat/tv721
-纬来育乐,rtmp://9sv2.mine.nu/sat/tv701
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来育乐,rtmp://119.81.124.89/sat/tv701
-纬来日本,rtmp://9sv2.mine.nu/sat/tv771
-MoMo综合,rtmp://9sv2.mine.nu/sat/tv761
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 MoMo综合,rtmp://119.81.124.89/sat/tv761
-ELEVEN1,rtmp://9sv2.mine.nu/sat/tv731
-ELEVEN2,rtmp://9sv2.mine.nu/sat/tv741
-台湾体育1,rtmp://9sv2.mine.nu/sat/md011
-台湾体育2,rtmp://9sv2.mine.nu/sat/md051
-台湾体育3,rtmp://9sv2.mine.nu/sat/md021
-台湾体育4,rtmp://9sv2.mine.nu/sat/md041
-台湾体育5,rtmp://9sv2.mine.nu/sat/md031
+ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
+台湾体育1,rtmp://f13h.mine.nu/sat/md011
+台湾体育2,rtmp://f13h.mine.nu/sat/md051
+台湾体育3,rtmp://f13h.mine.nu/sat/md021
+台湾体育4,rtmp://f13h.mine.nu/sat/md041
+台湾体育5,rtmp://f13h.mine.nu/sat/md031
+
+
+
+
 
 
 🇨🇳数字4K,#genre#
+
+华数电影4K,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3&HlsProfileId=
+精彩影视,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3&HlsProfileId=
+超级电影,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3&HlsProfileId=
+超级体育,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3&HlsProfileId=
 
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
@@ -2049,6 +2071,66 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 埋堆堆35,https://www.goodiptv.club/huya/23749068
 埋堆堆36,https://www.goodiptv.club/huya/23863787
 埋堆堆37,https://www.goodiptv.club/huya/23824164
+
+🇨🇳 Newtv频道 ,#genre#
+
+精品大剧,http://111.13.111.242/000000001000PLTV/88888888/224/3221236205/1.m3u8?HlsProfileId=
+动作电影,http://111.13.111.242/000000001000PLTV/88888888/224/3221236207/1.m3u8?HlsProfileId=
+超级综艺,http://111.13.111.242/000000001000PLTV/88888888/224/3221235747/1.m3u8?HlsProfileId=
+潮妈辣婆,http://111.13.111.242/000000001000PLTV/88888888/224/3221236059/1.m3u8?HlsProfileId=
+超级电影,http://111.13.111.242/000000001000PLTV/88888888/224/3221235755/1.m3u8?HlsProfileId=
+超级电视剧,http://111.13.111.242/000000001000PLTV/88888888/224/3221235788/1.m3u8?HlsProfileId=
+海外剧场,http://111.13.111.242/000000001000PLTV/88888888/224/3221236211/1.m3u8?HlsProfileId=
+古装剧场,http://111.13.111.242/000000001000PLTV/88888888/224/3221236213/1.m3u8?HlsProfileId=
+军事评论,http://111.13.111.242/000000001000PLTV/88888888/224/3221236210/1.m3u8?HlsProfileId=
+家庭剧场,http://111.13.111.242/000000001000PLTV/88888888/224/3221236206/1.m3u8?HlsProfileId=
+军旅剧场,http://111.13.111.242/000000001000PLTV/88888888/224/3221236212/1.m3u8?HlsProfileId=
+中国功夫,http://111.13.111.242/000000001000PLTV/88888888/224/3221236214/1.m3u8?HlsProfileId=
+爱情喜剧,http://111.13.111.242/000000001000PLTV/88888888/224/3221236215/1.m3u8?HlsProfileId=
+精品体育,http://111.13.111.242/000000001000PLTV/88888888/224/3221236208/1.m3u8?HlsProfileId=
+超级体育,http://111.13.111.242/000000001000PLTV/88888888/224/3221235751/1.m3u8?HlsProfileId=
+炫舞未来,http://111.13.111.242/000000001000PLTV/88888888/224/3221235764/1.m3u8?HlsProfileId=
+农业致富,http://111.13.111.242/000000001000PLTV/88888888/224/3221236147/1.m3u8?HlsProfileId=
+精品纪录,http://111.13.111.242/000000001000PLTV/88888888/224/3221236204/1.m3u8?HlsProfileId=
+武搏世界,http://111.13.111.242/000000001000PLTV/88888888/224/3221236216/1.m3u8?HlsProfileId=
+
+🇨🇳 itv频道,#genre#
+爱院线,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3&HlsProfileId=
+爱科幻,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3&HlsProfileId=
+爱喜剧,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3&HlsProfileId=
+爱都市,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3&HlsProfileId=
+爱家庭,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3&HlsProfileId=
+爱青春,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3&HlsProfileId=
+爱江湖,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000110630&livemode=1&stbId=3&HlsProfileId=
+爱浪漫,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3&HlsProfileId=
+爱悬疑,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3&HlsProfileId=
+爱玩具,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3&HlsProfileId=
+爱电竞,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3&HlsProfileId=
+爱赛车,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3&HlsProfileId=
+爱旅行,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3&HlsProfileId=
+爱怀旧,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3&HlsProfileId=
+爱奇谈,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3&HlsProfileId=
+爱动漫,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3&HlsProfileId=
+爱体育,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3&HlsProfileId=
+爱探索,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3&HlsProfileId=
+爱经典,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3&HlsProfileId=
+爱谍战,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3&HlsProfileId=
+爱美食,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=3&HlsProfileId=
+爱娱乐,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3&HlsProfileId=
+爱时尚,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000140630&livemode=1&stbId=3&HlsProfileId=
+爱历史,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3&HlsProfileId=
+爱科学,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3&HlsProfileId=
+爱军武,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=3&HlsProfileId=
+爱猎奇,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000190630&livemode=1&stbId=3&HlsProfileId=
+爱解密,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=3&HlsProfileId=
+爱世界,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000210630&livemode=1&stbId=3&HlsProfileId=
+足球频道,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000066&livemode=1&stbId=3&HlsProfileId=
+咪咕视频,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000060&livemode=1&stbId=3&HlsProfileId=
+咪咕视频,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000061&livemode=1&stbId=3&HlsProfileId=
+咪咕视频,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000062&livemode=1&stbId=3&HlsProfileId=
+咪咕视频,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000063&livemode=1&stbId=3&HlsProfileId=
+咪咕视频,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000064&livemode=1&stbId=3&HlsProfileId=
+咪咕视频,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000065&livemode=1&stbId=3&HlsProfileId=
 
 🇨🇳直播中国,#genre#
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001

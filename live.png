@@ -1131,37 +1131,39 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 翡翠台,http://r.jdshipin.com/n90gt
 
 
-翡翠台,http://27.46.125.240:800/hls/98/index.m3u8
-翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h02
-
-
-
 
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://r.jdshipin.com/GeWKr?id=mzt720
 明珠台,http://27.46.125.240:800/hls/84/index.m3u8
 
-
+中天新闻,http://108.181.20.177:27347/livehttpplay?channel_id=13001
+Now财经,http://108.181.20.177:27347/livehttpplay?channel_id=13000
+Now爆谷,http://108.181.20.177:27347/livehttpplay?channel_id=13002
+18台,http://108.181.20.177:27347/livehttpplay?channel_id=13005
+TVB 经典,http://108.181.20.177:27347/livehttpplay?channel_id=13020
+TVB 亚洲,http://108.181.20.177:27347/livehttpplay?channel_id=13022
+TVB 古装,http://108.181.20.177:27347/livehttpplay?channel_id=13023
+TVB 时装,http://108.181.20.177:27347/livehttpplay?channel_id=13024
+TVB 老片,http://108.181.20.177:27347/livehttpplay?channel_id=13027
 
 
 J2,http://r.jdshipin.com/ndGgS
 J2,http://27.46.125.240:800/hls/81/index.m3u8
-J2,https://sc2022.stream-link.org/tv2306.php?id=h03
+
 
 无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://27.46.125.240:800/hls/82/index.m3u8
-无线新闻,http://sc2022.stream-link.org/tv2306.php?id=h04
+
 
 
 无线财经,http://r.jdshipin.com/jUx8K
 无线财经,http://27.46.125.240:800/hls/83/index.m3u8
-无线财经,http://sc2022.stream-link.org/tv2306.php?id=h05
+
 
 
 
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,http://27.46.125.240:800/hls/86/index.m3u8
-ViuTV,https://sc2022.stream-link.org/tv2306.php?id=h09
 ViuTV,http://r.jdshipin.com/ecsRA
 ViuTV,https://live.astradamy.com/viutv/index.m3u8
 
@@ -1172,7 +1174,6 @@ ViUTV6,http://107.167.12.58:41803
 
 
 
-华丽台,https://sc2022.stream-link.org/tv2306.php?id=h00
 华丽台,http://r.jdshipin.com/thuYX
 华丽台,http://23.237.10.66:16410
 
@@ -1182,8 +1183,6 @@ ViUTV6,http://107.167.12.58:41803
 
 TVB星河,http://r.jdshipin.com/sXuuD
 TVB星河,http://113.117.74.24:8081/hls/135/index.m3u8
-TVB星河,http://171.108.239.89:8181/tsfile/live/1005_1.m3u8
-TVB星河,https://sc2022.stream-link.org/tv2306.php?id=h22
 TVB星河,http://103.112.191.9:880/LAOSAT1092.m3u8
 TVB星河,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153506&extension=ts&play_token=oBUI7V2RM0
 
@@ -1193,14 +1192,12 @@ TVB娱乐新闻台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:45:5E:
 
 RTHK31,http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
-RTHK31,https://sc2022.stream-link.org/tv2306.php?id=h11
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream1/streamPlaylist.m3u8
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 RTHK32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-RTHK32,https://sc2022.stream-link.org/tv2306.php?id=h12
 RTHK32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
@@ -1209,13 +1206,11 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
 
 
-HOY TV76,http://sc2022.stream-link.org/tv2306.php?id=h17
 HOY TV76,https://live.astradamy.com/hk76/index.m3u8
 HOY TV76,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 
 HOY TV77,http://r.jdshipin.com/NADme
 HOY TV77,http://r.jdshipin.com/ZKpTD
-HOY TV77,http://sc2022.stream-link.org/tv2306.php?id=h16
 HOY TV77,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 HOY TV77,https://live.astradamy.com/hk77/index.m3u8
 HOY TV77,https://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/chunklist_w1774969640.m3u8
@@ -1223,7 +1218,6 @@ HOY TV77,https://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/chunklist_w5
 HOY TV77,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 HOY TV77,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-HOY TV78,http://sc2022.stream-link.org/tv2306.php?id=h17
 HOY TV78,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 HOY TV78,https://cdn.hklive.tv/hls/78/index.m3u8
 
@@ -1242,7 +1236,8 @@ HOY TV78,https://cdn.hklive.tv/hls/78/index.m3u8
 莲花卫视,http://live.cooltv.top/tv/lotus.php
 莲花卫视,http://nettvpro.live/hls/lotustv.php
 
-澳视澳门,http://61.244.22.5/ch1/ch1.live/index.m3u8
+
+澳视澳门,http://108.181.20.177:27347/livehttpplay?channel_id=13061
 澳视澳门,http://r.jdshipin.com/n2YZI
 
 
@@ -2074,7 +2069,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 
 🇨🇳 Newtv频道 ,#genre#
 
-精品大剧,http://111.13.111.242/000000001000PLTV/88888888/224/3221236205/1.m3u8?HlsProfileId=
 动作电影,http://111.13.111.242/000000001000PLTV/88888888/224/3221236207/1.m3u8?HlsProfileId=
 超级综艺,http://111.13.111.242/000000001000PLTV/88888888/224/3221235747/1.m3u8?HlsProfileId=
 潮妈辣婆,http://111.13.111.242/000000001000PLTV/88888888/224/3221236059/1.m3u8?HlsProfileId=
@@ -2089,10 +2083,11 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 爱情喜剧,http://111.13.111.242/000000001000PLTV/88888888/224/3221236215/1.m3u8?HlsProfileId=
 精品体育,http://111.13.111.242/000000001000PLTV/88888888/224/3221236208/1.m3u8?HlsProfileId=
 超级体育,http://111.13.111.242/000000001000PLTV/88888888/224/3221235751/1.m3u8?HlsProfileId=
-炫舞未来,http://111.13.111.242/000000001000PLTV/88888888/224/3221235764/1.m3u8?HlsProfileId=
 农业致富,http://111.13.111.242/000000001000PLTV/88888888/224/3221236147/1.m3u8?HlsProfileId=
 精品纪录,http://111.13.111.242/000000001000PLTV/88888888/224/3221236204/1.m3u8?HlsProfileId=
 武搏世界,http://111.13.111.242/000000001000PLTV/88888888/224/3221236216/1.m3u8?HlsProfileId=
+精品大剧,http://111.13.111.242/000000001000PLTV/88888888/224/3221236205/1.m3u8?HlsProfileId=
+炫舞未来,http://111.13.111.242/000000001000PLTV/88888888/224/3221235764/1.m3u8?HlsProfileId=
 
 🇨🇳 itv频道,#genre#
 爱院线,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3&HlsProfileId=

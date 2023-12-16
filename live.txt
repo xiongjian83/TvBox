@@ -1456,6 +1456,7 @@ ViuTV,http://r.jdshipin.com/ecsRA
 ViuTV,https://live.astradamy.com/viutv/index.m3u8
 
     
+ViUTV6,https://t10.iptv200.com/live/viutv6/index.m3u8?session=xvcfei2yyg6rse5rxi3auzch4oe1tlnx
 ViUTV6,http://27.46.125.240:800/hls/85/index.m3u8
 ViUTV6,http://107.167.12.58:34809
 ViUTV6,http://107.167.12.58:41803
@@ -1497,6 +1498,8 @@ RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
 HOY TV76,https://live.astradamy.com/hk76/index.m3u8
 HOY TV76,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 
+
+HOY TV77,https://t63.iptv200.com/live/kds/index.m3u8?session=wxur0weky7knnfch4l8wme1tzuugzqwr
 HOY TV77,http://r.jdshipin.com/NADme
 HOY TV77,http://r.jdshipin.com/ZKpTD
 HOY TV77,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
@@ -1506,6 +1509,7 @@ HOY TV77,https://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/chunklist_w5
 HOY TV77,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 HOY TV77,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
+HOY TV78,https://t29.iptv200.com/live/hoy78/index.m3u8?session=u4v0z5a2h8jcosohlub8j4yrafdbat5e
 HOY TV78,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 HOY TV78,https://cdn.hklive.tv/hls/78/index.m3u8
 

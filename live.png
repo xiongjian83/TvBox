@@ -1137,6 +1137,27 @@ CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 
+📡  赛事(测试),#genre#
+
+足球-01,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mfline01
+足球-02,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mfline02
+足球-03,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mfline03
+足球-04,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mfline04
+足球-05,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mfline05
+足球-06,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mfline06
+
+NBA-01,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mgline01
+NBA-02,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mgline02
+NBA-03,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mgline03
+NBA-04,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mgline04
+NBA-05,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mgline05
+NBA-06,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mgline06
+NBA-07,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mgline07
+NBA-08,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mgline08
+NBA-09,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mgline09
+NBA-10,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mgline10
+
+
 📡  国际,#genre#
 卡塔尔·半岛新闻,https://live-hls-v3-aje.getaj.net/AJE-V3/01.m3u8#https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 美国·FOX新闻,http://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
@@ -1440,11 +1461,13 @@ J2,http://27.46.125.240:800/hls/81/index.m3u8
 
 
 无线新闻,http://r.jdshipin.com/CkuBd
+无线新闻,https://tvp22.sky4k.top/index1.php
 无线新闻,http://27.46.125.240:800/hls/82/index.m3u8
 
 
 
 无线财经,http://r.jdshipin.com/jUx8K
+无线财经,https://tvp22.sky4k.top/index2.php
 无线财经,http://27.46.125.240:800/hls/83/index.m3u8
 
 
@@ -1560,9 +1583,6 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 台湾体育3,rtmp://f13h.mine.nu/sat/md021
 台湾体育4,rtmp://f13h.mine.nu/sat/md041
 台湾体育5,rtmp://f13h.mine.nu/sat/md031
-
-
-
 
 
 

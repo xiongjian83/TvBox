@@ -1524,14 +1524,14 @@ ELEVEN SPORTS 2 HD,http://47.242.38.45:9999/twjd678-1.php?id=66
 
 中天新闻,http://108.181.20.177:27347/livehttpplay?channel_id=13001
 Now财经,http://108.181.20.177:27347/livehttpplay?channel_id=13000
-Now,http://108.181.20.177:27347/livehttpplay?channel_id=13002
+Now爆谷,http://108.181.20.177:27347/livehttpplay?channel_id=13002
 Now星影,http://108.181.20.177:27347/livehttpplay?channel_id=13003
 18台,http://108.181.20.177:27347/livehttpplay?channel_id=13005
-TVB 经典,http://108.181.20.177:27347/livehttpplay?channel_id=13020
-TVB 亚洲,http://108.181.20.177:27347/livehttpplay?channel_id=13022
-TVB 古装,http://108.181.20.177:27347/livehttpplay?channel_id=13023
-TVB 时装,http://108.181.20.177:27347/livehttpplay?channel_id=13024
-TVB 老片,http://108.181.20.177:27347/livehttpplay?channel_id=13027
+TVB 华语剧台,http://108.181.20.177:27347/livehttpplay?channel_id=13020
+TVB 亚洲剧台,http://108.181.20.177:27347/livehttpplay?channel_id=13022
+TVB 华语,http://108.181.20.177:27347/livehttpplay?channel_id=13023
+TVB 千禧经典,http://108.181.20.177:27347/livehttpplay?channel_id=13024
+TVB 粤语片,http://108.181.20.177:27347/livehttpplay?channel_id=13027
 
 
 J2,http://r.jdshipin.com/ndGgS
@@ -1550,14 +1550,15 @@ J2,http://27.46.125.240:800/hls/81/index.m3u8
 
 
 
-
+ViuTV,https://epg.pw/stream/e3b6ef61296cb3a88c8940bf8d296959a56b9ab06d5299f75dd9334205ec9d14.ctv
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,http://27.46.125.240:800/hls/86/index.m3u8
 ViuTV,http://r.jdshipin.com/ecsRA
-ViuTV,https://live.astradamy.com/viutv/index.m3u8
+
 
     
-ViUTV6,https://t10.iptv200.com/live/viutv6/index.m3u8?session=xvcfei2yyg6rse5rxi3auzch4oe1tlnx
+ViUTV6,https://epg.pw/stream/15a0a494c6dc62d3918a81b314b2b3769f69af215dd6a95d7fb77c06f9cb55b8.ctv
+ViUTV6,https://epg.pw/stream/a60eb5b0d9f984ed16e752476b21409c14f91fa548495e39a4514da5f41295b7.ctv
 ViUTV6,http://27.46.125.240:800/hls/85/index.m3u8
 ViUTV6,http://107.167.12.58:34809
 ViUTV6,http://107.167.12.58:41803
@@ -3255,38 +3256,7 @@ MSD-009/香艳姐妹新邻居,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/
 MSD-008/出轨的妖艳少妇,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/hh/y4/uz/4k/251dd61a40324cf19846bc58f1cbff12.m3u8?
 MSD-003/菜鸟特务,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/kn/99/yw/34/c3ac47258c9f4b7399c6a6543b80b8c1.m3u8?
 MSD-001/乱伦迷情药,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/qi/oi/gz/ux/dbf57474fbed49c9aa3fb97bcd75b891.m3u8?
-北上广不相信眼泪,https://long.longyuandingyi.com/play/8b72344f3ea4ec60ad51dac84dd7bd68/8b72344f3ea4ec60ad51dac84dd7bd68.m3u8?auth_key=1695386854-0-0-69c5eddaa0880c8611b930ad20d4a6b4
-中秋特辑,https://long.longyuandingyi.com/watch9/24309b63e91dee9ced4de8eafd241d41/24309b63e91dee9ced4de8eafd241d41.m3u8?auth_key=1695406412-0-0-38cc503368086694ca79ee51e1395d19
-黄飞鸿与十三姨(上集),https://long.longyuandingyi.com/videos2/ac8b7026ea2f7ba0ca61841500787c1e/ac8b7026ea2f7ba0ca61841500787c1e.m3u8?auth_key=1695906349-0-0-931adefaeda05931490796575531a9bb
-黄飞鸿与十三姨(下集),https://long.longyuandingyi.com/videos2/0f1cb404ec6a2037952cec9271767c98/0f1cb404ec6a2037952cec9271767c98.m3u8?auth_key=1695906390-0-0-8eb35d078be22691c764d82258d51a25
-饥渴的妈妈(上集),https://long.longyuandingyi.com/videos2/e2cc13ca57844cd842b7e68746647eca/e2cc13ca57844cd842b7e68746647eca.m3u8?auth_key=1695906607-0-0-1be31cfe8cc5164587c3790a3f3bc60c
-饥渴的妈妈(下集),https://long.longyuandingyi.com/videos2/11d0d4ddb24a8a2d1e790ade07862d07/11d0d4ddb24a8a2d1e790ade07862d07.m3u8?auth_key=1695906846-0-0-25893a99aa820836330a9c80301eb39d
-新娘的诱惑,https://long.longyuandingyi.com/videos1/639d077157bd85838ad65c046a127b4f/639d077157bd85838ad65c046a127b4f.m3u8?auth_key=1695906678-0-0-4557fdc5fc5d9b1134eccb527feb7f02
-双胞胎姐妹心有灵犀,https://long.longyuandingyi.com/videos2/949ffbf5db37d5b142c221900f41190f/949ffbf5db37d5b142c221900f41190f.m3u8?auth_key=1695906874-0-0-751fd0c38432f0132523ae4d941e63ad
-三国孔明,https://long.longyuandingyi.com/watch9/8fee3357ffaa4a60ee28b4a480c6a433/8fee3357ffaa4a60ee28b4a480c6a433.m3u8?auth_key=1695907035-0-0-e45f1fdf493c3e4f9474cb09e51d3773
-网贷,https://long.longyuandingyi.com/watch2/2d272336e254863aa3476a738c3de6fe/2d272336e254863aa3476a738c3de6fe.m3u8?auth_key=1695907113-0-0-74a138d3ce9d353359c30866e38ea536
-中国好声音,https://long.longyuandingyi.com/videos2/67141980b63920a2e480e7a49e03eed0/67141980b63920a2e480e7a49e03eed0.m3u8?auth_key=1695926608-0-0-66167926b6b417a7cdda965e6e1862d2
-同城遇真爱,https://long.longyuandingyi.com/videos1/fdc033e92ba5900b34baea99b416ab9f/fdc033e92ba5900b34baea99b416ab9f.m3u8?auth_key=1695926835-0-0-96eb0930f86f2305d61cfd632705a231
-不想努力了,https://long.longyuandingyi.com/watch9/39703a334e523a7c5740036a666a01b5/39703a334e523a7c5740036a666a01b5.m3u8?auth_key=1695926640-0-0-3e921572db23d271cbe62940557c7e23
-兄弟和我老婆,https://long.longyuandingyi.com/watch9/0cd5d8d3b0e990a88fb8a18bf235a70d/0cd5d8d3b0e990a88fb8a18bf235a70d.m3u8?auth_key=1695926912-0-0-1af650caed7a0b30b34510391646d396
-猪一群踢足球,https://long.longyuandingyi.com/watch9/1d4003be8fa038c38d2bc9800c78be1d/1d4003be8fa038c38d2bc9800c78be1d.m3u8?auth_key=1695926987-0-0-5706d001e8997078ce100cf40fbaee09
-国足雄起,https://long.longyuandingyi.com/watch9/f8dd822e0b3ce1b8616f4127dc46b9b1/f8dd822e0b3ce1b8616f4127dc46b9b1.m3u8?auth_key=1695926792-0-0-1cfa5d0b91b146cbb5b3cb2f6239e632
-和儿子班主任的故事,https://long.longyuandingyi.com/watch9/cc341be62b35bf69ea1a3aebf542a582/cc341be62b35bf69ea1a3aebf542a582.m3u8?auth_key=1695926897-0-0-cbb7867c030f22b4987aac26810534b5
-给行长的礼物,https://long.longyuandingyi.com/watch9/c72e17a09565116e73919b7b8ffaa3b2/c72e17a09565116e73919b7b8ffaa3b2.m3u8?auth_key=1695926850-0-0-2fc3c1f47b4876f0527399daaffbebbc
-迪丽热巴,https://long.longyuandingyi.com/watch7/12a4fa505b06171b24ac8d354ac6e67c/12a4fa505b06171b24ac8d354ac6e67c.m3u8?auth_key=1695927147-0-0-bb502fdcd5df8a09b2e1bfb18ccee48c
-合租室友,https://long.longyuandingyi.com/watch9/a507c73f489be73fbca9acc8ed9cf61e/a507c73f489be73fbca9acc8ed9cf61e.m3u8?auth_key=1695962458-0-0-cdfd819c1b05b46ec7805b7b2044df9b
-秘密拳法,https://long.longyuandingyi.com/watch9/bc485eccca5f1aecb3dbee38fee2e918/bc485eccca5f1aecb3dbee38fee2e918.m3u8?auth_key=1695962478-0-0-472b94b2db8e7fe9cd24c8e4eabb3ecd
-家政小姐姐,https://long.longyuandingyi.com/watch9/40479f2ee37d8f1e90412708eb539d0f/40479f2ee37d8f1e90412708eb539d0f.m3u8?auth_key=1695962463-0-0-9fd21f70d12c4e7d6ae3305e00f32c8f
-绿帽子,https://long.longyuandingyi.com/watch9/58f82d1c663bb06547c2f332626b9fca/58f82d1c663bb06547c2f332626b9fca.m3u8?auth_key=1695962527-0-0-cbe22feaad72a176615d94e8a54783e2
-冷雨夜邻居,https://long.longyuandingyi.com/watch9/e6942e1097500ebcc7ee34ececb08854/e6942e1097500ebcc7ee34ececb08854.m3u8?auth_key=1695962849-0-0-1dadaf95ba95e337c2483bd651a814fa
-都是疫情惹的祸,https://long.longyuandingyi.com/videos2/5b1114a059f58fa886f5be3405f9a58c/5b1114a059f58fa886f5be3405f9a58c.m3u8
-半夜在兄弟家,https://long.longyuandingyi.com/watch9/06c3f7490616228fa0cb72f2b4845d01/06c3f7490616228fa0cb72f2b4845d01.m3u8
-舅妈,https://120play.longyuandingyi.com/watch8/d2e1322da7cd311623a9b9078165e6c9/d2e1322da7cd311623a9b9078165e6c9.m3u8
-别样健身操,https://long.longyuandingyi.com/videos2/28eb61cfd6ae1d3d42f8b5ae01d49143/28eb61cfd6ae1d3d42f8b5ae01d49143.m3u8
-囚禁的公主,https://long.longyuandingyi.com/videos1/d379eb26739c54244a072cd08f9781df/d379eb26739c54244a072cd08f9781df.m3u8
-黑丝OL,https://long.longyuandingyi.com/videos2/938b1b1965b924772caac4a29f7ea23e/938b1b1965b924772caac4a29f7ea23e.m3u8
-大V密探,https://long.longyuandingyi.com/videos2/0800797cf4055c45ab4654d6d8219b33/0800797cf4055c45ab4654d6d8219b33.m3u8
-表妹勾引哥哥,https://long.longyuandingyi.com/watch9/0ae66206c58de9de320763d131a600d5/0ae66206c58de9de320763d131a600d5.m3u8
+
 Cum 4k,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6190/index.m3u8
 Extasy 4K,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/5014/index.m3u8
 Tiny 4K,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6258/index.m3u8

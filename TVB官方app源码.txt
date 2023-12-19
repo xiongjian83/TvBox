@@ -1,0 +1,40 @@
+<?php
+$id = $_GET['id']; // 从请求参数中获取 id 的值
+$type = $_GET['type']; // 从请求参数中获取 type 的值
+
+if ($id === 'A' || $id === 'C') {
+    $profile = ($type === 'ao') ? 'ao' : 'hd'; // 根据 type 设置播放链接类型
+
+    $url = "https://inews-api.tvb.com/news/checkout/live/{$profile}/ott_{$id}_h264?profile=ios";
+    $headers = array(
+        'User-Agent: Dart/2.19 (dart:io)',
+        'Content-Type: application/json',
+        'Accept-Encoding: gzip',
+        'Host: inews-api.tvb.com',
+        'CLIENT-IP: 127.0.0.1', // 添加 CLIENT-IP 头部
+        'X-FORWARDED-FOR: 127.0.0.1' // 添加 X-FORWARDED-FOR 头部
+    );
+
+    // 发起 GET 请求
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+    $response = curl_exec($ch);
+    curl_close($ch);
+
+    // 解析响应体
+    $data = json_decode($response, true);
+    if ($data && isset($data['content']['url'][$profile])) {
+        $playUrl = $data['content']['url'][$profile];
+
+        // 进行跳转
+        header("Location: $playUrl");
+        exit();
+    } else {
+        echo "播放链接未找到。";
+    }
+} else {
+    echo "无效的 id 值。";
+}
+?>

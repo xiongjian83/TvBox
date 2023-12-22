@@ -1679,7 +1679,7 @@ HOY TV78,https://cdn.hklive.tv/hls/78/index.m3u8
 莲花卫视,http://nettvpro.live/hls/lotustv.php
 
 
-澳视澳门,http://108.181.20.177:27347/livehttpplay?channel_id=13061
+
 澳视澳门,http://r.jdshipin.com/n2YZI
 
 
@@ -1718,6 +1718,10 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 精彩影视,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3&HlsProfileId=
 超级电影,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3&HlsProfileId=
 超级体育,http://39.134.24.165/0000000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3&HlsProfileId=
+
+CHC家庭影院,http://live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CHC动作电影,http://live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CHC高清电影,http://live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR 
 
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
@@ -1772,13 +1776,6 @@ IPTV淘剧场,http://webmail.axxe.top:4022/udp/239.3.1.95:8001
 IPTV淘电影,http://webmail.axxe.top:4022/udp/239.3.1.250:8001
 IPTV淘娱乐,http://webmail.axxe.top:4022/udp/239.3.1.100:8001
 
-
-IPTV淘精彩,http://111.196.130.165:4022/udp/239.3.1.178:8001
-IPTV淘剧场,http://111.196.130.165:4022/udp/239.3.1.95:8001
-IPTV淘电影,http://111.196.130.165:4022/udp/239.3.1.250:8001
-IPTV淘娱乐,http://111.196.130.165:4022/udp/239.3.1.100:8001
-IPTV淘娱乐,http://www.youku.cf:4022/rtp/239.3.1.100:8001
-IPTV淘电影,http://www.youku.cf:4022/rtp/239.3.1.250:8001
 
 上海新闻综合,https://pi.0472.org/tv/sh.php?id=xw
 上海都市,https://pi.0472.org/tv/sh.php?id=ds

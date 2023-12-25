@@ -1789,24 +1789,24 @@ HOY TV78,https://cdn.hklive.tv/hls/78/index.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 
 
-台视 HD,http://60.248.77.83/sat/tv071
-中视 HD,http://60.248.77.83/sat/tv091
-华视 HD,http://60.248.77.83/sat/tv111
-民视 HD,http://60.248.77.83/sat/tv051
-TVBS新闻 HD,http://60.248.77.83/sat/tv551
-TVBS欢乐,http://60.248.77.83/sat/tv421
-东森超视,http://60.248.77.83/sat/tv331
-纬来体育,http://60.248.77.83/sat/tv721
-纬来育乐,http://60.248.77.83/sat/tv701
-纬来日本,http://60.248.77.83/sat/tv771
-MoMo综合,http://60.248.77.83/sat/tv761
-ELEVEN1,http://60.248.77.83/sat/tv731
-ELEVEN2,http://60.248.77.83/sat/tv741
-台湾体育1,http://60.248.77.83/sat/md011
-台湾体育2,http://60.248.77.83/sat/md051
-台湾体育3,http://60.248.77.83/sat/md021
-台湾体育4,http://60.248.77.83/sat/md041
-台湾体育5,http://60.248.77.83/sat/md031
+台视 HD,rtmp://60.248.77.83/sat/tv071
+中视 HD,rtmp://60.248.77.83/sat/tv091
+华视 HD,rtmp://60.248.77.83/sat/tv111
+民视 HD,rtmp://60.248.77.83/sat/tv051
+TVBS新闻 HD,rtmp://60.248.77.83/sat/tv551
+TVBS欢乐,rtmp://60.248.77.83/sat/tv421
+东森超视,rtmp://60.248.77.83/sat/tv331
+纬来体育,rtmp://60.248.77.83/sat/tv721
+纬来育乐,rtmp://60.248.77.83/sat/tv701
+纬来日本,rtmp://60.248.77.83/sat/tv771
+MoMo综合,rtmp://60.248.77.83/sat/tv761
+ELEVEN1,rtmp://60.248.77.83/sat/tv731
+ELEVEN2,rtmp://60.248.77.83/sat/tv741
+台湾体育1,rtmp://60.248.77.83/sat/md011
+台湾体育2,rtmp://60.248.77.83/sat/md051
+台湾体育3,rtmp://60.248.77.83/sat/md021
+台湾体育4,rtmp://60.248.77.83/sat/md041
+台湾体育5,rtmp://60.248.77.83/sat/md031
 
 台视 HD,rtmp://f13h.mine.nu/sat/tv071
 中视 HD,rtmp://f13h.mine.nu/sat/tv091

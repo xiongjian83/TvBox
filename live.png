@@ -281,16 +281,20 @@ CCTV-4美洲,http://120.234.220.107:9000/udp/239.21.0.108:3772
 CCTV-4欧洲,http://maomao.kandiantv.cn/m3u8.php?/migu/608807419
 CCTV-4美洲,http://maomao.kandiantv.cn/m3u8.php?/migu/608807416
 
-CCTV第一剧场,http://cfss.cc/api/ysp/dyjc.m3u8
-CCTV怀旧剧场,http://cfss.cc/api/ysp/hjjc.m3u8
-CCTV风云剧场,http://cfss.cc/api/ysp/fyjc.m3u8
-CCTV风云足球,http://cfss.cc/api/ysp/fyzq.m3u8
-CCTV电视指南,http://cfss.cc/api/ysp/dszn.m3u8
-CCTV央视台球,http://cfss.cc/api/ysp/ystq.m3u8
-CCTV风云音乐,http://cfss.cc/api/ysp/fyyy.m3u8
-CCTV兵器科技,http://cfss.cc/api/ysp/bqkj.m3u8
-CCTV世界地理,http://cfss.cc/api/ysp/sjdl.m3u8
-CCTV央视文化精品,http://cfss.cc/api/ysp/whjp.m3u8
+
+CCTV第一剧场,http://cfss.vip/ds/ysp/qp.php?id=dyjc&Cf.m3u8
+CCTV怀旧剧场,http://cfss.vip/ds/ysp/qp.php?id=hjjc&Cf.m3u8
+CCTV风云剧场,http://cfss.vip/ds/ysp/qp.php?id=fyjc&Cf.m3u8
+CCTV风云音乐,http://cfss.vip/ds/ysp/qp.php?id=fyyy&Cf.m3u8
+CCTV风云足球,http://cfss.vip/ds/ysp/qp.php?id=fyzq&Cf.m3u8
+CCTV电视指南,http://cfss.vip/ds/ysp/qp.php?id=dszn&Cf.m3u8
+CCTV女性时尚,http://cfss.vip/ds/ysp/qp.php?id=nxss&Cf.m3u8
+CCTV央视文化,http://cfss.vip/ds/ysp/qp.php?id=whjp&Cf.m3u8
+CCTV世界地理,http://cfss.vip/ds/ysp/qp.php?id=sjdl&Cf.m3u8
+CCTV央视台球,http://cfss.vip/ds/ysp/qp.php?id=ystq&Cf.m3u8
+CCTV兵器科技,http://cfss.vip/ds/ysp/qp.php?id=bqkj&Cf.m3u8
+CCTV卫生健康,http://cfss.vip/ds/ysp/qp.php?id=wsjk&Cf.m3u8
+CCTV高尔夫网球,http://cfss.vip/ds/ysp/qp.php?id=gefwq&Cf.m3u8
 
 CCTV电视指南,http://111.20.40.162/PLTV/88888893/224/3221226987/index.m3u8
 CCTV电视指南,http://111.20.40.163/PLTV/88888893/224/3221226987/index.m3u8
@@ -1357,6 +1361,25 @@ CHC动作电影,http://175.43.106.64:4022/udp/239.61.4.169:1025
 
 
 📡  百视通BesTV,#genre#
+百视TV1,https://bp-caster.bestv.com.cn/954/3/video.m3u8
+百视TV2,https://bp-caster.bestv.com.cn/926/3/video.m3u8
+百视TV3,https://bp-caster.bestv.com.cn/945/3/video.m3u8
+百视TV4,https://bp-caster.bestv.com.cn/900/3/video.m3u8
+百视TV5,https://bp-caster.bestv.com.cn/956/3/video.m3u8
+百视TV6,https://bp-caster.bestv.com.cn/947/3/video.m3u8
+百视TV7,https://bp-caster.bestv.com.cn/941/3/video.m3u8
+百视TV8,https://bp-caster.bestv.com.cn/953/3/video.m3u8
+百视TV9,https://bp-caster.bestv.com.cn/939/3/video.m3u8
+百视TV10,https://bp-caster.bestv.com.cn/938/3/video.m3u8
+百视TV11,https://bp-caster.bestv.com.cn/937/3/video.m3u8
+百视TV12,https://bp-caster.bestv.com.cn/943/3/video.m3u8
+百视TV14,https://bp-caster.bestv.com.cn/934/3/video.m3u8
+百视独播1,https://bp-caster.bestv.com.cn/946/3/video.m3u8
+百视独播2,https://bp-caster.bestv.com.cn/955/3/video.m3u8
+百视独播3,https://bp-caster.bestv.com.cn/940/3/video.m3u8
+百视独播4,https://bp-caster.bestv.com.cn/944/3/video.m3u8
+百视自制,https://bp-caster.bestv.com.cn/723/3/video.m3u8
+独家直播,https://bp-caster.bestv.com.cn/936/3/video.m3u8
 
 CCTV-1,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 CCTV-2,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
@@ -1483,7 +1506,8 @@ NBA-10,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&i
 
 
 📡  国际,#genre#
-卡塔尔·半岛新闻,https://live-hls-v3-aje.getaj.net/AJE-V3/01.m3u8#https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+朝鮮中央台,https://epg.pw/stream/9b1597f57763b9bbcb425fb2b5b39938dc76f1bba9004d1281c748a1432e7cf6.m3u8
+卡塔尔·半岛新闻,#https://live-hls-aje-ak.getaj.net/AJE/01.m3u8#https://live-hls-v3-aje.getaj.net/AJE-V3/01.m3u8
 美国·FOX新闻,http://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 美国·彭博财经,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 新加坡·亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -1518,6 +1542,7 @@ NBA-10,http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&i
 
 凤凰中文,http://175.43.106.64:4022/udp/239.61.5.184:1025
 凤凰中文,http://175.43.106.64:4022/udp/239.61.5.214:1025
+凤凰中文,http://175.43.106.64:4022/udp/239.61.2.184:9092
 
 
 凤凰资讯,http://60.250.216.209:8577/http/61.67.128.130:8078/hls/20/80/phoenixif.m3u8
@@ -1597,27 +1622,36 @@ J2,http://27.46.125.240:800/hls/81/index.m3u8
 
 
 
+ViuTV,https://epg.pw/stream/645342253efa772d250a93109fdce28c86080c82325055879b1f407ac9827c7d.ctv
 ViuTV,https://epg.pw/stream/e3b6ef61296cb3a88c8940bf8d296959a56b9ab06d5299f75dd9334205ec9d14.ctv
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,http://27.46.125.240:800/hls/86/index.m3u8
 ViuTV,http://r.jdshipin.com/ecsRA
 
 
-    
+ViUTV6,https://epg.pw/stream/a60eb5b0d9f984ed16e752476b21409c14f91fa548495e39a4514da5f41295b7.ctv    
 ViUTV6,https://epg.pw/stream/15a0a494c6dc62d3918a81b314b2b3769f69af215dd6a95d7fb77c06f9cb55b8.ctv
-ViUTV6,https://epg.pw/stream/a60eb5b0d9f984ed16e752476b21409c14f91fa548495e39a4514da5f41295b7.ctv
 ViUTV6,http://27.46.125.240:800/hls/85/index.m3u8
 ViUTV6,http://107.167.12.58:34809
 ViUTV6,http://107.167.12.58:41803
 
-
-
+华丽台,https://epg.pw/stream/b204df30a74900c31103615d9fb4f16942644d1e8b7da90a6f16dfde35ecc92c.ctv
+华丽台,https://epg.pw/stream/e127d8fc2e1dda4f5969a3b56751c730e65c98f5558605fad6a86e19751c4340.ctv
+华丽台,https://epg.pw/stream/0b8827340a236a844e6a06ec3893fbd2c3068d89d347f3790f6004808b39191f.ctv
 华丽台,http://r.jdshipin.com/thuYX
 华丽台,http://23.237.10.66:16410
 
-
+千禧经典台,https://epg.pw/stream/091c5f7b5c34c1941f8094d4616c1916499a4a25f194ba6e8643ebe5c38ba4f7.ctv
+千禧经典台,https://epg.pw/stream/5e171d08cda3bcf5826fc7f54f6bd91d116fdf7a88fe8f616798935b898e9a8e.ctv
+千禧经典台,https://epg.pw/stream/8dc711987a2f05c7a671f49f2a6202b6b339e954bb4bc944ad113d330cfc23c4.ctv
 千禧经典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
 千禧经典台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153503&extension=ts&play_token=XgkUlCEKCM
+
+天映頻道,https://epg.pw/stream/be57bcf7129184f546bebfec81d980207851b2d523b83ff64deddda8d6e5e5e6.ctv
+天映頻道,https://epg.pw/stream/be57bcf7129184f546bebfec81d980207851b2d523b83ff64deddda8d6e5e5e6.ctv
+天映頻道,https://epg.pw/stream/fe0e469063e5e5f8b6ae721f58a46516c40d3172df5eb86b4c8e81dd4a36d52a.ctv
+天映頻道,https://epg.pw/stream/aba79d944981524dee068aa183b5b6c0821af4acfe2bb49a35ed5b1810ce37d6.ctv
+天映頻道,https://epg.pw/stream/92c100f2a768cd952153d3009da41ad1e95e1cd250895be1af1d71e17f0747b6.ctv
 
 TVB星河,http://r.jdshipin.com/sXuuD
 TVB星河,http://113.117.74.24:8081/hls/135/index.m3u8
@@ -1679,7 +1713,7 @@ HOY TV78,https://cdn.hklive.tv/hls/78/index.m3u8
 莲花卫视,http://nettvpro.live/hls/lotustv.php
 
 
-
+澳视澳门,https://epg.pw/stream/85acce036105d1230872f5d71c99873cbb7afded266cea85cbaecb3715aff5e2.ctv
 澳视澳门,http://r.jdshipin.com/n2YZI
 
 

@@ -10,7 +10,7 @@
                  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 	"sites":[
 { "key": "js豆瓣", "name": "🍥┃豆瓣┃", "type": 3, "api": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/lib/drpy2.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/js/lib/douban.js" },
-{"key":"玩偶哥哥","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
+{"key":"玩偶哥哥","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
 {"key":"鸭奈飞","name":"鸭奈飞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},
 {"key":"csp_biubiu_555电影","name":"💢555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/sub/555电影.json","jar":"https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/XBiubiuLA3.jar"},
 {"key":"csp_biubiu_大米星球","name":"💢大米星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/sub/大米星球.json","jar":"https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/XBiubiuLA3.jar"},

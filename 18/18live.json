@@ -1,6 +1,6 @@
 //以下全部来自网络，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 {
-  "spider": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/custom_spider.jar;md5;2ea1762a8c802608c2222c7051709afc",
+  "spider": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/custom_spider.jar;md5;db8ee47ff1095679871f083b2f5bf388",
   "wallpaper": "https://epg.112114.xyz/bingimg",
   "lives": [
     {
@@ -57,7 +57,7 @@
       "key": "18A貓",
       "name": "18A貓",
       "type": 3,
-      "api": "https://p.ntnas.top/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/18a_open.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/18a_open.js",
       "searchable": 1,
       "recordable": 0,
       "style": {

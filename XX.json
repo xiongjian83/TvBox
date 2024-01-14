@@ -2,7 +2,7 @@
 //本接口无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。
 
 {
-                "spider": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/ncdjaj.jar;md5;564F69FA12A8D491569E9631629E0011",          
+                "spider": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/ncdjaj.jar;md5;67AB191A8DC3DA999E50D0334C81E422",          
                  
             // "spider": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/custom_spider.jar;md5;edab3976b24e102336354d445026329f", 
            // "spider":"https://jihulab.com/0004/0/-/raw/main/0.txt?ref_type=heads","wallpaper":"https://tool.weetai.cn/api", "warningText":"??一个分享者接口，永久完全免费，切勿付费购买??",
@@ -29,7 +29,6 @@
 {"key": "2聚合","name": "分享遇见","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 2,"filterable": 1,"ext": "http://4k.953365.cn:8090/xgapp.php/v2/"},
 {"key": "世界","name": "分享世界短剧","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://106.52.241.21:83/api.php/app/"},
 {"key":"独家","name":"分享飛雲","type":3,"api":"https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext":"https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/fy.js","searchable":1,"quickSearch":1,"changeable":0},
-
 
 
 

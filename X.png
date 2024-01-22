@@ -1636,12 +1636,15 @@ J2,http://r.jdshipin.com/ndGgS
 
 
 
-ViuTV,http://119.123.212.118:9000/bysid/99
+ViuTV,https://epg.pw/stream/e3b6ef61296cb3a88c8940bf8d296959a56b9ab06d5299f75dd9334205ec9d14.ctv
 ViuTV,http://feng163.com:9000/bysid/99
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,http://r.jdshipin.com/ecsRA
 
 
+ViuTV6,https://epg.pw/stream/cc507b5f47a2b59794d374157a0a6e25c251bac3c3022a1a254452b6343e2936.ctv
+ViuTV6,https://epg.pw/stream/44fb8f7cbce4cd77722c6e084c04b96cf06cf08014a5054d7265015d6adaba5a.ctv
+ViuTV6,https://epg.pw/stream/bb59f78bb7727ff9807a49dd25e65e86375466e8334cd0d08e7de7ca0995f29a.ctv
 ViuTV6,http://170.178.177.98:27347/livehttpplay?channel_id=20132
 ViuTV6,http://170.178.177.98:27347/livehttpplay?channel_id=30033
 ViUTV6,http://27.46.125.240:800/hls/85/index.m3u8

@@ -1270,7 +1270,7 @@ HBO 2,http://208.115.225.174:14140
 HBO Mundi,http://208.115.225.174:14148
 HBO signature,http://208.115.225.174:14160
 
-📡  港,#genre#
+📡  岗岗,#genre#
 港台电视31,mitv://generationnexxxt.com:19806/e4b56cb972e940ee8be694602294d242
 港台电视32,mitv://generationnexxxt.com:19806/9c0a161f9c59476584fe4d8effc125b6
 HOY TV,mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
@@ -1306,7 +1306,7 @@ Hands Up,mitv://generationnexxxt.com:19806/7a79a82b627a417f897895b4adf874aa
 HOY资讯台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
 黄金翡翠台,mitv://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12
 
-📡  台,#genre#
+📡  湾湾,#genre#
 民视,mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
 台视,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
 大爱,mitv://generationnexxxt.com:19806/e89ec8c592484d88bc001e8d8a6c9e31
@@ -1482,14 +1482,15 @@ MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 
 
 🇭🇰港台,#genre#
+
+凤凰资讯,http://222.76.104.71:4022/udp/239.61.2.183:9086
+凤凰资讯,http://222.76.104.71:4022/udp/239.61.5.47:1025
+凤凰中文,http://222.76.104.71:4022/udp/239.61.2.184:9092
+凤凰中文,http://222.76.104.71:4022/udp/239.61.5.48:1025
+
 凤凰资讯,http://113.117.74.107:8081/hls/36/index.m3u8
 凤凰中文,http://113.117.74.107:8081/hls/37/index.m3u8
 凤凰香港,http://113.117.74.107:8081/hls/38/index.m3u8
-
-
-凤凰资讯,https://0472.org/hls/youzaiSB/fhzx.m3u8
-凤凰中文,https://0472.org/hls/youzaiSB/fhzw.m3u8
-凤凰香港,https://0472.org/hls/youzaiSB/fhhk.m3u8
 
 凤凰中文,http://nas.jumping.wang:5555/rtp/239.93.0.162:2192
 凤凰中文,http://nas.jumping.wang:5555/rtp/239.93.1.9:2192

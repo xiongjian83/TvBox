@@ -1238,14 +1238,39 @@ RT纪录,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 韩·EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 韩·NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 
+ESPN,http://38.96.178.201:80/live/ESPNHD/index.m3u8
+ESPN,http://143.244.60.30/ESPN/index.m3u8
+ESPN,http://212.8.253.117/espn/index.m3u8
+ESPN,http://41.205.93.154/ESPN/index.m3u8
+Fox,http://38.96.178.201:80/live/FOXHD/index.m3u8
+Fox,http://151.248.16.100:4444/Fox/index.m3u8
+Fox,http://88.216.83.245/fox/index.m3u8
+Fox,https://79.106.90.121/fox/index.m3u8
+Fox,http://50.7.137.106:8080/FOX/index.m3u8?token=test
+Fox News,http://38.96.178.201:80/live/FOXNEWS/index.m3u8
+Fox News,http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+Fox News Now,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+Fox Sports 2,http://38.96.178.201:80/live/FOXSPORTS2/index.m3u8
+Fox Sports 2,https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8
 
+Sky Sport,https://donelfantastic.github.io/live/skysportsNz8.m3u8
+Sky Sport 1,https://donelfantastic.github.io/live/skysportsNz1.m3u8
+Sky Sport 2,https://donelfantastic.github.io/live/skysportsNz2.m3u8
+Sky Sport 3,https://donelfantastic.github.io/live/skysportsNz3.m3u8
+Sky Sport 4,https://donelfantastic.github.io/live/skysportsNz4.m3u8
+Sky Sport 5,https://donelfantastic.github.io/live/skysportsNz5.m3u8
+Sky Sport 6,https://donelfantastic.github.io/live/skysportsNz6.m3u8
+Sky Sport 7,https://donelfantastic.github.io/live/skysportsNz7.m3u8
+Sky Sport 9,https://donelfantastic.github.io/live/skysportsNz9.m3u8
+
+KYTV 韩国音乐,http://live.kytv.co.kr:8080/hls/stream.m3u8
 Sbt,http://208.115.225.174:14173
 HBO,http://208.115.225.174:14165
 HBO 2,http://208.115.225.174:14140
 HBO Mundi,http://208.115.225.174:14148
 HBO signature,http://208.115.225.174:14160
 
-📡  香港,#genre#
+📡  港,#genre#
 港台电视31,mitv://generationnexxxt.com:19806/e4b56cb972e940ee8be694602294d242
 港台电视32,mitv://generationnexxxt.com:19806/9c0a161f9c59476584fe4d8effc125b6
 HOY TV,mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
@@ -1281,7 +1306,7 @@ Hands Up,mitv://generationnexxxt.com:19806/7a79a82b627a417f897895b4adf874aa
 HOY资讯台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
 黄金翡翠台,mitv://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12
 
-📡  台湾,#genre#
+📡  台,#genre#
 民视,mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
 台视,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
 大爱,mitv://generationnexxxt.com:19806/e89ec8c592484d88bc001e8d8a6c9e31
@@ -1499,6 +1524,8 @@ MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
 凤凰香港,http://php.17186.eu.org/phtv/fhxg.m3u8
 
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+
 翡翠台,http://headscale.wisdomitc.com:9981/stream/channelid/389954355?profile=pass
 明珠台,http://headscale.wisdomitc.com:9981/stream/channelid/1442314365?profile=pass
 J2,http://headscale.wisdomitc.com:9981/stream/channelid/1643031328?profile=pass
@@ -1553,9 +1580,7 @@ J2,http://r.jdshipin.com/ndGgS
 无线财经,http://live.cooltv.top/tv/tvb.php?id=3
 无线财经,http://live.cooltv.top/tv/tvb.php?id=2&hq
 无线财经,http://live.cooltv.top/tv/tvb.php?id=3&hq
-
-
-
+无线财经,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 
 
 ViuTV,https://epg.pw/stream/e3b6ef61296cb3a88c8940bf8d296959a56b9ab06d5299f75dd9334205ec9d14.ctv
@@ -1656,6 +1681,7 @@ HOY TV78,https://cdn.hklive.tv/hls/78/index.m3u8
 
 
 澳视澳门,http://r.jdshipin.com/n2YZI
+澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 
 
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8

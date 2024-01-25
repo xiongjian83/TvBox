@@ -4,6 +4,9 @@ CCTV1,rtsp://115.153.233.154/PLTV/88888888/224/3221225699/iptv8040.smil
 CCTV2,rtsp://115.153.233.154/PLTV/88888888/224/3221226825/59814584.smil
 CCTV3,rtsp://115.153.233.154/PLTV/88888888/224/3221226930/65406412.smil
 CCTV4,rtsp://115.153.233.154/PLTV/88888888/224/3221226838/59814684.smil
+CCTV5,rtsp://115.153.233.154/PLTV/88888888/224/3221226852/63329574.smil
+CCTV5,rtsp://115.153.212.72/PLTV/88888888/224/3221226907/65396401.smil
+CCTV5+,rtsp://115.153.233.154/PLTV/88888888/224/3221226976/85722488.smil
 CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 CCTV6,rtsp://115.153.233.154/PLTV/88888888/224/3221226909/65396493.smil
@@ -34,25 +37,6 @@ CCTV12,rtsp://115.153.212.72/PLTV/88888888/224/3221226829/59814709.smil
 CCTV13,rtsp://115.153.212.72/PLTV/88888888/224/3221227037/87447722.smil
 CCTV15,rtsp://115.153.212.72/PLTV/88888888/224/3221226988/85722541.smil
 CCTV17,rtsp://115.153.212.72/PLTV/88888888/224/3221226846/61397282.smil
-
-CCTV1,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-1-CQ/G_CCTV-1-CQ.m3u8
-CCTV2,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-2-CQ/G_CCTV-2-CQ.m3u8
-CCTV3,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-3-CQ/G_CCTV-3-CQ.m3u8
-CCTV4,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-4-CQ/G_CCTV-4-CQ.m3u8
-CCTV5,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-5-CQ/G_CCTV-5-CQ.m3u8
-CCTV5+,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ.m3u8
-CCTV6,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-6-CQ/G_CCTV-6-CQ.m3u8
-CCTV7,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-7-CQ/G_CCTV-7-CQ.m3u8
-CCTV8,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-8-CQ/G_CCTV-8-CQ.m3u8
-CCTV9,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-9-HD-265-5M/G_CCTV-9-HD-265-5M.m3u8
-CCTV10,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-10-HQ/G_CCTV-10-HQ.m3u8
-CCTV11,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8
-CCTV12,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-12-HD-265-5M/G_CCTV-12-HD-265-5M.m3u8
-CCTV13,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-13-CQ/G_CCTV-13-CQ.m3u8
-CCTV14,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
-CCTV15,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-15/G_CCTV-15.m3u8
-CCTV16,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8
-CCTV17,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-17-CQ/G_CCTV-17-CQ.m3u8
 
 
 
@@ -227,6 +211,10 @@ CCTV16,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001258/index.m
 CCTV17,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001241/index.m3u8?
 CCTV164K,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001258/index.m3u8?
 
+
+CHC动作电影,rtsp://115.153.233.154/PLTV/88888888/224/3221226992/86128817.smil
+CHC高清电影,rtsp://115.153.233.154/PLTV/88888888/224/3221226990/86128784.smil
+CHC家庭影院,rtsp://115.153.233.154/PLTV/88888888/224/3221226959/86128800.smil
 
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
@@ -505,45 +493,33 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 兵团卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221225753/iptv101723.smil
 三沙卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221226984/85722645.smil
 
-安徽卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_ANHUI-HD-265-8M/G_ANHUI-HD-265-8M.m3u8
-北京卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_BEIJING-HD-265-8M/G_BEIJING-HD-265-8M.m3u8
-东方卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_DONGFANG-HD-265-8M/G_DONGFANG-HD-265-8M.m3u8
-东南卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_DONGNAN-HQ/G_DONGNAN-HQ.m3u8
-广东卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_GUANGDONG-HD-265-8M/G_GUANGDONG-HD-265-8M.m3u8
-广西卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/GXWS/GXWS.m3u8
-贵州卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_GUIZHOU-CQ/G_GUIZHOU-CQ.m3u8
-海南卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/LYWS/LYWS.m3u8
-河南卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_HENAN-CQ/G_HENAN-CQ.m3u8
-黑龙江卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_HEILONGJIANG-HD-265-8M/G_HEILONGJIANG-HD-265-8M.m3u8
-湖北卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_HUBEI-HD-265-8M/G_HUBEI-HD-265-8M.m3u8
-湖南卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_HUNAN-CQ/G_HUNAN-CQ.m3u8
-吉林卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_JILIN-CQ/G_JILIN-CQ.m3u8
-江苏卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_JIANGSU-CQ/G_JIANGSU-CQ.m3u8
-江西卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_JIANGXI-CQ/G_JIANGXI-CQ.m3u8
-辽宁卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_LIAONING-HD-265-8M/G_LIAONING-HD-265-8M.m3u8
-山东卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_SHANDONG-HD-265-8M/G_SHANDONG-HD-265-8M.m3u8
-深圳卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_SHENZHEN-HD-265-8M/G_SHENZHEN-HD-265-8M.m3u8
-四川卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_SICHUAN-CQ/G_SICHUAN-CQ.m3u8
-天津卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_TIANJIN-HD-265-8M/G_TIANJIN-HD-265-8M.m3u8
-云南卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_YUNNAN-HQ/G_YUNNAN-HQ.m3u8
-浙江卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ.m3u8
-重庆卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CHONGQING-CQ/G_CHONGQING-CQ.m3u8
-四川卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_SICHUAN-CQ/G_SICHUAN-CQ.m3u8
-河北卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_HEBEI-CQ/G_HEBEI-CQ.m3u8
-甘肃卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_GANSU/G_GANSU.m3u8
-厦门卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_XIAMEN/G_XIAMEN.m3u8
-陕西卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_SHANXI/G_SHANXI.m3u8
-山西卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escapeS/G_SXWS/G_SXWS.m3u8
-延边卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_YANBIAN/G_YANBIAN.m3u8
-新疆卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_XINJIANG/G_XINJIANG.m3u8
-西藏卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_XIZANG/G_XIZANG.m3u8
-内蒙古卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_NEIMENGGU/G_NEIMENGGU.m3u8
-宁夏卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_NINGXIA/G_NINGXIA.m3u8
-青海卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_QINGHAI/G_QINGHAI.m3u8
-大湾区卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_NANFANG/G_NANFANG.m3u8
-安多卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_ANDUO/G_ANDUO.m3u8
-农林卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_NONGLIN/G_NONGLIN.m3u8
-兵团卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_BINGTUAN/G_BINGTUAN.m3u8
+湖南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0c]/ott.mobaibox.com/PLTV/3/224/3221227735/index.m3u8
+江苏卫视,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2983110475_-1591539074/ott.mobaibox.com/PLTV/3/224/3221228097/index.m3u8?icpid=3&RTS=1668597777&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+浙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw1197826796_-265147758/ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8?icpid=3&RTS=1669699798&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw2542426131_1585848046/ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8?icpid=3&RTS=1668597336&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
+北京卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw2687876293_-1703018199/ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8?icpid=3&RTS=1668597482&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
+广东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw2917484419_-1632335828/ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8?icpid=3&RTS=1668597711&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+深圳卫视,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw3025923625_628894334/ott.mobaibox.com/PLTV/3/224/3221227555/index.m3u8?icpid=3&RTS=1668597820&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+江西卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw1965546073_-1364170119/ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8?icpid=3&RTS=1669700566&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
+辽宁卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw3102310989_-1844874138/ott.mobaibox.com/PLTV/3/224/3221227485/index.m3u8?icpid=3&RTS=1668597896&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
+天津卫视,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw2730715388_788631706/ott.mobaibox.com/PLTV/3/224/3221227488/index.m3u8?icpid=3&RTS=1668597525&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+安徽卫视,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2802330256_375747539/ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8?icpid=3&RTS=1668597596&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+吉林卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1874077489_789689702/ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8?icpid=3&RTS=1669700475&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+贵州卫视,http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2087544744_109645303/ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8?icpid=3&RTS=1669700688&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
+黑龙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw3143044227_-926148572/ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8?icpid=3&RTS=1668597937&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
+山东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw2848465480_1677095697/ott.mobaibox.com/PLTV/3/224/3221227517/index.m3u8?icpid=3&RTS=1668597642&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+青海卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw1221605145_-1738716276/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8?icpid=3&RTS=1668600311&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
+甘肃卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1400573680_-1979013462/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8?icpid=3&RTS=1668600490&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
+湖北卫视,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw3059146177_-1525708880/ott.mobaibox.com/PLTV/3/224/3221227479/index.m3u8?icpid=3&RTS=1668597853&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+云南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw1580749819_-793400395/ott.mobaibox.com/PLTV/3/224/3221227571/index.m3u8?icpid=3&RTS=1668600670&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
+河北卫视,http://[2409:8087:2001:20:2800:0:df6e:eb05]/wh7f454c46tw1698524218_988816054/ott.mobaibox.com/PLTV/3/224/3221228106/index.m3u8?icpid=3&RTS=1669700299&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+广西卫视,http://[2409:8087:2001:20:2800:0:df6e:eb05]/wh7f454c46tw2325655923_1638953995/ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8?icpid=3&RTS=1669700926&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+四川卫视,http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2502717081_11504314/ott.mobaibox.com/PLTV/3/224/3221227556/index.m3u8?icpid=3&RTS=1669701103&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
+重庆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2787424866_142914197/ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8?icpid=3&RTS=1669701388&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
+海南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2843123663_1489055229/ott.mobaibox.com/PLTV/3/224/3221228139/index.m3u8?icpid=3&RTS=1669701444&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
+东南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0a]/wh7f454c46tw2900649569_-743777193/ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8?icpid=3&RTS=1669701501&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
+新疆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
+河南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw1784575403_-1712002709/ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8?icpid=3&RTS=1669700385&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 
 
 湖南卫视,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000

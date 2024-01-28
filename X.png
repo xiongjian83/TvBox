@@ -338,20 +338,18 @@ CCTV-4欧洲,http://gmxw.7766.org:808/hls/67/index.m3u8
 CCTV-4美洲,http://gmxw.7766.org:808/hls/77/index.m3u8
 
 
+CCTV第一剧场,http://223.10.20.234:8085/udp/239.1.1.94:8094
+CCTV怀旧剧场,http://223.10.20.234:8085/udp/239.1.1.95:8095
+CCTV风云剧场,http://223.10.20.234:8085/udp/239.1.1.93:8093
+CCTV风云音乐,http://223.10.20.234:8085/udp/239.1.1.96:8096
+CCTV风云足球,http://223.10.20.234:8085/udp/239.1.1.101:8101
+CCTV电视指南,http://223.10.20.234:8085/udp/239.1.1.90:8090
+CCTV女性时尚,http://223.10.20.234:8085/udp/239.1.1.89:8089
+CCTV文化精品,http://223.10.20.234:8085/udp/239.1.1.91:8091
+CCTV世界地理,http://223.10.20.234:8085/udp/239.1.1.99:8099
+CCTV兵器科技,http://223.10.20.234:8085/udp/239.1.1.97:8097
+CCTV央视台球,http://223.10.20.234:8085/udp/239.1.1.100:8100
 
-
-CCTV第一剧场,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_DIYIJC-CQ/G_DIYIJC-CQ.m3u8
-CCTV怀旧剧场,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_HUAIJIUJC-CQ/G_HUAIJIUJC-CQ.m3u8
-CCTV风云剧场,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_FENGYUNJC-CQ/G_FENGYUNJC-CQ.m3u8
-CCTV风云音乐,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_FENGYUNYY-CQ/G_FENGYUNYY-CQ.m3u8
-CCTV风云足球,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_FENGSHANGZQ-CQ/G_FENGSHANGZQ-CQ.m3u8
-CCTV电视指南,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_DIANSHIZN-CQ/G_DIANSHIZN-CQ.m3u8
-CCTV女性时尚,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_NVXINGSS-CQ/G_NVXINGSS-CQ.m3u8
-CCTV文化精品,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-WENHUA-CQ/G_CCTV-WENHUA-CQ.m3u8
-CCTV世界地理,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_SHIJIEDL-CQ/G_SHIJIEDL-CQ.m3u8
-CCTV央视台球,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_TAIQIU-CQ/G_TAIQIU-CQ.m3u8
-CCTV兵器科技,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ.m3u8
-CCTV高尔夫网球,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-GOLF-CQ/G_CCTV-GOLF-CQ.m3u8
 
 
 CCTV第一剧场,http://www.erbao1981.top:8188/udp/239.76.247.49:1234
@@ -392,7 +390,8 @@ CCTV风云音乐,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 CCTV风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 CCTV央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 CCTV高尔夫网球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-CCTV央视文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+CCTV央视文化,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+
 CCTV电视指南,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV第一剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV怀旧剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -404,7 +403,7 @@ CCTV风云剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 CCTV风云音乐,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV央视台球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV高尔夫网球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV文化精品,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV央视文化,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 CETV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
 CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
@@ -834,42 +833,41 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 
 📡  江西频道,#genre#
 江西卫视,rtsp://115.153.245.70/PLTV/88888888/224/3221226656/46275837.smil
-江西卫视,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=170177828246850&token=9e73d27781667134baa8dd0db1932ac0
 江西卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221226656/46275837.smil
 江西卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221226656/46275837.smil
 
 江西都市,rtsp://115.153.233.154/PLTV/88888888/224/3221227069/94448631.smil
-江西都市,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8?source=pc&t=170177828246850&token=9e73d27781667134baa8dd0db1932ac0
+江西都市,http://113.195.172.192:808/hls/2/index.m3u8
 江西都市,rtsp://115.153.245.70/PLTV/88888888/224/3221226728/53707442.smil
 江西都市,rtsp://115.153.233.154/PLTV/88888888/224/3221226728/53707442.smil
 江西都市,rtsp://115.153.212.72/PLTV/88888888/224/3221226728/53707442.smil
 
 江西经济生活,rtsp://115.153.233.154/PLTV/88888888/224/3221226946/70055407.smil
-江西经济生活,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8?source=pc&t=170177828246850&token=9e73d27781667134baa8dd0db1932ac0
+江西经济生活,http://113.195.172.192:808/hls/3/index.m3u8
 江西经济生活,rtsp://115.153.245.70/PLTV/88888888/224/3221226946/70055407.smil
 江西经济生活,rtsp://115.153.233.154/PLTV/88888888/224/3221226717/53707446.smil
 江西经济生活,rtsp://115.153.212.72/PLTV/88888888/224/3221226946/70055407.smil
 江西经济生活,rtsp://115.153.212.72/PLTV/88888888/224/3221226717/53707446.smil
 
 江西影视旅游,rtsp://115.153.233.154/PLTV/88888888/224/3221226704/53213102.smil
-江西影视旅游,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8?source=pc&t=170177828246850&token=9e73d27781667134baa8dd0db1932ac0
+江西影视旅游,http://113.195.172.192:808/hls/4/index.m3u8
 江西影视旅游,rtsp://115.153.245.70/PLTV/88888888/224/3221226704/53213102.smil
 江西影视旅游,rtsp://115.153.212.72/PLTV/88888888/224/3221226704/53213102.smil
 
 江西公共农业,rtsp://115.153.233.154/PLTV/88888888/224/3221226708/53213097.smil
-江西公共农业,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8?source=pc&t=170177828246850&token=9e73d27781667134baa8dd0db1932ac0
+江西公共农业,http://113.195.172.192:808/hls/5/index.m3u8
 江西公共农业,rtsp://115.153.245.70/PLTV/88888888/224/3221226708/53213097.smil
 江西公共农业,rtsp://115.153.212.72/PLTV/88888888/224/3221226708/53213097.smil
 
 江西少儿,rtsp://115.153.233.154/PLTV/88888888/224/3221226938/68733921.smil
-江西少儿,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8?source=pc&t=170177828246850&token=9e73d27781667134baa8dd0db1932ac0
+江西少儿,http://113.195.172.192:808/hls/35/index.m3u8
 江西少儿,rtsp://115.153.245.70/PLTV/88888888/224/3221226938/68733921.smil
 江西少儿,rtsp://115.153.233.154/PLTV/88888888/224/3221226724/53707450.smil
 江西少儿,rtsp://115.153.212.72/PLTV/88888888/224/3221226938/68733921.smil
 江西少儿,rtsp://115.153.212.72/PLTV/88888888/224/3221226724/53707450.smil
 
 江西新闻,rtsp://115.153.233.154/PLTV/88888888/224/3221226650/53190437.smil
-江西新闻,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8?source=pc&t=170177828246850&token=9e73d27781667134baa8dd0db1932ac0
+江西新闻,http://113.195.172.192:808/hls/96/index.m3u8
 江西新闻,rtsp://115.153.245.70/PLTV/88888888/224/3221226650/53190437.smil
 江西新闻,rtsp://115.153.212.72/PLTV/88888888/224/3221226650/53190437.smil
 
@@ -1461,10 +1459,6 @@ MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 
 🇭🇰港台,#genre#
 
-凤凰资讯,http://222.76.104.71:4022/udp/239.61.2.183:9086
-凤凰资讯,http://222.76.104.71:4022/udp/239.61.5.47:1025
-凤凰中文,http://222.76.104.71:4022/udp/239.61.2.184:9092
-凤凰中文,http://222.76.104.71:4022/udp/239.61.5.48:1025
 
 凤凰资讯,http://113.117.74.107:8081/hls/36/index.m3u8
 凤凰中文,http://113.117.74.107:8081/hls/37/index.m3u8
@@ -1495,7 +1489,7 @@ MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 凤凰资讯,http://r.jdshipin.com/0Rp0
 凤凰中文,http://r.jdshipin.com/cCCzW
 
-凤凰香港,http://113.117.74.107:8081/hls/38/index.m3u8
+
 凤凰香港,http://120.84.96.138:808/hls/81/index.m3u8
 凤凰香港,http://r.jdshipin.com/NfC0f
 

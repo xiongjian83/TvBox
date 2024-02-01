@@ -1460,15 +1460,11 @@ MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 
 🇭🇰港台,#genre#
 
-
-凤凰资讯,http://113.117.74.107:8081/hls/36/index.m3u8
-凤凰中文,http://113.117.74.107:8081/hls/37/index.m3u8
-凤凰香港,http://113.117.74.107:8081/hls/38/index.m3u8
-
-凤凰中文,http://nas.jumping.wang:5555/rtp/239.93.0.162:2192
-凤凰中文,http://nas.jumping.wang:5555/rtp/239.93.1.9:2192
 凤凰资讯,http://nas.jumping.wang:5555/rtp/239.93.0.118:2191
 凤凰资讯,http://nas.jumping.wang:5555/rtp/239.93.1.4:2191
+凤凰中文,http://nas.jumping.wang:5555/rtp/239.93.0.162:2192
+凤凰中文,http://nas.jumping.wang:5555/rtp/239.93.1.9:2192
+
 
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
@@ -1494,9 +1490,9 @@ MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 凤凰香港,http://120.84.96.138:808/hls/81/index.m3u8
 凤凰香港,http://r.jdshipin.com/NfC0f
 
-凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
-凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
-凤凰香港,http://php.17186.eu.org/phtv/fhxg.m3u8
+凤凰资讯,http://113.117.74.107:8081/hls/36/index.m3u8
+凤凰中文,http://113.117.74.107:8081/hls/37/index.m3u8
+凤凰香港,http://113.117.74.107:8081/hls/38/index.m3u8
 
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
@@ -1510,9 +1506,9 @@ MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/n90gt
 
-
-明珠台,http://r.jdshipin.com/GeWKr?id=mzt720
+明珠台,http://202.168.187.208:2024/tsfile/live/1007_1.m3u8
 明珠台,http://feng163.com:9001/bysid/2
+明珠台,http://r.jdshipin.com/GeWKr?id=mzt720
 明珠台,http://r.jdshipin.com/ZQ4kN
 
 
@@ -1550,9 +1546,9 @@ ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,http://r.jdshipin.com/ecsRA
 
 
-ViuTV6,https://epg.pw/stream/cc507b5f47a2b59794d374157a0a6e25c251bac3c3022a1a254452b6343e2936.ctv
+
 ViuTV6,https://epg.pw/stream/44fb8f7cbce4cd77722c6e084c04b96cf06cf08014a5054d7265015d6adaba5a.ctv
-ViuTV6,https://epg.pw/stream/bb59f78bb7727ff9807a49dd25e65e86375466e8334cd0d08e7de7ca0995f29a.ctv
+ViuTV6,https://epg.pw/stream/813fe962130bf27d85d2a8f6114a7fb066f40b7323165ce8c3bc26ff0cb5ef7f.m3u8
 ViuTV6,http://170.178.177.98:27347/livehttpplay?channel_id=20132
 ViuTV6,http://170.178.177.98:27347/livehttpplay?channel_id=30033
 ViUTV6,http://27.46.125.240:800/hls/85/index.m3u8

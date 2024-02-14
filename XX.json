@@ -352,7 +352,7 @@
 {"key": "dr_电影先生","name":"🤵┃电影先生┃🦁","type": 3,"api": "http://nctv.top/tv/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "http://nctv.top/tv/js/电影先生.js"},
 {"key": "dr_Auete","name":"👺┃Auete┃🦁","type": 3,"api": "http://nctv.top/tv/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "http://nctv.top/tv/js/Auete.js"},
 {"key": "dr_9U电影","name":"💸┃9U电影┃🦁","type": 3,"api": "http://nctv.top/tv/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "http://nctv.top/tv/js/9U电影.js"},
-{"key": "dr_bttwoo","name":"👬┃BTtwoo┃🦁","type":3,"api":"http://nctv.top/tv/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"http://nctv.top/tv/js/两个BT.js"},,
+{"key": "dr_bttwoo","name":"👬┃BTtwoo┃🦁","type":3,"api":"http://nctv.top/tv/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"http://nctv.top/tv/js/两个BT.js"},
 {"key": "dr_网飞TV","name":"📺┃网飞TV┃🦁","type": 3,"api": "http://nctv.top/tv/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "http://nctv.top/tv/js/网飞TV.js"},
 {"key": "dr_大师兄","name":"🏃┃大师兄┃🦁","type":3,"api":"http://nctv.top/tv/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"http://nctv.top/tv/js/大师兄影视.js"},
 {"key": "dr_人人影视","name":"🎎┃人人┃🦁","type": 3,"api": "http://nctv.top/tv/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "http://nctv.top/tv/js/人人影视1.js"},

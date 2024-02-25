@@ -1950,7 +1950,7 @@ IPTV淘娱乐,http://218.241.192.50:8808/udp/239.3.1.100:8001
 哆啦A梦,https://epg.112114.xyz/huya/11601963
 
 
-王者荣耀,https://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2.flv?wsAuth=6813b45f1ecf2696a1ac4e84e268aa47&token=web-h5-0-1863767-7b520f6fe0a2b18de34599cb78543cf1bd550b7ca176302e&logo=0&expire=0&did=10000000000000000000000000001501&pt=2&st=0&sid=378068802&mcid2=0&origin=tct&mix=0&isp=
+王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 王者荣耀,https://live.metshop.top/huya/660002
 王者荣耀,http://mmitv.top/pltv/huya.php?id=660002
 
@@ -1972,50 +1972,69 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 龙弟鲁班,https://epg.112114.xyz/douyu/5866603
 龙弟鲁班,https://www.goodiptv.club/douyu/5866603
 
+周星驰,http://159.75.85.63:35455/huya/11342412
 周星驰,https://live.metshop.top/huya/11342412
 周星驰,http://mmitv.top/pltv/huya.php?id=11342412
 周星驰,http://cfss.cc/cdn/hy/11342412.flv
 周星驰,https://epg.112114.xyz/huya/11342412
 
+李连杰,http://159.75.85.63:35455/huya/11342390
 李连杰,https://live.metshop.top/huya/11342390
 李连杰,http://mmitv.top/pltv/huya.php?id=11342390
 李连杰,https://epg.112114.xyz/huya/11342390
 李连杰,http://cfss.cc/cdn/hy/11342390.flv
 
+林正英,http://159.75.85.63:35455/huya/11342421
 林正英,https://live.metshop.top/huya/11342421
 林正英,http://mmitv.top/pltv/huya.php?id=11342421
 林正英,https://epg.112114.xyz/huya/11342421
 林正英,http://cfss.cc/cdn/hy/11342421.flv
 
+成龙,http://159.75.85.63:35455/huya/11342386
 成龙,https://live.metshop.top/huya/11342386
 成龙,http://mmitv.top/pltv/huya.php?id=11342386
 成龙,https://epg.112114.xyz/huya/11342386
 成龙,http://cfss.cc/cdn/hy/11342386.flv
 
+甄子丹,https://159.75.85.63:35455/huya/11352935
 甄子丹,https://live.metshop.top/huya/11352935
 甄子丹,http://mmitv.top/pltv/huya.php?id=11352935
 甄子丹,https://epg.112114.xyz/huya/11352935
 甄子丹,http://cfss.cc/cdn/hy/11352935.flv
 
+刘德华,https://159.75.85.63:35455/huya/11342424
 刘德华,https://live.metshop.top/huya/11342424
 刘德华,http://mmitv.top/pltv/huya.php?id=11342424
 刘德华,https://epg.112114.xyz/huya/11342424
 刘德华,http://cfss.cc/cdn/hy/11342424.flv
 
+周润发,https://159.75.85.63:35455/huya/11342387
 周润发,https://live.metshop.top/huya/11342387
 周润发,http://mmitv.top/pltv/huya.php?id=11342387
 周润发,https://epg.112114.xyz/huya/11342387
 周润发,http://cfss.cc/cdn/hy/11342387.flv
 
+五福星,https://159.75.85.63:35455/huya/11282233
 五福星,https://live.metshop.top/huya/11282233
 五福星,http://mmitv.top/pltv/huya.php?id=11282233
 五福星,http://cfss.cc/cdn/hy/11282233.flv
 五福星,https://epg.112114.xyz/huya/11282233
 
+许氏三杰,https://159.75.85.63:35455/huya/11602033
 许氏三杰,https://live.metshop.top/huya/11602033
 许氏三杰,http://mmitv.top/pltv/huya.php?id=11602033
 许氏三杰,http://cfss.cc/cdn/hy/11602033.flv
 许氏三杰,https://epg.112114.xyz/huya/11602033
+
+吴孟达,https://159.75.85.63:35455/huya/11336592
+沈腾,https://159.75.85.63:35455/huya/11601968
+洪金宝,https://159.75.85.63:35455/huya/11279251
+梁家辉,https://159.75.85.63:35455/huya/11342429
+徐峥,https://159.75.85.63:35455/huya/11352876
+王晶导演,https://159.75.85.63:35455/huya/11602058
+许冠英,https://159.75.85.63:35455/huya/11601972
+巨石强森,https://159.75.85.63:35455/huya/21059581
+杰森斯坦森,https://159.75.85.63:35455/huya/21059588
 
 吴孟达,https://live.metshop.top/huya/11336592
 沈腾,https://live.metshop.top/huya/11601968
@@ -2067,7 +2086,8 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 天龙八部,http://cfss.cc/api/yy/1351814644.m3u8
 天龙八部,https://live.metshop.top/yy/1351814644
 
-康熙王朝,https://live.metshop.top/huya/11352940
+
+康熙王朝,https://159.75.85.63:35455/huya/11352940
 康熙王朝,http://mmitv.top/pltv/huya.php?id=11352940
 康熙王朝,http://cfss.cc/cdn/hy/11352940.flv
 康熙王朝,https://epg.112114.xyz/huya/11352940
@@ -2105,7 +2125,7 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 虎牙-鬼吹灯,http://159.75.85.63:35455/huya/11352871
 虎牙-大秦帝国,http://159.75.85.63:35455/huya/11352881
 虎牙-楚汉骄雄,http://159.75.85.63:35455/huya/23740156
-虎牙-康熙微服私访记,http://mmitv.top/test/huya.php?id=11342418
+虎牙-康熙微服私访记,http://159.75.85.63:35455/huya/11342418
 虎牙-铁齿铜牙纪晓岚,http://159.75.85.63:35455/huya/11342396
 虎牙-神医喜来乐,http://159.75.85.63:35455/huya/11601978
 虎牙-芈月传,http://159.75.85.63:35455/huya/11352975

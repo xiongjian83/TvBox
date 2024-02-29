@@ -1,24 +1,5 @@
 📡  央视频道,#genre#
 
-CCTV1,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-CCTV2,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-CCTV3,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv38m/8000000/mnf.m3u8
-CCTV4,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-CCTV5,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv58m/8000000/mnf.m3u8
-CCTV5+,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv5phd8m/8000000/mnf.m3u8
-CCTV6,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv6hd8m/8000000/mnf.m3u8
-CCTV7,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-CCTV8,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv8hd8m/8000000/mnf.m3u8
-CCTV9,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv9hd8m/8000000/mnf.m3u8
-CCTV10,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv10hd8m/8000000/mnf.m3u8
-CCTV11,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv11hd8m/8000000/mnf.m3u8
-CCTV12,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv12hd8m/8000000/mnf.m3u8
-CCTV13,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
-CCTV14,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctvsehd8m/8000000/mnf.m3u8
-CCTV15,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-CCTV16,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv16hd8m/8000000/mnf.m3u8
-CCTV17,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv17hd8m/8000000/mnf.m3u8
-
 CCTV1,rtsp://115.153.233.154/PLTV/88888888/224/3221225699/iptv8040.smil
 CCTV2,rtsp://115.153.233.154/PLTV/88888888/224/3221226825/59814584.smil
 CCTV3,rtsp://115.153.233.154/PLTV/88888888/224/3221226930/65406412.smil
@@ -76,6 +57,26 @@ CCTV15,http://36.156.208.58/liveali-tpgq.cctv.cn/live/cctv15.m3u8
 CCTV16,http://36.156.208.58/liveali-tpgq.cctv.cn/live/cctv16.m3u8
 CCTV17,http://36.156.208.58/liveali-tpgq.cctv.cn/live/cctv17.m3u8
 CCTV4K,http://36.156.208.58/liveali-tpgq.cctv.cn/live/cctv4k.m3u8
+
+CCTV1,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv1.m3u8
+CCTV2,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv2.m3u8
+CCTV3,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv3.m3u8
+CCTV4,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv4.m3u8
+CCTV5,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv5.m3u8
+CCTV5+,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv5p.m3u8
+CCTV6,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv6.m3u8
+CCTV7,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv7.m3u8
+CCTV8,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv8.m3u8
+CCTV9,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv9.m3u8
+CCTV10,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv10.m3u8
+CCTV11,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv11.m3u8
+CCTV12,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv12.m3u8
+CCTV13,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv13.m3u8
+CCTV14,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv14.m3u8
+CCTV15,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv15.m3u8
+CCTV16,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv16.m3u8
+CCTV17,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv17.m3u8
+CCTV4K,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv4k.m3u8
 
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
@@ -135,24 +136,6 @@ CCTV15,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212257
 CCTV16,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV17,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
 
-CCTV1,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv1.m3u8
-CCTV2,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv2.m3u8
-CCTV3,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv3.m3u8
-CCTV4,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv4.m3u8
-CCTV5,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv5.m3u8
-CCTV5+,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv5p.m3u8
-CCTV6,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv6.m3u8
-CCTV7,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv7.m3u8
-CCTV8,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv8.m3u8
-CCTV9,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv9.m3u8
-CCTV10,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv10.m3u8
-CCTV11,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv11.m3u8
-CCTV12,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv12.m3u8
-CCTV13,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv13.m3u8
-CCTV14,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv14.m3u8
-CCTV15,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv15.m3u8
-CCTV16,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv16.m3u8
-CCTV17,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv17.m3u8
 
 CCTV4K,,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
@@ -2151,30 +2134,18 @@ ViuTV6,http://170.178.177.98:27347/livehttpplay?channel_id=20132
 ViuTV6,http://170.178.177.98:27347/livehttpplay?channel_id=30033
 
 华丽台,https://s2.pub/cctv-24
-华丽台,https://epg.pw/stream/32726505109981f80ae6ca37b6ac047b314683d40fab3b8845be656e43408c10.ctv
+华丽台,https://epg.pw/stream/e82bb38f7b899d0313bd94db793301942fc985a773b350d9df1deb3a0bf878da.ctv
 华丽台,https://epg.pw/stream/b204df30a74900c31103615d9fb4f16942644d1e8b7da90a6f16dfde35ecc92c.ctv
-华丽台,https://epg.pw/stream/636f412bbf1921e03e7d23cbcb47fab5cff14f5b98313402cfa563e80ed383ac.ctv
-华丽台,https://epg.pw/stream/0b8827340a236a844e6a06ec3893fbd2c3068d89d347f3790f6004808b39191f.ctv
+华丽台,https://epg.pw/stream/8247e3685f3e501b98ecb24e7846aa52826183899498184bcb096c0db8512b55.ctv
 华丽台,http://r.jdshipin.com/thuYX
 华丽台,http://23.237.10.66:16410
 
 
-千禧经典台,https://epg.pw/stream/8dc711987a2f05c7a671f49f2a6202b6b339e954bb4bc944ad113d330cfc23c4.ctv
-千禧经典台,https://epg.pw/stream/4d60882bf4e50563d42d9ebaaa5c55414cb3a9f74598f7fec34a4656a077e045.ctv
-千禧经典台,https://epg.pw/stream/5e171d08cda3bcf5826fc7f54f6bd91d116fdf7a88fe8f616798935b898e9a8e.ctv
-千禧经典台,https://epg.pw/stream/8dc711987a2f05c7a671f49f2a6202b6b339e954bb4bc944ad113d330cfc23c4.ctv
 千禧经典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
 千禧经典台,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153503&extension=ts&play_token=XgkUlCEKCM
 
-天映经典,https://epg.pw/stream/5e57b80abfa684bba5f6f90fbbcb5a7ff8365cff15b37249d44f15b08de693c8.ctv
-天映经典,https://epg.pw/stream/9d7b15636a9a668725f86fae1c360f12db55f3e3cc7c56f2cc0483bfc68bf69f.ctv
-天映经典,https://epg.pw/stream/3783bdfde8c6f298429dde56a7b99346e43dd485c7c14a5f09cc5c619989f0b3.ctv
-天映经典,https://epg.pw/stream/92bc49b694c680ab582405a62b1986a7e127ce4a664d60ff1fe38174f124c37c.ctv
 
-
-天映頻道,https://epg.pw/stream/fe0e469063e5e5f8b6ae721f58a46516c40d3172df5eb86b4c8e81dd4a36d52a.ctv
-天映頻道,https://epg.pw/stream/aba79d944981524dee068aa183b5b6c0821af4acfe2bb49a35ed5b1810ce37d6.ctv
-天映頻道,https://epg.pw/stream/92c100f2a768cd952153d3009da41ad1e95e1cd250895be1af1d71e17f0747b6.ctv
+天映頻道,https://edge1.laotv.la:443/live/CHCA/index.m3u8
 
 
 TVB星河,https://s2.pub/cctv-16
@@ -5674,7 +5645,7 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 我曾,https://vd3.bdstatic.com/mda-jjm8i93paakzz8yj/hd/mda-jjm8i93paakzz8yj.mp4?pd=20&vt=1
 芒种,https://vd3.bdstatic.com/mda-kat1tr4ka5st965k/hd/mda-kat1tr4ka5st965k.mp4?pd=20
 
-💫会员频道_1188,#genre#
+💫会员频道_2468,#genre#
 松视1台,https://18.svi-studio.com/live/908957700097/132663288386/5.m3u8
 松视2台,http://18.svi-studio.com:8880/live/091271435055/841916267544/6.m3u8
 香蕉台,https://18.svi-studio.com/live/565361330108/206277615704/4.m3u8
@@ -5731,7 +5702,7 @@ K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
 俄罗斯成人3台,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
 
 
-💫风花雪月_1188,#genre#
+💫风花雪月_2468,#genre#
 风花雪「第一视角」,https://j9.avstatic.com/contents/videos/30000/30135/index.m3u8
 风花雪「第三视角」,https://j9.avstatic.com/contents/videos/30000/30129/index.m3u8
 风花雪「足爱」,https://j9.avstatic.com/contents/videos/30000/30153/index.m3u8
@@ -7529,7 +7500,7 @@ ysn-552渡辺,https://t11.cdn2020.com:12335/video/m3u8/2021/07/27/6afad920/index
 ysn-565渚,https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/0bf471ba/index.m3u8
 ysn-566高瀬,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/96dc5cd0/index.m3u8
 
-💫歐美深夜_1188,#genre#
+💫歐美深夜_2468,#genre#
 直播teen,http://live.mycamtv.com/teen.m3u8
 直播anal,http://live.mycamtv.com/anal.m3u8
 直播arab,http://live.mycamtv.com/arab.m3u8
@@ -7547,7 +7518,7 @@ ysn-566高瀬,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/96dc5cd0/index
 直播white,http://live.mycamtv.com/white.m3u8
 直播young,http://live.mycamtv.com/young.m3u8
 
-💫VIP專享中字_1188,#genre#
+💫VIP專享中字_2468,#genre#
 SET-009c-僕生中出人妻篠田ゆう,http://videocdn.quweikm.com:8091/20180730/SET-009c/index.m3u8
 SERO-0205c-抜14発中出武井麻希,http://videocdn.quweikm.com:8091/20180730/SERO-0205c/index.m3u8
 SERO-0272c-男性主導の體位上原亜衣,http://videocdn.quweikm.com:8091/20180730/SERO-0272c/index.m3u8

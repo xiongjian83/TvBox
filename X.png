@@ -39,6 +39,27 @@ CCTV14,rtsp://115.153.212.72/PLTV/88888888/224/3221226634/51813368.smil?
 CCTV15,rtsp://115.153.212.72/PLTV/88888888/224/3221226988/85722541.smil
 CCTV17,rtsp://115.153.212.72/PLTV/88888888/224/3221226846/61397282.smil
 
+
+CCTV1,http://14.145.141.110:8081/hls/1/index.m3u8
+CCTV2,http://14.145.141.110:8081/hls/2/index.m3u8
+CCTV3,http://14.145.141.110:8081/hls/3/index.m3u8
+CCTV4,http://14.145.141.110:8081/hls/4/index.m3u8
+CCTV5,http://14.145.141.110:8081/hls/5/index.m3u8
+CCTV5+,http://14.145.141.110:8081/hls/18/index.m3u8
+CCTV6,http://14.145.141.110:8081/hls/6/index.m3u8
+CCTV7,http://14.145.141.110:8081/hls/7/index.m3u8
+CCTV8,http://14.145.141.110:8081/hls/8/index.m3u8
+CCTV9,http://14.145.141.110:8081/hls/9/index.m3u8
+CCTV10,http://14.145.141.110:8081/hls/10/index.m3u8
+CCTV11,http://14.145.141.110:8081/hls/11/index.m3u8
+CCTV12,http://14.145.141.110:8081/hls/12/index.m3u8
+CCTV13,http://14.145.141.110:8081/hls/13/index.m3u8
+CCTV14,http://14.145.141.110:8081/hls/14/index.m3u8
+CCTV15,http://14.145.141.110:8081/hls/15/index.m3u8
+CCTV16,http://14.145.141.110:8081/hls/16/index.m3u8
+CCTV17,http://14.145.141.110:8081/hls/17/index.m3u8
+
+
 CCTV1,http://182.107.188.104:8888/newlive/live/hls/2/live.m3u8
 CCTV2,http://182.107.188.104:8888/newlive/live/hls/3/live.m3u8
 CCTV3,http://182.107.188.104:8888/newlive/live/hls/4/live.m3u8
@@ -55,6 +76,7 @@ CCTV12,http://182.107.188.104:8888/newlive/live/hls/14live.m3u8
 CCTV13,http://182.107.188.104:8888/newlive/live/hls/15/live.m3u8
 CCTV14,http://182.107.188.104:8888/newlive/live/hls/16/live.m3u8
 CCTV15,http://182.107.188.104:8888/newlive/live/hls/17/live.m3u8
+
 
 
 CCTV1,http://www.yao87.com:4022/udp/239.76.253.151:9000
@@ -235,6 +257,10 @@ CHC家庭影院,rtsp://115.153.233.154/PLTV/88888888/224/3221226959/86128800.smi
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+
+CHC高清电影,http://182.107.188.104:8888/newlive/live/hls/55/live.m3u8
+CHC家庭影院,http://182.107.188.104:8888/newlive/live/hls/56/live.m3u8
+CHC动作电影,http://182.107.188.104:8888/newlive/live/hls/57/live.m3u8
 
 CHC家庭影院,http://www.erbao1981.top:8188/udp/239.76.245.241:1234
 CHC高清电影,http://www.erbao1981.top:8188/udp/239.76.245.242:1234
@@ -506,6 +532,38 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 三沙卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221226984/85722645.smil
 
 
+湖南卫视,http://14.145.141.110:8081/hls/34/index.m3u8
+浙江卫视,http://14.145.141.110:8081/hls/35/index.m3u8
+江苏卫视,http://14.145.141.110:8081/hls/36/index.m3u8
+广东卫视,http://14.145.141.110:8081/hls/29/index.m3u8
+北京卫视,http://14.145.141.110:8081/hls/37/index.m3u8
+天津卫视,http://14.145.141.110:8081/hls/38/index.m3u8
+深圳卫视,http://14.145.141.110:8081/hls/39/index.m3u8
+安徽卫视,http://14.145.141.110:8081/hls/40/index.m3u8
+湖北卫视,http://14.145.141.110:8081/hls/41/index.m3u8
+黑龙江卫视,http://14.145.141.110:8081/hls/42/index.m3u8
+山东卫视,http://14.145.141.110:8081/hls/43/index.m3u8
+辽宁卫视,http://14.145.141.110:8081/hls/44/index.m3u8
+四川卫视,http://14.145.141.110:8081/hls/45/index.m3u8
+重庆卫视,http://14.145.141.110:8081/hls/46/index.m3u8
+贵州卫视,http://14.145.141.110:8081/hls/47/index.m3u8
+东南卫视,http://14.145.141.110:8081/hls/48/index.m3u8
+河北卫视,http://14.145.141.110:8081/hls/49/index.m3u8
+江西卫视,http://14.145.141.110:8081/hls/50/index.m3u8
+吉林卫视,http://14.145.141.110:8081/hls/51/index.m3u8
+广西卫视,http://14.145.141.110:8081/hls/52/index.m3u8
+东方卫视,http://14.145.141.110:8081/hls/53/index.m3u8
+甘肃卫视,http://14.145.141.110:8081/hls/54/index.m3u8
+河南卫视,http://14.145.141.110:8081/hls/56/index.m3u8
+北京纪实,http://14.145.141.110:8081/hls/58/index.m3u8
+三沙卫视,http://14.145.141.110:8081/hls/59/index.m3u8
+陕西卫视,http://14.145.141.110:8081/hls/60/index.m3u8
+青海卫视,http://14.145.141.110:8081/hls/61/index.m3u8
+金鹰卡通,http://14.145.141.110:8081/hls/62/index.m3u8
+西藏卫视,http://14.145.141.110:8081/hls/64/index.m3u8
+内蒙古卫视,http://14.145.141.110:8081/hls/67/index.m3u8
+
+
 浙江卫视,http://guany.myds.me:25852/udp/233.50.201.100:5140
 浙江卫视,http://home.zts1993.com:8887/udp/233.50.201.100:5140
 东方卫视,http://guany.myds.me:25852/udp/233.50.200.146:5140
@@ -604,9 +662,9 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 兵团卫视,http://182.107.188.104:8888/newlive/live/hls/50/live.m3u8
 河北卫视,http://182.107.188.104:8888/newlive/live/hls/51/live.m3u8
 厦门卫视,http://182.107.188.104:8888/newlive/live/hls/52/live.m3u8
+三沙卫视,http://182.107.188.104:8888/newlive/live/hls/53/live.m3u8
 
-
-
+ 
 湖南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0c]/ott.mobaibox.com/PLTV/3/224/3221227735/index.m3u8
 江苏卫视,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2983110475_-1591539074/ott.mobaibox.com/PLTV/3/224/3221228097/index.m3u8?icpid=3&RTS=1668597777&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 浙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw1197826796_-265147758/ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8?icpid=3&RTS=1669699798&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
@@ -723,40 +781,6 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 延边卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
 大湾区卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 
-北京卫视,http://182.107.188.104:8888/newlive/live/hls/19/live.m3u8
-广东卫视,http://182.107.188.104:8888/newlive/live/hls/21/live.m3u8
-江苏卫视,http://182.107.188.104:8888/newlive/live/hls/22/live.m3u8
-湖南卫视,http://182.107.188.104:8888/newlive/live/hls/23/live.m3u8
-浙江卫视,http://182.107.188.104:8888/newlive/live/hls/24/live.m3u8
-安徽卫视,http://182.107.188.104:8888/newlive/live/hls/25/live.m3u8
-广西卫视,http://182.107.188.104:8888/newlive/live/hls/26/live.m3u8
-云南卫视,http://182.107.188.104:8888/newlive/live/hls/27/live.m3u8
-深圳卫视,http://182.107.188.104:8888/newlive/live/hls/28/live.m3u8
-贵州卫视,http://182.107.188.104:8888/newlive/live/hls/29/live.m3u8
-山东卫视,http://182.107.188.104:8888/newlive/live/hls/30/live.m3u8
-重庆卫视,http://182.107.188.104:8888/newlive/live/hls/31/live.m3u8
-四川卫视,http://182.107.188.104:8888/newlive/live/hls/32/live.m3u8
-河南卫视,http://182.107.188.104:8888/newlive/live/hls/33/live.m3u8
-湖北卫视,http://182.107.188.104:8888/newlive/live/hls/34/live.m3u8
-吉林卫视,http://182.107.188.104:8888/newlive/live/hls/35/live.m3u8
-甘肃卫视,http://182.107.188.104:8888/newlive/live/hls/36/live.m3u8
-西藏卫视,http://182.107.188.104:8888/newlive/live/hls/37/live.m3u8
-新疆卫视,http://182.107.188.104:8888/newlive/live/hls/38/live.m3u8
-青海卫视,http://182.107.188.104:8888/newlive/live/hls/39/live.m3u8
-宁夏卫视,http://182.107.188.104:8888/newlive/live/hls/40/live.m3u8
-陕西卫视,http://182.107.188.104:8888/newlive/live/hls/41/live.m3u8
-江西卫视,http://182.107.188.104:8888/newlive/live/hls/42/live.m3u8
-天津卫视,http://182.107.188.104:8888/newlive/live/hls/43/live.m3u8
-辽宁卫视,http://182.107.188.104:8888/newlive/live/hls/44/live.m3u8
-黑龙江卫视,http://182.107.188.104:8888/newlive/live/hls/45/live.m3u8
-东南卫视,http://182.107.188.104:8888/newlive/live/hls/46/live.m3u8
-海南卫视,http://182.107.188.104:8888/newlive/live/hls/47/live.m3u8
-山西卫视,http://182.107.188.104:8888/newlive/live/hls/48/live.m3u8
-内蒙古卫视,http://182.107.188.104:8888/newlive/live/hls/49/live.m3u8
-兵团卫视,http://182.107.188.104:8888/newlive/live/hls/50/live.m3u8
-河北卫视,http://182.107.188.104:8888/newlive/live/hls/51/live.m3u8
-厦门卫视,http://182.107.188.104:8888/newlive/live/hls/52/live.m3u8
-
 湖南卫视,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
 浙江卫视,https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
 东方卫视,https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
@@ -820,62 +844,6 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 兵团卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001066/index.m3u8
 延边卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001470/index.m3u8
 
-
-
-
-北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-北京卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
-天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
-天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
-东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
-江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
-浙江卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
-安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-广东卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
-广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
-深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
-湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
-湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
-湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-四川卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
-重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
-山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
-山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
-青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
-海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
-宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
-甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
-陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
-吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
-新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
-新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
-西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
-西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
-内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
-内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
-黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 
 
 北京卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw2687876293_-1703018199/ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8?icpid=3&RTS=1668597482&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
@@ -1069,75 +1037,68 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 
 📡  港台测试,#genre#
 
-翡翠台,http://91tv.x3322.net:9921/tsfile/live/1006_1.m3u8?key=txiptv
-明珠台,http://91tv.x3322.net:9921/tsfile/live/1007_1.m3u8?key=txiptv
-天映频道(粤语),http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvnzzsfzvbhfhcvxcvzszbcvzfdvzsfcbzbnztypz.flv
-天映频道(国语),http://ali.hlspull.yximgs.com/live/twlivevcnydszfzsetzzfcvbcdtszzfvxcvsznmbnlzzhzznmyhszzftydz.flv
+翡翠台,http://91tv.x3322.net:9921/tsfile/live/1006_1.m3u8?key=txiptv#http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
+明珠台,http://91tv.x3322.net:9921/tsfile/live/1007_1.m3u8?key=txiptv#http://ali.hlspull.yximgs.com/live/huanqiuhklivetcfjhvdjjxcodwoetjmncthvbstyreyhbnnvbdjjwthjyjtvbmj.flv
 星空卫视,http://91tv.x3322.net:9921/tsfile/live/1008_1.m3u8?key=txiptv
-凤凰中文,http://ali.hlspull.yximgs.com/live/twlivetvzzpcpvuezlzydzzyfzoxvchzwhzwdozzzhzzlszhbzfhzw.flv
-凤凰资讯,http://ali.hlspull.yximgs.com/live/twlivetvzzpcpdvuezlzyzzyfzoxvchzwhzwozzzhdzzlszhbzfhzx.flv
-RTHK31,http://ali.hlspull.yximgs.com/live/twlivehpzdthpthcvhnzuzulsfzhcvbzuyhbnzyzthz31.flv
-RTHK32,http://ali.hlspull.yximgs.com/live/twlivezpzzecxvzzuszfzzfdhnbthzzszfwdtncyzthz32
-TVBJ2,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
-TVB翡翠台,http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
-TVB明珠台,http://ali.hlspull.yximgs.com/live/twlivetcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz.flv
-TVB星河台(国),http://ali.hlspull.yximgs.com/live/twlivezzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzdtvbxh.flv
-TVB无线新闻台,http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
-VIU,http://ali.hlspull.yximgs.com/live/twlivefhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv.flv
-VIU6,http://ali.hlspull.yximgs.com/live/twlivefhwzptdzbehztyhbvhfzcvszzfyztvzutvszx.flv
-澳]莲花,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndcbvdbneyzhxchzzhbnzzhzezzmlh.flv
+TVB J2,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwohdpthjyfiplhdftujfbvdimhdjnbjsjbcvxjfjsehbvbjtvbd2.flv
+TVB星河,http://ali.hlspull.yximgs.com/live/huanqiuhklivejjmjptvjsjjwxnhjjwjjtjjjtyfjsjjsjcfjxfjwmxjdtvbxh.flv
+ViuTV,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhtjjnjjdldjlujobnmjjhnbbmdjlpthjyjvjutv.flv
+ViuTV6,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjptdjbehjtyhbvhfjcvsjjfyjtvjutvsjx.flv
+RTHK31,http://ali.hlspull.yximgs.com/live/huanqiuhklivehpjdthpthcvhnjujulsfjhcvbjuyhbnjyjthj31.flv
+RTHK32,http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjjecxvjjusjfjjfdhnbthjjsjfwdtncyjthj32.flv
+无线新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
+无线财经,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwylwpthjyjjfjxvjlmnduhyjmtvbwxcd.flv
+HOY77,http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdyjjdjdjhdnowspjjlfjhjtycxjfjjojtspjjmehoytv.flv
+HOY78,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpeyjhxchjsjjhjejjjyxxw.flv
+澳门莲花,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndcbvdbneyjhxchjjhbnjjhjejjmlh.flv
+天映频道,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhfhcvxcvjsjbcvjfdvjsfcbjbnjtypj.flv
+天映经典,http://ali.hlspull.yximgs.com/live/huanqiuhklivevcnydsjfjsetjjfcvbcdtsjjfvxcvsjnmbnljjhjjnmyhsjjftydj.flv
+中天新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivepjjtvvjjjyjuujjfvbscvjdjtwjfsjjsjjjcvuyjemjejtxw.flv
+中视新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivepnvjydstudjbsjcvbfjjjsjfjsjwetymjldhdujocnjsxw.flv
+中视,http://ali.hlspull.yximgs.com/live/huanqiuhklivejphfwnmfdcjfxcvhjjwjfbfjdyujjnmfcbsfjejtyhsdjs.flv
+TVBS新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejojwhjxojhjjjlfhjljsjcnxjfvbhjdjwjfjjdsswvtvbsxw.flv
+TVBS新闻台HD,http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjovdxjojfdejodsjxcvljjfvhnjljjjobjjjsvhjchtvbs.flv
+东森新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivemhjttujjcvbyjuojdjjejywefjjfbxfbxxvbjjjljjhjsxw.flv
+寰宇新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivephxehmffjuxcxjvejejyhmnjjxjjhjdhnjbnxfdjfhyxw.flv
+民视新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivephjwfpjwvnjfdlsetfjjjjsjsftewjhvcbjjfdjuoljbms.flv
+台视新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivencjjtjjudtjljcvbcvntjjjsfwetjfvcbcxvdjbjfflvcjtsxw.flv
+台视,http://ali.hlspull.yximgs.com/live/huanqiuhkliveptejfsxlvcjdewjjjpsjfvvxcjjjpfossvbxcfjjtjvxjhlts.flv
+年代新闻,http://ali.hlspull.yximgs.com/live/huanqiuhkliveojevdyscvbudlojlnsfjewtjudvbbjxfjnjlvcjdjdnjxw.flv
+三立新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivehmcyoywjjubjdfjfvchtjujxcjxvcbsjfsdxcbmjsllivexw.flv
+三立LIVE,http://ali.hlspull.yximgs.com/live/huanqiuhklivehmcyoywjjubjfdjfvchtcbsjjjvfjhncvndvbsxcbmjsllive.flv
+非凡新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivesjtnfjjojdcbfcxvjfuujjwejjjsjyuhhdjsjhjynffxw.flv
+壹新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivemjfoyjvjsdvbnwejtjujjxjcvfjjsjfhfjddjjlhtbchyxw.flv
+镜新闻,http://ali.hlspull.yximgs.com/live/huanqiuhkliveexcvjjocvuojxucfdexjpjjyxchvljxjfejhcelethjjdxw.flv
+华视新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivencxtdtejhlvmjsjwjejwttyjhvcbjjjsjntjvbjugsxw.flv
+华视,http://ali.hlspull.yximgs.com/live/huanqiuhklivepdymvcjnjjjcvbcvbjtyjjjffcfjvjftojjbvcjfednhs.flv
 
-中天新闻,http://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
-镜新闻,http://ali.hlspull.yximgs.com/live/twliveexcvzzocvuozxucfdexzpzzyxchvlzxzfezhcelethzzdxw.flv
-民视,http://ali.hlspull.yximgs.com/live/twlivephzwfpzwvnzfdlsetfzzzzszsftewzhvcbzzfdzuolzbms.flv
-中视,http://ali.hlspull.yximgs.com/live/twlivezphfwnmfdczfxcvhzzwzfbfzdyuzznmfcbsfzeztyhsdzs.flv
-华视,http://ali.hlspull.yximgs.com/live/twlivepdymvcznzzzcvbcvbztyzzzffcfzvzftozzbvczfednhs.flv
-台视,http://ali.hlspull.yximgs.com/live/twliveptezfsxlvczdewzzzpszfvvxczzzpfossvbxcfzztzvxzhlts.flv
-TVBS,http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
-TVBS新闻,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv
-民视新闻,http://ali.hlspull.yximgs.com/live/twlivecnbvzfhdzuzzvcbnzftuzscxzfzezyhzzvzfmsxw.flv
-中视新闻,http://ali.hlspull.yximgs.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv
-台视新闻,http://ali.hlspull.yximgs.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv
-寰宇新闻,http://ali.hlspull.yximgs.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
-年代新闻,http://ali.hlspull.yximgs.com/live/twliveozevdyscvbudlozlnsfzewtzudvbbzxfznzlvczdzdnzxw.flv
-东森新闻,http://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
-三立inews,http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzdfzfvchtzuzxczxvcbszfsdxcbmzsllivexw.flv
-非凡新闻,http://ali.hlspull.yximgs.com/live/twlivesztnfzzozdcbfcxvzfuuzzwezzzszyuhhdzszhzynffxw.flv
-壹新闻,http://ali.hlspull.yximgs.com/live/twlivemzfoyzvzsdvbnweztzuzzxzcvfzzszfhfzddzzlhtbchyxw.flv
-东森戏剧,http://ali.hlspull.yximgs.com/live/twliveyvzozmfdycvbzcxlzdzfxdcvnzvdwspzcophzfvztycxzpzzmendsxd.flv
-HBO,http://ali.hlspull.yximgs.com/live/twlivemzzlzpwzdctdfhdvzdzduzlvcbeywezweefshzfhhzszzcxhbo.flv
-Thrill,http://ali.hlspull.yximgs.com/live/twliveecvzwezzosvozzzszzzdezfzxzuczshvzcszzfcztchplzy.flv
-华艺综合,http://ali.hlspull.yximgs.com/live/twlivesfbxcvzsfzdhnfcvbsxzdnzsvmbnfzuzfdhyuzmzbvnzslhdz.flv
-ELTA影剧,http://ali.hlspull.yximgs.com/live/twlivesfbxcvzsfzdhnfcvbsxzdnzsvmvbszzzfdhyuzmzbvnzslhxd.flv
-东森电影,http://ali.hlspull.yximgs.com/live/twlivezowdxnzltdzhecvxczzezzezyhzdyduozuomdfzhzzzdzszy.flv
-东森洋片,http://ali.hlspull.yximgs.com/live/twlivezmzptdzzxfzwetzvbzstzzzsutyhdzhflzzfhfhyzwzsyp.flv
-龙祥时代,http://ali.hlspull.yximgs.com/live/twlivemzloehzbzzzpvboydetzewszhthzyuzfzwetyzzzhflxsz.flv
-AXN,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfybzssxszbczcfdvsfcbzbnztyzxn.flv
-龙华电影,http://ali.hlspull.yximgs.com/live/twlivezpxnmzfhzuowezczxhvzlfzffzdwpoehcopvdzozzfxwzy.flv
-探索频道,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvnzzsfzvbhfhcvbcvzfdvbnzczzszzzezztspz.flv
-好莱坞电影,http://ali.hlspull.yximgs.com/live/twlivezmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlzcmbhlwzy.flv
-CINEMAX ,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdbczcfdvsfcbzbnztcznemzx.flv
-EL EVEN体育.. ,http://ali.hlspull.yximgs.com/live/twlivezzozzxcvyhzszhtezwfhfvzzdvbdzszzzhzlzszvcelevend.flv
-ELTA体育1,http://ali.hlspull.yximgs.com/live/twlivezezpzxcvzpzozdxcvdzozdzpoedhopzfvxczhetouhzzvzzztyy.flv
-ELTA体育3,http://ali.hlspull.yximgs.com/live/twlivecxvpzeyzdcxozvmzlzbtzwzhozudscbcxozcvmnfuzlbhhztys.flv
-ELTA体育4,http://ali.hlspull.yximgs.com/live/twlivexcvbpzyhvzbvnzzsfzvbhfhczhbnzszbcvzfdvzsfcbzbnzlys.flv
-博斯高球1,http://ali.hlspull.yximgs.com/live/twlivezmxzcvpzozzdezhdbcxhvzsztzhwozzfszzzhvcxvhbszzyz.flv
-博斯高球2,http://ali.hlspull.yximgs.com/live/twlivetvzzpcpvuezlzyzdzyfzoxvchzwhzwozdzzhzzlszhbzbszzez.flv
-龙华戏剧,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvnzzsfzvbhslcfvxcvzszbcvzfdvzsfcbzbnztyzd.flv
-龙华洋片,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfvxcvxszbcvzfdvsfcbzbnztyxty.flv
-HBO Hits ,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpxyzhzchzszbhzezzzvboo.flv
-
-LIVE三立,http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzfdzfvchtcbszzzvfzhncvndvbsxcbmzsllive.flv
-HBO Signatu..,http://ali.hlspull.yximgs.com/live/twlivetzcvszgczyhpvobzxclmvhzogdzbodbszhlelevendhbosignature.flv
-动物星球,http://ali.hlspull.yximgs.com/live/twlivexcvbpzyhvzcvnzzsfzvbhfhczhbnzszbcvzfdvzsfcbzbnzzwxz.flv
-HBO Family,http://ali.hlspull.yximgs.com/live/twlivezzozzxcvyhzszhtezwfhfvzzdvbdzszzzhzlzszvcelevenerfyi.flv
+东森戏剧,http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdycvbjcxljdjfxdcvnjvdwspjcophjfvjtycxjpjjmendsxd.flv
+东森电影,http://ali.hlspull.yximgs.com/live/huanqiuhklivejowdxnjltdjhecvxcjjejjejyhjdyduojuomdfjhjjjdjsjy.flv
+东森洋片,http://ali.hlspull.yximgs.com/live/huanqiuhklivejmjptdjjxfjwetjvbjstjjjsutyhdjhfljjfhfhyjwjsyp.flv
+龙祥电影,http://ali.hlspull.yximgs.com/live/huanqiuhklivemjloehjbjjjpvboydetjewsjhthjyujfjwetyjjjhflxsj.flv
+龙华电影,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhslcfvxcvjsjbcvjfdvjsfcbjbnjtyjd.flv
+龙华洋片,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjfjvjhslcfvxcvxsjbcvjfdvsfcbjbnjtyxty.flv
+龙华影剧,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhslcfvxcvjsjbcvjfdvjsfcbjbnjtyjd.flv
+华艺综艺,http://ali.hlspull.yximgs.com/live/huanqiuhklivesfbxcvjsfjdhnfcvbsxjdnjsvmbnfjujfdhyujmjbvnjslhdj.flv
+好莱坞电影台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejmpjjwdeyjsjjcjvsjfjljvjfhjuejdfjhjwjljcmbhlwjy.flv
+HBO HD,http://ali.hlspull.yximgs.com/live/huanqiuhklivemjjljpwjdctdfhdvjdjdujlvcbeywejweefshjfhhjsjjcxhbo.flv
+HBO Family,http://ali.hlspull.yximgs.com/live/huanqiuhklivetjcvsjgcjyhpvobjxclmvhjogdjbodbsjhlelevendhbosignature.flv
+HBO Hits,http://ali.hlspull.yximgs.com/live/huanqiuhklivezezcxlvofbncvshhzszcvndfncvbdzpxyzhzchzszbhzezzzvboo.flv
+CINEMAX电影台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjbvyvblcfybjxdbcjcfdvsfcbjbnjtcjnemjx.flv
+AXN,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjfjvjhslcfybjssxsjbcjcfdvsfcbjbnjtyjxn.flv
+BOO恐怖台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpxyjhjchjsjbhjejjjvboo.flv
+Thrill,http://ali.hlspull.yximgs.com/live/huanqiuhkliveecvjwejjosvojjjsjjjdejfjxjucjshvjcsjjfcjtchpljy.flv
+ELTA影剧,http://ali.hlspull.yximgs.com/live/huanqiuhklivesfbxcvjsfjdhnfcvbsxjdnjsvmvbsjjjfdhyujmjbvnjslhxd.flv
+ELTA体育1,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejpjxcvjpjojdxcvdjojdjpoedhopjfvxcjhetouhjjvjjjtyy.flv
+ELTA体育2,http://ali.hlspull.yximgs.com/live/huanqiuhklivecxvpjetjdcxojvmjljjtjwjpohudscbcxojcvmnfujlbhhjtye.flv
+ELEVN体育,http://ali.hlspull.yximgs.com/live/huanqiuhklivecxvpjeyjdcxojvmjljbtjwjhojudscbcxojcvmnfujlbhhjtys.flv
+DiscoveryHD,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhfhcvbcvjfdvbnjcjjsjjjejjtspj.flv
 
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 经典电影,http://47.109.155.164/小曾/yy.php?id=77609
 经典功夫,http://47.109.155.164/小曾/yy.php?id=1355002394
-经典再现,http://183.222.72.116:6868/rtp/239.10.0.130:5140
-重温经典,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000635
 重温经典,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8#http://www.238311.cn:555/cctv.php?id=635
+重温经典,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000635
 
 
 📡  江西频道,#genre#
@@ -1272,6 +1233,74 @@ HBO Family,http://ali.hlspull.yximgs.com/live/twlivezzozzxcvyhzszhtezwfhfvzzdvbd
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 
+📡  广东频道,#genre#
+
+CCTV1,http://14.145.141.110:8081/hls/1/index.m3u8
+CCTV2,http://14.145.141.110:8081/hls/2/index.m3u8
+CCTV3,http://14.145.141.110:8081/hls/3/index.m3u8
+CCTV4,http://14.145.141.110:8081/hls/4/index.m3u8
+CCTV5,http://14.145.141.110:8081/hls/5/index.m3u8
+CCTV5+,http://14.145.141.110:8081/hls/18/index.m3u8
+CCTV6,http://14.145.141.110:8081/hls/6/index.m3u8
+CCTV7,http://14.145.141.110:8081/hls/7/index.m3u8
+CCTV8,http://14.145.141.110:8081/hls/8/index.m3u8
+CCTV9,http://14.145.141.110:8081/hls/9/index.m3u8
+CCTV10,http://14.145.141.110:8081/hls/10/index.m3u8
+CCTV11,http://14.145.141.110:8081/hls/11/index.m3u8
+CCTV12,http://14.145.141.110:8081/hls/12/index.m3u8
+CCTV13,http://14.145.141.110:8081/hls/13/index.m3u8
+CCTV14,http://14.145.141.110:8081/hls/14/index.m3u8
+CCTV15,http://14.145.141.110:8081/hls/15/index.m3u8
+CCTV16,http://14.145.141.110:8081/hls/16/index.m3u8
+CCTV17,http://14.145.141.110:8081/hls/17/index.m3u8
+
+广东卫视,http://14.145.141.110:8081/hls/29/index.m3u8
+广州综合,http://14.145.141.110:8081/hls/19/index.m3u8
+广州影视,http://14.145.141.110:8081/hls/20/index.m3u8
+广州新闻,http://14.145.141.110:8081/hls/21/index.m3u8
+广州竞赛,http://14.145.141.110:8081/hls/22/index.m3u8
+广东珠江,http://14.145.141.110:8081/hls/23/index.m3u8
+广东体育,http://14.145.141.110:8081/hls/24/index.m3u8
+广东影视,http://14.145.141.110:8081/hls/25/index.m3u8
+广东少儿,http://14.145.141.110:8081/hls/26/index.m3u8
+广东经济,http://14.145.141.110:8081/hls/28/index.m3u8
+广东民生,http://14.145.141.110:8081/hls/65/index.m3u8
+翡翠台,http://14.145.141.110:8081/hls/30/index.m3u8
+明珠台,http://14.145.141.110:8081/hls/31/index.m3u8
+澳视澳门,http://14.145.141.110:8081/hls/32/index.m3u8
+凤凰中文,http://14.145.141.110:8081/hls/33/index.m3u8
+
+湖南卫视,http://14.145.141.110:8081/hls/34/index.m3u8
+浙江卫视,http://14.145.141.110:8081/hls/35/index.m3u8
+江苏卫视,http://14.145.141.110:8081/hls/36/index.m3u8
+广东卫视,http://14.145.141.110:8081/hls/29/index.m3u8
+北京卫视,http://14.145.141.110:8081/hls/37/index.m3u8
+天津卫视,http://14.145.141.110:8081/hls/38/index.m3u8
+深圳卫视,http://14.145.141.110:8081/hls/39/index.m3u8
+安徽卫视,http://14.145.141.110:8081/hls/40/index.m3u8
+湖北卫视,http://14.145.141.110:8081/hls/41/index.m3u8
+黑龙江卫视,http://14.145.141.110:8081/hls/42/index.m3u8
+山东卫视,http://14.145.141.110:8081/hls/43/index.m3u8
+辽宁卫视,http://14.145.141.110:8081/hls/44/index.m3u8
+四川卫视,http://14.145.141.110:8081/hls/45/index.m3u8
+重庆卫视,http://14.145.141.110:8081/hls/46/index.m3u8
+贵州卫视,http://14.145.141.110:8081/hls/47/index.m3u8
+东南卫视,http://14.145.141.110:8081/hls/48/index.m3u8
+河北卫视,http://14.145.141.110:8081/hls/49/index.m3u8
+江西卫视,http://14.145.141.110:8081/hls/50/index.m3u8
+吉林卫视,http://14.145.141.110:8081/hls/51/index.m3u8
+广西卫视,http://14.145.141.110:8081/hls/52/index.m3u8
+东方卫视,http://14.145.141.110:8081/hls/53/index.m3u8
+甘肃卫视,http://14.145.141.110:8081/hls/54/index.m3u8
+河南卫视,http://14.145.141.110:8081/hls/56/index.m3u8
+北京纪实,http://14.145.141.110:8081/hls/58/index.m3u8
+三沙卫视,http://14.145.141.110:8081/hls/59/index.m3u8
+陕西卫视,http://14.145.141.110:8081/hls/60/index.m3u8
+青海卫视,http://14.145.141.110:8081/hls/61/index.m3u8
+金鹰卡通,http://14.145.141.110:8081/hls/62/index.m3u8
+西藏卫视,http://14.145.141.110:8081/hls/64/index.m3u8
+内蒙古卫视,http://14.145.141.110:8081/hls/67/index.m3u8
+
 📡  陕西频道,#genre#
 陕西新闻资讯,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/index.m3u8
 陕西都市青春,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/index.m3u8
@@ -1305,7 +1334,8 @@ HBO Family,http://ali.hlspull.yximgs.com/live/twlivezzozzxcvyhzszhtezwfhfvzzdvbd
 黑龙江少儿,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
 
 
-📡  湖南组播,#genre#
+📡  湖南频道,#genre#
+
 湖南经视,http://www.yao87.com:4022/udp/239.76.253.103:9000
 湖南经视,http://www.yao87.com:4022/udp/239.76.252.116:9000
 湖南经视,http://www.yao87.com:4022/udp/239.76.251.86:9000
@@ -1397,44 +1427,20 @@ CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-CCTV1,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-CCTV1,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226457/index.m3u8
-CCTV1,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-CCTV2,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-CCTV2,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
-CCTV3,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
-CCTV4,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
-CCTV4,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-CCTV5,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV5+,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-CCTV5+,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-CCTV6,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-CCTV6,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
-CCTV7,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-CCTV8,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-CCTV9,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-CCTV10,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-CCTV11,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
-CCTV12,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
-CCTV13,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV14,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-CCTV15,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-CCTV16,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-CCTV17,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
-CHC家庭影院,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-CHC高清电影,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC动作电影,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-CCTV世界地理,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
-CCTV风云剧场,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
-CCTV第一剧场,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226959/index.m3u8
-CCTV风云音乐,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
-CCTV央视台球,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
-CCTV怀旧剧场,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
-CCTV兵器科技,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8
-CCTV电视指南,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
-CCTV高尔夫网球,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
-CCTV风云足球,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
-CCTV央视文化精品,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226981/index.m3u8
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC高清电影,http://biptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+CCTV世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
+CCTV风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
+CCTV第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226959/index.m3u8
+CCTV风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
+CCTV央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
+CCTV怀旧剧场,http://biptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
+CCTV兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8
+CCTV电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
+CCTV高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
+CCTV风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
+CCTV央视文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226981/index.m3u8
 
 
 CCTV1,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
@@ -1586,32 +1592,6 @@ CCTV17,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212261
 延边卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
 内蒙古卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
 康巴卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
-电视指南,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-风云足球,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-风云剧场,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
-风云音乐,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-央视台球,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-第一剧场,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
-女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
-怀旧剧场,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-兵器科技,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-高尔夫网球,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-央视文化精品,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
-哒啵电竞,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226951/index.m3u8
-哒啵赛事,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226954/index.m3u8
-CHC高清电影,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC家庭影院,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-CHC动作电影,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-陕西卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
-农林卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
-纪实人文,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
-山东教育卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
-置业频道,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
-京视剧场,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226242/index.m3u8
-家庭理财,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/index.m3u8
-奕坦春秋,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226245/index.m3u8
-发现之旅,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
-老故事,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 
 
 江苏卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
@@ -1801,6 +1781,11 @@ Sky Sport 9,https://donelfantastic.github.io/live/skysportsNz9.m3u8
 
 🇭🇰港台,#genre#
 
+凤凰资讯,http://113.64.145.84:8081/hls/36/index.m3u8
+凤凰中文,http://113.64.145.84:8081/hls/37/index.m3u8
+凤凰香港,http://113.64.145.84:8081/hls/38/index.m3u8
+
+
 凤凰资讯,https://s2.pub/cctv-3
 凤凰中文,https://s2.pub/cctv-2
 凤凰香港,https://s2.pub/cctv-1
@@ -1814,6 +1799,7 @@ Sky Sport 9,https://donelfantastic.github.io/live/skysportsNz9.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
+
 凤凰资讯,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
 凤凰中文,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
 凤凰香港,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
@@ -1823,17 +1809,14 @@ Sky Sport 9,https://donelfantastic.github.io/live/skysportsNz9.m3u8
 凤凰中文,http://www.erbao1981.top:8188/udp/239.76.246.7:1234
 凤凰中文,http://www.erbao1981.top:8188/udp/239.76.246.135:1234
 
+凤凰资讯,http://113.64.145.228:8081/hls/36/index.m3u8
+凤凰中文,http://113.64.145.228:8081/hls/37/index.m3u8
+凤凰香港,http://113.64.145.228:8081/hls/38/index.m3u8
 
-凤凰资讯,http://r.jdshipin.com/0Rp0
-凤凰中文,http://r.jdshipin.com/cCCzW
 
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 
-凤凰香港,http://120.84.96.138:808/hls/81/index.m3u8
-凤凰香港,http://r.jdshipin.com/NfC0f
-
-凤凰资讯,http://113.117.74.107:8081/hls/36/index.m3u8
-凤凰中文,http://113.117.74.107:8081/hls/37/index.m3u8
-凤凰香港,http://113.117.74.107:8081/hls/38/index.m3u8
 
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
@@ -1841,30 +1824,26 @@ Sky Sport 9,https://donelfantastic.github.io/live/skysportsNz9.m3u8
 翡翠台,http://91tv.x3322.net:9921/tsfile/live/1006_1.m3u8?key=txiptv
 明珠台,http://91tv.x3322.net:9921/tsfile/live/1007_1.m3u8?key=txiptv
 
-翡翠台,http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
+翡翠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
+翡翠台,http://14.145.141.110:8081/hls/30/index.m3u8
 翡翠台,http://m.glx008.com:8000/bysid/1
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 翡翠台,https://s2.pub/cctv-23
-翡翠台,http://42.186.64.52:5001/site/gudou.php?id=1350_4500
-翡翠台,http://r.jdshipin.com/GeWKr?id=fct720
 翡翠台,http://feng163.com:9000/bysid/1
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://r.jdshipin.com/qrfbg
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://r.jdshipin.com/n90gt
 
 
-明珠台,http://ali.hlspull.yximgs.com/live/twlivetcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz.flv
+
+明珠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivetcfjhvdjjxcodwoetjmncthvbstyreyhbnnvbdjjwthjyjtvbmj.flv
 明珠台,http://bziyunshao.synology.me:8890/bysid/2
 明珠台,http://feng163.com:9001/bysid/2
 明珠台,http://sz.l68.fun:9001/bysid/2
-明珠台,http://120.238.13.198:8000/hls/19/index.m3u8
-明珠台,http://r.jdshipin.com/GeWKr?id=mzt720
+明珠台,http://14.145.141.110:8081/hls/31/index.m3u8
 明珠台,http://r.jdshipin.com/ZQ4kN
 
-J2,http://tvbox6.com/tv/twlive.php?id=fhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2
+J2,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwohdpthjyfiplhdftujfbvdimhdjnbjsjbcvxjfjsehbvbjtvbd2.flv
 J2,https://s2.pub/cctv-5
 J2,http://bziyunshao.synology.me:8890/bysid/82
+J2,http://nz189l149.bb27109.ctm.net:8892/bysid/82
 J2,http://feng163.com:9001/bysid/82
 J2,http://1.65.195.85:9981/stream/channelid/2082072924?profile=pass
 
@@ -1893,24 +1872,21 @@ J2,http://1.65.195.85:9981/stream/channelid/2082072924?profile=pass
 无线财经,http://live.cooltv.top/tv/tvb.php?id=3&hq
 无线财经,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 
-ViuTV,http://tvbox6.com/tv/twlive.php?id=fhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv
+
 ViuTV,http://bziyunshao.synology.me:8889/bysid/99
 ViuTV,http://m.glx008.com:8000/bysid/99
 ViuTV,http://feng163.com:9000/bysid/99
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,http://r.jdshipin.com/ecsRA
 
-ViuTV6,http://tvbox6.com/tv/twlive.php?id=fhwzptdzbehztyhbvhfzcvszzfyztvzutvszx
 ViuTV6,http://bziyunshao.synology.me:8889/bysid/96
 ViuTV6,http://m.glx008.com:8000/bysid/96
 ViuTV6,http://170.178.177.98:27347/livehttpplay?channel_id=20132
 ViuTV6,http://170.178.177.98:27347/livehttpplay?channel_id=30033
 
 华丽台,https://s2.pub/cctv-24
+华丽台,http://107.174.127.132:2082/smart?user=xmaoyuefu&playurl=http://198.16.100.90:8278/Wlt/playlist.m3u8
 华丽台,http://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8
-华丽台,https://epg.pw/stream/e82bb38f7b899d0313bd94db793301942fc985a773b350d9df1deb3a0bf878da.ctv
-华丽台,https://epg.pw/stream/b204df30a74900c31103615d9fb4f16942644d1e8b7da90a6f16dfde35ecc92c.ctv
-华丽台,https://epg.pw/stream/8247e3685f3e501b98ecb24e7846aa52826183899498184bcb096c0db8512b55.ctv
 华丽台,http://r.jdshipin.com/thuYX
 
 
@@ -1967,7 +1943,6 @@ HOY TV77,http://r.jdshipin.com/NADme
 HOY TV77,http://r.jdshipin.com/ZKpTD
 HOY TV77,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 
-HOY TV78,http://tvbox6.com/tv/twlive.php?id=zezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw
 HOY TV78,http://bziyunshao.synology.me:8891/bysid/78
 HOY TV78,http://feng163.com:9003/bysid/78
 HOY TV78,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
@@ -1990,7 +1965,7 @@ HOY TV78,https://cdn.hklive.tv/hls/78/index.m3u8
 
 
 
-
+澳视澳门,http://14.145.141.110:8081/hls/32/index.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 澳视澳门,http://r.jdshipin.com/n2YZI
 
@@ -2003,8 +1978,6 @@ HOY TV78,https://cdn.hklive.tv/hls/78/index.m3u8
 中视 HD,rtmp://f13h.mine.nu/sat/tv091
 华视 HD,rtmp://f13h.mine.nu/sat/tv111
 民视 HD,rtmp://f13h.mine.nu/sat/tv051
-TVBS HD,http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
-TVBS新闻 HD,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv
 TVBS新闻 HD,rtmp://f13h.mine.nu/sat/tv551
 TVBS欢乐,rtmp://f13h.mine.nu/sat/tv421
 东森超视,rtmp://f13h.mine.nu/sat/tv331
@@ -2956,6 +2929,9 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 🇨🇳电视剧轮播,#genre#
 康熙王朝,https://live.metshop.top/yy/1382736818
 雍正王朝,https://lunbo.freetv.top/yy/23206872#http://cfss.cc/cdn/hy/11342439.flv
+纪晓岚,https://live.metshop.top/yy/1382781415
+宰相刘罗锅,https://lunbo.freetv.top/yy/1353892468
+神医喜来乐,https://live.metshop.top/yy/1382714119#https://lunbo.freetv.top/yy/1382714119
 天龙八部,https://live.metshop.top/yy/1351814644
 神雕侠侣,https://live.metshop.top/yy/1351762426#https://lunbo.freetv.top/yy/1351762426
 笑傲江湖,https://live.metshop.top/yy/1354930909
@@ -2968,7 +2944,11 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 大时代,https://live.metshop.top/yy/1354930891#https://lunbo.freetv.top/yy/1354930891
 新白娘子传奇,https://live.metshop.top/yy/1354490667#http://43.138.170.29:35455/yy/1354930969
 溏心风暴之家好月圆,https://lunbo.freetv.top/yy/1354888747
-封神榜,https://live.metshop.top/yy/1353426319
+封神榜,https://live.metshop.top/yy/1356043643
+打狗棍,https://live.metshop.top/yy/39736069
+隋唐英雄传,https://live.metshop.top/yy/1352475619
+鹊刀门,https://live.metshop.top/yy/1355344777
+正阳门下,https://live.metshop.top/yy/1354931580
 鸡毛飞上天,https://live.metshop.top/yy/1461033197
 火蓝刀锋,https://live.metshop.top/yy/1382737892
 钟馗传说,https://live.metshop.top/yy/1382736839
@@ -2977,15 +2957,78 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 红楼梦,https://live.metshop.top/yy/1382745084#https://lunbo.freetv.top/yy/1382745084
 谈判专家,https://lunbo.freetv.top/yy/1382735560
 伪装者,https://lunbo.freetv.top/yy/1382851593
-宰相刘罗锅,https://lunbo.freetv.top/yy/1353892468
-神医喜来乐,https://live.metshop.top/yy/1382714119#https://lunbo.freetv.top/yy/1382714119
-纪晓岚,http://cfss.cc/cdn/hy/11342396.flv
 济公游记,http://43.138.170.29:35455/yy/1355265814
 西游记,http://43.138.170.29:35455/douyu/8953746
 周星驰,https://live.metshop.top/yy/1382736808
 恐怖鬼片,https://live.metshop.top/yy/1355641195
 
 🇨🇳埋堆堆（港剧）,#genre#
+
+埋堆堆01,https://live.metshop.top/huya/23749096
+埋堆堆02,https://live.metshop.top/huya/23735126
+埋堆堆03,https://live.metshop.top/huya/23865152
+埋堆堆04,https://live.metshop.top/huya/23903196
+埋堆堆05,https://live.metshop.top/huya/23740156
+埋堆堆06,https://live.metshop.top/huya/23728660
+埋堆堆07,https://live.metshop.top/huya/23865058
+埋堆堆08,https://live.metshop.top/huya/23734183
+埋堆堆09,https://live.metshop.top/huya/23865036
+埋堆堆10,https://live.metshop.top/huya/23734246
+埋堆堆11,https://live.metshop.top/huya/23863796
+埋堆堆12,https://live.metshop.top/huya/23749083
+埋堆堆13,https://live.metshop.top/huya/23824164
+埋堆堆14,https://live.metshop.top/huya/23863804
+埋堆堆15,https://live.metshop.top/huya/23865142
+埋堆堆16,https://live.metshop.top/huya/23903183
+埋堆堆17,https://live.metshop.top/huya/23903130
+埋堆堆18,https://live.metshop.top/huya/23734169
+埋堆堆19,https://live.metshop.top/huya/23728674
+埋堆堆20,https://live.metshop.top/huya/23735153
+埋堆堆21,https://live.metshop.top/huya/23749068
+埋堆堆22,https://live.metshop.top/huya/23740162
+埋堆堆23,https://live.metshop.top/huya/23829474
+埋堆堆24,https://live.metshop.top/huya/23863833
+埋堆堆25,https://live.metshop.top/huya/23903106
+埋堆堆26,https://live.metshop.top/huya/23865025
+埋堆堆27,https://live.metshop.top/huya/23728689
+埋堆堆28,https://live.metshop.top/huya/23824171
+埋堆堆29,https://live.metshop.top/huya/23860057
+埋堆堆30,https://live.metshop.top/huya/23865072
+埋堆堆31,https://live.metshop.top/huya/23734176
+埋堆堆32,https://live.metshop.top/huya/23728651
+埋堆堆33,https://live.metshop.top/huya/23865179
+埋堆堆34,https://live.metshop.top/huya/23734196
+埋堆堆35,https://live.metshop.top/huya/23734211
+埋堆堆36,https://live.metshop.top/huya/23865086
+埋堆堆37,https://live.metshop.top/huya/23863822
+埋堆堆38,https://live.metshop.top/huya/23734243
+埋堆堆39,https://live.metshop.top/huya/23864480
+埋堆堆40,https://live.metshop.top/huya/23746486
+埋堆堆41,https://live.metshop.top/huya/23860049
+埋堆堆42,https://live.metshop.top/huya/23749074
+埋堆堆43,https://live.metshop.top/huya/23863882
+埋堆堆44,https://live.metshop.top/huya/23863778
+埋堆堆45,https://live.metshop.top/huya/23829537
+埋堆堆46,https://live.metshop.top/huya/23863809
+埋堆堆47,https://live.metshop.top/huya/23865096
+埋堆堆48,https://live.metshop.top/huya/23728630
+埋堆堆49,https://live.metshop.top/huya/23863895
+埋堆堆50,https://live.metshop.top/huya/23863787
+埋堆堆51,https://live.metshop.top/huya/23728637
+埋堆堆52,https://live.metshop.top/huya/23903085
+埋堆堆53,https://live.metshop.top/huya/23728647
+埋堆堆54,https://live.metshop.top/huya/23746691
+埋堆堆55,https://live.metshop.top/huya/23829447
+埋堆堆56,https://live.metshop.top/huya/23728693
+埋堆堆57,https://live.metshop.top/huya/23734223
+埋堆堆58,https://live.metshop.top/huya/23865124
+埋堆堆59,https://live.metshop.top/huya/23865186
+埋堆堆60,https://live.metshop.top/huya/23902225
+埋堆堆61,https://live.metshop.top/huya/23903164
+埋堆堆62,https://live.metshop.top/huya/23863818
+
+
+
 埋堆堆01,http://159.75.85.63:35455/huya/23749096
 埋堆堆02,http://159.75.85.63:35455/huya/23735126
 埋堆堆03,http://159.75.85.63:35455/huya/23740156
@@ -3061,6 +3104,8 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 埋堆堆35,https://live.metshop.top/huya/23749068
 埋堆堆36,https://live.metshop.top/huya/23863787
 埋堆堆37,https://live.metshop.top/huya/23824164
+
+
 
 埋堆堆01,http://mmitv.top/pltv/huya.php?id=23749096
 埋堆堆02,http://mmitv.top/pltv/huya.php?id=23735126
@@ -4207,6 +4252,351 @@ CCTV6影视,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw174414158
 院线影视,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=3
 江苏移动4K影视,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
 
+💫 经典电影,#genre#
+倩女幽魂妖魔道,http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
+倩女幽魂人间道,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
+倩女幽魂道道道,http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
+监狱风云1,https://vip.lz-cdn3.com/20230114/17167_f0f5a918/index.m3u8
+监狱风云2,https://vip.lz-cdn3.com/20230114/17169_e351e7c8/index.m3u8
+英雄本色1,https://vip.ffzy-play7.com/20221115/4617_be0491ea/index.m3u8
+英雄本色2,https://vip.ffzy-play7.com/20221115/4807_eeca808f/index.m3u8
+英雄本色3,https://vip.lz-cdn7.com/20230411/15301_64c1550f/index.m3u8
+赌神1,https://vip.ffzy-online.com/20221017/865_74da177a/index.m3u8
+赌神2,https://vip.lz-cdn.com/20220622/20003_820596d4/index.m3u8
+醉拳,https://txmov2.a.kwimgs.com/upic/2021/09/30/18/BMjAyMTA5MzAxODM1NTFfMTI0MzE0NjMyOF81ODEwNDc3MzAzOF8yXzM=_b_B1b01bbe5b567f842b3de0b78109d1907.mp4
+醉拳,https://vip.ffzy-play7.com/20230202/13070_b42acba9/index.m3u8
+双龙会,https://alimov2.a.kwimgs.com/upic/2021/10/01/19/BMjAyMTEwMDExOTA1MDVfMTI0MzE0NjMyOF81ODE5NzY0NzAyOF8yXzM=_b_B6eb284159f267349ab21b64feb3d48ce.mp4
+双龙会,https://vip.ffzy-play6.com/20221112/6064_afbd5214/index.m3u8
+龙门飞甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
+龙门飞甲,https://cdn2.yzzy-tv-cdn.com/20220331/4883_7f84c204/index.m3u8
+黄飞鸿之狮王争霸,https://alimov2.a.kwimgs.com/upic/2020/05/15/08/BMjAyMDA1MTUwODQ5NTdfMjEyNDgzMjg2XzI4NTc1ODg4MzEyXzJfMw==_b_Bd4d927d62d45dd2f3e065114d9aebb25.mp4
+黄飞鸿之铁鸡斗蜈蚣,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634242822045870_hlsb.m3u8
+黄飞鸿之铁鸡斗蜈蚣,https://cdn2.yzzy-tv-cdn.com/20220415/13227_56714be0/index.m3u8
+黄飞鸿之男儿当自强,https://txmov2.a.kwimgs.com/upic/2020/05/16/01/BMjAyMDA1MTYwMTAyMjFfMjEyNDgzMjg2XzI4NjI3OTAwNTc5XzJfMw==_b_Bc1101c249e7355d840c4495b7bfd84a4.mp4
+黄飞鸿之壮志凌云,http://jsmov2.a.yximgs.com/bs3/video-hls/5189554175568165120_hlsb.m3u8
+义胆雄心,http://jsmov2.a.yximgs.com/bs3/video-hls/5237686462055775486_hlsb.m3u8
+义胆雄心,https://vip.ffzy-play7.com/20221129/7714_a0c75de1/index.m3u8
+东成西就,http://jsmov2.a.yximgs.com/bs3/video-hls/5235434664056492833_hlsb.m3u8
+东方三侠,http://jsmov2.a.yximgs.com/bs3/video-hls/5222205346628851891_hlsb.m3u8
+人在囧途,http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8
+人在囧途,https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
+A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
+A计划,https://vip.ffzy-play7.com/20221115/4631_7c6bb09a/index.m3u8
+九一神雕侠侣,http://jsmov2.a.yximgs.com/bs3/video-hls/5227553349016599035_hlsb.m3u8
+九一神雕侠侣,https://vip.ffzy-play6.com/20221112/6044_68796407/index.m3u8
+九二神雕之痴心情长剑,http://jsmov2.a.yximgs.com/bs3/video-hls/5188428323796620673_hlsb.m3u8
+刀剑笑,http://jsmov2.a.yximgs.com/bs3/video-hls/5215168447635500734_hlsb.m3u8
+刀剑笑,https://vip.ffzy-play7.com/20221112/3808_6690be34/index.m3u8
+天若有情,http://jsmov2.a.yximgs.com/bs3/video-hls/5246412168297899387_hlsb.m3u8
+天若有情,https://vip.ffzy-play6.com/20221112/6132_760d67fd/index.m3u8
+龙兄虎弟,http://jsmov2.a.yximgs.com/bs3/video-hls/5250352837791566632_hlsb.m3u8
+龙兄虎弟,https://vip.ffzy-play6.com/20221116/7264_5b0b594e/index.m3u8
+东方秃鹰,http://jsmov2.a.yximgs.com/bs3/video-hls/5218546164654879826_hlsb.m3u8
+东方秃鹰,https://vip.ffzy-play7.com/20221209/9044_d3e0dbd4/index.m3u8
+投名状,https://cdn13.yzzy-tv-cdn.com/20230128/9592_3d21d729/index.m3u8
+中南海保镖,https://cdn12.yzzy-tv-cdn.com/20221209/8943_e3bd0850/index.m3u8
+杀手之王,https://cdn10.yzzy-tv-cdn.com/20221023/2307_200a0670/index.m3u8
+太极张三丰,https://cdn8.yzzy-tv-cdn.com/20220713/4780_8d927b57/index.m3u8
+黄飞鸿之一:壮志凌云,https://cdn4.yzzy-tv-cdn.com/20220617/21900_8ceba9f5/index.m3u8
+黄飞鸿之二:男儿当自强,https://cdn4.yzzy-tv-cdn.com/20220606/17341_21dfaf46/index.m3u8
+黄飞鸿之三:狮王争霸,https://cdn1.yzzy-tv-cdn.com/20220517/cZrm0twN/index.m3u8
+黄飞鸿之西域雄狮,https://cdn1.yzzy-tv-cdn.com/20220415/eAed3SPA/index.m3u8
+冒险王,https://cdn4.yzzy-tv-cdn.com/20220608/17622_c083f16b/index.m3u8
+精武英雄,https://cdn5.yzzy-tv-cdn.com/20220607/22255_9e00edb7/index.m3u8
+少林寺,https://cdn4.yzzy-tv-cdn.com/20220606/17324_133ab69b/index.m3u8
+少林小子,https://vip.ffzy-play7.com/20230216/14926_434969e4/index.m3u8
+方世玉,https://cdn4.yzzy-tv-cdn.com/20220606/17350_39c4425b/index.m3u8
+方世玉续集,https://vip.ffzy-play6.com/20221129/9315_1d7ec0af/index.m3u8
+鼠胆龙威,https://cdn1.yzzy-tv-cdn.com/20220517/lAsQeigJ/index.m3u8
+南北少林,https://cdn2.yzzy-tv-cdn.com/20220428/16621_c12279b7/index.m3u8
+新少林五祖,https://cdn1.yzzy-tv-cdn.com/20220416/dqxi6ilh/index.m3u8
+给爸爸的信,https://cdn2.yzzy-tv-cdn.com/20220414/13070_86734093/index.m3u8
+倚天屠龙记之魔教教主,https://cdn1.yzzy-tv-cdn.com/20220406/COULYl8d/index.m3u8
+花木兰,https://cdn2.yzzy-tv-cdn.com/20220405/7667_13f7046c/index.m3u8
+龙在天涯,https://cdn2.yzzy-tv-cdn.com/20220331/4882_d282e1a0/index.m3u8
+笑傲江湖2：东方不败,https://cdn2.yzzy-tv-cdn.com/20220331/4843_724c1ac5/index.m3u8
+不二神探,https://cdn2.yzzy-tv-cdn.com/20220330/4069_8714f6bb/index.m3u8
+功夫之王,https://cdn1.yzzy-tv-cdn.com/20220326/Fu3xA9TS/index.m3u8
+封神传奇,https://cdn1.yzzy-tv-cdn.com/20220326/ga3SHNAV/index.m3u8
+建国大业,https://cdn1.yzzy-tv-cdn.com/20220325/lWDJZBdb/index.m3u8
+英雄,https://vip.ffzy-play7.com/20221227/9993_9681b67b/index.m3u8
+白蛇传说,https://vip.ffzy-play7.com/20221224/9605_263ee1e0/index.m3u8
+黄飞鸿92之龙行天下,https://vip.ffzy-play7.com/20221129/7657_0e98ee6f/index.m3u8
+东方巨龙,https://vip.ffzy-play6.com/20221117/7362_01e144e6/index.m3u8
+黑侠,https://vip.ffzy-play6.com/20221112/6336_a08140a7/index.m3u8
+霍元甲,https://vip.ffzy-play2.com/20221021/234_50a8a4b6/index.m3u8
+师兄撞鬼,https://vip.ffzy-play6.com/20221207/10610_200b5bd4/index.m3u8
+97家有喜事,https://vip.ffzy-play6.com/20221129/9285_97e3dfc9/index.m3u8
+算死草,https://vip.ffzy-play6.com/20221112/6085_3636efbb/index.m3u8
+行运一条龙,https://vip.ffzy-play6.com/20221112/6024_432f2afd/index.m3u8
+龙的传人,https://vip.ffzy-play7.com/20221112/3556_7788de32/index.m3u8
+咖喱辣椒,https://vip.ffzy-play7.com/20221112/3509_1a0443fd/index.m3u8
+西游降魔篇,https://vip.ffzy-play6.com/20221019/206_b74a99b9/index.m3u8
+长江七号,https://vip.ffzy-play6.com/20221022/1070_3b7b263a/index.m3u8
+神话,https://vip.ffzy-play6.com/20221017/20_989dd1f8/index.m3u8
+飞龙再生,https://vip.ffzy-play6.com/20221019/72_1934eddc/index.m3u8
+特务迷城,https://vip.ffzy-play6.com/20221019/111_6edaadc7/index.m3u8
+神奇燕尾服,https://vip.ffzy-play6.com/20221019/127_851b9820/index.m3u8
+十二生肖,https://vip.ffzy-play6.com/20221019/191_dba04d04/index.m3u8
+我是谁,https://vip.ffzy-play6.com/20221022/881_da82c5bb/index.m3u8
+宝贝计划,https://vip.ffzy-play2.com/20221021/73_d5c05ae2/index.m3u8
+辛亥革命,https://vip.ffzy-play6.com/20221021/591_72533d75/index.m3u8
+千机变,https://vip.ffzy-play2.com/20221019/21_687fe198/index.m3u8
+警察故事,https://ukzy.ukubf3.com/20220402/N3nfxJ6i/index.m3u8
+警察故事续集,https://vip.ffzy-play7.com/20221115/4687_1e3f6f8c/index.m3u8
+警察故事3,https://vip.ffzy-play7.com/20221206/8266_97359a93/index.m3u8
+警察故事4,https://vip.ffzy-play6.com/20221129/9292_f6b1a849/index.m3u8
+警察故事2013,https://vip.ffzy-play6.com/20221021/494_7e9bef86/index.m3u8
+新警察故事,https://vip.ffzy-play6.com/20221017/15_7bd9a94d/index.m3u8
+超级计划,https://vip.ffzy-play7.com/20221112/3764_fd2b007a/index.m3u8
+A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
+飞鹰计划,https://vip.ffzy-play6.com/20221112/6252_a77ddc97/index.m3u8
+龙的心,https://vip.ffzy-play7.com/20221115/4539_8b9150f6/index.m3u8
+特警新人类,https://vip.ffzy-play6.com/20221112/6113_c01821f3/index.m3u8
+神探蒲松龄,https://vip.ffzy-play6.com/20221111/5646_d1cd614b/index.m3u8
+玻璃樽,https://vip.ffzy-play7.com/20221112/3750_97a1bebc/index.m3u8
+攀登者,https://vip.ffzy-play7.com/20221111/3124_7cca31fc/index.m3u8
+天将雄师,https://vip.ffzy-play6.com/20221031/3078_d47ea8cc/index.m3u8
+功夫瑜伽,https://vip.ffzy-play2.com/20221124/1291_468b2efb/index.m3u8
+龙腾虎跃,https://vip.ffzy-play7.com/20221117/5171_c2d4c959/index.m3u8
+迷你特工队,https://vip.ffzy-play7.com/20221117/5052_54ce37e4/index.m3u8
+急先锋,https://vip.ffzy-play6.com/20221113/6503_476b3f6c/index.m3u8
+红番区,https://vip.ffzy-play6.com/20221112/6346_239e11e8/index.m3u8
+师弟出马,https://vip.ffzy-play7.com/20221115/4764_aba20ecc/index.m3u8
+奇谋妙计五福星,https://vip.ffzy-play7.com/20221115/4730_a7515224/index.m3u8
+龙少爷,https://vip.ffzy-play7.com/20221115/4703_5132dc98/index.m3u8
+快餐车,https://vip.ffzy-play7.com/20221115/4694_6f7f88ac/index.m3u8
+新少林寺,https://vip.ffzy-play.com/20221015/881_3dbc4077/index.m3u8
+一个好人,https://vip.ffzy-play7.com/20221129/7713_3a3bd3ff/index.m3u8
+火烧岛,https://vip.ffzy-play6.com/20221129/9336_58c74ab9/index.m3u8
+醉拳2,https://vip.ffzy-play6.com/20221129/9308_1fceb255/index.m3u8
+笑拳怪招,https://vip.ffzy-play6.com/20221128/9213_05050bb8/index.m3u8
+蛇鹤八步,https://vip.ffzy-play6.com/20221128/9119_1b13e298/index.m3u8
+少林木人巷,https://vip.ffzy-play6.com/20221128/9115_ff8a121e/index.m3u8
+拳精,https://vip.ffzy-play6.com/20221128/9094_13caae92/index.m3u8
+龙拳,https://vip.ffzy-play6.com/20221128/9052_3612e0ff/index.m3u8
+夏日福星,https://vip.ffzy-play7.com/20230118/11937_84244e52/index.m3u8
+夏日福星,https://vip.ffzy-play7.com/20230118/11937_84244e52/index.m3u8
+城市猎人,https://vip.ffzy-play7.com/20230112/11075_f5a96711/index.m3u8
+大兵小将,https://vip.ffzy-play7.com/20230101/10714_0de1384d/index.m3u8
+飞龙猛将,https://vip.ffzy-play6.com/20221207/10806_a4b679fd/index.m3u8
+新宿事件,https://vip.ffzy-play7.com/20230314/18148_991eeb8a/index.m3u8
+龙马精神,https://vip.ffzy-online6.com/20230603/12901_b0997ad4/index.m3u8
+刁手怪招,https://cdn7.yzzy-tv-cdn.com/20220625/561_337bba55/index.m3u8
+决战紫禁之巅,https://vip.ffzy-play7.com/20230413/22211_bfb8d6b2/index.m3u8
+与龙共舞,https://vip.ffzy-play6.com/20221207/10859_1b02d27c/index.m3u8
+天若有情3之烽火佳人,https://vip.ffzy-play6.com/20221207/10617_a0d97cd1/index.m3u8
+富贵兵团,https://vip.ffzy-play7.com/20221209/9048_80e2a1cb/index.m3u8
+五亿探长雷洛传1：雷老虎,https://vip.ffzy-online.com/20221015/672_cd3f2629/index.m3u8
+五亿探长雷洛传2：父子情仇,https://vip.ffzy-online.com/20221015/676_0dc45896/index.m3u8
+豪门夜宴,https://vip.ffzy-play.com/20221204/29458_3909f6d0/index.m3u8
+战神传说,https://vip.ffzy-play7.com/20221129/7734_53205031/index.m3u8
+中环英雄,https://vip.ffzy-play7.com/20221129/7743_4656dd25/index.m3u8
+绝代双骄,https://vip.ffzy-play6.com/20221129/9355_e351af0a/index.m3u8
+中国最后一个太监,https://vip.ffzy-play6.com/20221128/9044_42d732f5/index.m3u8
+人海孤鸿,https://vip.ffzy-play6.com/20221128/8983_f4dd65d1/index.m3u8
+法内情,https://vip.ffzy-play6.com/20221128/8900_ee5eabf3/index.m3u8
+无间道,https://vip.ffzy-play6.com/20221017/13_ddfc1740/index.m3u8
+无间道2,https://vip.lzcdn2.com/20220323/300_8be28e1c/index.m3u8
+无间道3：终极无间,https://vip.ffzy-play2.com/20221127/1567_f1965b4b/index.m3u8
+龙之家族,https://vip.ffzy-play6.com/20221116/7265_dd503587/index.m3u8
+十面埋伏,https://vip.ffzy-play7.com/20221117/5218_ad30347f/index.m3u8
+哗！英雄,https://vip.ffzy-play6.com/20221112/6371_9b5bf930/index.m3u8
+最佳损友,https://vip.ffzy-play7.com/20221115/4630_078a1b22/index.m3u8
+最佳损友闯情关,https://vip.ffzy-play7.com/20221116/4843_accffdd6/index.m3u8
+江湖情,https://vip.ffzy-play7.com/20221115/4682_5ffb4872/index.m3u8
+江湖情,https://vip.ffzy-play7.com/20221115/4682_5ffb4872/index.m3u8
+群龙夺宝,https://vip.ffzy-play7.com/20221115/4561_89102ea4/index.m3u8
+肝胆相照,https://vip.ffzy-play7.com/20221115/4468_44f459bb/index.m3u8
+五虎将之决裂,https://vip.ffzy-play6.com/20221112/6190_0250331a/index.m3u8
+天地雄心,https://vip.ffzy-play7.com/20221113/4187_a7c41927/index.m3u8
+天与地,https://vip.ffzy-play6.com/20221112/6144_016eb00a/index.m3u8
+扫毒2,https://vip.ffzy-play6.com/20221111/5625_f06cc476/index.m3u8
+阿飞正传,https://vip.ffzy-play7.com/20221112/3705_a3bb4cae/index.m3u8
+杀手的童话,https://vip.ffzy-play7.com/20221112/3690_803bfb83/index.m3u8
+龙腾四海,https://vip.ffzy-play7.com/20221112/3563_422b85c5/index.m3u8
+醉拳3,https://vip.ffzy-play7.com/20221112/3468_38ba3d24/index.m3u8
+至尊计状元才,https://vip.ffzy-play7.com/20221112/3440_9d089764/index.m3u8
+追龙,https://vip.ffzy-play7.com/20221104/1464_ed9d6c5d/index.m3u8
+侠盗联盟,https://vip.ffzy-play7.com/20221104/1442_e5eca889/index.m3u8
+墨攻,https://vip.ffzy-play2.com/20221022/308_7d10fa04/index.m3u8
+未来警察,https://vip.ffzy-play6.com/20221022/1000_fa615f2b/index.m3u8
+狄仁杰之通天帝国,https://vip.ffzy-play2.com/20221021/129_ed646884/index.m3u8
+三国之见龙卸甲,https://vip.ffzy-play6.com/20221022/935_ffb2fe05/index.m3u8
+老鼠爱上猫,https://vip.ffzy-play2.com/20221019/50_7eedcf07/index.m3u8
+龙凤斗,https://vip.ffzy-play2.com/20221019/18_d8d1ad76/index.m3u8
+阿虎,https://vip.ffzy-play2.com/20221019/3_0fc63857/index.m3u8
+黑金,https://vip.ffzy-play6.com/20221022/751_a7889097/index.m3u8
+孤男寡女,https://vip.ffzy-play6.com/20221021/643_da3f8354/index.m3u8
+旺角卡门,https://vip.ffzy-play1.com/20221018/469_ab458c38/index.m3u8
+寒战,https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
+拆弹专家,https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
+拆弹专家2,https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
+卫斯理之蓝血人,https://vip.ffzy-play6.com/20221020/234_4fc21f9b/index.m3u8
+建党伟业,https://vip.ffzy-play6.com/20221019/168_f44e1477/index.m3u8
+赌侠大战拉斯维加斯,https://vip.ffzy-online.com/20221017/873_cf765959/index.m3u8
+赌城大亨之新哥传奇,https://vip.ffzy-online.com/20221017/864_5fbb1d87/index.m3u8
+赌城大亨II之至尊无敌,https://vip.ffzy-online.com/20221017/863_ed22c0c3/index.m3u8
+解救吾先生,https://vip.ffzy-play.com/20221017/1618_2e6027ee/index.m3u8
+天下无贼,https://vip.ffzy-play6.com/20221018/39_d0036fb2/index.m3u8
+天下无贼,https://vip.ffzy-play6.com/20221018/39_d0036fb2/index.m3u8
+江湖,https://vip.ffzy-play6.com/20221019/84_a64c541f/index.m3u8
+龙在边缘,https://vip.ffzy-play.com/20221017/1754_95490c99/index.m3u8
+龙在江湖,https://vip.ffzy-play.com/20221017/1755_28d3688d/index.m3u8
+门徒,https://vip.ffzy-play.com/20221017/1787_03664048/index.m3u8
+失孤,https://vip.ffzy-play1.com/20221018/299_06ee96a1/index.m3u8
+人潮汹涌,https://vip.ffzy-play.com/20221018/1947_3d44a6ed/index.m3u8
+上海十三太保,https://vip.ffzy-play.com/20221018/2001_3ef7be69/index.m3u8
+暗战,https://vip.ffzy-online.com/20221015/583_fb343007/index.m3u8
+侠圣,https://vip.ffzy-online.com/20221015/741_196889fc/index.m3u8
+狱中龙,https://vip.ffzy-play.com/20221015/999_d5886cd0/index.m3u8
+至尊三十六计之偷天换日,https://vip.ffzy-play.com/20221015/1085_37999806/index.m3u8
+至尊无上,https://vip.ffzy-play.com/20221015/1086_9576a463/index.m3u8
+至尊无上II之永霸天下,https://vip.ffzy-play.com/20221015/1090_e30609f3/index.m3u8
+兄弟之生死同盟,https://vip.ffzy-play.com/20221015/897_d3a4e80f/index.m3u8
+新上海滩,https://vip.ffzy-play.com/20221015/880_937cdc1a/index.m3u8
+精装追女仔之2,https://vip.ffzy-play6.com/20221116/7250_93049e15/index.m3u8
+寒战2,https://vip.lz-cdn3.com/20220907/12892_5eb849b0/index.m3u8
+澳门风云1,https://vip.ffzy-online.com/20221015/587_536debfc/index.m3u8
+澳门风云2,https://vip.lz-cdn8.com/20220903/25590_a12ec6f7/index.m3u8
+澳门风云3,https://vip.lz-cdn8.com/20220903/25592_5fdbb860/index.m3u8
+让子弹飞,https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
+让子弹飞,https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
+义不容辞,https://vip.ffzy-play7.com/20221208/8724_89db1c6d/index.m3u8
+秋天的童话,https://vip.ffzy-play6.com/20221130/9473_24b3f22f/index.m3u8
+精装追女仔,https://vip.ffzy-play7.com/20221115/4686_d56a5b6c/index.m3u8
+精装追女仔之3狼之一族,https://vip.ffzy-play6.com/20221129/9346_67ee848d/index.m3u8
+和平饭店,https://vip.ffzy-play6.com/20221129/9326_fb193a3f/index.m3u8
+龙虎风云,https://vip.ffzy-play6.com/20221128/8945_9b4193cd/index.m3u8
+大上海,https://vip.ffzy-play6.com/20221126/8327_89044d87/index.m3u8
+义本无言,https://vip.ffzy-play6.com/20221116/7316_f568756b/index.m3u8
+义胆红唇,https://vip.ffzy-play6.com/20221116/7315_8765f39c/index.m3u8
+八星报喜,https://vip.ffzy-play6.com/20221116/7216_cb25f71a/index.m3u8
+阿郎的故事,https://vip.ffzy-play6.com/20221116/7213_5f9198b2/index.m3u8
+花旗少林,https://vip.ffzy-play6.com/20221112/6363_411e98e2/index.m3u8
+英雄好汉,https://vip.ffzy-play.com/20221015/981_2ca5b5f9/index.m3u8
+江湖龙虎斗,https://vip.ffzy-play7.com/20221115/4681_38b34b56/index.m3u8
+喋血双雄,https://vip.ffzy-play7.com/20221115/4440_bd914a4d/index.m3u8
+无双,https://vip.ffzy-play6.com/20221108/5250_e3bbb4e4/index.m3u8
+辣手神探,https://vip.ffzy-play7.com/20221112/3526_ba428b29/index.m3u8
+纵横四海,https://vip.ffzy-play7.com/20221112/3463_4e05c55e/index.m3u8
+侠盗高飞,https://vip.ffzy-play7.com/20221112/3315_eef8cb87/index.m3u8
+满城尽带黄金甲,https://vip.ffzy-play2.com/20221022/289_cc1b109c/index.m3u8
+孔子,https://vip.ffzy-play6.com/20221027/2108_7c929ef0/index.m3u8
+铜雀台,https://vip.ffzy-play6.com/20221019/200_4eede94c/index.m3u8
+卧虎藏龙,https://vip.ffzy-play6.com/20221019/118_1367b8f6/index.m3u8
+消失的女人,https://vip.ffzy-online2.com/20230521/37660_a7ca3135/index.m3u8
+喜剧明星,https://vip.ffzy-play7.com/20230409/21692_463322cf/index.m3u8
+离婚大战,https://vip.ffzy-play7.com/20230409/21638_281e50c4/index.m3u8
+桃花运,https://vip.ffzy-play7.com/20230204/13202_2844d10a/index.m3u8
+甲方乙方,https://vip.ffzy-play6.com/20221206/10068_4bfccafe/index.m3u8
+天生胆小,https://vip.ffzy-play6.com/20221129/9417_4ed30e0d/index.m3u8
+没完没了,https://vip.ffzy-play6.com/20221129/9376_7f06747a/index.m3u8
+上海红美丽,https://vip.ffzy-play6.com/20221126/8466_47514053/index.m3u8
+一步之遥,https://vip.ffzy-play2.com/20221122/1201_e24fce85/index.m3u8
+黄河遥,https://vip.ffzy-play7.com/20221117/5148_d5633e82/index.m3u8
+两只老虎,https://vip.ffzy-play7.com/20221117/5047_beb0a18c/index.m3u8
+顽主,https://vip.ffzy-play7.com/20221115/4578_af3f092c/index.m3u8
+过年,https://vip.ffzy-play6.com/20221112/6307_79a4bfc2/index.m3u8
+不见不散,https://vip.ffzy-play7.com/20221112/3752_596da0f3/index.m3u8
+半生缘,https://vip.ffzy-play7.com/20221112/3733_3f971a67/index.m3u8
+霸王别姬,https://vip.ffzy-play7.com/20221112/3726_f8288d50/index.m3u8
+秦颂,https://vip.ffzy-play7.com/20221112/3653_ad708d24/index.m3u8
+有话好好说,https://vip.ffzy-play7.com/20221112/3406_98dc6f14/index.m3u8
+命运呼叫转移,https://vip.ffzy-play6.com/20221030/2878_fd228534/index.m3u8
+赵氏孤儿,https://vip.ffzy-play6.com/20221022/1071_73fbd377/index.m3u8
+非诚勿扰,https://vip.ffzy-play2.com/20221021/162_cb2bb175/index.m3u8
+非诚勿扰2,https://vip.ffzy-play2.com/20221021/163_a55441c0/index.m3u8
+卡拉是条狗,https://vip.ffzy-play6.com/20221020/264_d622ce7f/index.m3u8
+私人订制,https://vip.ffzy-play6.com/20221019/192_52684124/index.m3u8
+手机,https://vip.ffzy-play6.com/20221019/107_6107b581/index.m3u8
+古董局中局,https://vip.ffzy-online.com/20221017/983_2bd33011/index.m3u8
+大腕,https://vip.ffzy-play6.com/20221019/66_5c1f5d09/index.m3u8
+我和我的家乡,https://vip.ffzy-play1.com/20221018/511_7936e28c/index.m3u8
+我和我的祖国,https://vip.ffzy-play1.com/20221018/512_4544d0ed/index.m3u8
+活着,https://vip.ffzy-play.com/20221011/100_192cffb5/index.m3u8
+疯狂的外星人,https://vip.ffzy-online2.com/20230607/38938_95adfc88/index.m3u8
+疯狂的赛车,https://vip.ffzy-play2.com/20221021/169_37d917eb/index.m3u8
+疯狂的石头,https://vip.ffzy-play2.com/20221021/170_91678c84/index.m3u8
+你好北京,https://vip.ffzy-play7.com/20230416/22452_5318e52a/index.m3u8
+第三个人,https://vip.ffzy-play7.com/20230407/21350_043ad4f7/index.m3u8
+我和我的父辈,https://vip.ffzy-play7.com/20230307/17542_0c58cae5/index.m3u8
+大唐玄奘,https://vip.ffzy-play7.com/20230306/17314_0230edb6/index.m3u8
+江湖儿女,https://vip.ffzy-play7.com/20230205/13419_960c8951/index.m3u8
+人再囧途之泰囧,https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
+囧妈,https://vip.ffzy-online.com/20230122/54089_b5925cb9/index.m3u8
+港囧,https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
+一出好戏,https://vip.ffzy-play.com/20221015/949_ecf3b061/index.m3u8
+奇迹,https://vip.ffzy-play7.com/20221125/6961_0c69f3cf/index.m3u8
+说出你的秘密,https://vip.ffzy-play6.com/20221112/6077_927afdf1/index.m3u8
+催眠大师,https://vip.ffzy-play7.com/20221028/433_adf31dfd/index.m3u8
+心花路放,https://vip.ffzy-play6.com/20221027/2366_e83b4d22/index.m3u8
+火星没事,https://vip.ffzy-play2.com/20221021/232_89153806/index.m3u8
+夜店,https://vip.ffzy-play6.com/20221022/1049_8ee06bf6/index.m3u8
+嘻游记,https://vip.ffzy-play6.com/20221022/1023_fae8e09f/index.m3u8
+爱情呼叫转移,https://vip.ffzy-play2.com/20221021/64_ed0aeec3/index.m3u8
+爱情呼叫转移Ⅱ：爱情左右,https://vip.ffzy-play2.com/20221021/65_57ffccd0/index.m3u8
+摩登年代,https://vip.ffzy-play6.com/20221021/516_0ef76f45/index.m3u8
+搞定岳父大人,https://vip.ffzy-play6.com/20221021/474_a64f2156/index.m3u8
+春娇与志明,https://vip.ffzy-play6.com/20221021/451_53670596/index.m3u8
+一夜惊喜,https://vip.ffzy-play6.com/20221019/211_225bbe08/index.m3u8
+无人区,https://vip.ffzy-play6.com/20221019/203_ce8ad9b0/index.m3u8
+记忆切割,https://vip.ffzy-play.com/20221017/1473_691592bd/index.m3u8
+幕后玩家,https://vip.ffzy-play.com/20221018/1847_f9676687/index.m3u8
+我不是药神,https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
+爱情神话,https://vip.ffzy-online.com/20221015/575_a2c32b8f/index.m3u8
+超时空同居,https://vip.ffzy-online.com/20221015/745_b4a413ef/index.m3u8
+僵尸先生,https://vip.ffzy-play7.com/20230507/24165_799a7b4a/index.m3u8
+新僵尸先生,https://vip.ffzy-play6.com/20221129/9451_47cd067c/index.m3u8
+灵幻先生,https://vip.ffzy-play7.com/20221115/4538_ddf6020e/index.m3u8
+灵幻至尊,https://vip.ffzy-play7.com/20221112/3550_cbc3226a/index.m3u8
+僵尸家族,https://vip.ffzy-play7.com/20221208/8822_26a70529/index.m3u8
+僵尸至尊,https://vip.ffzy-play6.com/20221129/9344_44b64a1a/index.m3u8
+音乐僵尸,https://vip.ffzy-play6.com/20221207/10627_09b3f2e5/index.m3u8
+群龙戏凤,https://vip.ffzy-play7.com/20230423/22931_b2b1c621/index.m3u8
+钱作怪,https://vip.ffzy-play7.com/20230204/13185_290d13f1/index.m3u8
+人吓人,https://vip.ffzy-play7.com/20230131/12897_66998969/index.m3u8
+人吓鬼,https://vip.ffzy-play7.com/20221115/4745_3dce763c/index.m3u8
+老虎田鸡,https://vip.ffzy-play7.com/20221224/9583_f95a6383/index.m3u8
+洪熙官,https://vip.ffzy-play7.com/20221223/9381_0fb84a1d/index.m3u8
+赞先生与找钱华,https://vip.ffzy-play6.com/20221207/10710_1642c7db/index.m3u8
+英雄无泪,https://vip.ffzy-play6.com/20221207/10694_f9088e66/index.m3u8
+猛鬼旅行团,https://vip.ffzy-play6.com/20221207/10600_7cbfb482/index.m3u8
+猛鬼旅行团,https://vip.ffzy-play6.com/20221129/9331_792c1e13/index.m3u8
+学校风云,https://vip.ffzy-play7.com/20221209/9201_9f4d986a/index.m3u8
+时来运转,https://vip.ffzy-play7.com/20221209/9156_396eac04/index.m3u8
+少林英雄,https://vip.ffzy-play6.com/20221206/10385_35db0937/index.m3u8
+林世荣,https://vip.ffzy-play7.com/20221209/9096_70ae66c7/index.m3u8
+鬼咬鬼,https://vip.ffzy-play7.com/20221208/8822_26a70529/index.m3u8
+鬼打鬼,https://vip.ffzy-play7.com/20221115/4476_05997c13/index.m3u8
+鬼打鬼之黄金道士,https://vip.ffzy-play6.com/20221112/6296_32b14901/index.m3u8
+富贵列车,https://vip.ffzy-play7.com/20221206/8232_7462fce8/index.m3u8
+驱魔警察,https://vip.ffzy-play6.com/20221205/9856_18a53055/index.m3u8
+驱魔道长,https://vip.ffzy-play7.com/20221112/3670_136b232e/index.m3u8
+钟馗嫁妹,https://vip.ffzy-play7.com/20221129/7746_6b5ae2e8/index.m3u8
+追魂伞,https://vip.ffzy-play7.com/20221129/7753_bd15d501/index.m3u8
+妖怪都市,https://vip.ffzy-play6.com/20221129/9462_bbbcc871/index.m3u8
+黄飞鸿系列之一代宗师,https://vip.ffzy-play6.com/20221129/9335_097bc8c1/index.m3u8
+黄大仙,https://vip.ffzy-play6.com/20221129/9334_1b618e68/index.m3u8
+杂家小子,https://vip.ffzy-play6.com/20221128/9261_f18e5614/index.m3u8
+三德和尚与舂米六,https://vip.ffzy-play6.com/20221128/9099_38718b59/index.m3u8
+笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8
+神枪手与咖喱鸡,https://vip.ffzy-play7.com/20221129/7684_7ac9e104/index.m3u8
+老虎煞星,https://vip.ffzy-play7.com/20221128/7611_ae4536d6/index.m3u8
+福星高照,https://vip.ffzy-play6.com/20221128/8904_328483ba/index.m3u8
+七小福,https://vip.ffzy-play6.com/20221117/7398_2ddb4dac/index.m3u8
+血玫瑰,https://vip.ffzy-play6.com/20221116/7310_02f7420d/index.m3u8
+咸鱼翻身,https://vip.ffzy-play6.com/20221116/7303_5bfc21ee/index.m3u8
+霹雳大喇叭,https://vip.ffzy-play6.com/20221116/7273_4a3cfe1f/index.m3u8
+赢钱专家,https://vip.ffzy-play6.com/20221113/6794_d514b390/index.m3u8
+甩皮鬼,https://vip.ffzy-play6.com/20221112/6431_ce84a705/index.m3u8
+画皮之阴阳法王,https://vip.ffzy-play6.com/20221112/6372_478fbcc6/index.m3u8
+一眉道人,https://vip.ffzy-play7.com/20221115/4803_1731be32/index.m3u8
+鬼干部,https://vip.ffzy-play6.com/20221112/6298_1dd44909/index.m3u8
+天地玄门,https://vip.ffzy-play6.com/20221112/6127_d615f342/index.m3u8
+密宗威龙,https://vip.ffzy-play7.com/20221112/3607_e49d9e93/index.m3u8
+羞羞鬼,https://vip.ffzy-play7.com/20221112/3366_3a1a794c/index.m3u8
+
 💫周星驰经典,#genre#
 
 大话西游之宝盒,https://hnzy.bfvvs.com/play/yb8qRLdv/index.m3u8
@@ -4410,6 +4800,1221 @@ CCTV6影视,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw174414158
 师兄撞鬼,https://ukzy.ukubf4.com/20220407/VEDHd72z/index.m3u8
 
 师兄撞鬼,https://v3.dious.cc/20220329/VxLeWBv1/index.m3u8
+
+💫 热剧连播,#genre#
+【古代战场】,
+古代战场-01,https://yzzy.play-cdn12.com/20230307/20874_b1700291/index.m3u8
+古代战场-02,https://yzzy.play-cdn12.com/20230307/20873_ef6e557d/index.m3u8
+古代战场-03,https://yzzy.play-cdn12.com/20230307/20872_5b359014/index.m3u8
+古代战场-04,https://yzzy.play-cdn12.com/20230307/20871_4fe553e4/index.m3u8
+古代战场-05,https://yzzy.play-cdn12.com/20230307/20870_bf40177f/index.m3u8
+古代战场-06,https://yzzy.play-cdn12.com/20230307/20869_70cdcf0f/index.m3u8
+古代战场-07,https://yzzy.play-cdn12.com/20230307/20868_6dde5b22/index.m3u8
+古代战场-08,https://yzzy.play-cdn12.com/20230307/20867_f2683455/index.m3u8
+古代战场-09,https://yzzy.play-cdn12.com/20230307/20866_087ffdf9/index.m3u8
+古代战场-10,https://yzzy.play-cdn12.com/20230307/20865_232e9de5/index.m3u8
+古代战场-11,https://yzzy.play-cdn12.com/20230307/20864_de1b4592/index.m3u8
+古代战场-12,https://yzzy.play-cdn12.com/20230307/20863_ed2d67e4/index.m3u8
+古代战场-13,https://yzzy.play-cdn12.com/20230307/20862_979f997e/index.m3u8
+古代战场-14,https://yzzy.play-cdn12.com/20230307/20861_430bf190/index.m3u8
+古代战场-15,https://yzzy.play-cdn12.com/20230307/20860_32c674db/index.m3u8
+古代战场-16,https://yzzy.play-cdn12.com/20230307/20859_a91f6a9b/index.m3u8
+古代战场-17,https://yzzy.play-cdn12.com/20230307/20858_ff019fdd/index.m3u8
+古代战场-18,https://yzzy.play-cdn12.com/20230307/20857_28e0aac6/index.m3u8
+古代战场-19,https://yzzy.play-cdn12.com/20230307/20856_f59d9a0a/index.m3u8
+古代战场-20,https://yzzy.play-cdn12.com/20230307/20855_402c96fe/index.m3u8
+古代战场2-01,https://yzzy.play-cdn12.com/20230313/22295_747661b7/index.m3u8
+古代战场2-02,https://yzzy.play-cdn12.com/20230313/22294_d794cd92/index.m3u8
+古代战场2-03,https://yzzy.play-cdn12.com/20230313/22293_744300b1/index.m3u8
+古代战场2-04,https://yzzy.play-cdn12.com/20230313/22292_179a87c7/index.m3u8
+古代战场2-05,https://yzzy.play-cdn12.com/20230313/22291_b7eb39b5/index.m3u8
+古代战场2-06,https://yzzy.play-cdn12.com/20230313/22290_65591eea/index.m3u8
+古代战场2-07,https://yzzy.play-cdn12.com/20230313/22289_05292533/index.m3u8
+古代战场2-08,https://yzzy.play-cdn12.com/20230313/22288_a098805c/index.m3u8
+古代战场2-09,https://yzzy.play-cdn12.com/20230313/22287_6fd3ede6/index.m3u8
+古代战场2-10,https://yzzy.play-cdn12.com/20230313/22286_2760594f/index.m3u8
+古代战场2-11,https://yzzy.play-cdn12.com/20230313/22285_91851c19/index.m3u8
+古代战场2-12,https://yzzy.play-cdn12.com/20230313/22284_018ddce5/index.m3u8
+古代战场2-13,https://yzzy.play-cdn12.com/20230313/22283_4f7c896a/index.m3u8
+古代战场2-14,https://yzzy.play-cdn12.com/20230313/22282_dca64b0d/index.m3u8
+古代战场2-15,https://vip15.play-cdn15.com/20230321/3485_a507c64c/index.m3u8
+古代战场2-16,https://vip15.play-cdn15.com/20230321/3484_201869fe/index.m3u8
+古代战场2-17,https://vip15.play-cdn15.com/20230321/3483_24140c31/index.m3u8
+古代战场2-18,https://vip15.play-cdn15.com/20230321/3482_92b55254/index.m3u8
+古代战场2-19,https://yzzy.play-cdn14.com/20230322/16149_47118624/index.m3u8
+古代战场2-20,https://yzzy.play-cdn14.com/20230322/16148_f6a96d1e/index.m3u8
+古代战场2-21,https://yzzy.play-cdn14.com/20230322/16147_de4d3007/index.m3u8
+
+【大唐狄公案】,
+大唐狄公案-01,https://yzzy1.play-cdn20.com/20240206/16417_45008fa3/index.m3u8
+大唐狄公案-02,https://yzzy1.play-cdn20.com/20240206/16416_3fa2fe1d/index.m3u8
+大唐狄公案-03,https://yzzy.play-cdn19.com/20240206/19158_d170bf64/index.m3u8
+大唐狄公案-04,https://yzzy.play-cdn19.com/20240206/19157_e12ed26e/index.m3u8
+大唐狄公案-05,https://yzzy.play-cdn19.com/20240207/19211_4e6e0e46/index.m3u8
+大唐狄公案-06,https://yzzy.play-cdn19.com/20240207/19212_e7b8967c/index.m3u8
+大唐狄公案-07,https://yzzy1.play-cdn20.com/20240208/16560_c6a80eeb/index.m3u8
+大唐狄公案-08,https://yzzy1.play-cdn20.com/20240208/16559_4351dbc0/index.m3u8
+大唐狄公案-09,https://yzzy1.play-cdn20.com/20240211/16740_1b5079b2/index.m3u8
+大唐狄公案-10,https://yzzy1.play-cdn20.com/20240211/16741_63a94ae9/index.m3u8
+大唐狄公案-11,https://yzzy1.play-cdn20.com/20240212/16779_9fa8d1bf/index.m3u8
+大唐狄公案-12,https://yzzy1.play-cdn20.com/20240212/16778_83a7282d/index.m3u8
+大唐狄公案-13,https://yzzy.play-cdn19.com/20240213/19801_a7910a83/index.m3u8
+大唐狄公案-14,https://yzzy.play-cdn19.com/20240213/19800_76330a09/index.m3u8
+大唐狄公案-15,https://yzzy1.play-cdn1.com/20240214/16482_b0a8a951/index.m3u8
+大唐狄公案-16,https://yzzy1.play-cdn1.com/20240214/16481_3641f9c8/index.m3u8
+大唐狄公案-17,https://yzzy.play-cdn19.com/20240215/19915_36f5bddc/index.m3u8
+大唐狄公案-18,https://yzzy.play-cdn19.com/20240215/19914_78e28151/index.m3u8
+
+【南来北往】,
+南来北往-01,https://yzzy1.play-cdn1.com/20240206/15460_6aabb762/index.m3u8
+南来北往-02,https://yzzy1.play-cdn1.com/20240206/15459_bd9bca4a/index.m3u8
+南来北往-03,https://yzzy1.play-cdn20.com/20240206/16411_808fa9ea/index.m3u8
+南来北往-04,https://yzzy1.play-cdn20.com/20240206/16410_49f6ec0e/index.m3u8
+南来北往-05,https://yzzy1.play-cdn20.com/20240207/16512_5e3a710a/index.m3u8
+南来北往-06,https://yzzy1.play-cdn20.com/20240207/16511_ad6f027f/index.m3u8
+南来北往-07,https://yzzy.play-cdn19.com/20240208/19296_29e5e2d7/index.m3u8
+南来北往-08,https://yzzy.play-cdn19.com/20240208/19295_9909272b/index.m3u8
+南来北往-09,https://yzzy1.play-cdn20.com/20240209/16632_26f9dce1/index.m3u8
+南来北往-10,https://yzzy.play-cdn19.com/20240210/19391_14074884/index.m3u8
+南来北往-11,https://yzzy.play-cdn19.com/20240210/19390_fe090fd9/index.m3u8
+南来北往-12,https://yzzy1.play-cdn20.com/20240211/16744_3401f7a0/index.m3u8
+南来北往-13,https://yzzy1.play-cdn20.com/20240211/16743_657656da/index.m3u8
+南来北往-14,https://yzzy1.play-cdn1.com/20240212/16138_dd8a9411/index.m3u8
+南来北往-15,https://yzzy1.play-cdn1.com/20240212/16137_5e9a2c7b/index.m3u8
+南来北往-16,https://yzzy.play-cdn19.com/20240213/19806_cd3ef3ce/index.m3u8
+南来北往-17,https://yzzy.play-cdn19.com/20240213/19805_a03fa4a8/index.m3u8
+南来北往-18,https://yzzy1.play-cdn1.com/20240214/16499_2fdcfb6a/index.m3u8
+
+【三体】,
+三体-01,https://yzzy.play-cdn14.com/20230115/1997_3992be88/index.m3u8
+三体-02,https://yzzy.play-cdn14.com/20230115/1996_fa060c1a/index.m3u8
+三体-03,https://yzzy.play-cdn14.com/20230115/1995_f5fdf35d/index.m3u8
+三体-04,https://yzzy.play-cdn14.com/20230115/1994_5f23d121/index.m3u8
+三体-05,https://yzzy.play-cdn12.com/20230116/14820_4381b7cc/index.m3u8
+三体-06,https://yzzy.play-cdn12.com/20230118/14902_53fe1162/index.m3u8
+三体-07,https://yzzy.play-cdn12.com/20230119/14960_ca275e9c/index.m3u8
+三体-08,https://yzzy.play-cdn12.com/20230119/14987_e4db6a7d/index.m3u8
+三体-09,https://yzzy.play-cdn10.com/20230120/23566_8b9c377b/index.m3u8
+三体-10,https://yzzy.play-cdn12.com/20230122/15155_6f6792d5/index.m3u8
+三体-11,https://yzzy.play-cdn10.com/20230123/23804_244abc70/index.m3u8
+三体-12,https://yzzy.play-cdn12.com/20230124/15247_5d64fbdb/index.m3u8
+三体-13,https://yzzy.play-cdn10.com/20230125/24022_2ee9dc05/index.m3u8
+三体-14,https://yzzy.play-cdn13.com/20230126/8827_6a16b62f/index.m3u8
+三体-15,https://yzzy.play-cdn14.com/20230127/5588_a13c086e/index.m3u8
+三体-16,https://yzzy.play-cdn14.com/20230129/5875_65aa8598/index.m3u8
+三体-17,https://yzzy.play-cdn14.com/20230130/6030_99c53ea1/index.m3u8
+三体-18,https://yzzy.play-cdn14.com/20230131/6136_aa2c6f89/index.m3u8
+三体-19,https://yzzy.play-cdn12.com/20230201/17396_981dc194/index.m3u8
+三体-20,https://yzzy.play-cdn12.com/20230202/17488_3d92d838/index.m3u8
+三体-21,https://yzzy.play-cdn14.com/20230203/6789_705a9411/index.m3u8
+三体-22,https://yzzy.play-cdn14.com/20230203/6794_bb1163a2/index.m3u8
+三体-23,https://yzzy.play-cdn14.com/20230203/6793_a33ce9ac/index.m3u8
+三体-24,https://yzzy.play-cdn14.com/20230203/6792_40ef0c4c/index.m3u8
+三体-25,https://yzzy.play-cdn14.com/20230203/6791_6f9446b1/index.m3u8
+三体-26,https://yzzy.play-cdn14.com/20230203/6790_04431d13/index.m3u8
+三体-27,https://yzzy.play-cdn12.com/20230203/17678_02bc9ddd/index.m3u8
+三体-28,https://yzzy.play-cdn12.com/20230203/17677_3744fa07/index.m3u8
+三体-29,https://yzzy.play-cdn12.com/20230203/17676_44c8a923/index.m3u8
+三体-30,https://yzzy.play-cdn12.com/20230203/17675_7a5744ee/index.m3u8
+
+【异人之下】,
+异人之下-01,https://yzzy1.play-cdn16.com/20230804/15319_5a21bca6/index.m3u8
+异人之下-02,https://yzzy1.play-cdn16.com/20230804/15322_e4ca85dd/index.m3u8
+异人之下-03,https://yzzy1.play-cdn16.com/20230804/15321_5e9635f7/index.m3u8
+异人之下-04,https://yzzy1.play-cdn16.com/20230804/15320_9618baf9/index.m3u8
+异人之下-05,https://yzzy.play-cdn19.com/20230906/3065_6e9c809c/index.m3u8
+异人之下-06,https://yzzy.play-cdn19.com/20230906/3064_52f3f491/index.m3u8
+异人之下-07,https://yzzy.play-cdn19.com/20230907/3147_27aafd26/index.m3u8
+异人之下-08,https://yzzy.play-cdn19.com/20230907/3146_a641aae9/index.m3u8
+异人之下-09,https://yzzy.play-cdn19.com/20230908/3290_bb1b23c0/index.m3u8
+异人之下-10,https://yzzy1.play-cdn16.com/20230909/19759_b6b6501c/index.m3u8
+异人之下-11,https://yzzy1.play-cdn16.com/20230909/19758_e23c77d9/index.m3u8
+异人之下-12,https://yzzy.play-cdn17.com/20230910/18373_d1407d2a/index.m3u8
+异人之下-13,https://yzzy.play-cdn19.com/20230911/3872_5229a6d4/index.m3u8
+异人之下-14,https://yzzy.play-cdn19.com/20230912/4049_11dcb93a/index.m3u8
+异人之下-15,https://yzzy.play-cdn19.com/20230912/4048_c0575656/index.m3u8
+异人之下-16,https://yzzy.play-cdn17.com/20230913/18525_f1efa020/index.m3u8
+异人之下-17,https://yzzy.play-cdn17.com/20230914/18618_7a0c132a/index.m3u8
+异人之下-18,https://yzzy.play-cdn19.com/20230915/4445_bd10d7de/index.m3u8
+异人之下-19,https://yzzy.play-cdn17.com/20230916/18729_595cedc2/index.m3u8
+异人之下-20,https://yzzy.play-cdn19.com/20230917/4825_d1224e38/index.m3u8
+异人之下-21,https://yzzy1.play-cdn16.com/20230919/20908_0a584b33/index.m3u8
+异人之下-22,https://yzzy1.play-cdn16.com/20230920/20960_d324d9ba/index.m3u8
+异人之下-23,https://yzzy1.play-cdn1.com/20230921/145_b1dd5c6b/index.m3u8
+异人之下-24,https://yzzy1.play-cdn1.com/20230922/319_66b85a1a/index.m3u8
+异人之下-25,https://yzzy1.play-cdn1.com/20230922/318_1f8367c9/index.m3u8
+异人之下-26,https://yzzy.play-cdn19.com/20230922/5150_79b5fa8a/index.m3u8
+异人之下-27,https://yzzy.play-cdn19.com/20230922/5149_c1d2e13e/index.m3u8
+
+【米小圈上学记】,
+米小圈上学记-01,https://yzzy.play-cdn11.com/20221231/21081_bfe28e32/index.m3u8
+米小圈上学记-02,https://yzzy.play-cdn11.com/20221231/21080_52c9cadd/index.m3u8
+米小圈上学记-03,https://yzzy.play-cdn11.com/20221231/21079_a04dbbf7/index.m3u8
+米小圈上学记-04,https://yzzy.play-cdn11.com/20221231/21078_bf2d1c35/index.m3u8
+米小圈上学记-05,https://yzzy.play-cdn11.com/20230101/21187_e54e99d9/index.m3u8
+米小圈上学记-06,https://yzzy.play-cdn11.com/20230101/21186_cf4cf1f9/index.m3u8
+米小圈上学记-07,https://yzzy.play-cdn14.com/20230107/710_fe13144f/index.m3u8
+米小圈上学记-08,https://yzzy.play-cdn14.com/20230107/709_98e2fde2/index.m3u8
+米小圈上学记-09,https://yzzy.play-cdn14.com/20230108/847_fd89691a/index.m3u8
+米小圈上学记-10,https://yzzy.play-cdn14.com/20230108/846_20da4e34/index.m3u8
+米小圈上学记-11,https://yzzy.play-cdn14.com/20230113/1512_a77fb345/index.m3u8
+米小圈上学记-12,https://yzzy.play-cdn14.com/20230113/1511_71da058f/index.m3u8
+米小圈上学记-13,https://yzzy.play-cdn14.com/20230114/1785_1116c4a3/index.m3u8
+米小圈上学记-14,https://yzzy.play-cdn14.com/20230114/1784_28b46ed3/index.m3u8
+米小圈上学记-15,https://yzzy.play-cdn14.com/20230115/1972_04aa43a3/index.m3u8
+米小圈上学记-16,https://yzzy.play-cdn14.com/20230115/1971_812eed62/index.m3u8
+米小圈上学记-17,https://yzzy.play-cdn12.com/20230120/15035_73e0af8a/index.m3u8
+米小圈上学记-18,https://yzzy.play-cdn12.com/20230120/15034_80d31f84/index.m3u8
+米小圈上学记-19,https://yzzy.play-cdn10.com/20230121/23678_7c75d3a5/index.m3u8
+米小圈上学记-20,https://yzzy.play-cdn10.com/20230121/23677_49844712/index.m3u8
+米小圈上学记-21,https://yzzy.play-cdn10.com/20230122/23765_71d134ea/index.m3u8
+米小圈上学记-22,https://yzzy.play-cdn10.com/20230122/23764_2f395e64/index.m3u8
+米小圈上学记-23,https://yzzy.play-cdn13.com/20230127/8898_71d4fcc4/index.m3u8
+米小圈上学记-24,https://yzzy.play-cdn13.com/20230127/8897_3a10c0d7/index.m3u8
+米小圈上学记-25,https://yzzy.play-cdn14.com/20230128/5723_d1cb68b7/index.m3u8
+米小圈上学记-26,https://yzzy.play-cdn14.com/20230128/5722_c88eb9f0/index.m3u8
+米小圈上学记2-01,https://yzzy1.play-cdn1.com/20240212/16145_75a9ed90/index.m3u8
+米小圈上学记2-02,https://yzzy1.play-cdn1.com/20240212/16146_c45c2b15/index.m3u8
+米小圈上学记2-03,https://yzzy1.play-cdn1.com/20240212/16147_8bd043d7/index.m3u8
+米小圈上学记2-04,https://yzzy1.play-cdn1.com/20240212/16148_a0268574/index.m3u8
+米小圈上学记2-05,https://yzzy1.play-cdn16.com/20240213/27916_ebe2437b/index.m3u8
+米小圈上学记2-06,https://yzzy1.play-cdn20.com/20240214/16938_3c5e7042/index.m3u8
+
+【繁城之下】,
+繁城之下-01,https://yzzy.play-cdn19.com/20231013/5827_55e03995/index.m3u8
+繁城之下-02,https://yzzy.play-cdn19.com/20231013/5826_f057eddf/index.m3u8
+繁城之下-03,https://yzzy1.play-cdn1.com/20231013/2235_4225ea06/index.m3u8
+繁城之下-04,https://yzzy1.play-cdn20.com/20231014/1173_db0cb5b0/index.m3u8
+繁城之下-05,https://yzzy1.play-cdn20.com/20231015/1232_559b00d2/index.m3u8
+繁城之下-06,https://yzzy1.play-cdn20.com/20231016/1324_018b0b50/index.m3u8
+繁城之下-07,https://yzzy1.play-cdn20.com/20231017/1453_6a8064b2/index.m3u8
+繁城之下-08,https://yzzy1.play-cdn20.com/20231018/1541_2b80cc75/index.m3u8
+繁城之下-09,https://yzzy1.play-cdn20.com/20231019/1688_21538cdf/index.m3u8
+繁城之下-10,https://yzzy1.play-cdn20.com/20231020/1824_ec5b5a34/index.m3u8
+繁城之下-11,https://yzzy1.play-cdn20.com/20231021/1960_8e90cb3c/index.m3u8
+繁城之下-12,https://yzzy.play-cdn19.com/20231022/6099_454d44ed/index.m3u8
+
+【莲花楼】,
+莲花楼-01,https://yzzy.play-cdn18.com/20230723/1454_107ed5b5/index.m3u8
+莲花楼-02,https://yzzy.play-cdn18.com/20230723/1453_5033c7fd/index.m3u8
+莲花楼-03,https://yzzy.play-cdn18.com/20230723/1452_b03560cb/index.m3u8
+莲花楼-04,https://yzzy1.play-cdn16.com/20230723/13737_8f035d6e/index.m3u8
+莲花楼-05,https://yzzy1.play-cdn16.com/20230723/13736_202ed904/index.m3u8
+莲花楼-06,https://yzzy1.play-cdn16.com/20230723/13735_a45bfbd3/index.m3u8
+莲花楼-07,https://yzzy.play-cdn18.com/20230724/1540_4d4292f4/index.m3u8
+莲花楼-08,https://yzzy.play-cdn18.com/20230724/1539_a018b34e/index.m3u8
+莲花楼-09,https://vip15.play-cdn15.com/20230725/21013_90d852ba/index.m3u8
+莲花楼-10,https://vip15.play-cdn15.com/20230725/21012_57617ac5/index.m3u8
+莲花楼-11,https://yzzy.play-cdn18.com/20230726/1907_90823095/index.m3u8
+莲花楼-12,https://yzzy.play-cdn18.com/20230726/1906_97904553/index.m3u8
+莲花楼-13,https://yzzy.play-cdn18.com/20230727/2032_a731e3be/index.m3u8
+莲花楼-14,https://yzzy.play-cdn18.com/20230727/2031_a8dad928/index.m3u8
+莲花楼-15,https://yzzy.play-cdn18.com/20230728/2192_dd34c600/index.m3u8
+莲花楼-16,https://yzzy.play-cdn18.com/20230728/2191_e6379edc/index.m3u8
+莲花楼-17,https://yzzy.play-cdn18.com/20230729/2571_19bdbb87/index.m3u8
+莲花楼-18,https://yzzy.play-cdn18.com/20230729/2570_ef4e639c/index.m3u8
+莲花楼-19,https://yzzy.play-cdn18.com/20230802/3106_7a4a645e/index.m3u8
+莲花楼-20,https://yzzy.play-cdn18.com/20230802/3105_b682d050/index.m3u8
+莲花楼-21,https://vip15.play-cdn15.com/20230803/23015_4e86e509/index.m3u8
+莲花楼-22,https://vip15.play-cdn15.com/20230803/23014_fe9c375d/index.m3u8
+莲花楼-23,https://vip15.play-cdn15.com/20230804/23078_20ac1f2d/index.m3u8
+莲花楼-24,https://vip15.play-cdn15.com/20230804/23077_9e61e4ee/index.m3u8
+莲花楼-25,https://yzzy1.play-cdn16.com/20230805/15451_bc6e9933/index.m3u8
+莲花楼-26,https://yzzy1.play-cdn16.com/20230805/15450_0ec374bd/index.m3u8
+莲花楼-27,https://yzzy1.play-cdn16.com/20230806/15594_28d585a7/index.m3u8
+莲花楼-28,https://yzzy1.play-cdn16.com/20230806/15593_03715c19/index.m3u8
+莲花楼-29,https://yzzy1.play-cdn16.com/20230807/15699_9506899c/index.m3u8
+莲花楼-30,https://yzzy1.play-cdn16.com/20230807/15698_7cd73749/index.m3u8
+莲花楼-31,https://vip15.play-cdn15.com/20230808/23304_4b6eb5ea/index.m3u8
+莲花楼-32,https://vip15.play-cdn15.com/20230808/23303_b6bf3176/index.m3u8
+莲花楼-33,https://yzzy.play-cdn18.com/20230809/4116_72565f4b/index.m3u8
+莲花楼-34,https://yzzy.play-cdn18.com/20230809/4117_5d2fa2cf/index.m3u8
+莲花楼-35,https://yzzy1.play-cdn16.com/20230809/15862_7b431653/index.m3u8
+莲花楼-36,https://yzzy1.play-cdn16.com/20230809/15861_d94bda2b/index.m3u8
+莲花楼-37,https://yzzy1.play-cdn16.com/20230809/15863_9ed71f62/index.m3u8
+莲花楼-38,https://yzzy.play-cdn18.com/20230809/4120_a5b6b924/index.m3u8
+莲花楼-39,https://yzzy.play-cdn18.com/20230809/4119_63e13008/index.m3u8
+莲花楼-40,https://yzzy.play-cdn18.com/20230809/4118_d3dca3f2/index.m3u8
+
+【长相思】,
+长相思-01,https://yzzy.play-cdn18.com/20230724/1534_1535ef4c/index.m3u8
+长相思-02,https://yzzy.play-cdn18.com/20230724/1533_4b9f8599/index.m3u8
+长相思-03,https://yzzy.play-cdn18.com/20230724/1532_84c587a9/index.m3u8
+长相思-04,https://yzzy1.play-cdn16.com/20230724/13785_da19a3ac/index.m3u8
+长相思-05,https://yzzy.play-cdn18.com/20230725/1675_d16c3fd9/index.m3u8
+长相思-06,https://yzzy.play-cdn18.com/20230725/1674_85f811fa/index.m3u8
+长相思-07,https://yzzy1.play-cdn16.com/20230726/14139_2833ee73/index.m3u8
+长相思-08,https://yzzy1.play-cdn16.com/20230726/14138_dda88089/index.m3u8
+长相思-09,https://yzzy.play-cdn18.com/20230727/2026_2cebfe4d/index.m3u8
+长相思-10,https://yzzy.play-cdn18.com/20230727/2025_a9904347/index.m3u8
+长相思-11,https://yzzy1.play-cdn16.com/20230728/14237_c699ccd8/index.m3u8
+长相思-12,https://yzzy1.play-cdn16.com/20230728/14236_b822fd96/index.m3u8
+长相思-13,https://yzzy1.play-cdn16.com/20230729/14320_337f0d24/index.m3u8
+长相思-14,https://yzzy1.play-cdn16.com/20230730/14407_bc8b1717/index.m3u8
+长相思-15,https://vip15.play-cdn15.com/20230731/22244_227ef030/index.m3u8
+长相思-16,https://vip15.play-cdn15.com/20230731/22243_0bb50e2b/index.m3u8
+长相思-17,https://yzzy1.play-cdn16.com/20230801/14701_cf0d9d5b/index.m3u8
+长相思-18,https://yzzy1.play-cdn16.com/20230801/14700_450b78e5/index.m3u8
+长相思-19,https://yzzy.play-cdn18.com/20230802/3102_7536f914/index.m3u8
+长相思-20,https://yzzy.play-cdn18.com/20230802/3101_d7e6d4f6/index.m3u8
+长相思-21,https://yzzy1.play-cdn16.com/20230803/15281_b2c902d2/index.m3u8
+长相思-22,https://vip15.play-cdn15.com/20230804/23068_d61623fd/index.m3u8
+长相思-23,https://vip15.play-cdn15.com/20230807/23243_1684eb90/index.m3u8
+长相思-24,https://vip15.play-cdn15.com/20230807/23242_e35f4e26/index.m3u8
+长相思-25,https://vip15.play-cdn15.com/20230808/23296_10127dbf/index.m3u8
+长相思-26,https://vip15.play-cdn15.com/20230808/23299_7692a66a/index.m3u8
+长相思-27,https://vip15.play-cdn15.com/20230809/23419_71fc6bf1/index.m3u8
+长相思-28,https://vip15.play-cdn15.com/20230809/23418_766e633a/index.m3u8
+长相思-29,https://yzzy1.play-cdn16.com/20230810/16021_c1c6dec9/index.m3u8
+长相思-30,https://yzzy1.play-cdn16.com/20230810/16022_7ddbf3e1/index.m3u8
+长相思-31,https://yzzy1.play-cdn16.com/20230814/16386_4d0c5208/index.m3u8
+长相思-32,https://yzzy1.play-cdn16.com/20230814/16385_56ee2b09/index.m3u8
+长相思-33,https://vip15.play-cdn15.com/20230814/23628_de4002b3/index.m3u8
+长相思-34,https://yzzy1.play-cdn16.com/20230814/16392_3a8e4c84/index.m3u8
+长相思-35,https://yzzy1.play-cdn16.com/20230814/16390_62c78843/index.m3u8
+长相思-36,https://vip15.play-cdn15.com/20230814/23633_6a12a79b/index.m3u8
+长相思-37,https://yzzy1.play-cdn16.com/20230814/16394_7afe0d87/index.m3u8
+长相思-38,https://yzzy1.play-cdn16.com/20230814/16395_d366e143/index.m3u8
+长相思-39,https://yzzy1.play-cdn16.com/20230814/16396_f01d4cfa/index.m3u8
+
+【欢喜密探】,
+欢喜密探-01,https://yzzy.play-cdn9.com/20221008/3643_82f4fe68/index.m3u8
+欢喜密探-02,https://yzzy.play-cdn9.com/20221008/3646_d7332126/index.m3u8
+欢喜密探-03,https://yzzy.play-cdn9.com/20221008/3649_e0a4d62c/index.m3u8
+欢喜密探-04,https://yzzy.play-cdn9.com/20221008/3647_87a58b91/index.m3u8
+欢喜密探-05,https://yzzy.play-cdn9.com/20221008/3648_236e78b1/index.m3u8
+欢喜密探-06,https://yzzy.play-cdn9.com/20221008/3650_458946fa/index.m3u8
+欢喜密探-07,https://yzzy.play-cdn9.com/20221008/3652_d0119826/index.m3u8
+欢喜密探-08,https://yzzy.play-cdn9.com/20221008/3651_dc566796/index.m3u8
+欢喜密探-09,https://yzzy.play-cdn9.com/20221008/3660_7970cfde/index.m3u8
+欢喜密探-10,https://yzzy.play-cdn9.com/20221008/3661_037a1fbd/index.m3u8
+欢喜密探-11,https://yzzy.play-cdn9.com/20221008/3662_def9511b/index.m3u8
+欢喜密探-12,https://yzzy.play-cdn9.com/20221008/3663_5f8c2414/index.m3u8
+欢喜密探-13,https://yzzy.play-cdn9.com/20221008/3664_f931a89c/index.m3u8
+欢喜密探-14,https://yzzy.play-cdn9.com/20221008/3667_2d32630a/index.m3u8
+欢喜密探-15,https://yzzy.play-cdn9.com/20221008/3665_5a30e854/index.m3u8
+欢喜密探-16,https://yzzy.play-cdn9.com/20221008/3668_2517645f/index.m3u8
+欢喜密探-17,https://yzzy.play-cdn9.com/20221008/3666_55a44054/index.m3u8
+欢喜密探-18,https://yzzy.play-cdn9.com/20221008/3669_9d271ef6/index.m3u8
+欢喜密探-19,https://yzzy.play-cdn9.com/20221008/3685_3767d011/index.m3u8
+欢喜密探-20,https://yzzy.play-cdn9.com/20221008/3683_3bcd49d3/index.m3u8
+欢喜密探-21,https://yzzy.play-cdn9.com/20221008/3684_f6c359dc/index.m3u8
+欢喜密探-22,https://yzzy.play-cdn9.com/20221008/3687_bebeea15/index.m3u8
+欢喜密探-23,https://yzzy.play-cdn9.com/20221008/3686_6fdb3692/index.m3u8
+欢喜密探-24,https://yzzy.play-cdn9.com/20221008/3688_b1cbc054/index.m3u8
+欢喜密探-25,https://yzzy.play-cdn9.com/20221008/3690_f2ee20d6/index.m3u8
+欢喜密探-26,https://yzzy.play-cdn9.com/20221008/3689_3d99c897/index.m3u8
+欢喜密探-27,https://yzzy.play-cdn9.com/20221008/3691_b47d711f/index.m3u8
+欢喜密探-28,https://yzzy.play-cdn9.com/20221008/3702_30cd46a9/index.m3u8
+欢喜密探-29,https://yzzy.play-cdn9.com/20221008/3692_78d2e8dd/index.m3u8
+欢喜密探-30,https://yzzy.play-cdn9.com/20221008/3703_aedcb8cf/index.m3u8
+欢喜密探-31,https://yzzy.play-cdn9.com/20221008/3701_f8022bbe/index.m3u8
+欢喜密探-32,https://yzzy.play-cdn9.com/20221008/3705_b5054e17/index.m3u8
+欢喜密探-33,https://yzzy.play-cdn9.com/20221008/3704_792b4f18/index.m3u8
+欢喜密探-34,https://yzzy.play-cdn9.com/20221008/3700_b47c5843/index.m3u8
+欢喜密探-35,https://yzzy.play-cdn9.com/20221008/3706_4ebd9a37/index.m3u8
+欢喜密探-36,https://yzzy.play-cdn9.com/20221008/3707_e243cd94/index.m3u8
+欢喜密探-37,https://yzzy.play-cdn9.com/20221008/3708_e973218a/index.m3u8
+欢喜密探-38,https://yzzy.play-cdn9.com/20221008/3709_41f96448/index.m3u8
+欢喜密探-39,https://yzzy.play-cdn9.com/20221008/3710_e25c37f5/index.m3u8
+欢喜密探-40,https://yzzy.play-cdn9.com/20221008/3712_e7028fc9/index.m3u8
+欢喜密探-41,https://yzzy.play-cdn9.com/20221008/3713_4c7cecd3/index.m3u8
+欢喜密探-42,https://yzzy.play-cdn9.com/20221008/3711_9962d58c/index.m3u8
+欢喜密探-43,https://yzzy.play-cdn9.com/20221008/3714_ed3a4c0b/index.m3u8
+欢喜密探-44,https://yzzy.play-cdn9.com/20221008/3715_8c32ead2/index.m3u8
+
+【阿麦从军】,
+阿麦从军-01,https://yzzy1.play-cdn16.com/20240131/27832_6b7abb75/index.m3u8
+阿麦从军-02,https://yzzy1.play-cdn16.com/20240131/27833_3d8365cd/index.m3u8
+阿麦从军-03,https://yzzy1.play-cdn16.com/20240131/27834_7226d3cb/index.m3u8
+阿麦从军-04,https://yzzy1.play-cdn16.com/20240131/27835_c6226ddb/index.m3u8
+阿麦从军-05,https://yzzy1.play-cdn16.com/20240131/27836_7df7b78a/index.m3u8
+阿麦从军-06,https://yzzy1.play-cdn16.com/20240131/27837_ea2cda5d/index.m3u8
+阿麦从军-07,https://yzzy1.play-cdn1.com/20240201/14970_1596a4d0/index.m3u8
+阿麦从军-08,https://yzzy1.play-cdn20.com/20240201/14336_1c632015/index.m3u8
+阿麦从军-09,https://yzzy1.play-cdn16.com/20240202/27850_66a6c7f0/index.m3u8
+阿麦从军-10,https://yzzy1.play-cdn16.com/20240202/27849_195987ef/index.m3u8
+阿麦从军-11,https://yzzy1.play-cdn1.com/20240203/15208_241da8b4/index.m3u8
+阿麦从军-12,https://yzzy1.play-cdn1.com/20240203/15207_fa5d305e/index.m3u8
+阿麦从军-13,.https://yzzy1.play-cdn1.com/20240204/15255_471272a9/index.m3u8
+阿麦从军-14,https://yzzy1.play-cdn1.com/20240204/15254_0087df86/index.m3u8
+阿麦从军-15,https://yzzy.play-cdn19.com/20240205/19096_8386fdd6/index.m3u8
+阿麦从军-16,https://yzzy.play-cdn19.com/20240205/19095_f9f657e5/index.m3u8
+阿麦从军-17,https://yzzy1.play-cdn1.com/20240206/15458_e435ab30/index.m3u8
+阿麦从军-18,https://yzzy1.play-cdn1.com/20240206/15457_bfd75b80/index.m3u8
+阿麦从军-19,https://yzzy1.play-cdn1.com/20240207/15540_93fd86bd/index.m3u8
+阿麦从军-20,https://yzzy1.play-cdn1.com/20240207/15539_a7d0fcf8/index.m3u8
+阿麦从军-21,https://yzzy1.play-cdn20.com/20240208/16562_51becb27/index.m3u8
+阿麦从军-22,https://yzzy1.play-cdn20.com/20240208/16561_d626a421/index.m3u8
+阿麦从军-23,https://yzzy1.play-cdn20.com/20240212/16781_d5a00861/index.m3u8
+阿麦从军-24,https://yzzy1.play-cdn20.com/20240212/16780_a26b8926/index.m3u8
+阿麦从军-25,https://yzzy.play-cdn19.com/20240213/19804_7258c8f7/index.m3u8
+阿麦从军-26,https://yzzy.play-cdn19.com/20240213/19803_dea4dacb/index.m3u8
+阿麦从军-27,https://yzzy1.play-cdn20.com/20240214/16949_2acba58b/index.m3u8
+阿麦从军-28,https://yzzy1.play-cdn20.com/20240214/16948_c1abc8d2/index.m3u8
+
+【长风渡】,
+长风渡-01,https://yzzy.play-cdn17.com/20230618/9209_3cc6efcb/index.m3u8
+长风渡-02,https://yzzy.play-cdn17.com/20230618/9208_dd5edd22/index.m3u8
+长风渡-03,https://yzzy.play-cdn17.com/20230618/9207_f9277ed8/index.m3u8
+长风渡-04,https://www.yzzy.play-cdn16.com/20230618/10194_0ec86ae0/index.m3u8
+长风渡-05,https://www.yzzy.play-cdn16.com/20230618/10193_97b7b7a8/index.m3u8
+长风渡-06,https://www.yzzy.play-cdn16.com/20230618/10192_299b3b4d/index.m3u8
+长风渡-07,https://www.yzzy.play-cdn16.com/20230619/10264_9736f1c7/index.m3u8
+长风渡-08,https://www.yzzy.play-cdn16.com/20230619/10263_a8cc89b3/index.m3u8
+长风渡-09,https://vip15.play-cdn15.com/20230620/16004_991b2969/index.m3u8
+长风渡-10,https://vip15.play-cdn15.com/20230620/16003_fad019e4/index.m3u8
+长风渡-11,https://yzzy.play-cdn17.com/20230621/9612_580f462f/index.m3u8
+长风渡-12,https://yzzy.play-cdn17.com/20230621/9611_4ee9dd5d/index.m3u8
+长风渡-13,https://vip15.play-cdn15.com/20230622/16153_6d38c791/index.m3u8
+长风渡-14,https://vip15.play-cdn15.com/20230622/16152_672b0008/index.m3u8
+长风渡-15,https://vip15.play-cdn15.com/20230623/16266_abba539c/index.m3u8
+长风渡-16,https://vip15.play-cdn15.com/20230623/16265_02a87efb/index.m3u8
+长风渡-17,https://vip15.play-cdn15.com/20230624/16346_9d37b4d9/index.m3u8
+长风渡-18,https://vip15.play-cdn15.com/20230624/16345_a4f1e044/index.m3u8
+长风渡-19,https://vip15.play-cdn15.com/20230625/16394_36185612/index.m3u8
+长风渡-20,https://vip15.play-cdn15.com/20230625/16393_dc8f4f4c/index.m3u8
+长风渡-21,https://vip15.play-cdn15.com/20230629/17499_70d97243/index.m3u8
+长风渡-22,https://vip15.play-cdn15.com/20230629/17498_a016bcae/index.m3u8
+长风渡-23,https://www.yzzy.play-cdn16.com/20230630/11606_0dfbf8d5/index.m3u8
+长风渡-24,https://www.yzzy.play-cdn16.com/20230630/11605_34db916f/index.m3u8
+长风渡-25,https://yzzy.play-cdn17.com/20230701/10533_d6c04a74/index.m3u8
+长风渡-26,https://yzzy.play-cdn17.com/20230701/10532_ba9d1d3c/index.m3u8
+长风渡-27,https://yzzy.play-cdn17.com/20230702/10584_f778f5b2/index.m3u8
+长风渡-28,https://yzzy.play-cdn17.com/20230702/10583_dcd96ce9/index.m3u8
+长风渡-29,https://yzzy.play-cdn17.com/20230706/10833_ce70d8d9/index.m3u8
+长风渡-30,https://www.yzzy.play-cdn16.com/20230706/12659_0e177c77/index.m3u8
+长风渡-31,https://yzzy.play-cdn17.com/20230707/10931_1eb88ede/index.m3u8
+长风渡-32,https://yzzy.play-cdn17.com/20230707/10930_a9fd20b1/index.m3u8
+长风渡-33,https://vip15.play-cdn15.com/20230708/18137_87e4701b/index.m3u8
+长风渡-34,https://vip15.play-cdn15.com/20230708/18136_0b33fbf5/index.m3u8
+长风渡-35,https://www.yzzy.play-cdn16.com/20230709/12925_f0b54af4/index.m3u8
+长风渡-36,https://www.yzzy.play-cdn16.com/20230709/12924_457311ac/index.m3u8
+长风渡-37,https://vip15.play-cdn15.com/20230713/19090_f4261900/index.m3u8
+长风渡-38,https://yzzy.play-cdn18.com/20230714/524_0d8b9243/index.m3u8
+长风渡-39,https://yzzy.play-cdn18.com/20230714/626_55d2f15f/index.m3u8
+长风渡-40,https://yzzy.play-cdn18.com/20230714/625_7d41046f/index.m3u8
+
+【大秦帝国之裂变】,
+大秦帝国之裂变-01,https://yzzy.play-cdn7.com/20220826/13855_338be9e1/index.m3u8
+大秦帝国之裂变-02,https://yzzy.play-cdn7.com/20220826/13856_ff82e3de/index.m3u8
+大秦帝国之裂变-03,https://yzzy.play-cdn7.com/20220826/13857_09684586/index.m3u8
+大秦帝国之裂变-04,https://yzzy.play-cdn7.com/20220826/13858_0fd421cc/index.m3u8
+大秦帝国之裂变-05,https://yzzy.play-cdn7.com/20220826/13859_47f40191/index.m3u8
+大秦帝国之裂变-06,https://yzzy.play-cdn7.com/20220826/13860_866a09da/index.m3u8
+大秦帝国之裂变-07,https://yzzy.play-cdn7.com/20220826/13861_7e1339b0/index.m3u8
+大秦帝国之裂变-08,https://yzzy.play-cdn7.com/20220826/13862_4c2faeba/index.m3u8
+大秦帝国之裂变-09,https://yzzy.play-cdn7.com/20220826/13863_51006660/index.m3u8
+大秦帝国之裂变-10,https://yzzy.play-cdn7.com/20220826/13864_398c121d/index.m3u8
+大秦帝国之裂变-11,https://yzzy.play-cdn7.com/20220826/13865_e7dad584/index.m3u8
+大秦帝国之裂变-12,https://yzzy.play-cdn7.com/20220826/13866_11d7295f/index.m3u8
+大秦帝国之裂变-13,https://yzzy.play-cdn7.com/20220826/13867_389e11df/index.m3u8
+大秦帝国之裂变-14,https://yzzy.play-cdn7.com/20220826/13868_573c29de/index.m3u8
+大秦帝国之裂变-15,https://yzzy.play-cdn7.com/20220826/13869_f52dfde1/index.m3u8
+大秦帝国之裂变-16,https://yzzy.play-cdn7.com/20220826/13870_7dd670a4/index.m3u8
+大秦帝国之裂变-17,https://yzzy.play-cdn7.com/20220826/13871_a7cc2107/index.m3u8
+大秦帝国之裂变-18,https://yzzy.play-cdn7.com/20220826/13872_0108ad66/index.m3u8
+大秦帝国之裂变-19,https://yzzy.play-cdn7.com/20220826/13873_51a3fb87/index.m3u8
+大秦帝国之裂变-20,https://yzzy.play-cdn7.com/20220826/13874_f63fa3ef/index.m3u8
+大秦帝国之裂变-21,https://yzzy.play-cdn7.com/20220826/13875_338e4b81/index.m3u8
+大秦帝国之裂变-22,https://yzzy.play-cdn7.com/20220826/13876_e0d35333/index.m3u8
+大秦帝国之裂变-23,https://yzzy.play-cdn7.com/20220826/13877_7f569bad/index.m3u8
+大秦帝国之裂变-24,https://yzzy.play-cdn7.com/20220826/13878_876aeae4/index.m3u8
+大秦帝国之裂变-25,https://yzzy.play-cdn7.com/20220826/13879_6fc39c80/index.m3u8
+大秦帝国之裂变-26,https://yzzy.play-cdn7.com/20220826/13880_30d3d883/index.m3u8
+大秦帝国之裂变-27,https://yzzy.play-cdn7.com/20220826/13881_5883af31/index.m3u8
+大秦帝国之裂变-28,https://yzzy.play-cdn7.com/20220826/13882_63d63be7/index.m3u8
+大秦帝国之裂变-29,https://yzzy.play-cdn7.com/20220826/13883_a579d78f/index.m3u8
+大秦帝国之裂变-30,https://yzzy.play-cdn7.com/20220826/13884_522f3d06/index.m3u8
+大秦帝国之裂变-31,https://yzzy.play-cdn7.com/20220826/13885_5c24f767/index.m3u8
+大秦帝国之裂变-32,https://yzzy.play-cdn7.com/20220826/13886_1f487f66/index.m3u8
+大秦帝国之裂变-33,https://yzzy.play-cdn7.com/20220826/13887_af9febf1/index.m3u8
+大秦帝国之裂变-34,https://yzzy.play-cdn7.com/20220826/13888_8c83d477/index.m3u8
+大秦帝国之裂变-35,https://yzzy.play-cdn7.com/20220826/13889_53d87df7/index.m3u8
+大秦帝国之裂变-36,https://yzzy.play-cdn7.com/20220826/13890_669126f6/index.m3u8
+大秦帝国之裂变-37,https://yzzy.play-cdn7.com/20220826/13891_69fb437f/index.m3u8
+大秦帝国之裂变-38,https://yzzy.play-cdn7.com/20220826/13892_5c23ab6b/index.m3u8
+大秦帝国之裂变-39,https://yzzy.play-cdn7.com/20220826/13893_87a4331d/index.m3u8
+大秦帝国之裂变-40,https://yzzy.play-cdn7.com/20220826/13894_f10e89e2/index.m3u8
+大秦帝国之裂变-41,https://yzzy.play-cdn7.com/20220826/13895_5e1d0d52/index.m3u8
+大秦帝国之裂变-42,https://yzzy.play-cdn7.com/20220826/13896_06edb2ff/index.m3u8
+大秦帝国之裂变-43,https://yzzy.play-cdn7.com/20220826/13897_724e6217/index.m3u8
+大秦帝国之裂变-44,https://yzzy.play-cdn7.com/20220826/13898_6ce6095d/index.m3u8
+大秦帝国之裂变-45,https://yzzy.play-cdn7.com/20220826/13899_c430effc/index.m3u8
+大秦帝国之裂变-46,https://yzzy.play-cdn7.com/20220826/13900_fd4aa7ba/index.m3u8
+大秦帝国之裂变-47,https://yzzy.play-cdn7.com/20220826/13901_e3e1a51c/index.m3u8
+大秦帝国之裂变-48,https://yzzy.play-cdn7.com/20220826/13903_1b55e50a/index.m3u8
+
+【大秦帝国之纵横】,
+大秦帝国之纵横-01,https://yzzy.play-cdn8.com/20220706/1470_541274de/index.m3u8
+大秦帝国之纵横-02,https://yzzy.play-cdn8.com/20220706/1469_99d67ad0/index.m3u8
+大秦帝国之纵横-03,https://yzzy.play-cdn8.com/20220706/1468_f965e7dc/index.m3u8
+大秦帝国之纵横-04,https://yzzy.play-cdn8.com/20220706/1467_4e187e5b/index.m3u8
+大秦帝国之纵横-05,https://yzzy.play-cdn8.com/20220706/1466_5b3b3a59/index.m3u8
+大秦帝国之纵横-06,https://yzzy.play-cdn8.com/20220706/1465_874162a9/index.m3u8
+大秦帝国之纵横-07,https://yzzy.play-cdn8.com/20220706/1464_9ef5ef0f/index.m3u8
+大秦帝国之纵横-08,https://yzzy.play-cdn8.com/20220706/1463_bd035037/index.m3u8
+大秦帝国之纵横-09,https://yzzy.play-cdn8.com/20220706/1462_89bcd23f/index.m3u8
+大秦帝国之纵横-10,https://yzzy.play-cdn8.com/20220706/1461_dabe6615/index.m3u8
+大秦帝国之纵横-11,https://yzzy.play-cdn8.com/20220706/1460_93b70cca/index.m3u8
+大秦帝国之纵横-12,https://yzzy.play-cdn8.com/20220706/1473_495c9c9d/index.m3u8
+大秦帝国之纵横-13,https://yzzy.play-cdn8.com/20220706/1459_a09a6650/index.m3u8
+大秦帝国之纵横-14,https://yzzy.play-cdn8.com/20220706/1472_2d83c721/index.m3u8
+大秦帝国之纵横-15,https://yzzy.play-cdn8.com/20220706/1471_ac3d925b/index.m3u8
+大秦帝国之纵横-16,https://yzzy.play-cdn8.com/20220706/1458_a5397403/index.m3u8
+大秦帝国之纵横-17,https://yzzy.play-cdn8.com/20220706/1457_3d285dd0/index.m3u8
+大秦帝国之纵横-18,https://yzzy.play-cdn8.com/20220706/1456_76490ce6/index.m3u8
+大秦帝国之纵横-19,https://yzzy.play-cdn8.com/20220706/1455_a97f2096/index.m3u8
+大秦帝国之纵横-20,https://yzzy.play-cdn8.com/20220706/1454_b3c93a9e/index.m3u8
+大秦帝国之纵横-21,https://yzzy.play-cdn8.com/20220706/1453_ba43ba84/index.m3u8
+大秦帝国之纵横-22,https://yzzy.play-cdn8.com/20220706/1452_69060575/index.m3u8
+大秦帝国之纵横-23,https://yzzy.play-cdn8.com/20220706/1451_bfb07810/index.m3u8
+大秦帝国之纵横-24,https://yzzy.play-cdn8.com/20220706/1450_50445545/index.m3u8
+大秦帝国之纵横-25,https://yzzy.play-cdn8.com/20220706/1449_142b73b5/index.m3u8
+大秦帝国之纵横-26,https://yzzy.play-cdn8.com/20220706/1448_6eb2fea9/index.m3u8
+大秦帝国之纵横-27,https://yzzy.play-cdn8.com/20220706/1447_43d80138/index.m3u8
+大秦帝国之纵横-28,https://yzzy.play-cdn8.com/20220706/1446_dc92395f/index.m3u8
+大秦帝国之纵横-29,https://yzzy.play-cdn8.com/20220706/1445_54b7e70e/index.m3u8
+大秦帝国之纵横-30,https://yzzy.play-cdn8.com/20220706/1444_ed5b4fc0/index.m3u8
+大秦帝国之纵横-31,https://yzzy.play-cdn8.com/20220706/1443_b5775a3d/index.m3u8
+大秦帝国之纵横-32,https://yzzy.play-cdn8.com/20220706/1442_1325e5d9/index.m3u8
+大秦帝国之纵横-33,https://yzzy.play-cdn8.com/20220706/1441_2278c669/index.m3u8
+大秦帝国之纵横-34,https://yzzy.play-cdn8.com/20220706/1440_1030cddc/index.m3u8
+大秦帝国之纵横-35,https://yzzy.play-cdn8.com/20220706/1439_949823b9/index.m3u8
+大秦帝国之纵横-36,https://yzzy.play-cdn8.com/20220706/1438_4ba6e0c6/index.m3u8
+大秦帝国之纵横-37,https://yzzy.play-cdn8.com/20220706/1437_ff4b50a6/index.m3u8
+大秦帝国之纵横-38,https://yzzy.play-cdn8.com/20220706/1436_13201bd5/index.m3u8
+大秦帝国之纵横-39,https://yzzy.play-cdn8.com/20220706/1435_cfa8e5a8/index.m3u8
+大秦帝国之纵横-40,https://yzzy.play-cdn8.com/20220706/1434_59b2ab97/index.m3u8
+大秦帝国之纵横-41,https://yzzy.play-cdn8.com/20220706/1433_8d9edea6/index.m3u8
+大秦帝国之纵横-42,https://yzzy.play-cdn8.com/20220706/1432_314b0a56/index.m3u8
+大秦帝国之纵横-43,https://yzzy.play-cdn8.com/20220706/1431_21e5d0c9/index.m3u8
+大秦帝国之纵横-44,https://yzzy.play-cdn8.com/20220706/1430_9070a763/index.m3u8
+大秦帝国之纵横-45,https://yzzy.play-cdn8.com/20220706/1429_86e07d94/index.m3u8
+大秦帝国之纵横-46,https://yzzy.play-cdn8.com/20220706/1428_79270475/index.m3u8
+大秦帝国之纵横-47,https://yzzy.play-cdn8.com/20220706/1427_413df7d8/index.m3u8
+大秦帝国之纵横-48,https://yzzy.play-cdn8.com/20220706/1426_2286ab97/index.m3u8
+大秦帝国之纵横-49,https://yzzy.play-cdn8.com/20220706/1425_ce8effa5/index.m3u8
+大秦帝国之纵横-50,https://yzzy.play-cdn8.com/20220706/1424_1ef21851/index.m3u8
+大秦帝国之纵横-51,https://yzzy.play-cdn8.com/20220706/1423_2ffe8ae9/index.m3u8
+
+【大秦帝国之崛起】,
+大秦帝国之崛起-01,https://yzzy.play-cdn5.com/20220516/15396_aef8b325/index.m3u8
+大秦帝国之崛起-02,https://yzzy.play-cdn5.com/20220516/15395_960415c4/index.m3u8
+大秦帝国之崛起-03,https://yzzy.play-cdn5.com/20220516/15400_37860907/index.m3u8
+大秦帝国之崛起-04,https://yzzy.play-cdn5.com/20220516/15402_a9b17dc5/index.m3u8
+大秦帝国之崛起-05,https://yzzy.play-cdn5.com/20220516/15399_ff5433e7/index.m3u8
+大秦帝国之崛起-06,https://yzzy.play-cdn5.com/20220516/15398_095c8b3f/index.m3u8
+大秦帝国之崛起-07,https://yzzy.play-cdn5.com/20220516/15403_03a0fc42/index.m3u8
+大秦帝国之崛起-08,https://yzzy.play-cdn5.com/20220516/15401_ceefe1f3/index.m3u8
+大秦帝国之崛起-09,https://yzzy.play-cdn5.com/20220516/15407_048ddbf7/index.m3u8
+大秦帝国之崛起-10,https://yzzy.play-cdn5.com/20220516/15406_995a9a2f/index.m3u8
+大秦帝国之崛起-11,https://yzzy.play-cdn5.com/20220516/15408_6d6454a8/index.m3u8
+大秦帝国之崛起-12,https://yzzy.play-cdn5.com/20220516/15409_c59f3330/index.m3u8
+大秦帝国之崛起-13,https://yzzy.play-cdn5.com/20220516/15410_956188d8/index.m3u8
+大秦帝国之崛起-14,https://yzzy.play-cdn5.com/20220516/15412_5f7c4a49/index.m3u8
+大秦帝国之崛起-15,https://yzzy.play-cdn5.com/20220516/15411_eba66e09/index.m3u8
+大秦帝国之崛起-16,https://yzzy.play-cdn5.com/20220516/15413_d4118aa6/index.m3u8
+大秦帝国之崛起-17,https://yzzy.play-cdn5.com/20220516/15416_88b5e36f/index.m3u8
+大秦帝国之崛起-18,https://yzzy.play-cdn5.com/20220516/15415_a9cd4c14/index.m3u8
+大秦帝国之崛起-19,https://yzzy.play-cdn5.com/20220516/15414_503dd529/index.m3u8
+大秦帝国之崛起-20,https://yzzy.play-cdn5.com/20220516/15417_13b72afc/index.m3u8
+大秦帝国之崛起-21,https://yzzy.play-cdn5.com/20220516/15420_641a81c9/index.m3u8
+大秦帝国之崛起-22,https://yzzy.play-cdn5.com/20220516/15419_245656ae/index.m3u8
+大秦帝国之崛起-23,https://yzzy.play-cdn5.com/20220516/15418_9e875442/index.m3u8
+大秦帝国之崛起-24,https://yzzy.play-cdn5.com/20220516/15424_e6c87481/index.m3u8
+大秦帝国之崛起-25,https://yzzy.play-cdn5.com/20220516/15423_31083d8e/index.m3u8
+大秦帝国之崛起-26,https://yzzy.play-cdn5.com/20220516/15422_ca52e208/index.m3u8
+大秦帝国之崛起-27,https://yzzy.play-cdn5.com/20220516/15425_66a46b99/index.m3u8
+大秦帝国之崛起-28,https://yzzy.play-cdn5.com/20220516/15426_60436f9e/index.m3u8
+大秦帝国之崛起-29,https://yzzy.play-cdn5.com/20220516/15427_3f375e20/index.m3u8
+大秦帝国之崛起-30,https://yzzy.play-cdn5.com/20220516/15429_dc156054/index.m3u8
+大秦帝国之崛起-31,https://yzzy.play-cdn5.com/20220516/15428_732a61c7/index.m3u8
+大秦帝国之崛起-32,https://yzzy.play-cdn5.com/20220516/15432_2c1e3f61/index.m3u8
+大秦帝国之崛起-33,https://yzzy.play-cdn5.com/20220516/15433_b24002a6/index.m3u8
+大秦帝国之崛起-34,https://yzzy.play-cdn5.com/20220516/15434_46ee0504/index.m3u8
+大秦帝国之崛起-35,https://yzzy.play-cdn5.com/20220516/15441_6a03a19f/index.m3u8
+大秦帝国之崛起-36,https://yzzy.play-cdn5.com/20220516/15435_4a581771/index.m3u8
+大秦帝国之崛起-37,https://yzzy.play-cdn5.com/20220516/15437_62f06d68/index.m3u8
+大秦帝国之崛起-38,https://yzzy.play-cdn5.com/20220516/15436_0d7f494f/index.m3u8
+大秦帝国之崛起-39,https://yzzy.play-cdn5.com/20220516/15439_6934ee18/index.m3u8
+大秦帝国之崛起-40,https://yzzy.play-cdn5.com/20220516/15440_334f1f62/index.m3u8
+
+【楚汉传奇】,
+楚汉传奇-01,https://yzzy.play-cdn7.com/20220831/15081_8af5706a/index.m3u8
+楚汉传奇-02,https://yzzy.play-cdn7.com/20220831/15080_d9a59d19/index.m3u8
+楚汉传奇-03,https://yzzy.play-cdn7.com/20220831/15079_2b88e7df/index.m3u8
+楚汉传奇-04,https://yzzy.play-cdn7.com/20220831/15078_dc13de85/index.m3u8
+楚汉传奇-05,https://yzzy.play-cdn7.com/20220831/15077_005c8f80/index.m3u8
+楚汉传奇-06,https://yzzy.play-cdn7.com/20220831/15076_cadf441d/index.m3u8
+楚汉传奇-07,https://yzzy.play-cdn7.com/20220831/15075_92ae49f7/index.m3u8
+楚汉传奇-08,https://yzzy.play-cdn7.com/20220831/15074_c5aef7bd/index.m3u8
+楚汉传奇-09,https://yzzy.play-cdn7.com/20220831/15073_9cdc7cd6/index.m3u8
+楚汉传奇-10,https://yzzy.play-cdn7.com/20220831/15072_1b4c8028/index.m3u8
+楚汉传奇-11,https://yzzy.play-cdn7.com/20220831/15071_9e691a93/index.m3u8
+楚汉传奇-12,https://yzzy.play-cdn7.com/20220831/15070_e391da8d/index.m3u8
+楚汉传奇-13,https://yzzy.play-cdn7.com/20220831/15069_6401151e/index.m3u8
+楚汉传奇-14,https://yzzy.play-cdn7.com/20220831/15068_1e476939/index.m3u8
+楚汉传奇-15,https://yzzy.play-cdn7.com/20220831/15067_b7f91bf0/index.m3u8
+楚汉传奇-16,https://yzzy.play-cdn7.com/20220831/15066_03e5dde8/index.m3u8
+楚汉传奇-17,https://yzzy.play-cdn7.com/20220831/15065_039a349b/index.m3u8
+楚汉传奇-18,https://yzzy.play-cdn7.com/20220831/15064_570b3ec1/index.m3u8
+楚汉传奇-19,https://yzzy.play-cdn7.com/20220831/15063_d7c44d82/index.m3u8
+楚汉传奇-20,https://yzzy.play-cdn7.com/20220831/15062_9b50b51a/index.m3u8
+楚汉传奇-21,https://yzzy.play-cdn7.com/20220831/15061_ced51be6/index.m3u8
+楚汉传奇-22,https://yzzy.play-cdn7.com/20220831/15060_9361d36e/index.m3u8
+楚汉传奇-23,https://yzzy.play-cdn7.com/20220831/15059_3d2dd4ed/index.m3u8
+楚汉传奇-24,https://yzzy.play-cdn7.com/20220831/15058_961c7044/index.m3u8
+楚汉传奇-25,https://yzzy.play-cdn7.com/20220831/15057_95609432/index.m3u8
+楚汉传奇-26,https://yzzy.play-cdn7.com/20220831/15056_af3d1832/index.m3u8
+楚汉传奇-27,https://yzzy.play-cdn7.com/20220831/15055_fe5caaa0/index.m3u8
+楚汉传奇-28,https://yzzy.play-cdn7.com/20220831/15054_a5ec4000/index.m3u8
+楚汉传奇-29,https://yzzy.play-cdn7.com/20220831/15053_c7916f35/index.m3u8
+楚汉传奇-30,https://yzzy.play-cdn7.com/20220831/15052_f4ae4556/index.m3u8
+楚汉传奇-31,https://yzzy.play-cdn7.com/20220831/15051_6f892b94/index.m3u8
+楚汉传奇-32,https://yzzy.play-cdn7.com/20220831/15050_73ba235e/index.m3u8
+楚汉传奇-33,https://yzzy.play-cdn7.com/20220831/15049_25ee3119/index.m3u8
+楚汉传奇-34,https://yzzy.play-cdn7.com/20220831/15048_3af90142/index.m3u8
+楚汉传奇-35,https://yzzy.play-cdn7.com/20220831/15047_847de192/index.m3u8
+楚汉传奇-36,https://yzzy.play-cdn7.com/20220831/15046_481d0dca/index.m3u8
+楚汉传奇-37,https://yzzy.play-cdn7.com/20220831/15045_0a8257f4/index.m3u8
+楚汉传奇-38,https://yzzy.play-cdn7.com/20220831/15044_8ead2cba/index.m3u8
+楚汉传奇-39,https://yzzy.play-cdn7.com/20220831/15043_14c25381/index.m3u8
+楚汉传奇-40,https://yzzy.play-cdn7.com/20220831/15042_48a40bd9/index.m3u8
+楚汉传奇-41,https://yzzy.play-cdn7.com/20220831/15041_6971383d/index.m3u8
+楚汉传奇-42,https://yzzy.play-cdn7.com/20220831/15040_a86c63db/index.m3u8
+楚汉传奇-43,https://yzzy.play-cdn7.com/20220831/15039_c9575883/index.m3u8
+楚汉传奇-44,https://yzzy.play-cdn7.com/20220831/15038_4460f9c8/index.m3u8
+楚汉传奇-45,https://yzzy.play-cdn7.com/20220831/15037_33cda2c3/index.m3u8
+楚汉传奇-46,https://yzzy.play-cdn7.com/20220831/15036_7931efd8/index.m3u8
+楚汉传奇-47,https://yzzy.play-cdn7.com/20220831/15035_239e8c86/index.m3u8
+楚汉传奇-48,https://yzzy.play-cdn7.com/20220831/15032_60c73f9a/index.m3u8
+楚汉传奇-49,https://yzzy.play-cdn7.com/20220831/15034_43163ca9/index.m3u8
+楚汉传奇-50,https://yzzy.play-cdn7.com/20220831/15033_69873a99/index.m3u8
+楚汉传奇-51,https://yzzy.play-cdn7.com/20220831/15031_605d4812/index.m3u8
+楚汉传奇-52,https://yzzy.play-cdn7.com/20220831/15030_96989088/index.m3u8
+楚汉传奇-53,https://yzzy.play-cdn7.com/20220831/15029_e8975b2d/index.m3u8
+楚汉传奇-54,https://yzzy.play-cdn7.com/20220831/15027_504986b8/index.m3u8
+楚汉传奇-55,https://yzzy.play-cdn7.com/20220831/15025_33241395/index.m3u8
+楚汉传奇-56,https://yzzy.play-cdn7.com/20220831/15024_87b2487c/index.m3u8
+楚汉传奇-57,https://yzzy.play-cdn7.com/20220831/15028_78661aed/index.m3u8
+楚汉传奇-58,https://yzzy.play-cdn7.com/20220831/15026_13e56a83/index.m3u8
+楚汉传奇-59,https://yzzy.play-cdn7.com/20220831/15020_b21395e7/index.m3u8
+楚汉传奇-60,https://yzzy.play-cdn7.com/20220831/15021_334f90a0/index.m3u8
+楚汉传奇-61,https://yzzy.play-cdn7.com/20220831/15023_0caa4948/index.m3u8
+楚汉传奇-62,https://yzzy.play-cdn7.com/20220831/15022_87b47218/index.m3u8
+楚汉传奇-63,https://yzzy.play-cdn7.com/20220831/15019_d5d5be98/index.m3u8
+楚汉传奇-64,https://yzzy.play-cdn7.com/20220831/15018_8a819407/index.m3u8
+楚汉传奇-65,https://yzzy.play-cdn7.com/20220831/15017_7c9092f3/index.m3u8
+楚汉传奇-66,https://yzzy.play-cdn7.com/20220831/15016_d0e62e0a/index.m3u8
+楚汉传奇-67,https://yzzy.play-cdn7.com/20220831/15015_3f9eb69a/index.m3u8
+楚汉传奇-68,https://yzzy.play-cdn7.com/20220831/15014_18df4d00/index.m3u8
+楚汉传奇-69,https://yzzy.play-cdn7.com/20220831/15013_a53a9e23/index.m3u8
+楚汉传奇-70,https://yzzy.play-cdn7.com/20220831/15012_d50521cc/index.m3u8
+楚汉传奇-71,https://yzzy.play-cdn7.com/20220831/15011_d9f67720/index.m3u8
+楚汉传奇-72,https://yzzy.play-cdn7.com/20220831/15010_090204ae/index.m3u8
+楚汉传奇-73,https://yzzy.play-cdn7.com/20220831/15009_22cbd141/index.m3u8
+楚汉传奇-74,https://yzzy.play-cdn7.com/20220831/15008_b0ed1b33/index.m3u8
+楚汉传奇-75,https://yzzy.play-cdn7.com/20220831/15007_40a4a996/index.m3u8
+楚汉传奇-76,https://yzzy.play-cdn7.com/20220831/15006_fc03f53e/index.m3u8
+楚汉传奇-77,https://yzzy.play-cdn7.com/20220831/15005_fc0bef11/index.m3u8
+楚汉传奇-78,https://yzzy.play-cdn7.com/20220831/15004_1b2b6fd6/index.m3u8
+楚汉传奇-79,https://yzzy.play-cdn7.com/20220831/15003_1cdbdf67/index.m3u8
+楚汉传奇-80,https://yzzy.play-cdn7.com/20220831/15002_e0d081dc/index.m3u8
+
+【汉武大帝】,
+汉武大帝-01,https://yzzy.play-cdn12.com/20221217/11747_d65bd200/index.m3u8
+汉武大帝-02,https://yzzy.play-cdn12.com/20221217/11748_001fb3d7/index.m3u8
+汉武大帝-03,https://yzzy.play-cdn12.com/20221217/11749_e92596b2/index.m3u8
+汉武大帝-04,https://yzzy.play-cdn12.com/20221217/11751_f9b98b07/index.m3u8
+汉武大帝-05,https://yzzy.play-cdn12.com/20221217/11750_5353318b/index.m3u8
+汉武大帝-06,https://yzzy.play-cdn12.com/20221217/11753_b6722dc4/index.m3u8
+汉武大帝-07,https://yzzy.play-cdn12.com/20221217/11752_87a719bc/index.m3u8
+汉武大帝-08,https://yzzy.play-cdn12.com/20221217/11756_e9dd30c2/index.m3u8
+汉武大帝-09,https://yzzy.play-cdn12.com/20221217/11754_4fc8a33f/index.m3u8
+汉武大帝-10,https://yzzy.play-cdn12.com/20221217/11755_de33e561/index.m3u8
+汉武大帝-11,https://yzzy.play-cdn12.com/20221217/11759_63e656fa/index.m3u8
+汉武大帝-12,https://yzzy.play-cdn12.com/20221217/11757_af6e11f9/index.m3u8
+汉武大帝-13,https://yzzy.play-cdn12.com/20221217/11758_6e2a3a0c/index.m3u8
+汉武大帝-14,https://yzzy.play-cdn12.com/20221217/11760_fdc63ab9/index.m3u8
+汉武大帝-15,https://yzzy.play-cdn12.com/20221217/11761_26722dbd/index.m3u8
+汉武大帝-16,https://yzzy.play-cdn12.com/20221217/11762_7e8efead/index.m3u8
+汉武大帝-17,https://yzzy.play-cdn12.com/20221217/11763_3b0aaaa1/index.m3u8
+汉武大帝-18,https://yzzy.play-cdn12.com/20221217/11765_d0cdcf0d/index.m3u8
+汉武大帝-19,https://yzzy.play-cdn12.com/20221217/11764_bd2b51e8/index.m3u8
+汉武大帝-20,https://yzzy.play-cdn12.com/20221217/11766_4998523d/index.m3u8
+汉武大帝-21,https://yzzy.play-cdn12.com/20221217/11767_ac3fb715/index.m3u8
+汉武大帝-22,https://yzzy.play-cdn12.com/20221217/11768_4513a9cf/index.m3u8
+汉武大帝-23,https://yzzy.play-cdn12.com/20221217/11769_be34636c/index.m3u8
+汉武大帝-24,https://yzzy.play-cdn12.com/20221217/11770_81b39a69/index.m3u8
+汉武大帝-25,https://yzzy.play-cdn12.com/20221217/11771_f8cd2374/index.m3u8
+汉武大帝-26,https://yzzy.play-cdn12.com/20221217/11774_593f1d80/index.m3u8
+汉武大帝-27,https://yzzy.play-cdn12.com/20221217/11773_8eb11c97/index.m3u8
+汉武大帝-28,https://yzzy.play-cdn12.com/20221217/11772_afaf7d30/index.m3u8
+汉武大帝-29,https://yzzy.play-cdn12.com/20221217/11776_89ebba49/index.m3u8
+汉武大帝-30,https://yzzy.play-cdn12.com/20221217/11775_025ccecb/index.m3u8
+汉武大帝-31,https://yzzy.play-cdn12.com/20221217/11777_21bc69f2/index.m3u8
+汉武大帝-32,https://yzzy.play-cdn12.com/20221217/11779_c4888ff7/index.m3u8
+汉武大帝-33,https://yzzy.play-cdn12.com/20221217/11778_ed22292a/index.m3u8
+汉武大帝-34,https://yzzy.play-cdn12.com/20221217/11782_9e3a6c01/index.m3u8
+汉武大帝-35,https://yzzy.play-cdn12.com/20221217/11781_df202f17/index.m3u8
+汉武大帝-36,https://yzzy.play-cdn12.com/20221217/11780_3f74de0d/index.m3u8
+汉武大帝-37,https://yzzy.play-cdn12.com/20221217/11785_f7c5f375/index.m3u8
+汉武大帝-38,https://yzzy.play-cdn12.com/20221217/11783_550ffec7/index.m3u8
+汉武大帝-39,https://yzzy.play-cdn12.com/20221217/11784_ebc07d17/index.m3u8
+汉武大帝-40,https://yzzy.play-cdn12.com/20221217/11786_4eed5e2e/index.m3u8
+汉武大帝-41,https://yzzy.play-cdn12.com/20221217/11787_2c447132/index.m3u8
+汉武大帝-42,https://yzzy.play-cdn12.com/20221217/11790_85eb71a3/index.m3u8
+汉武大帝-43,https://yzzy.play-cdn12.com/20221217/11788_76275fb6/index.m3u8
+汉武大帝-44,https://yzzy.play-cdn12.com/20221217/11789_041a1499/index.m3u8
+汉武大帝-45,https://yzzy.play-cdn12.com/20221217/11791_82101e93/index.m3u8
+汉武大帝-46,https://yzzy.play-cdn12.com/20221217/11792_869afcb7/index.m3u8
+汉武大帝-47,https://yzzy.play-cdn12.com/20221217/11795_47c7396a/index.m3u8
+汉武大帝-48,https://yzzy.play-cdn12.com/20221217/11793_826e9d0e/index.m3u8
+汉武大帝-49,https://yzzy.play-cdn12.com/20221217/11794_e376797e/index.m3u8
+汉武大帝-50,https://yzzy.play-cdn12.com/20221217/11796_5d8899de/index.m3u8
+汉武大帝-51,https://yzzy.play-cdn12.com/20221217/11797_1da81d8d/index.m3u8
+汉武大帝-52,https://yzzy.play-cdn12.com/20221217/11799_e4fa9f68/index.m3u8
+汉武大帝-53,https://yzzy.play-cdn12.com/20221217/11798_fdc06a7d/index.m3u8
+汉武大帝-54,https://yzzy.play-cdn12.com/20221217/11802_defc3949/index.m3u8
+汉武大帝-55,https://yzzy.play-cdn12.com/20221217/11800_a13afdbe/index.m3u8
+汉武大帝-56,https://yzzy.play-cdn12.com/20221217/11801_146ce4a0/index.m3u8
+汉武大帝-57,https://yzzy.play-cdn12.com/20221217/11804_fb169376/index.m3u8
+汉武大帝-58,https://yzzy.play-cdn12.com/20221217/11803_e7544a34/index.m3u8
+
+【贞观之治】,
+贞观之治-01,https://yzzy.play-cdn4.com/20220409/60_a8462f9f/index.m3u8
+贞观之治-02,https://yzzy.play-cdn4.com/20220409/61_35859fdc/index.m3u8
+贞观之治-03,https://yzzy.play-cdn4.com/20220409/62_629289b8/index.m3u8
+贞观之治-04,https://yzzy.play-cdn4.com/20220409/63_f2b88763/index.m3u8
+贞观之治-05,https://yzzy.play-cdn4.com/20220409/64_bd9f45a8/index.m3u8
+贞观之治-06,https://yzzy.play-cdn4.com/20220409/65_33ea68b1/index.m3u8
+贞观之治-07,https://yzzy.play-cdn4.com/20220409/66_1a4728ef/index.m3u8
+贞观之治-08,https://yzzy.play-cdn4.com/20220409/67_e84f03dc/index.m3u8
+贞观之治-09,https://yzzy.play-cdn4.com/20220409/68_be00df30/index.m3u8
+贞观之治-10,https://yzzy.play-cdn4.com/20220409/69_f2d72ad9/index.m3u8
+贞观之治-11,https://yzzy.play-cdn4.com/20220409/70_6c57bc45/index.m3u8
+贞观之治-12,https://yzzy.play-cdn4.com/20220409/71_69dbd689/index.m3u8
+贞观之治-13,https://yzzy.play-cdn4.com/20220409/72_502002e0/index.m3u8
+贞观之治-14,https://yzzy.play-cdn4.com/20220409/73_a72bec0e/index.m3u8
+贞观之治-15,https://yzzy.play-cdn4.com/20220409/74_fac0624f/index.m3u8
+贞观之治-16,https://yzzy.play-cdn4.com/20220409/75_4ba21eca/index.m3u8
+贞观之治-17,https://yzzy.play-cdn4.com/20220409/76_16c3022c/index.m3u8
+贞观之治-18,https://yzzy.play-cdn4.com/20220409/77_db773303/index.m3u8
+贞观之治-19,https://yzzy.play-cdn4.com/20220409/78_a08621fc/index.m3u8
+贞观之治-20,https://yzzy.play-cdn4.com/20220409/79_5a352946/index.m3u8
+贞观之治-21,https://yzzy.play-cdn4.com/20220409/80_2db655f8/index.m3u8
+贞观之治-22,https://yzzy.play-cdn4.com/20220409/81_57c19285/index.m3u8
+贞观之治-23,https://yzzy.play-cdn4.com/20220409/82_ed7895e9/index.m3u8
+贞观之治-24,https://yzzy.play-cdn4.com/20220409/83_d9abd27e/index.m3u8
+贞观之治-25,https://yzzy.play-cdn4.com/20220409/84_b3c19edf/index.m3u8
+贞观之治-26,https://yzzy.play-cdn4.com/20220409/85_4cd33158/index.m3u8
+贞观之治-27,https://yzzy.play-cdn4.com/20220409/86_27d045f4/index.m3u8
+贞观之治-28,https://yzzy.play-cdn4.com/20220409/87_54f6562a/index.m3u8
+贞观之治-29,https://yzzy.play-cdn4.com/20220409/88_538ca2de/index.m3u8
+贞观之治-30,https://yzzy.play-cdn4.com/20220409/89_cc07c75c/index.m3u8
+贞观之治-31,https://yzzy.play-cdn4.com/20220409/90_f2dbc17a/index.m3u8
+贞观之治-32,https://yzzy.play-cdn4.com/20220409/91_99026ffe/index.m3u8
+贞观之治-33,https://yzzy.play-cdn4.com/20220409/92_f6307ddb/index.m3u8
+贞观之治-34,https://yzzy.play-cdn4.com/20220409/93_eac4638b/index.m3u8
+贞观之治-35,https://yzzy.play-cdn4.com/20220409/94_18d8e710/index.m3u8
+贞观之治-36,https://yzzy.play-cdn4.com/20220409/95_cfd32b9d/index.m3u8
+贞观之治-37,https://yzzy.play-cdn4.com/20220409/96_31270240/index.m3u8
+贞观之治-38,https://yzzy.play-cdn4.com/20220409/97_4d25b2d6/index.m3u8
+贞观之治-39,https://yzzy.play-cdn4.com/20220409/98_b0520201/index.m3u8
+贞观之治-40,https://yzzy.play-cdn4.com/20220409/99_c3994865/index.m3u8
+贞观之治-41,https://yzzy.play-cdn4.com/20220409/100_e9fe6d79/index.m3u8
+贞观之治-42,https://yzzy.play-cdn4.com/20220409/101_1bfa6592/index.m3u8
+贞观之治-43,https://yzzy.play-cdn4.com/20220409/102_6ba29315/index.m3u8
+贞观之治-44,https://yzzy.play-cdn4.com/20220409/103_a6f471a5/index.m3u8
+贞观之治-45,https://yzzy.play-cdn4.com/20220409/104_52dd6309/index.m3u8
+贞观之治-46,https://yzzy.play-cdn4.com/20220409/105_a94dcf9d/index.m3u8
+贞观之治-47,https://yzzy.play-cdn4.com/20220409/106_0c3f89a8/index.m3u8
+贞观之治-48,https://yzzy.play-cdn4.com/20220409/107_4488b608/index.m3u8
+贞观之治-49,https://yzzy.play-cdn4.com/20220409/108_e1e98f71/index.m3u8
+贞观之治-50,https://yzzy.play-cdn4.com/20220409/109_16ab19ed/index.m3u8
+
+【大明王朝】,
+大明王朝1566-01,https://yzzy1.play-cdn16.com/20230817/17142_4a1964f4/index.m3u8
+大明王朝1566-02,https://yzzy1.play-cdn16.com/20230817/17143_a0b6b3af/index.m3u8
+大明王朝1566-03,https://yzzy1.play-cdn16.com/20230817/17144_47758c45/index.m3u8
+大明王朝1566-04,https://yzzy1.play-cdn16.com/20230817/17145_73f684f4/index.m3u8
+大明王朝1566-05,https://yzzy1.play-cdn16.com/20230817/17147_5ee80ff9/index.m3u8
+大明王朝1566-06,https://yzzy1.play-cdn16.com/20230817/17146_4c4795b1/index.m3u8
+大明王朝1566-07,https://yzzy1.play-cdn16.com/20230817/17148_052fc3df/index.m3u8
+大明王朝1566-08,https://yzzy1.play-cdn16.com/20230817/17150_845cb932/index.m3u8
+大明王朝1566-09,https://yzzy1.play-cdn16.com/20230817/17151_2b8c2cd4/index.m3u8
+大明王朝1566-10,https://yzzy1.play-cdn16.com/20230817/17149_414d22e0/index.m3u8
+大明王朝1566-11,https://yzzy1.play-cdn16.com/20230817/17153_fab6a611/index.m3u8
+大明王朝1566-12,https://yzzy1.play-cdn16.com/20230817/17152_467ed21c/index.m3u8
+大明王朝1566-13,https://yzzy1.play-cdn16.com/20230817/17154_f6f31806/index.m3u8
+大明王朝1566-14,https://yzzy1.play-cdn16.com/20230817/17155_7ba9b670/index.m3u8
+大明王朝1566-15,https://yzzy1.play-cdn16.com/20230817/17156_78648afc/index.m3u8
+大明王朝1566-16,https://yzzy1.play-cdn16.com/20230817/17157_89197e53/index.m3u8
+大明王朝1566-17,https://yzzy1.play-cdn16.com/20230817/17159_4ca27cfe/index.m3u8
+大明王朝1566-18,https://yzzy1.play-cdn16.com/20230817/17158_ad573b8c/index.m3u8
+大明王朝1566-19,https://yzzy1.play-cdn16.com/20230817/17160_75b93d68/index.m3u8
+大明王朝1566-20,https://yzzy1.play-cdn16.com/20230817/17161_77243b47/index.m3u8
+大明王朝1566-21,https://yzzy1.play-cdn16.com/20230817/17162_7a208a55/index.m3u8
+大明王朝1566-22,https://yzzy1.play-cdn16.com/20230817/17163_2f8e3bbe/index.m3u8
+大明王朝1566-23,https://yzzy1.play-cdn16.com/20230817/17164_01b2c778/index.m3u8
+大明王朝1566-24,https://yzzy1.play-cdn16.com/20230817/17165_5dd1d355/index.m3u8
+大明王朝1566-25,https://yzzy1.play-cdn16.com/20230817/17166_0bb7ea41/index.m3u8
+大明王朝1566-26,https://yzzy1.play-cdn16.com/20230817/17167_8ac6da89/index.m3u8
+大明王朝1566-27,https://yzzy1.play-cdn16.com/20230817/17168_17567251/index.m3u8
+大明王朝1566-28,https://yzzy1.play-cdn16.com/20230817/17169_5ffff703/index.m3u8
+大明王朝1566-29,https://yzzy1.play-cdn16.com/20230817/17170_fb4962e6/index.m3u8
+大明王朝1566-30,https://yzzy1.play-cdn16.com/20230817/17171_5b14e045/index.m3u8
+大明王朝1566-31,https://yzzy1.play-cdn16.com/20230817/17172_d88db623/index.m3u8
+大明王朝1566-32,https://yzzy1.play-cdn16.com/20230817/17173_51530d98/index.m3u8
+大明王朝1566-33,https://yzzy1.play-cdn16.com/20230817/17176_6c19e88c/index.m3u8
+大明王朝1566-34,https://yzzy1.play-cdn16.com/20230817/17175_873fecce/index.m3u8
+大明王朝1566-35,https://yzzy1.play-cdn16.com/20230817/17174_7ce367de/index.m3u8
+大明王朝1566-36,https://yzzy1.play-cdn16.com/20230817/17177_1e3cbca6/index.m3u8
+大明王朝1566-37,https://yzzy1.play-cdn16.com/20230817/17178_3126d9d4/index.m3u8
+大明王朝1566-38,https://yzzy1.play-cdn16.com/20230817/17179_996bcf42/index.m3u8
+大明王朝1566-39,https://yzzy1.play-cdn16.com/20230817/17181_b7b60ac6/index.m3u8
+大明王朝1566-40,https://yzzy1.play-cdn16.com/20230817/17180_96500eea/index.m3u8
+大明王朝1566-41,https://yzzy1.play-cdn16.com/20230817/17182_28e6f08f/index.m3u8
+大明王朝1566-42,https://yzzy1.play-cdn16.com/20230817/17183_db35e528/index.m3u8
+大明王朝1566-43,https://yzzy1.play-cdn16.com/20230817/17185_3eadd07b/index.m3u8
+大明王朝1566-44,https://yzzy1.play-cdn16.com/20230817/17184_32a00631/index.m3u8
+大明王朝1566-45,https://yzzy1.play-cdn16.com/20230817/17187_a966b55a/index.m3u8
+大明王朝1566-46,https://yzzy1.play-cdn16.com/20230817/17188_b2aaa9d9/index.m3u8
+
+【黑土无言】,
+黑土无言-01,https://yzzy.play-cdn1.com/20240110/11523_37442450/index.m3u8
+黑土无言-02,https://yzzy.play-cdn1.com/20240110/11522_1a07c3d3/index.m3u8
+黑土无言-03,https://yzzy.play-cdn19.com/20240110/14004_49e2d2b4/index.m3u8
+黑土无言-04,https://yzzy.play-cdn19.com/20240111/14049_5152560e/index.m3u8
+黑土无言-05,https://yzzy.play-cdn20.com/20240112/12108_beee82bb/index.m3u8
+黑土无言-06,https://yzzy.play-cdn1.com/20240113/12060_e3cf8875/index.m3u8
+黑土无言-07,https://yzzy.play-cdn1.com/20240114/12121_b6f69d8c/index.m3u8
+黑土无言-08,https://yzzy.play-cdn20.com/20240115/13475_be32590e/index.m3u8
+黑土无言-09,https://yzzy.play-cdn20.com/20240116/13511_bbcccce4/index.m3u8
+黑土无言-10,https://yzzy.play-cdn19.com/20240117/15045_56b74e95/index.m3u8
+黑土无言-11,https://yzzy.play-cdn20.com/20240118/13581_7786d6d9/index.m3u8
+黑土无言-12,https://yzzy.play-cdn20.com/20240119/13631_9d9786da/index.m3u8
+
+【祈今朝】,
+祈今朝-01,https://www.yzzy.play-cdn1.com/20240118/12396_7aa524a0/index.m3u8
+祈今朝-02,https://www.yzzy.play-cdn1.com/20240118/12410_52b25fb4/index.m3u8
+祈今朝-03,https://yzzy.play-cdn19.com/20240118/15717_aad1eb3a/index.m3u8
+祈今朝-04,https://yzzy.play-cdn19.com/20240118/15716_38bd1fb5/index.m3u8
+祈今朝-05,https://www.yzzy.play-cdn1.com/20240119/12505_35a8af03/index.m3u8
+祈今朝-06,https://www.yzzy.play-cdn1.com/20240119/12504_66774407/index.m3u8
+祈今朝-07,https://www.yzzy.play-cdn20.com/20240120/13669_fd03bc8a/index.m3u8
+祈今朝-08,https://www.yzzy.play-cdn20.com/20240120/13668_a13635ff/index.m3u8
+祈今朝-09,https://yzzy.play-cdn19.com/20240121/16535_8d396748/index.m3u8
+祈今朝-10,https://yzzy.play-cdn19.com/20240121/16534_b80df165/index.m3u8
+祈今朝-11,https://www.yzzy.play-cdn1.com/20240122/12742_0c0246f9/index.m3u8
+祈今朝-12,https://www.yzzy.play-cdn1.com/20240122/12741_b510fc2f/index.m3u8
+祈今朝-13,https://www.yzzy.play-cdn20.com/20240123/13814_1c0f64a7/index.m3u8
+祈今朝-14,https://www.yzzy.play-cdn20.com/20240123/13813_ae4304cb/index.m3u8
+祈今朝-15,https://www.yzzy.play-cdn1.com/20240124/13333_bfe6df75/index.m3u8
+祈今朝-16,https://www.yzzy.play-cdn1.com/20240124/13332_796555fe/index.m3u8
+祈今朝-17,https://yzzy.play-cdn19.com/20240127/18123_0f04a721/index.m3u8
+祈今朝-18,https://yzzy.play-cdn19.com/20240127/18122_57297ab7/index.m3u8
+祈今朝-19,https://yzzy.play-cdn19.com/20240128/18167_303ac7e4/index.m3u8
+祈今朝-20,https://yzzy.play-cdn19.com/20240128/18166_9b4285de/index.m3u8
+祈今朝-21,https://www.yzzy.play-cdn20.com/20240129/14153_4d840291/index.m3u8
+祈今朝-22,https://www.yzzy.play-cdn20.com/20240129/14152_1a9ca986/index.m3u8
+
+【仙剑四】,
+仙剑四-01,https://www.yzzy.play-cdn20.com/20240117/13549_97599b16/index.m3u8
+仙剑四-02,https://www.yzzy.play-cdn20.com/20240117/13548_dd2c8a19/index.m3u8
+仙剑四-03,https://www.yzzy.play-cdn20.com/20240117/13547_bf7caae6/index.m3u8
+仙剑四-04,https://www.yzzy.play-cdn20.com/20240117/13546_6cbe42d7/index.m3u8
+仙剑四-05,https://www.yzzy.play-cdn20.com/20240117/13545_b9283813/index.m3u8
+仙剑四-06,https://www.yzzy.play-cdn20.com/20240117/13544_649a9e11/index.m3u8
+仙剑四-07,https://www.yzzy.play-cdn20.com/20240118/13580_2e1d1e08/index.m3u8
+仙剑四-08,https://www.yzzy.play-cdn20.com/20240118/13579_bd74bde9/index.m3u8
+仙剑四-09,https://www.yzzy.play-cdn1.com/20240119/12520_54fd789c/index.m3u8
+仙剑四-10,https://www.yzzy.play-cdn1.com/20240119/12519_931d925e/index.m3u8
+仙剑四-11,https://www.yzzy.play-cdn1.com/20240120/12610_4d8fd8ae/index.m3u8
+仙剑四-12,https://www.yzzy.play-cdn1.com/20240120/12609_a47c18a8/index.m3u8
+仙剑四-13,https://yzzy.play-cdn19.com/20240121/16533_30454f6d/index.m3u8
+仙剑四-14,https://yzzy.play-cdn19.com/20240121/16532_53963ac6/index.m3u8
+仙剑四-15,https://www.yzzy.play-cdn1.com/20240122/12740_e14b65ff/index.m3u8
+仙剑四-16,https://www.yzzy.play-cdn1.com/20240122/12739_715f3212/index.m3u8
+仙剑四-17,https://www.yzzy.play-cdn20.com/20240123/13808_4cdc0787/index.m3u8
+仙剑四-18,https://www.yzzy.play-cdn20.com/20240123/13807_29ae1d52/index.m3u8
+仙剑四-19,https://www.yzzy.play-cdn20.com/20240124/13865_b83f4384/index.m3u8
+仙剑四-20,https://www.yzzy.play-cdn20.com/20240124/13864_4ccbc701/index.m3u8
+仙剑四-21,https://www.yzzy.play-cdn1.com/20240125/13440_0be6d060/index.m3u8
+仙剑四-22,https://www.yzzy.play-cdn1.com/20240125/13439_be4e6b0c/index.m3u8
+仙剑四-23,https://www.yzzy.play-cdn20.com/20240126/14006_74631468/index.m3u8
+仙剑四-24,https://www.yzzy.play-cdn20.com/20240126/14005_fd13b953/index.m3u8
+仙剑四-25,https://www.yzzy.play-cdn1.com/20240127/14074_f406bae5/index.m3u8
+仙剑四-26,https://www.yzzy.play-cdn1.com/20240127/14073_4e232b63/index.m3u8
+仙剑四-27,https://www.yzzy.play-cdn20.com/20240128/14111_b7149117/index.m3u8
+仙剑四-28,https://yzzy.play-cdn19.com/20240128/18161_6138810a/index.m3u8
+仙剑四-29,https://yzzy.play-cdn19.com/20240129/18200_c6f04417/index.m3u8
+仙剑四-30,https://yzzy.play-cdn19.com/20240129/18199_8f52c5bd/index.m3u8
+
+【阴阳镇怪谈】,
+阴阳镇怪谈-01,https://www.yzzy.play-cdn1.com/20240107/11324_0bb28e18/index.m3u8
+阴阳镇怪谈-02,https://www.yzzy.play-cdn1.com/20240107/11325_3f0d9392/index.m3u8
+阴阳镇怪谈-03,https://www.yzzy.play-cdn1.com/20240107/11326_689c95fa/index.m3u8
+阴阳镇怪谈-04,https://www.yzzy.play-cdn1.com/20240107/11327_76cee30b/index.m3u8
+阴阳镇怪谈-05,https://www.yzzy.play-cdn1.com/20240107/11328_4e49757d/index.m3u8
+阴阳镇怪谈-06,https://www.yzzy.play-cdn1.com/20240107/11329_80ae40dd/index.m3u8
+阴阳镇怪谈-07,https://www.yzzy.play-cdn1.com/20240107/11330_6eca2860/index.m3u8
+阴阳镇怪谈-08,https://www.yzzy.play-cdn1.com/20240107/11331_7e084459/index.m3u8
+阴阳镇怪谈-09,https://www.yzzy.play-cdn1.com/20240107/11332_aa61995d/index.m3u8
+阴阳镇怪谈-10,https://www.yzzy.play-cdn20.com/20240108/10776_3d5324a1/index.m3u8
+阴阳镇怪谈-11,https://www.yzzy.play-cdn20.com/20240108/10775_a7ecebe1/index.m3u8
+阴阳镇怪谈-12,https://yzzy.play-cdn19.com/20240109/13930_c14765a5/index.m3u8
+阴阳镇怪谈-13,https://yzzy.play-cdn19.com/20240109/13929_74babef8/index.m3u8
+阴阳镇怪谈-14,https://www.yzzy.play-cdn1.com/20240110/11501_8173a35f/index.m3u8
+阴阳镇怪谈-15,https://www.yzzy.play-cdn1.com/20240110/11492_73564757/index.m3u8
+阴阳镇怪谈-16,https://www.yzzy.play-cdn20.com/20240111/11574_bba69648/index.m3u8
+阴阳镇怪谈-17,https://www.yzzy.play-cdn20.com/20240111/11573_85f7a5f9/index.m3u8
+阴阳镇怪谈-18,https://www.yzzy.play-cdn1.com/20240112/11661_4853f5a2/index.m3u8
+阴阳镇怪谈-19,https://www.yzzy.play-cdn1.com/20240112/11660_b6e2e571/index.m3u8
+阴阳镇怪谈-20,https://yzzy.play-cdn19.com/20240113/14150_6530e589/index.m3u8
+阴阳镇怪谈-21,https://yzzy.play-cdn19.com/20240114/14219_f61bd7c0/index.m3u8
+阴阳镇怪谈-22,https://www.yzzy.play-cdn1.com/20240115/12156_ef792aaa/index.m3u8
+阴阳镇怪谈-23,https://www.yzzy.play-cdn20.com/20240116/13496_68f524e9/index.m3u8
+阴阳镇怪谈-24,https://www.yzzy.play-cdn20.com/20240116/13495_48f98492/index.m3u8
+
+【狗剩快跑】,
+狗剩快跑-01,https://www.yzzy.play-cdn1.com/20240125/13458_7b1104f7/index.m3u8
+狗剩快跑-02,https://www.yzzy.play-cdn1.com/20240125/13457_83b8d855/index.m3u8
+狗剩快跑-03,https://www.yzzy.play-cdn20.com/20240125/13931_568c52d6/index.m3u8
+狗剩快跑-04,https://www.yzzy.play-cdn20.com/20240125/13930_d89f73af/index.m3u8
+狗剩快跑-05,https://yzzy.play-cdn19.com/20240126/18090_172635f6/index.m3u8
+狗剩快跑-06,https://yzzy.play-cdn19.com/20240126/18089_718cec42/index.m3u8
+狗剩快跑-07,https://yzzy.play-cdn19.com/20240127/18131_c244645d/index.m3u8
+狗剩快跑-08,https://yzzy.play-cdn19.com/20240127/18130_074b4f7a/index.m3u8
+狗剩快跑-09,https://www.yzzy.play-cdn20.com/20240128/14125_bc2ac1e4/index.m3u8
+狗剩快跑-10,https://www.yzzy.play-cdn20.com/20240128/14124_51c8d867/index.m3u8
+狗剩快跑-11,https://www.yzzy.play-cdn1.com/20240129/14668_e76328e3/index.m3u8
+狗剩快跑-12,https://www.yzzy.play-cdn1.com/20240129/14667_5594a2bb/index.m3u8
+
+【繁花】,
+繁花-01,https://cdn19.vip-vip-yzzy.com/20231227/11183_22288ebd/index.m3u8
+繁花-02,https://cdn19.vip-vip-yzzy.com/20231227/11182_429084a9/index.m3u8
+繁花-03,https://cdn20.vip-vip-yzzy.com/20231227/10311_2436cfad/index.m3u8
+繁花-04,https://cdn20.vip-vip-yzzy.com/20231227/10310_e949c978/index.m3u8
+繁花-05,https://cdn20.vip-vip-yzzy.com/20231228/10345_acbf6284/index.m3u8
+繁花-06,https://cdn20.vip-vip-yzzy.com/20231228/10344_6855f9f4/index.m3u8
+繁花-07,https://cdn1.vip-vip-yzzy.com/20231229/10712_0578ba3f/index.m3u8
+繁花-08,https://cdn1.vip-vip-yzzy.com/20231229/10711_6803d9c4/index.m3u8
+繁花-09,https://cdn20.vip-vip-yzzy.com/20231230/10461_ad79cd4e/index.m3u8
+繁花-10,https://cdn20.vip-vip-yzzy.com/20231230/10460_9da60f8b/index.m3u8
+繁花-11,https://cdn20.vip-vip-yzzy.com/20231231/10514_0403f404/index.m3u8
+繁花-12,https://cdn20.vip-vip-yzzy.com/20231231/10513_ecfe682d/index.m3u8
+繁花-13,https://cdn1.vip-vip-yzzy.com/20240101/10938_5c924824/index.m3u8
+繁花-14,https://cdn1.vip-vip-yzzy.com/20240101/10937_5f64ab5f/index.m3u8
+繁花-15,https://cdn1.vip-vip-yzzy.com/20240102/10978_518503e2/index.m3u8
+繁花-16,https://cdn1.vip-vip-yzzy.com/20240102/10977_c901fd70/index.m3u8
+繁花-17,https://cdn20.vip-vip-yzzy.com/20240103/10615_8cd7af21/index.m3u8
+繁花-18,https://cdn19.vip-vip-yzzy.com/20240104/12548_d745d857/index.m3u8
+繁花-19,https://cdn20.vip-vip-yzzy.com/20240104/10648_0bc9682a/index.m3u8
+繁花-20,https://cdn20.vip-vip-yzzy.com/20240104/10647_35558b82/index.m3u8
+繁花-21,https://cdn1.vip-vip-yzzy.com/20240105/11195_9534e750/index.m3u8
+繁花-22,https://cdn1.vip-vip-yzzy.com/20240105/11194_e9cc35c0/index.m3u8
+繁花-23,https://cdn20.vip-vip-yzzy.com/20240106/10702_6889de8f/index.m3u8
+繁花-24,https://cdn20.vip-vip-yzzy.com/20240106/10703_0dfc6204/index.m3u8
+繁花-24,https://cdn20.vip-vip-yzzy.com/20240106/10703_0dfc6204/index.m3u8
+繁花-25,https://cdn19.vip-vip-yzzy.com/20240107/13865_71053204/index.m3u8
+繁花-26,https://cdn19.vip-vip-yzzy.com/20240107/13866_e311204d/index.m3u8
+繁花-27,https://cdn1.vip-vip-yzzy.com/20240108/11395_5c632d21/index.m3u8
+繁花-28,https://cdn1.vip-vip-yzzy.com/20240108/11394_147b39e4/index.m3u8
+繁花-29,https://cdn1.vip-vip-yzzy.com/20240109/11447_87d1b531/index.m3u8
+繁花-30,https://cdn1.vip-vip-yzzy.com/20240109/11445_00acaee8/index.m3u8
+
+【天启异闻录】,
+天启异闻录-01,https://cdn1.vip-vip-yzzy.com/20231230/10790_cecd3eb3/index.m3u8
+天启异闻录-02,https://cdn1.vip-vip-yzzy.com/20231230/10789_b9afe481/index.m3u8
+天启异闻录-03,https://cdn1.vip-vip-yzzy.com/20231230/10788_158c9c21/index.m3u8
+天启异闻录-04,https://cdn1.vip-vip-yzzy.com/20231231/10863_d7389f33/index.m3u8
+天启异闻录-05,https://cdn1.vip-vip-yzzy.com/20231231/10862_3c56f9f4/index.m3u8
+天启异闻录-06,https://cdn20.vip-vip-yzzy.com/20240101/10537_6e388d72/index.m3u8
+天启异闻录-07,https://cdn19.vip-vip-yzzy.com/20240102/12164_8b34337d/index.m3u8
+天启异闻录-08,https://cdn20.vip-vip-yzzy.com/20240103/10601_8eb54f80/index.m3u8
+天启异闻录-09,https://cdn1.vip-vip-yzzy.com/20240104/11071_b4bbf84e/index.m3u8
+天启异闻录-10,https://cdn1.vip-vip-yzzy.com/20240105/11176_c5ffd2a2/index.m3u8
+天启异闻录-11,https://cdn1.vip-vip-yzzy.com/20240106/11269_b7c2399b/index.m3u8
+天启异闻录-12,https://cdn19.vip-vip-yzzy.com/20240107/13862_f4a84e0e/index.m3u8
+
+
+【侦察英雄】,
+侦察英雄-01,https://yzzy.play-cdn20.com/20240109/11321_0ebb2643/index.m3u8
+侦察英雄-02,https://yzzy.play-cdn20.com/20240109/11320_91876f19/index.m3u8
+侦察英雄-03,https://yzzy.play-cdn20.com/20240110/11530_7d64e819/index.m3u8
+侦察英雄-04,https://yzzy.play-cdn20.com/20240110/11529_c3cf10db/index.m3u8
+侦察英雄-05,https://yzzy.play-cdn19.com/20240111/14066_f79691ac/index.m3u8
+侦察英雄-06,https://yzzy.play-cdn19.com/20240111/14065_79b6cb86/index.m3u8
+侦察英雄-07,https://yzzy.play-cdn19.com/20240112/14121_45488055/index.m3u8
+侦察英雄-08,https://yzzy.play-cdn19.com/20240113/14176_a9f8f3f6/index.m3u8
+侦察英雄-09,https://yzzy.play-cdn1.com/20240114/12124_6655ca5c/index.m3u8
+侦察英雄-10,https://yzzy.play-cdn1.com/20240114/12123_a5257df4/index.m3u8
+侦察英雄-11,https://yzzy.play-cdn1.com/20240115/12184_2bdc5deb/index.m3u8
+侦察英雄-12,https://yzzy.play-cdn1.com/20240115/12183_b73637c2/index.m3u8
+侦察英雄-13,https://yzzy.play-cdn20.com/20240116/13513_bd1ede0f/index.m3u8
+侦察英雄-14,https://yzzy.play-cdn20.com/20240116/13512_ebbf27ae/index.m3u8
+侦察英雄-15,https://yzzy.play-cdn19.com/20240117/15050_abacd819/index.m3u8
+侦察英雄-16,https://yzzy.play-cdn19.com/20240117/15049_45cb0184/index.m3u8
+侦察英雄-17,https://yzzy.play-cdn1.com/20240118/12413_3d81a22c/index.m3u8
+侦察英雄-18,https://yzzy.play-cdn1.com/20240118/12412_8a17e388/index.m3u8
+侦察英雄-19,https://yzzy.play-cdn19.com/20240119/15813_5fed8ed9/index.m3u8
+侦察英雄-20,https://yzzy.play-cdn19.com/20240120/15978_503d9af6/index.m3u8
+侦察英雄-21,https://yzzy.play-cdn20.com/20240121/13728_2d8bb217/index.m3u8
+侦察英雄-22,https://yzzy.play-cdn20.com/20240121/13727_d1cf8a67/index.m3u8
+侦察英雄-23,https://yzzy.play-cdn19.com/20240122/17212_8fea62e0/index.m3u8
+侦察英雄-24,https://yzzy.play-cdn19.com/20240122/17211_17035276/index.m3u8
+侦察英雄-25,https://yzzy.play-cdn20.com/20240123/13815_dfb9c154/index.m3u8
+侦察英雄-26,https://yzzy.play-cdn20.com/20240123/13816_75b8333c/index.m3u8
+
+
+【三大队】,
+三大队-01,https://cdn19.vip-vip-yzzy.com/20231221/10778_eac9457c/index.m3u8
+三大队-02,https://cdn19.vip-vip-yzzy.com/20231221/10777_a982c3d5/index.m3u8
+三大队-03,https://cdn1.vip-vip-yzzy.com/20231221/10038_b7a53026/index.m3u8
+三大队-04,https://cdn1.vip-vip-yzzy.com/20231222/10115_686b46ef/index.m3u8
+三大队-05,https://cdn1.vip-vip-yzzy.com/20231222/10114_a2632229/index.m3u8
+三大队-06,https://cdn1.vip-vip-yzzy.com/20231223/10183_03572f40/index.m3u8
+三大队-07,https://cdn1.vip-vip-yzzy.com/20231223/10182_a63d35c3/index.m3u8
+三大队-08,https://cdn1.vip-vip-yzzy.com/20231224/10276_56cba267/index.m3u8
+三大队-09,https://cdn1.vip-vip-yzzy.com/20231224/10275_ae8dc43b/index.m3u8
+三大队-10,https://cdn1.vip-vip-yzzy.com/20231225/10321_d17630fc/index.m3u8
+三大队-11,https://cdn19.vip-vip-yzzy.com/20231226/11096_228ae4b0/index.m3u8
+三大队-12,https://cdn20.vip-vip-yzzy.com/20231227/10305_3058907d/index.m3u8
+三大队-13,https://cdn19.vip-vip-yzzy.com/20231228/11273_405ce42e/index.m3u8
+三大队-14,https://cdn19.vip-vip-yzzy.com/20231228/11272_360247cf/index.m3u8
+三大队-15,https://cdn1.vip-vip-yzzy.com/20231229/10704_3f91905b/index.m3u8
+三大队-16,https://cdn1.vip-vip-yzzy.com/20231229/10703_76ce317d/index.m3u8
+三大队-17,https://cdn19.vip-vip-yzzy.com/20231230/11664_48043c6a/index.m3u8
+三大队-18,https://cdn19.vip-vip-yzzy.com/20231230/11663_29a4c99d/index.m3u8
+三大队-19,https://cdn20.vip-vip-yzzy.com/20231231/10487_bf7f535d/index.m3u8
+三大队-20,https://cdn20.vip-vip-yzzy.com/20231231/10486_b1e53416/index.m3u8
+三大队-21,https://cdn20.vip-vip-yzzy.com/20231231/10501_4cc59dfc/index.m3u8
+三大队-22,https://cdn20.vip-vip-yzzy.com/20231231/10500_def2c311/index.m3u8
+三大队-23,https://cdn1.vip-vip-yzzy.com/20231231/10847_3ca60bcd/index.m3u8
+三大队-24,https://cdn1.vip-vip-yzzy.com/20231231/10846_eb0e7adc/index.m3u8
+
+【赤焰锦衣卫】,
+赤焰锦衣卫 第01集,https://vip.lz-cdn9.com/20221231/16778_e7666586/index.m3u8
+赤焰锦衣卫 第02集,https://vip.lz-cdn9.com/20221231/16779_38ed83a0/index.m3u8
+赤焰锦衣卫 第03集,https://vip.lz-cdn9.com/20221231/16780_7c9b6742/index.m3u8
+赤焰锦衣卫 第04集,https://vip.lz-cdn14.com/20230104/16759_4c65503b/index.m3u8
+赤焰锦衣卫 第05集,https://vip.lz-cdn14.com/20230111/17159_84083cec/index.m3u8
+赤焰锦衣卫 第06集,https://vip.lz-cdn14.com/20230118/17534_0e417c9c/index.m3u8
+赤焰锦衣卫 第07集,https://vip.lz-cdn14.com/20230125/17928_a85638cb/index.m3u8
+赤焰锦衣卫 第09集,https://vip.lz-cdn14.com/20230208/18619_4976ff19/index.m3u8
+赤焰锦衣卫 第10集,https://vip.lz-cdn14.com/20230215/18956_595bd54e/index.m3u8
+赤焰锦衣卫 第11集,https://vip.lz-cdn14.com/20230222/19324_274d9862/index.m3u8
+赤焰锦衣卫 第12集,https://vip.lz-cdn14.com/20230301/19690_06102866/index.m3u8
+赤焰锦衣卫 第13集,https://vip.lz-cdn14.com/20230308/20039_ec7149b8/index.m3u8
+赤焰锦衣卫 第14集,https://vip.lz-cdn14.com/20230315/20390_9982b9ee/index.m3u8
+赤焰锦衣卫 第15集,https://vip.lz-cdn14.com/20230322/20740_824f29cf/index.m3u8
+赤焰锦衣卫 第16集,https://vip.lz-cdn14.com/20230329/21085_b4de445a/index.m3u8
+赤焰锦衣卫 第17集,https://vip.lz-cdn14.com/20230405/21390_cca4dedc/index.m3u8
+赤焰锦衣卫 第18集,https://vip.lz-cdn14.com/20230412/21683_105bf43e/index.m3u8
+赤焰锦衣卫 第19集,https://vip.lz-cdn14.com/20230419/22006_68ec6a1e/index.m3u8
+赤焰锦衣卫 第20集,https://vip.lz-cdn14.com/20230426/22408_e50e0fc7/index.m3u8
+
+【尘封十三载】,
+尘封十三载 第01集,https://hd.lz-cdn18.com/20230406/1701_0ba78cf7/index.m3u8
+尘封十三载 第02集,https://hd.lz-cdn18.com/20230406/1700_691f2e08/index.m3u8
+尘封十三载 第03集,https://hd.lz-cdn18.com/20230406/1699_2f8cac84/index.m3u8
+尘封十三载 第04集,https://hd.lz-cdn18.com/20230406/1698_cfd2eac2/index.m3u8
+尘封十三载 第05集,https://vip.lzcdn2.com/20230407/25103_b92c794a/index.m3u8
+尘封十三载 第06集,https://vip.lzcdn2.com/20230407/25102_05aa2477/index.m3u8
+尘封十三载 第07集,https://hd.lz-cdn18.com/20230408/1756_c62d07d8/index.m3u8
+尘封十三载 第08集,https://hd.lz-cdn18.com/20230408/1755_d22edf2b/index.m3u8
+尘封十三载 第09集,https://vip.lzcdn2.com/20230409/25141_b85f9b8d/index.m3u8
+尘封十三载 第10集,https://vip.lzcdn2.com/20230409/25140_584a8930/index.m3u8
+尘封十三载 第11集,https://hd.lz-cdn18.com/20230410/1780_d7941636/index.m3u8
+尘封十三载 第12集,https://hd.lz-cdn18.com/20230410/1779_4b4740a1/index.m3u8
+尘封十三载 第13集,https://vip.lzcdn2.com/20230411/25176_02a2ce33/index.m3u8
+尘封十三载 第14集,https://vip.lzcdn2.com/20230411/25175_95075a3c/index.m3u8
+尘封十三载 第15集,https://hd.lz-cdn18.com/20230412/1820_28387e68/index.m3u8
+尘封十三载 第16集,https://hd.lz-cdn18.com/20230412/1819_1186150c/index.m3u8
+尘封十三载 第17集,https://vip.lzcdn2.com/20230413/25210_d63b081b/index.m3u8
+尘封十三载 第18集,https://vip.lzcdn2.com/20230413/25209_25921bc5/index.m3u8
+尘封十三载 第19集,https://hd.lz-cdn18.com/20230414/1890_56f684b8/index.m3u8
+尘封十三载 第20集,https://hd.lz-cdn18.com/20230414/1889_bac26094/index.m3u8
+尘封十三载 第21集,https://vip.lzcdn2.com/20230415/25244_a551c726/index.m3u8
+尘封十三载 第22集,https://vip.lzcdn2.com/20230415/25243_a2e60486/index.m3u8
+尘封十三载 第23集,https://hd.lz-cdn18.com/20230416/1926_6c185945/index.m3u8
+尘封十三载 第24集,https://hd.lz-cdn18.com/20230416/1925_64688cb0/index.m3u8
+
+【漫长的季节】,
+漫长的季节-01,https://cdn17.yzzy-online.com/20230422/726_a62e7be6/index.m3u8
+漫长的季节-02,https://cdn17.yzzy-online.com/20230422/727_530839a1/index.m3u8
+漫长的季节-03,https://cdn17.yzzy-online.com/20230422/728_f71cfec0/index.m3u8
+漫长的季节-04,https://cdn16.yzzy-online.com/20230423/2797_c225b5e1/index.m3u8
+漫长的季节-05,https://cdn16.yzzy-online.com/20230424/3105_941272f8/index.m3u8
+漫长的季节-06,https://cdn15.yzzy-online.com/20230425/9321_dd4a986b/index.m3u8
+漫长的季节-07,https://cdn16.yzzy-online.com/20230426/3315_c900aa11/index.m3u8
+漫长的季节-08,https://cdn16.yzzy-online.com/20230427/3406_dc8b84b5/index.m3u8
+漫长的季节-09,https://cdn16.yzzy-online.com/20230428/3540_8108f68c/index.m3u8
+漫长的季节-10,https://cdn16.yzzy-online.com/20230429/3604_616595c4/index.m3u8
+漫长的季节-11,https://cdn16.yzzy-online.com/20230430/3687_09e8d7fb/index.m3u8
+漫长的季节-12,https://cdn16.yzzy-online.com/20230501/3734_396089c6/index.m3u8
+
+【产科医生】,
+产科医生 第一集,https://cdn8.yzzy-tv-cdn.com/20220909/18886_55df9e25/1000k/hls/index.m3u8              
+产科医生 第二集,https://cdn8.yzzy-tv-cdn.com/20220909/18885_0140e11f/1000k/hls/index.m3u8
+产科医生 第三集,https://cdn8.yzzy-tv-cdn.com/20220909/18884_9bdcb6bf/1000k/hls/index.m3u8
+产科医生 第四集,https://cdn8.yzzy-tv-cdn.com/20220909/18887_02f38821/1000k/hls/index.m3u8
+产科医生 第五集,https://cdn8.yzzy-tv-cdn.com/20220909/18888_851170bb/1000k/hls/index.m3u8
+产科医生 第六集,https://cdn8.yzzy-tv-cdn.com/20220909/18889_c9f8556d/1000k/hls/index.m3u8
+产科医生 第七集,https://cdn8.yzzy-tv-cdn.com/20220909/18890_363bf8cb/1000k/hls/index.m3u8
+产科医生 第八集,https://cdn8.yzzy-tv-cdn.com/20220909/18891_29a4edf2/1000k/hls/index.m3u8
+产科医生 第九集,https://cdn8.yzzy-tv-cdn.com/20220909/18892_a924cb9d/1000k/hls/index.m3u8
+产科医生 第十集,https://cdn8.yzzy-tv-cdn.com/20220909/18893_03e4b1f1/1000k/hls/index.m3u8
+产科医生 第十一集,https://cdn8.yzzy-tv-cdn.com/20220909/18894_ccd2cc85/1000k/hls/index.m3u8
+产科医生 第十二集,https://cdn8.yzzy-tv-cdn.com/20220909/18895_6deb8fca/1000k/hls/index.m3u8
+产科医生 第十三集,https://cdn8.yzzy-tv-cdn.com/20220909/18897_0229bc93/1000k/hls/index.m3u8
+产科医生 第十四集,https://cdn8.yzzy-tv-cdn.com/20220909/18896_a9797821/1000k/hls/index.m3u8
+产科医生 第十五集,https://cdn8.yzzy-tv-cdn.com/20220909/18898_4a2ab8b0/1000k/hls/index.m3u8
+产科医生 第十六集,https://cdn8.yzzy-tv-cdn.com/20220909/18901_d5ef6831/1000k/hls/index.m3u8
+产科医生 第十七集,https://cdn8.yzzy-tv-cdn.com/20220909/18900_85adf136/1000k/hls/index.m3u8
+产科医生 第十八集,https://cdn8.yzzy-tv-cdn.com/20220909/18899_d35ea92a/1000k/hls/index.m3u8
+产科医生 第十九集,https://cdn8.yzzy-tv-cdn.com/20220909/18902_9731f907/1000k/hls/index.m3u8
+产科医生 第二十集,https://cdn8.yzzy-tv-cdn.com/20220909/18903_4513812d/1000k/hls/index.m3u8
+产科医生 第二十一集,https://cdn8.yzzy-tv-cdn.com/20220909/18904_9111977d/1000k/hls/index.m3u8
+产科医生 第二十二集,https://cdn8.yzzy-tv-cdn.com/20220909/18908_7f95156f/1000k/hls/index.m3u8
+产科医生 第二十三集,https://cdn8.yzzy-tv-cdn.com/20220909/18906_c16970bc/1000k/hls/index.m3u8
+产科医生 第二十四集,https://cdn8.yzzy-tv-cdn.com/20220909/18905_1f93455f/1000k/hls/index.m3u8
+产科医生 第二十五集,https://cdn8.yzzy-tv-cdn.com/20220909/18907_c9bb689f/1000k/hls/index.m3u8
+产科医生 第二十六集,https://cdn8.yzzy-tv-cdn.com/20220909/18909_6fe88279/1000k/hls/index.m3u8
+产科医生 第二十七集,https://cdn8.yzzy-tv-cdn.com/20220909/18910_d0d9d299/1000k/hls/index.m3u8
+产科医生 第二十八集,https://cdn8.yzzy-tv-cdn.com/20220909/18911_d2ea5bbe/1000k/hls/index.m3u8
+产科医生 第二十九集,https://cdn8.yzzy-tv-cdn.com/20220909/18912_c6996740/1000k/hls/index.m3u8
+产科医生 第三十集,https://cdn8.yzzy-tv-cdn.com/20220909/18913_f851f037/1000k/hls/index.m3u8
+产科医生 第三十一集,https://cdn8.yzzy-tv-cdn.com/20220909/18915_cb80680f/1000k/hls/index.m3u8
+产科医生 第三十二集,https://cdn8.yzzy-tv-cdn.com/20220909/18914_e1977713/1000k/hls/index.m3u8
+产科医生 第三十三集,https://cdn8.yzzy-tv-cdn.com/20220909/18916_e0e3af08/1000k/hls/index.m3u8
+产科医生 第三十四集,https://cdn8.yzzy-tv-cdn.com/20220909/18917_8c167b07/1000k/hls/index.m3u8
+产科医生 第三十五集,https://cdn8.yzzy-tv-cdn.com/20220909/18919_9605603e/1000k/hls/index.m3u8
+产科医生 第三十六集,https://cdn8.yzzy-tv-cdn.com/20220909/18920_0a4f824b/1000k/hls/index.m3u8
+产科医生 第三十七集,https://cdn8.yzzy-tv-cdn.com/20220909/18918_c8605103/1000k/hls/index.m3u8
+产科医生 第三十八集,https://cdn8.yzzy-tv-cdn.com/20220909/18921_33ce0de4/1000k/hls/index.m3u8
+产科医生 第三十九集,https://cdn8.yzzy-tv-cdn.com/20220909/18921_33ce0de4/1000k/hls/index.m3u8
+产科医生 第四十集,https://cdn8.yzzy-tv-cdn.com/20220909/18924_42a34176/1000k/hls/index.m3u8
+产科医生 第四十一集,https://cdn8.yzzy-tv-cdn.com/20220909/18923_d757f02b/1000k/hls/index.m3u8
+产科医生 第四十二集,https://cdn8.yzzy-tv-cdn.com/20220909/18925_8a33d636/1000k/hls/index.m3u8
+
+
+【庆余年】,
+庆余年-01,https://cdn2.yzzy-online.com/20220326/2242_a8d593bc/index.m3u8
+庆余年-02,https://cdn2.yzzy-online.com/20220326/2243_8a78d6c3/index.m3u8
+庆余年-03,https://cdn2.yzzy-online.com/20220326/2238_5177870e/index.m3u8
+庆余年-04,https://cdn2.yzzy-online.com/20220326/2239_da5992a3/index.m3u8
+庆余年-05,https://cdn2.yzzy-online.com/20220326/2240_2ecf9ef1/index.m3u8
+庆余年-06,https://cdn2.yzzy-online.com/20220326/2236_727b08d9/index.m3u8
+庆余年-07,https://cdn2.yzzy-online.com/20220326/2237_2c407470/index.m3u8
+庆余年-08,https://cdn2.yzzy-online.com/20220326/2233_02db8761/index.m3u8
+庆余年-09,https://cdn2.yzzy-online.com/20220326/2234_85470ab1/index.m3u8
+庆余年-10,https://cdn2.yzzy-online.com/20220326/2235_63db0ad1/index.m3u8
+庆余年-11,https://cdn2.yzzy-online.com/20220326/2230_9e1d9dcd/index.m3u8
+庆余年-12,https://cdn2.yzzy-online.com/20220326/2232_a99ee301/index.m3u8
+庆余年-13,https://cdn2.yzzy-online.com/20220326/2231_34458b5f/index.m3u8
+庆余年-14,https://cdn2.yzzy-online.com/20220326/2229_04195047/index.m3u8
+庆余年-15,https://cdn2.yzzy-online.com/20220326/2226_fa329206/index.m3u8
+庆余年-16,https://cdn2.yzzy-online.com/20220326/2228_66175655/index.m3u8
+庆余年-17,https://cdn2.yzzy-online.com/20220326/2227_c4344554/index.m3u8
+庆余年-18,https://cdn2.yzzy-online.com/20220326/2225_6538b791/index.m3u8
+庆余年-19,https://cdn2.yzzy-online.com/20220326/2224_4d4c505d/index.m3u8
+庆余年-20,https://cdn2.yzzy-online.com/20220326/2222_c354bc81/index.m3u8
+庆余年-21,https://cdn2.yzzy-online.com/20220326/2223_10826263/index.m3u8
+庆余年-22,https://cdn2.yzzy-online.com/20220326/2220_0843900e/index.m3u8
+庆余年-23,https://cdn2.yzzy-online.com/20220326/2219_304c9ee5/index.m3u8
+庆余年-24,https://cdn2.yzzy-online.com/20220326/2221_c18e8b68/index.m3u8
+庆余年-25,https://cdn2.yzzy-online.com/20220326/2218_fef6a272/index.m3u8
+庆余年-26,https://cdn2.yzzy-online.com/20220326/2215_1256d2ff/index.m3u8
+庆余年-27,https://cdn2.yzzy-online.com/20220326/2217_26e69618/index.m3u8
+庆余年-28,https://cdn2.yzzy-online.com/20220326/2216_6ad1aedd/index.m3u8
+庆余年-29,https://cdn2.yzzy-online.com/20220326/2213_89a48167/index.m3u8
+庆余年-30,https://cdn2.yzzy-online.com/20220326/2212_551e9cd2/index.m3u8
+庆余年-31,https://cdn2.yzzy-online.com/20220326/2214_5d1f59a3/index.m3u8
+庆余年-32,https://cdn2.yzzy-online.com/20220326/2211_baec5564/index.m3u8
+庆余年-33,https://cdn2.yzzy-online.com/20220326/2209_aaa36501/index.m3u8
+庆余年-34,https://cdn2.yzzy-online.com/20220326/2210_372466b6/index.m3u8
+庆余年-35,https://cdn2.yzzy-online.com/20220326/2207_7a206a6b/index.m3u8
+庆余年-36,https://cdn2.yzzy-online.com/20220326/2208_55cf56ba/index.m3u8
+庆余年-37,https://cdn2.yzzy-online.com/20220326/2206_faa6edd4/index.m3u8
+庆余年-38,https://cdn2.yzzy-online.com/20220326/2205_f21a460d/index.m3u8
+庆余年-39,https://cdn2.yzzy-online.com/20220326/2202_43d5bc24/index.m3u8
+庆余年-40,https://cdn2.yzzy-online.com/20220326/2203_d873e242/index.m3u8
+庆余年-41,https://cdn2.yzzy-online.com/20220326/2204_3bd7b7f2/index.m3u8
+庆余年-42,https://cdn2.yzzy-online.com/20220326/2201_8b7c8b05/index.m3u8
+庆余年-43,https://cdn2.yzzy-online.com/20220326/2200_342b815e/index.m3u8
+庆余年-44,https://cdn2.yzzy-online.com/20220326/2199_cd6aa56a/index.m3u8
+庆余年-45,https://cdn2.yzzy-online.com/20220326/2198_9d960857/index.m3u8
+庆余年-46,https://cdn2.yzzy-online.com/20220326/2196_cf414594/index.m3u8
+
+【雪中悍刀行】,
+雪中悍刀行-01,https://cdn9.yzzy-online.com/20221026/11169_75bd8dfd/index.m3u8
+雪中悍刀行-02,https://cdn9.yzzy-online.com/20221026/11165_b70e3bd3/index.m3u8
+雪中悍刀行-03,https://cdn9.yzzy-online.com/20221026/11167_f5b9d930/index.m3u8
+雪中悍刀行-04,https://cdn9.yzzy-online.com/20221026/11168_f10ce5f6/index.m3u8
+雪中悍刀行-05,https://cdn9.yzzy-online.com/20221026/11166_606a4b4d/index.m3u8
+雪中悍刀行-06,https://cdn9.yzzy-online.com/20221026/11172_0e648d79/index.m3u8
+雪中悍刀行-07,https://cdn9.yzzy-online.com/20221026/11173_f679549c/index.m3u8
+雪中悍刀行-08,https://cdn9.yzzy-online.com/20221026/11174_06aec7ce/index.m3u8
+雪中悍刀行-09,https://cdn9.yzzy-online.com/20221026/11178_d85310b8/index.m3u8
+雪中悍刀行-10,https://cdn9.yzzy-online.com/20221026/11170_e0f90e58/index.m3u8
+雪中悍刀行-11,https://cdn9.yzzy-online.com/20221026/11171_b75bd4d5/index.m3u8
+雪中悍刀行-12,https://cdn9.yzzy-online.com/20221026/11175_7f75f297/index.m3u8
+雪中悍刀行-13,https://cdn9.yzzy-online.com/20221026/11181_82185028/index.m3u8
+雪中悍刀行-14,https://cdn9.yzzy-online.com/20221026/11177_02f73dfc/index.m3u8
+雪中悍刀行-15,https://cdn9.yzzy-online.com/20221026/11176_4063ff02/index.m3u8
+雪中悍刀行-16,https://cdn9.yzzy-online.com/20221026/11179_f329b064/index.m3u8
+雪中悍刀行-17,https://cdn9.yzzy-online.com/20221026/11180_f0a0558c/index.m3u8
+雪中悍刀行-18,https://cdn9.yzzy-online.com/20221026/11186_0afea5c7/index.m3u8
+雪中悍刀行-19,https://cdn9.yzzy-online.com/20221026/11184_01754131/index.m3u8
+雪中悍刀行-20,https://cdn9.yzzy-online.com/20221026/11182_5bf7202e/index.m3u8
+雪中悍刀行-21,https://cdn9.yzzy-online.com/20221026/11183_caaa1a61/index.m3u8
+雪中悍刀行-22,https://cdn9.yzzy-online.com/20221026/11185_b9925643/index.m3u8
+雪中悍刀行-23,https://cdn9.yzzy-online.com/20221026/11191_9650629c/index.m3u8
+雪中悍刀行-24,https://cdn9.yzzy-online.com/20221026/11188_010201cf/index.m3u8
+雪中悍刀行-25,https://cdn9.yzzy-online.com/20221026/11187_1ecd8fe2/index.m3u8
+雪中悍刀行-26,https://cdn9.yzzy-online.com/20221026/11190_9008a87f/index.m3u8
+雪中悍刀行-27,https://cdn9.yzzy-online.com/20221026/11189_7ce59e8a/index.m3u8
+雪中悍刀行-28,https://cdn9.yzzy-online.com/20221026/11192_41063f60/index.m3u8
+雪中悍刀行-29,https://cdn9.yzzy-online.com/20221026/11193_a5c4a565/index.m3u8
+雪中悍刀行-30,https://cdn9.yzzy-online.com/20221026/11194_6b8fde87/index.m3u8
+雪中悍刀行-31,https://cdn9.yzzy-online.com/20221026/11195_7dac6caa/index.m3u8
+雪中悍刀行-32,https://cdn9.yzzy-online.com/20221026/11196_6a381800/index.m3u8
+雪中悍刀行-33,https://cdn9.yzzy-online.com/20221026/11197_ce94d977/index.m3u8
+雪中悍刀行-34,https://cdn9.yzzy-online.com/20221026/11198_24ba8b06/index.m3u8
+雪中悍刀行-35,https://cdn9.yzzy-online.com/20221026/11199_11f0b337/index.m3u8
+雪中悍刀行-36,https://cdn9.yzzy-online.com/20221026/11200_2cade17e/index.m3u8
+雪中悍刀行-37,https://cdn9.yzzy-online.com/20221026/11201_d26cd4cf/index.m3u8
+雪中悍刀行-38,https://cdn9.yzzy-online.com/20221026/11202_3e2cc754/index.m3u8
+
+【他是谁】,
+他是谁-01,https://cdn15.yzzy-online.com/20230314/2840_37a0fab9/index.m3u8
+他是谁-02,https://cdn14.yzzy-online.com/20230314/15643_05e4853f/index.m3u8
+他是谁-03,https://cdn12.yzzy-online.com/20230314/22316_efba30e8/index.m3u8
+他是谁-04,https://cdn15.yzzy-online.com/20230314/2841_e53fe87f/index.m3u8
+他是谁-05,https://cdn14.yzzy-online.com/20230315/15694_7019ad0d/index.m3u8
+他是谁-06,https://cdn14.yzzy-online.com/20230315/15695_e5514bc7/index.m3u8
+他是谁-07,https://cdn14.yzzy-online.com/20230316/15769_a729b446/index.m3u8
+他是谁-08,https://cdn15.yzzy-online.com/20230319/3288_21fad61f/index.m3u8
+他是谁-09,https://cdn15.yzzy-online.com/20230318/3274_f6b87e5f/index.m3u8
+他是谁-10,https://cdn15.yzzy-online.com/20230319/3354_d1c2ccb7/index.m3u8
+他是谁-11,https://cdn14.yzzy-online.com/20230320/16028_bcbd4b89/index.m3u8
+他是谁-12,https://cdn14.yzzy-online.com/20230320/16027_28586049/index.m3u8
+他是谁-13,https://cdn12.yzzy-online.com/20230321/23174_12ae3531/index.m3u8
+他是谁-14,https://cdn15.yzzy-online.com/20230321/3500_ee540a3b/index.m3u8
+他是谁-15,https://cdn13.yzzy-online.com/20230322/18331_039f2ca2/index.m3u8
+他是谁-16,https://cdn15.yzzy-online.com/20230323/3677_27fb056b/index.m3u8
+他是谁-17,https://cdn12.yzzy-online.com/20230324/23858_ed1c732b/index.m3u8
+他是谁-18,https://cdn15.yzzy-online.com/20230327/4425_772b5db2/index.m3u8
+他是谁-19,https://cdn15.yzzy-online.com/20230328/4531_950207c2/index.m3u8
+他是谁-20,https://cdn14.yzzy-online.com/20230329/16552_89db6b70/index.m3u8
+他是谁-21,https://cdn15.yzzy-online.com/20230330/5048_92f76b6b/index.m3u8
+他是谁-22,https://cdn14.yzzy-online.com/20230331/16807_bc9de1cf/index.m3u8
+他是谁-23,https://cdn15.yzzy-online.com/20230403/5578_828a00d1/index.m3u8
+他是谁-24,https://cdn15.yzzy-online.com/20230403/5577_41eec663/index.m3u8
+
 
 
 💫电台广播,#genre#
@@ -7486,3 +9091,6 @@ SMA-726c-顔面騎乗,http://videocdn.quweikm.com:8091/20180730/SMA-726c/index.m
 SNIS-338c-女上司牝奴隷明日花キララ,http://videocdn.quweikm.com:8091/20180730/SNIS-338c/index.m3u8
 SMA-706c-花屋美少女,http://videocdn.quweikm.com:8091/20180730/SMA-706c/index.m3u8
 SNIS-322c-全裸の管理人白石悠,http://videocdn.quweikm.com:8091/20180730/SNIS-322c/index.m3u8
+
+💫更新日期,#genre#
+2024-03-16,url

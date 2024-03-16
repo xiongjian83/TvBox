@@ -1037,9 +1037,8 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 
 📡  港台测试,#genre#
 
-翡翠台,http://91tv.x3322.net:9921/tsfile/live/1006_1.m3u8?key=txiptv#http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
-明珠台,http://91tv.x3322.net:9921/tsfile/live/1007_1.m3u8?key=txiptv#http://ali.hlspull.yximgs.com/live/huanqiuhklivetcfjhvdjjxcodwoetjmncthvbstyreyhbnnvbdjjwthjyjtvbmj.flv
-星空卫视,http://91tv.x3322.net:9921/tsfile/live/1008_1.m3u8?key=txiptv
+翡翠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv#http://91tv.x3322.net:9921/tsfile/live/1006_1.m3u8?key=txiptv
+明珠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivetcfjhvdjjxcodwoetjmncthvbstyreyhbnnvbdjjwthjyjtvbmj.flv#http://91tv.x3322.net:9921/tsfile/live/1007_1.m3u8?key=txiptv
 TVB J2,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwohdpthjyfiplhdftujfbvdimhdjnbjsjbcvxjfjsehbvbjtvbd2.flv
 TVB星河,http://ali.hlspull.yximgs.com/live/huanqiuhklivejjmjptvjsjjwxnhjjwjjtjjjtyfjsjjsjcfjxfjwmxjdtvbxh.flv
 ViuTV,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhtjjnjjdldjlujobnmjjhnbbmdjlpthjyjvjutv.flv
@@ -1821,8 +1820,6 @@ Sky Sport 9,https://donelfantastic.github.io/live/skysportsNz9.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
 
-翡翠台,http://91tv.x3322.net:9921/tsfile/live/1006_1.m3u8?key=txiptv
-明珠台,http://91tv.x3322.net:9921/tsfile/live/1007_1.m3u8?key=txiptv
 
 翡翠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
 翡翠台,http://14.145.141.110:8081/hls/30/index.m3u8
@@ -1950,11 +1947,11 @@ HOY TV78,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 HOY TV78,https://cdn.hklive.tv/hls/78/index.m3u8
 
 
-星空卫视,http://91tv.x3322.net:9921/tsfile/live/1008_1.m3u8?key=txiptv
+星空卫视,http://yuju666888.x3322.net:808/hls/110/index.m3u8
 
 
 
-莲花卫视,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndcbvdbneyzhxchzzhbnzzhzezzmlh.flv
+莲花卫视,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndcbvdbneyjhxchjjhbnjjhjejjmlh.flv
 莲花卫视,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/lotus.php
 莲花卫视,http://nas.jdshipin.com:8801/amlh.php
 莲花卫视,http://epg.112114.xyz/lotus

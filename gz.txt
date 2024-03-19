@@ -1,0 +1,87 @@
+📡  广东频道,#genre#
+
+凤凰卫视,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=1
+凤凰资讯,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=2
+TVB翡翠台,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=3
+TVB明珠台,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=4
+TVBJ2台,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=5
+TVB星河台,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=6
+无线新闻台,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=7
+无线财经台,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=8
+无线财经台,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=9
+HOY77台,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=10
+HOY78台,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=11
+TVB赛马18台,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=12
+VIUTV,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=13
+VIUTV6,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=14
+RTHK31,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=15
+RTHK32,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=16
+天映频道,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=17
+天映经典,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=18
+澳门莲花,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=19
+
+CCTV1,http://14.145.141.110:8081/hls/1/index.m3u8
+CCTV2,http://14.145.141.110:8081/hls/2/index.m3u8
+CCTV3,http://14.145.141.110:8081/hls/3/index.m3u8
+CCTV4,http://14.145.141.110:8081/hls/4/index.m3u8
+CCTV5,http://14.145.141.110:8081/hls/5/index.m3u8
+CCTV5+,http://14.145.141.110:8081/hls/18/index.m3u8
+CCTV6,http://14.145.141.110:8081/hls/6/index.m3u8
+CCTV7,http://14.145.141.110:8081/hls/7/index.m3u8
+CCTV8,http://14.145.141.110:8081/hls/8/index.m3u8
+CCTV9,http://14.145.141.110:8081/hls/9/index.m3u8
+CCTV10,http://14.145.141.110:8081/hls/10/index.m3u8
+CCTV11,http://14.145.141.110:8081/hls/11/index.m3u8
+CCTV12,http://14.145.141.110:8081/hls/12/index.m3u8
+CCTV13,http://14.145.141.110:8081/hls/13/index.m3u8
+CCTV14,http://14.145.141.110:8081/hls/14/index.m3u8
+CCTV15,http://14.145.141.110:8081/hls/15/index.m3u8
+CCTV16,http://14.145.141.110:8081/hls/16/index.m3u8
+CCTV17,http://14.145.141.110:8081/hls/17/index.m3u8
+
+广东卫视,http://14.145.141.110:8081/hls/29/index.m3u8
+广州综合,http://14.145.141.110:8081/hls/19/index.m3u8
+广州影视,http://14.145.141.110:8081/hls/20/index.m3u8
+广州新闻,http://14.145.141.110:8081/hls/21/index.m3u8
+广州竞赛,http://14.145.141.110:8081/hls/22/index.m3u8
+广东珠江,http://14.145.141.110:8081/hls/23/index.m3u8
+广东体育,http://14.145.141.110:8081/hls/24/index.m3u8
+广东影视,http://14.145.141.110:8081/hls/25/index.m3u8
+广东少儿,http://14.145.141.110:8081/hls/26/index.m3u8
+广东经济,http://14.145.141.110:8081/hls/28/index.m3u8
+广东民生,http://14.145.141.110:8081/hls/65/index.m3u8
+翡翠台,http://14.145.141.110:8081/hls/30/index.m3u8
+明珠台,http://14.145.141.110:8081/hls/31/index.m3u8
+澳视澳门,http://14.145.141.110:8081/hls/32/index.m3u8
+凤凰中文,http://14.145.141.110:8081/hls/33/index.m3u8
+
+湖南卫视,http://14.145.141.110:8081/hls/34/index.m3u8
+浙江卫视,http://14.145.141.110:8081/hls/35/index.m3u8
+江苏卫视,http://14.145.141.110:8081/hls/36/index.m3u8
+广东卫视,http://14.145.141.110:8081/hls/29/index.m3u8
+北京卫视,http://14.145.141.110:8081/hls/37/index.m3u8
+天津卫视,http://14.145.141.110:8081/hls/38/index.m3u8
+深圳卫视,http://14.145.141.110:8081/hls/39/index.m3u8
+安徽卫视,http://14.145.141.110:8081/hls/40/index.m3u8
+湖北卫视,http://14.145.141.110:8081/hls/41/index.m3u8
+黑龙江卫视,http://14.145.141.110:8081/hls/42/index.m3u8
+山东卫视,http://14.145.141.110:8081/hls/43/index.m3u8
+辽宁卫视,http://14.145.141.110:8081/hls/44/index.m3u8
+四川卫视,http://14.145.141.110:8081/hls/45/index.m3u8
+重庆卫视,http://14.145.141.110:8081/hls/46/index.m3u8
+贵州卫视,http://14.145.141.110:8081/hls/47/index.m3u8
+东南卫视,http://14.145.141.110:8081/hls/48/index.m3u8
+河北卫视,http://14.145.141.110:8081/hls/49/index.m3u8
+江西卫视,http://14.145.141.110:8081/hls/50/index.m3u8
+吉林卫视,http://14.145.141.110:8081/hls/51/index.m3u8
+广西卫视,http://14.145.141.110:8081/hls/52/index.m3u8
+东方卫视,http://14.145.141.110:8081/hls/53/index.m3u8
+甘肃卫视,http://14.145.141.110:8081/hls/54/index.m3u8
+河南卫视,http://14.145.141.110:8081/hls/56/index.m3u8
+北京纪实,http://14.145.141.110:8081/hls/58/index.m3u8
+三沙卫视,http://14.145.141.110:8081/hls/59/index.m3u8
+陕西卫视,http://14.145.141.110:8081/hls/60/index.m3u8
+青海卫视,http://14.145.141.110:8081/hls/61/index.m3u8
+金鹰卡通,http://14.145.141.110:8081/hls/62/index.m3u8
+西藏卫视,http://14.145.141.110:8081/hls/64/index.m3u8
+内蒙古卫视,http://14.145.141.110:8081/hls/67/index.m3u8

@@ -1180,48 +1180,48 @@ DiscoveryHD,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjv
 重温经典,http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 重温经典,http://mtw.so/5xS2Mh
 
-BRTV新闻,http://183.242.49.77:8787/live/BTV%E6%96%B0%E9%97%BB/index.m3u8
-BRTV文艺,http://183.242.49.77:8787/live/BTV%E6%96%87%E8%89%BA/index.m3u8
-BRTV影视,http://183.242.49.77:8787/live/BTV%E5%BD%B1%E8%A7%86/index.m3u8
-BRTV财经,http://183.242.49.77:8787/live/BTV%E8%B4%A2%E7%BB%8F/index.m3u8
-BRTV体育,http://183.242.49.77:8787/live/BTV%E4%BD%93%E8%82%B2/index.m3u8
-BRTV生活,http://183.242.49.77:8787/live/BTV%E7%94%9F%E6%B4%BB/index.m3u8
-BRTV国际,http://183.242.49.77:8787/live/BTV%E5%9B%BD%E9%99%85/index.m3u8
+北京新闻,http://183.242.49.77:8787/live/BTV%E6%96%B0%E9%97%BB/index.m3u8
+北京文艺,http://183.242.49.77:8787/live/BTV%E6%96%87%E8%89%BA/index.m3u8
+北京影视,http://183.242.49.77:8787/live/BTV%E5%BD%B1%E8%A7%86/index.m3u8
+北京财经,http://183.242.49.77:8787/live/BTV%E8%B4%A2%E7%BB%8F/index.m3u8
+北京体育,http://183.242.49.77:8787/live/BTV%E4%BD%93%E8%82%B2/index.m3u8
+北京生活,http://183.242.49.77:8787/live/BTV%E7%94%9F%E6%B4%BB/index.m3u8
+北京国际,http://183.242.49.77:8787/live/BTV%E5%9B%BD%E9%99%85/index.m3u8
 
-BRTV新闻,http://123.112.210.212:4022/rtp/239.3.1.159:8000#http://111.193.225.28:8888/rtp/239.3.1.159:8000#http://115.171.80.101:8888/udp/225.1.8.83:8000
-BRTV影视,http://123.112.210.212:4022/rtp/239.3.1.158:8000#http://111.193.225.28:8888/rtp/239.3.1.158:8000#http://115.171.80.101:8888/udp/225.1.8.82:8000
-BRTV文艺,http://123.112.210.212:4022/rtp/239.3.1.242:8000#http://111.193.225.28:8888/rtp/239.3.1.242:8000#http://115.171.80.101:8888/udp/225.1.8.22:8002
-BRTV生活,http://123.112.210.212:4022/rtp/239.3.1.117:8000#http://111.193.225.28:8888/rtp/239.3.1.117:8000#http://115.171.80.101:8888/udp/225.1.8.108:8002
+北京新闻,http://123.112.210.212:4022/rtp/239.3.1.159:8000#http://111.193.225.28:8888/rtp/239.3.1.159:8000#http://115.171.80.101:8888/udp/225.1.8.83:8000
+北京影视,http://123.112.210.212:4022/rtp/239.3.1.158:8000#http://111.193.225.28:8888/rtp/239.3.1.158:8000#http://115.171.80.101:8888/udp/225.1.8.82:8000
+北京文艺,http://123.112.210.212:4022/rtp/239.3.1.242:8000#http://111.193.225.28:8888/rtp/239.3.1.242:8000#http://115.171.80.101:8888/udp/225.1.8.22:8002
+北京生活,http://123.112.210.212:4022/rtp/239.3.1.117:8000#http://111.193.225.28:8888/rtp/239.3.1.117:8000#http://115.171.80.101:8888/udp/225.1.8.108:8002
 卡酷少儿,http://123.112.210.212:4022/rtp/239.3.1.189:8000#http://111.193.225.28:8888/rtp/239.3.1.189:8000#http://115.171.80.101:8888/udp/225.1.8.35:8000
-BRTV国际,http://123.112.210.212:4022/rtp/239.3.1.235:8000#http://111.193.225.28:8888/rtp/239.3.1.235:8000#http://115.171.80.101:8888/udp/225.1.8.131:8002
+北京国际,http://123.112.210.212:4022/rtp/239.3.1.235:8000#http://111.193.225.28:8888/rtp/239.3.1.235:8000#http://115.171.80.101:8888/udp/225.1.8.131:8002
 
 
-BRTV影视,http://115.171.86.183:9901/tsfile/live/16029_1.m3u8?key=txiptv&playlive=1&authid=0
-BRTV文艺,http://115.171.86.183:9901/tsfile/live/16028_1.m3u8?key=txiptv&playlive=1&authid=0
-BRTV新闻,http://115.171.86.183:9901/tsfile/live/16027_1.m3u8?key=txiptv&playlive=1&authid=0
-BRTV生活,http://115.171.86.183:9901/tsfile/live/16031_1.m3u8?key=txiptv&playlive=1&authid=0
-BRTV财经,http://115.171.86.183:9901/tsfile/live/16030_1.m3u8?key=txiptv&playlive=1&authid=0
-BRTV体育,http://115.171.86.183:9901/tsfile/live/16034_1.m3u8?key=txiptv&playlive=1&authid=0
+北京影视,http://115.171.86.183:9901/tsfile/live/16029_1.m3u8?key=txiptv&playlive=1&authid=0
+北京文艺,http://115.171.86.183:9901/tsfile/live/16028_1.m3u8?key=txiptv&playlive=1&authid=0
+北京新闻,http://115.171.86.183:9901/tsfile/live/16027_1.m3u8?key=txiptv&playlive=1&authid=0
+北京生活,http://115.171.86.183:9901/tsfile/live/16031_1.m3u8?key=txiptv&playlive=1&authid=0
+北京财经,http://115.171.86.183:9901/tsfile/live/16030_1.m3u8?key=txiptv&playlive=1&authid=0
+北京体育,http://115.171.86.183:9901/tsfile/live/16034_1.m3u8?key=txiptv&playlive=1&authid=0
 
-BRTV新闻,http://218.241.192.50:8808/udp/239.3.1.159:8000
-BRTV影视,http://218.241.192.50:8808/udp/239.3.1.158:8000
-BRTV文艺,http://218.241.192.50:8808/udp/239.3.1.242:8000
-BRTV财经,http://218.241.192.50:8808/udp/239.3.1.116:8000
-BRTV生活,http://218.241.192.50:8808/udp/239.3.1.117:8000
-BRTV国际,http://218.241.192.50:8808/udp/239.3.1.235:8000
-BRTV体育,http://218.241.192.50:8808/udp/239.3.1.243:8000
+北京新闻,http://218.241.192.50:8808/udp/239.3.1.159:8000
+北京影视,http://218.241.192.50:8808/udp/239.3.1.158:8000
+北京文艺,http://218.241.192.50:8808/udp/239.3.1.242:8000
+北京财经,http://218.241.192.50:8808/udp/239.3.1.116:8000
+北京生活,http://218.241.192.50:8808/udp/239.3.1.117:8000
+北京国际,http://218.241.192.50:8808/udp/239.3.1.235:8000
+北京体育,http://218.241.192.50:8808/udp/239.3.1.243:8000
 
-BRTV新闻,http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
-BRTV财经,http://qnap.yjnhome.com:4000/udp/239.3.1.116:8000
-BRTV影视,http://qnap.yjnhome.com:4000/udp/239.3.1.158:8000
-BRTV文艺,http://qnap.yjnhome.com:4000/udp/239.3.1.242:8000
-BRTV生活,http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
+北京新闻,http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
+北京财经,http://qnap.yjnhome.com:4000/udp/239.3.1.116:8000
+北京影视,http://qnap.yjnhome.com:4000/udp/239.3.1.158:8000
+北京文艺,http://qnap.yjnhome.com:4000/udp/239.3.1.242:8000
+北京生活,http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
 
-BRTV新闻,http://home4.kmo.ink:8888/rtp/239.3.1.159:8000
-BRTV影视,http://home4.kmo.ink:8888/rtp/239.3.1.158:8000
-BRTV文艺,http://home4.kmo.ink:8888/rtp/239.3.1.242:8000
-BRTV财经,http://home4.kmo.ink:8888/rtp/239.3.1.116:8000
-BRTV生活,http://home4.kmo.ink:8888/rtp/239.3.1.117:8000
+北京新闻,http://home4.kmo.ink:8888/rtp/239.3.1.159:8000
+北京影视,http://home4.kmo.ink:8888/rtp/239.3.1.158:8000
+北京文艺,http://home4.kmo.ink:8888/rtp/239.3.1.242:8000
+北京财经,http://home4.kmo.ink:8888/rtp/239.3.1.116:8000
+北京生活,http://home4.kmo.ink:8888/rtp/239.3.1.117:8000
 
 
 
@@ -1229,19 +1229,19 @@ BRTV生活,http://home4.kmo.ink:8888/rtp/239.3.1.117:8000
 淘电影,http://home4.kmo.ink:8888/rtp/239.3.1.250:8001
 淘剧场,http://home4.kmo.ink:8888/rtp/239.3.1.95:8001
 淘娱乐,http://home4.kmo.ink:8888/rtp/239.3.1.100:8001
-淘BABY,http://home4.kmo.ink:8888/rtp/239.3.1.238:8001
+淘Baby,http://home4.kmo.ink:8888/rtp/239.3.1.238:8001
 萌宠TV,http://home4.kmo.ink:8888/rtp/239.3.1.102:8001
 
 淘电影,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
 淘剧场,http://qnap.yjnhome.com:4000/udp/239.3.1.95:8001
 淘娱乐,http://qnap.yjnhome.com:4000/udp/239.3.1.100:8001
 淘精彩,http://qnap.yjnhome.com:4000/udp/239.3.1.178:8001
-淘BABY,http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
+淘Baby,http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
 萌宠TV,http://qnap.yjnhome.com:4000/udp/239.3.1.102:8001
 
 淘精彩,http://webmail.axxe.top:4022/udp/239.3.1.178:8001
 萌宠TV,http://webmail.axxe.top:4022/udp/239.3.1.102:8001
-淘BABY,http://webmail.axxe.top:4022/udp/239.3.1.238:8001
+淘Baby,http://webmail.axxe.top:4022/udp/239.3.1.238:8001
 淘剧场,http://webmail.axxe.top:4022/udp/239.3.1.95:8001
 淘电影,http://webmail.axxe.top:4022/udp/239.3.1.250:8001
 淘娱乐,http://webmail.axxe.top:4022/udp/239.3.1.100:8001
@@ -1268,7 +1268,7 @@ BRTV生活,http://home4.kmo.ink:8888/rtp/239.3.1.117:8000
 
 
 北京纪实,http://124.126.140.10:8012/rtp/239.3.1.115:8000
-北京纪实8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+北京纪实8K,http://111.31.106.140/downflv.北京cloud.com/8klive/8kliveok.m3u8
 淘电影,http://111.193.225.28:8888/rtp/239.3.1.250:8001#http://221.219.68.95:4000/rtp/239.3.1.250:8001#http://114.253.247.196:14000/rtp/239.3.1.250:8001#http://124.64.236.52:8012/rtp/239.3.1.250:8001#http://123.112.210.212:4022/rtp/239.3.1.250:8001#http://115.171.80.101:8888/udp/225.1.8.38:8002#http://1.203.184.77:4000/udp/225.1.8.38:8002
 淘剧场,http://111.193.225.28:8888/rtp/239.3.1.95:8001#http://221.219.68.95:4000/rtp/239.3.1.95:8001#http://114.253.247.196:14000/rtp/239.3.1.95:8001#http://124.64.236.52:8012/rtp/239.3.1.95:8001#http://123.112.210.212:4022/rtp/239.3.1.95:8001#http://115.171.80.101:8888/udp/225.1.8.37:8002#http://1.203.184.77:4000/udp/225.1.8.37:8002
 淘娱乐,http://111.193.225.28:8888/rtp/239.3.1.100:8001#http://221.219.68.95:4000/rtp/239.3.1.100:8001#http://114.253.247.196:14000/rtp/239.3.1.100:8001#http://124.64.236.52:8012/rtp/239.3.1.100:8001#http://123.112.210.212:4022/rtp/239.3.1.100:8001#http://115.171.80.101:8888/udp/225.1.8.61:8002#http://1.203.184.77:4000/udp/225.1.8.61:8002
@@ -2049,6 +2049,10 @@ Sky Sport 9,https://donelfantastic.github.io/live/skysportsNz9.m3u8
 凤凰中文,https://s2.pub/cctv-2
 凤凰香港,https://s2.pub/cctv-1
 
+凤凰中文台,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰资讯台,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+凤凰香港台,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+
 
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
@@ -2056,11 +2060,8 @@ Sky Sport 9,https://donelfantastic.github.io/live/skysportsNz9.m3u8
 
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
-翡翠台,http://iptv.hiper25.com:42487/TVB/video.m3u8?token=1710447330
-明珠台,http://iptv.hiper25.com:42487/Pearl/video.m3u8?token=1710447330
 
 翡翠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
-翡翠台,http://14.145.141.110:8081/hls/30/index.m3u8
 翡翠台,http://m.glx008.com:8000/bysid/1
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 翡翠台,https://s2.pub/cctv-23
@@ -4088,6 +4089,50 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 CHC动作电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC家庭影院,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+
+CCTV1-综合,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV2-财经,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV3-综艺,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV4-中文国际,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV5-体育,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV5+-体育赛事,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001008/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV6-电影,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV7-国防军事,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV8-电视剧,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV9-纪录,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV10-科教,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV11-戏曲,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001327/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV12-社会与法,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV13-新闻,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV14-少儿,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV15-音乐,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV16-奥林匹克,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV16-奥林匹克-4k,https://tv.cry33.com/ys4k.php?id=16-4k
+CCTV17-农业农村,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+CCTV1-综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV1-综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV2-财经,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV2-财经,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV3-综艺,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV4-中文国际,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV4-中文国际,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV5-体育,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV5+-体育赛事,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001008/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV6-电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV6-电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV7-国防军事,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV8-电视剧,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV9-纪录,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV10-科教,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV11-戏曲,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001327/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV12-社会与法,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV13-新闻,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV14-少儿,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV15-音乐,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV16-奥林匹克,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV17-农业农村,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 
 CCTV1-综合,http://[2409:8087:7001:20:1000::97]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=00
 CCTV2-财经,http://[2409:8087:7001:20:1000::97]:6610/000000001000/1000000001000023315/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=00
@@ -7237,7 +7282,7 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 我曾,https://vd3.bdstatic.com/mda-jjm8i93paakzz8yj/hd/mda-jjm8i93paakzz8yj.mp4?pd=20&vt=1
 芒种,https://vd3.bdstatic.com/mda-kat1tr4ka5st965k/hd/mda-kat1tr4ka5st965k.mp4?pd=20
 
-💫会员频道_2468,#genre#
+💫会员频道_8642,#genre#
 松视1台,https://18.svi-studio.com/live/908957700097/132663288386/5.m3u8
 松视2台,http://18.svi-studio.com:8880/live/091271435055/841916267544/6.m3u8
 香蕉台,https://18.svi-studio.com/live/565361330108/206277615704/4.m3u8
@@ -7272,7 +7317,7 @@ Adult IPTV (18+),http://cdn.adultiptv.net/bigass.m3u8
 俄罗斯成人4台,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
 俄罗斯成人5台,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
 
-💫风花雪月_2468,#genre#
+💫风花雪月_8642,#genre#
 04年极品白丝嫩足,https://t21.cdn2020.com/video/m3u8/2023/02/01/18ac5bce/index.m3u8
 18岁小嫩妹辍学做外围-田伯光,https://t21.cdn2020.com/video/m3u8/2023/04/13/d7cb73d8/index.m3u8
 18岁学妹背着男友偷情-唐伯虎,https://t21.cdn2020.com/video/m3u8/2023/03/07/7a58b113/index.m3u8
@@ -7317,8 +7362,247 @@ Adult IPTV (18+),http://cdn.adultiptv.net/bigass.m3u8
 「射区独家-老司机探花」性感御姐掰穴插逼 私密部位一览无遗,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/e8/uy/pp/0d/597e20a7cd1b4f4b9141d90af3df1471.m3u8?
 「射区独家-银先生探花」美乳少妇极致后入口交 多体位高清偷拍,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/t7/9l/gp/1l/8c767cf9fc834a52a80694848e0e01ef.m3u8?
 
+💫 古装_8642,#genre#
+青楼名女支之李香君,https://v6.jindangao.com/hj/hj2/hj21/10/hls/index.m3u8
+人细鬼大,https://v6.jindangao.com/hj/hj2/hj22/10/hls/index.m3u8
+兽生秀惑之赤果生游戏2000,https://v6.jindangao.com/hj/hj2/hj23/25/hls/index.m3u8
+屠夫,https://v6.jindangao.com/hj/hj2/hj24/38/hls/index.m3u8
+贴身保镖,https://v6.jindangao.com/hj/hj2/hj24/31/hls/index.m3u8
+舒淇早期激青合集,https://v6.jindangao.com/hj/hj2/hj25/36/hls/index.m3u8
+杨贵妃,https://v6.jindangao.com/hj/hj2/hj27/37/hls/index.m3u8
+燕鬼冤魂,https://v6.jindangao.com/hj/hj2/hj27/34/hls/index.m3u8
+夜半思孚時,https://v6.jindangao.com/hj/hj2/hj28/1/hls/index.m3u8
+越轨之狼完整版,https://v6.jindangao.com/hj/hj2/hj29/12/hls/index.m3u8
+荡女赢春,https://v5.jindangao.com/ak1/ak2/ak29/24/hls/index.m3u8
+外文初夜青,https://v6.jindangao.com/hj/hj1/hj3/22/hls/index.m3u8
+换七换上瘾,https://v5.jindangao.com/ff/f1/38/hls/index.m3u8
+西游记之八戒招亲,https://v5.jindangao.com/jj/j10/22/hls/index.m3u8
+西游记之生咸白骨金,https://v5.jindangao.com/jj/j10/21/hls/index.m3u8
+西游记之盘丝洞,https://v5.jindangao.com/jj/j10/19/hls/index.m3u8
+西游记之反转死亡宝塔,https://v5.jindangao.com/jj/j10/17/hls/index.m3u8
+西游记之铁扇公主,https://v5.jindangao.com/jj/j10/18/hls/index.m3u8
+西游记之青迷女儿国,https://v5.jindangao.com/jj/j10/20/hls/index.m3u8
+新金瓶梅一,https://v6.jindangao.com/bb/b13/25/500kb/hls/index.m3u8
+新金瓶梅二,https://v6.jindangao.com/bb/b13/26/500kb/hls/index.m3u8
+新金瓶梅三,https://v6.jindangao.com/bb/b13/27/500kb/hls/index.m3u8
+新金瓶梅四,https://v6.jindangao.com/bb/b13/28/500kb/hls/index.m3u8
+新金瓶梅五,https://v6.jindangao.com/bb/b13/29/500kb/hls/index.m3u8
+艇妹,https://v6.jindangao.com/dd/d1/34/500kb/hls/index.m3u8
+我为卿狂,https://v5.jindangao.com/fff/ff7/21/hls/index.m3u8
+水浒传之英雄好摄,https://v5.jindangao.com/gg/g9/23/hls/index.m3u8
+玉火狂蜜,https://v6.jindangao.com/hj/hj2/hj28/44/hls/index.m3u8
+新金瓶梅,2008https://v5.jindangao.com/zz/z8/10/hls/index.m3u8
+玉蒲团II之玉女心经,https://v5.jindangao.com/yy/y10/18/hls/index.m3u8
+竹夫人,https://v5.jindangao.com/eee/ee2/20/hls/index.m3u8
+激青燕女,https://v6.jindangao.com/v20/13/600kb/hls/index.m3u8
+满清十大酷刑,https://v5.jindangao.com/jj/j1/46/hls/index.m3u8
+剑奴,https://v5.jindangao.com/ff/f4/4/hls/index.m3u8
+婚前试爱,https://v5.jindangao.com/ff/f2/7/hls/index.m3u8
+爱的金灵,https://v5.jindangao.com/pp/p11/8/hls/index.m3u8
+卿本佳人,https://v5.jindangao.com/yy/y2/48/hls/index.m3u8
+蜜桃成熟时33D,https://v5.jindangao.com/jj/j4/11/hls/index.m3u8
+我来自北京,https://v5.jindangao.com/fff/ff7/8/hls/index.m3u8
+内蒲团之夜销魂,https://v6.jindangao.com/aa/a30/28/500kb/hls/index.m3u8
+梁祝燕谭1集,https://v6.jindangao.com/dd/d16/2/1/700kb/hls/index.m3u8
+梁祝燕谭2集,https://v6.jindangao.com/dd/d16/2/2/700kb/hls/index.m3u8
+梁祝燕谭3集,https://v6.jindangao.com/dd/d16/2/3/700kb/hls/index.m3u8
+梁祝燕谭4集,https://v6.jindangao.com/dd/d16/2/4/700kb/hls/index.m3u8
+梁祝燕谭5集,https://v6.jindangao.com/dd/d16/2/4/700kb/hls/index.m3u8
+梁祝燕谭6集,https://v6.jindangao.com/dd/d16/2/6/700kb/hls/index.m3u8
+梁祝燕谭7集,https://v6.jindangao.com/dd/d16/2/7/700kb/hls/index.m3u8
+梁祝燕谭8集,https://v6.jindangao.com/dd/d16/2/8/700kb/hls/index.m3u8
+梁祝燕谭9集,https://v6.jindangao.com/dd/d16/2/9/700kb/hls/index.m3u8
+梁祝燕谭10集,https://v6.jindangao.com/dd/d16/2/10/700kb/hls/index.m3u8
+梁祝燕谭11集,https://v6.jindangao.com/dd/d16/2/11/700kb/hls/index.m3u8
+梁祝燕谭12集,https://v6.jindangao.com/dd/d16/2/12/700kb/hls/index.m3u8
+梁祝燕谭13集,https://v6.jindangao.com/dd/d16/2/13/700kb/hls/index.m3u8
+梁祝燕谭14集,https://v6.jindangao.com/dd/d16/2/14/700kb/hls/index.m3u8
+梁祝燕谭15集,https://v6.jindangao.com/dd/d16/2/15/700kb/hls/index.m3u8
+梁祝燕谭16集,https://v6.jindangao.com/dd/d16/2/16/700kb/hls/index.m3u8
+梁祝燕谭17集,https://v6.jindangao.com/dd/d16/2/17/700kb/hls/index.m3u8
+梁祝燕谭18集,https://v6.jindangao.com/dd/d16/2/18/700kb/hls/index.m3u8
+梁祝燕谭19集,https://v6.jindangao.com/dd/d16/2/19/700kb/hls/index.m3u8
+梁祝燕谭20集,https://v6.jindangao.com/dd/d16/2/20/700kb/hls/index.m3u8
+银家大院第一集之比武招金,https://player.hgcdn666.com/20230308/L1rUkKQP/index.m3u8
+银家大院第二集之夫人的吸哈教室,https://player.hgcdn666.com/20230308/7AaX784e/index.m3u8
+银家大院第三集之你是谁啊,https://player.hgcdn666.com/20230308/PCYK7V0o/index.m3u8
+银家大院第四集之生福来的太突然,https://player.hgcdn666.com/20230308/DxWS5Qjh/index.m3u8
+银家大院第五集之爸爸再爱我一次,https://player.hgcdn666.com/20230308/j5qVItY6/index.m3u8
+新应召女郎,https://163.grr4d46c.com/changpian/m3u8/jingdiansanji/202301/%E6%96%B0%E5%BA%94%E5%8F%AC%E5%A5%B3%E9%83%8E%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95%EF%BC%88%E5%9B%BD%E4%BA%A7%EF%BC%89/%E6%96%B0%E5%BA%94%E5%8F%AC%E5%A5%B3%E9%83%8E%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95%EF%BC%88%E5%9B%BD%E4%BA%A7%EF%BC%89.m3u8
+金瓶双燕,https://v5.jindangao.com/zz/z8/12/hls/index.m3u8
+勾魂降头,https://v5.jindangao.com/ll/l7/13/hls/index.m3u8
+风流才子俏佳人,https://v5.jindangao.com/pp/p11/11/hls/index.m3u8
+1992新美丽宝鉴,https://v5.jindangao.com/ee/e1/48/hls/index.m3u8
+竹本玉蒲团,https://v5.jindangao.com/fff/ff0/38/hls/index.m3u8
+96金瓶梅续集杨思雯版1,https://v5.jindangao.com/xx/x1/14/1000kb/hls/index.m3u8
+96金瓶梅续集杨思雯版2,https://v5.jindangao.com/xx/x1/15/1000kb/hls/index.m3u8
+96金瓶梅续集杨思雯版3,https://v5.jindangao.com/xx/x1/16/1000kb/hls/index.m3u8
+96金瓶梅续集杨思雯版4,https://v5.jindangao.com/xx/x1/17/1000kb/hls/index.m3u8
+96金瓶梅续集杨思雯版5,https://v5.jindangao.com/xx/x1/18/1000kb/hls/index.m3u8
+金瓶风月,https://v5.jindangao.com/ee/e1/6/hls/index.m3u8
+风月宝鉴之家花自有香,https://v5.jindangao.com/ll/l5/30/hls/index.m3u8
+半妖孚娘,https://v5.jindangao.com/zz/z3/2/hls/index.m3u8
+八仙饭店之人内叉烧包,https://v5.jindangao.com/zz/z2/37/hls/index.m3u8
+人皮高跟鞋,https://v5.jindangao.com/pp/p11/28/hls/index.m3u8
+聊斋志异之孽玉孤鬼,https://v5.jindangao.com/ff/f8/28/hls/index.m3u8
+生气功之探秘,https://v5.jindangao.com/hh/h2/17/hls/index.m3u8
+青楼十二户国粤双语,https://v5.jindangao.com/nn/n9/51/hls/index.m3u8
+与蛇共舞,https://v5.jindangao.com/hh/h6/27/hls/index.m3u8
+聊斋燕谭1之燕魔大战,https://v5.jindangao.com/zz/z9/49/hls/index.m3u8
+齐天大生之大闹女儿国,https://v5.jindangao.com/gg/g1/13/hls/index.m3u8
+齐天大生之大破盘丝洞,https://v5.jindangao.com/gg/g1/14/hls/index.m3u8
+燕妇转世1,https://v5.jindangao.com/fff/ff9/23/hls/index.m3u8
+燕妇转世2,https://v5.jindangao.com/fff/ff9/24/hls/index.m3u8
+西厢燕谭,https://v5.jindangao.com/zz/z1/36/800kb/hls/index.m3u8
+双姝燕A,https://v5.jindangao.com/gg/g9/9/hls/index.m3u8
+双姝燕B,https://v5.jindangao.com/gg/g9/10/hls/index.m3u8
+聊斋系列之山中燕谭,https://v5.jindangao.com/yy/y4/16/hls/index.m3u8
+聊斋花弄月,https://v5.jindangao.com/eee/ee10/14/hls/index.m3u8
+猛鬼佳人,https://v5.jindangao.com/jj/j3/9/hls/index.m3u8
+金蚕降,https://v5.jindangao.com/ff/f5/15/hls/index.m3u8
+唐朝禁宫秘史,https://v5.jindangao.com/kk/k1/22/hls/index.m3u8
+羔羊医生,https://v5.jindangao.com/ll/l6/22/hls/index.m3u8
+风月奇谭,https://v5.jindangao.com/ll/l5/38/hls/index.m3u8
+娇七四燕鬼,https://v5.jindangao.com/pp/p11/18/hls/index.m3u8
+四大美人之西施,https://v5.jindangao.com/gg/g9/45/hls/index.m3u8
+山狗1999,https://v5.jindangao.com/gg/g6/42/hls/index.m3u8
+唐朝禁宫风月,https://v5.jindangao.com/gg/g10/26/hls/index.m3u8
+四大名女支之苏小小,https://v5.jindangao.com/gg/g9/49/hls/index.m3u8
+四大名女支之李香君,https://v5.jindangao.com/gg/g9/48/hls/index.m3u8
+四大名女支之李师师,https://v5.jindangao.com/gg/g9/47/hls/index.m3u8
+四大名女支之陈圆圆,https://v5.jindangao.com/gg/g9/46/hls/index.m3u8
+摄中饿鬼,https://v5.jindangao.com/gg/g5/14/hls/index.m3u8
+摄玉怪谈之魔奸赢者,https://v5.jindangao.com/gg/g5/21/hls/index.m3u8
+我爱狐狸金,https://v5.jindangao.com/yy/y7/25/hls/index.m3u8
+香帅传奇之胡铁花与小赢猴,https://v5.jindangao.com/kk/k8/31/hls/index.m3u8
+新人内叉烧包,https://v5.jindangao.com/kk/k10/46/hls/index.m3u8
+应召女郎1988,https://v5.jindangao.com/hh/h7/50/hls/index.m3u8
+赢魔暴行,https://v5.jindangao.com/oo/o10/18/hls/index.m3u8
+樱花劫,https://v5.jindangao.com/hh/h7/24/hls/index.m3u8
+秀僧,https://v5.jindangao.com/yy/y10/14/hls/index.m3u8
+玉蒲团之愉青宝鉴,https://v5.jindangao.com/yy/y10/19/hls/index.m3u8
+羊光地狱之人内市场,https://v5.jindangao.com/hh/h4/1/hls/index.m3u8
+大内密探之零零生生,https://v5.jindangao.com/ll/l2/6/hls/index.m3u8
+摄机英雄传,https://v5.jindangao.com/gg/g8/3/hls/index.m3u8
+聊斋金瓶梅,https://v5.jindangao.com/zz/z9/46/hls/index.m3u8
+唐朝禁宫酷刑,https://v5.jindangao.com/kk/k1/23/hls/index.m3u8
+素女经之挑青宝鉴,https://v5.jindangao.com/gg/g10/6/hls/index.m3u8
+金瓶梅之鸳鸯戏床,https://v5.jindangao.com/ff/f5/14/hls/index.m3u8
+人内玩具,https://v5.jindangao.com/gg/g3/36/hls/index.m3u8
+勾魂恶梦,https://v5.jindangao.com/ll/l7/15/hls/index.m3u8
+鬼娘子,https://v5.jindangao.com/ll/l7/44/hls/index.m3u8
+人内腊肠,https://v5.jindangao.com/gg/g3/49/hls/index.m3u8
+茅山斗降头,https://v5.jindangao.com/ff/f10/31/hls/index.m3u8
+生人勿近之邪花,https://v5.jindangao.com/gg/g7/26/hls/index.m3u8
+玉蒲团3D,https://v5.jindangao.com/yy/y10/17/hls/index.m3u8
+生的厉鬼,https://v5.jindangao.com/eee/ee1/23/hls/index.m3u8
+女机械人高清版,https://v5.jindangao.com/yy/y2/15/hls/index.m3u8
+唐皇宫外青之唐朝奸妃,https://v5.jindangao.com/kk/k1/21/hls/index.m3u8
+降头2007,https://v5.jindangao.com/ff/f4/8/hls/index.m3u8
+聊斋惊燕,https://v5.jindangao.com/zz/z9/47/hls/index.m3u8
+新红楼梦燕青版1,https://v5.jindangao.com/kk/k10/28/hls/index.m3u8
+新红楼梦燕青版2,https://v5.jindangao.com/kk/k10/29/hls/index.m3u8
+新红楼梦燕青版3,https://v5.jindangao.com/kk/k10/30/hls/index.m3u8
+人蛇鼠,https://v5.jindangao.com/gg/g4/1/hls/index.m3u8
+素女真经TheStoryofLadySue,https://v5.jindangao.com/yy/y5/39/hls/index.m3u8
+五行鬼尸,https://v5.jindangao.com/oo/o8/19/hls/index.m3u8
+慈禧的秘密生活,https://v5.jindangao.com/zz/z4/23/hls/index.m3u8
+满清十大酷刑之赤果凌迟,https://v5.jindangao.com/jj/j1/48/hls/index.m3u8
+青楼十二户,https://v5.jindangao.com/yy/y2/47/hls/index.m3u8
+灭门惨案II借种,https://v5.jindangao.com/zz/z1/19/hls/index.m3u8
+香帅传奇之天一神油,https://v5.jindangao.com/kk/k1/28/hls/index.m3u8
+新素女燕谭,https://v5.jindangao.com/kk/k10/18/hls/index.m3u8
+猛鬼咒,https://v5.jindangao.com/zz/z10/49/hls/index.m3u8
+愉青宝鉴生爱三十六户,https://v5.jindangao.com/fff/ff0/32/hls/index.m3u8
+四大美人之王昭君,https://v5.jindangao.com/yy/y5/31/hls/index.m3u8
+鳄降-摄鳄赢魔,https://v5.jindangao.com/zz/z4/49/hls/index.m3u8
+尸蛊燕谭完整版,https://v5.jindangao.com/yy/y4/51/hls/index.m3u8
+满清禁宫奇案,https://v5.jindangao.com/zz/z10/34/hls/index.m3u8
+摄降,https://v5.jindangao.com/yy/y4/9/hls/index.m3u8
+玉蒲团5之羊物生教,https://v5.jindangao.com/hh/h6/36/hls/index.m3u8
+聊斋燕谭3之灯草和尚,https://v5.jindangao.com/zz/z10/1/hls/index.m3u8
+玉蒲团6之赢行天下,https://v5.jindangao.com/hh/h6/35/hls/index.m3u8
+聊斋燕奇之陆判生经,https://v5.jindangao.com/zz/z1/6/hls/index.m3u8
+玉蒲团之新官人我要,https://v5.jindangao.com/yy/y8/39/hls/index.m3u8
+蜜桃成熟时3之蜜桃仙子,https://v5.jindangao.com/jj/j4/13/hls/index.m3u8
+风月宝鉴之初人桃源洞,https://v5.jindangao.com/eee/ee6/20/hls/index.m3u8
+风月宝鉴之冥府春摄,https://v5.jindangao.com/ll/l5/31/hls/index.m3u8
+鬼骨场,https://v5.jindangao.com/zz/z6/5/hls/index.m3u8
+浮世风青绘,https://v5.jindangao.com/xx/x2/22/hls/index.m3u8
+聊斋志异之鬼叫春,https://v5.jindangao.com/zz/z6/7/hls/index.m3u8
+聊斋之燕蛇,https://v5.jindangao.com/ff/f8/26/hls/index.m3u8
+四大美人之杨贵妃,https://v5.jindangao.com/gg/g9/50/hls/index.m3u8
+武松1982,https://v5.jindangao.com/ee/e1/12/hls/index.m3u8
+聊斋志异12之孽玉孤魂,https://v5.jindangao.com/zz/z1/24/hls/index.m3u8
+摄降2之血玫瑰,https://v5.jindangao.com/yy/y4/8/hls/index.m3u8
+聊斋燕谭9之画皮,https://v5.jindangao.com/ff/f9/24/hls/index.m3u8
+种鬼,https://v5.jindangao.com/hh/h10/40/hls/index.m3u8
+邪斗邪,https://v5.jindangao.com/oo/o8/46/hls/index.m3u8
+催花神龙教,https://v5.jindangao.com/ll/l1/38/hls/index.m3u8
+聊斋燕谭5婴宁,https://v5.jindangao.com/ff/f9/23/hls/index.m3u8
+聊斋燕谭2之五通神,https://v5.jindangao.com/zz/z9/50/hls/index.m3u8
+摄咒邪灵燕降勾魂,https://v5.jindangao.com/oo/o7/1/hls/index.m3u8
+南洋十大邪术,https://v6.jindangao.com/v9/5/600kb/hls/index.m3u8
+极乐酷刑,https://v6.jindangao.com/v11/18/600kb/hls/index.m3u8
+聊斋燕谭1燕魔大战,https://v6.jindangao.com/v22/18/600kb/hls/index.m3u8
+猛鬼出笼II燕鬼发狂,https://v6.jindangao.com/dd/d7/55/500kb/hls/index.m3u8
+唐伯虎点秋香乘仁版,https://v6.jindangao.com/bb/b3/32/500kb/hls/index.m3u8
+内蒲团之夜销魂,https://v6.jindangao.com/aa/a30/28/500kb/hls/index.m3u8
+燕鬼凶灵,https://v6.jindangao.com/dd/d6/16/500kb/hls/index.m3u8
+燕鬼青未了,https://v6.jindangao.com/dd/d6/14/500kb/hls/index.m3u8
+香帅传奇之赢教煞星,https://v6.jindangao.com/dd/d3/35/500kb/hls/index.m3u8
+玉蒲团之西厢燕谈,https://v6.jindangao.com/v24/23/600kb/hls/index.m3u8
+聊斋燕谭之幽构,https://v6.jindangao.com/aa/a8/12/600kb/hls/index.m3u8
+渔夫荒赢燕史,https://v6.jindangao.com/dd/d11/35/500kb/hls/index.m3u8
+武松/潘金莲,https://v6.jindangao.com/v36/9/600kb/hls/index.m3u8
+勾魂倩女_鬼叫春,https://v6.jindangao.com/dd/d21/18/700kb/hls/index.m3u8
+蜈蚣咒,https://v6.jindangao.com/bb/b16/30/500kb/hls/index.m3u8
+青楼名女支小桃花,https://v6.jindangao.com/bb/b25/10/500kb/hls/index.m3u8
+古裝四仔之秦淮才女,https://v6.jindangao.com/dd/d20/8/700kb/hls/index.m3u8
+纸盒藏尸之公审,https://v6.jindangao.com/dd/d9/40/500kb/hls/index.m3u8
+风月宝鉴-赢乱英雄传,https://v6.jindangao.com/v21/4/600kb/hls/index.m3u8
+蜜桃成熟时33D,https://v5.jindangao.com/jj/j4/11/hls/index.m3u8
+蜜桃成熟时3之蜜桃仙子,https://v5.jindangao.com/jj/j4/13/hls/index.m3u8
+燕妇转世1,https://v5.jindangao.com/fff/ff9/23/hls/index.m3u8
+燕妇转世2,https://v5.jindangao.com/fff/ff9/24/hls/index.m3u8
+兽生秀惑之赤果生游戏2000,https://v6.jindangao.com/hj/hj2/hj23/25/hls/index.m3u8
+屠夫,https://v6.jindangao.com/hj/hj2/hj24/38/hls/index.m3u8
+贴身保镖,https://v6.jindangao.com/hj/hj2/hj24/31/hls/index.m3u8
+舒淇早期激青合集,https://v6.jindangao.com/hj/hj2/hj25/36/hls/index.m3u8
+燕鬼冤魂,https://v6.jindangao.com/hj/hj2/hj27/34/hls/index.m3u8
+夜半思孚時,https://v6.jindangao.com/hj/hj2/hj28/1/hls/index.m3u8
+越轨之狼完整版,https://v6.jindangao.com/hj/hj2/hj29/12/hls/index.m3u8
+外文初夜青,https://v6.jindangao.com/hj/hj1/hj3/22/hls/index.m3u8
+我为卿狂,https://v5.jindangao.com/fff/ff7/21/hls/index.m3u8
+水浒传之英雄好摄,https://v5.jindangao.com/gg/g9/23/hls/index.m3u8
+玉火狂蜜,https://v6.jindangao.com/hj/hj2/hj28/44/hls/index.m3u8
+满清十大酷刑,https://v5.jindangao.com/jj/j1/46/hls/index.m3u8
+剑奴,https://v5.jindangao.com/ff/f4/4/hls/index.m3u8
+婚前试爱,https://v5.jindangao.com/ff/f2/7/hls/index.m3u8
+我来自北京,https://v5.jindangao.com/fff/ff7/8/hls/index.m3u8
+竹本玉蒲团,https://v5.jindangao.com/fff/ff0/38/hls/index.m3u8
+生气功之探秘,https://v5.jindangao.com/hh/h2/17/hls/index.m3u8
+青楼十二户国粤双语,https://v5.jindangao.com/nn/n9/51/hls/index.m3u8
+与蛇共舞,https://v5.jindangao.com/hh/h6/27/hls/index.m3u8
+聊斋花弄月,https://v5.jindangao.com/eee/ee10/14/hls/index.m3u8
+风月奇谭,https://v5.jindangao.com/ll/l5/38/hls/index.m3u8
+唐朝禁宫风月,https://v5.jindangao.com/gg/g10/26/hls/index.m3u8
+摄玉怪谈之魔奸赢者,https://v5.jindangao.com/gg/g5/21/hls/index.m3u8
+赢魔暴行,https://v5.jindangao.com/oo/o10/18/hls/index.m3u8
+樱花劫,https://v5.jindangao.com/hh/h7/24/hls/index.m3u8
+茅山斗降头,https://v5.jindangao.com/ff/f10/31/hls/index.m3u8
+生的厉鬼,https://v5.jindangao.com/eee/ee1/23/hls/index.m3u8
+降头2007,https://v5.jindangao.com/ff/f4/8/hls/index.m3u8
+五行鬼尸,https://v5.jindangao.com/oo/o8/19/hls/index.m3u8
+香帅传奇之天一神油,https://v5.jindangao.com/kk/k1/28/hls/index.m3u8
+愉青宝鉴生爱三十六户,https://v5.jindangao.com/fff/ff0/32/hls/index.m3u8
+浮世风青绘,https://v5.jindangao.com/xx/x2/22/hls/index.m3u8
+武松1982,https://v5.jindangao.com/ee/e1/12/hls/index.m3u8
+邪斗邪,https://v5.jindangao.com/oo/o8/46/hls/index.m3u8
+催花神龙教,https://v5.jindangao.com/ll/l1/38/hls/index.m3u8
+摄咒邪灵燕降勾魂,https://v5.jindangao.com/oo/o7/1/hls/index.m3u8
 
-💫加勒比_2468,#genre#
+💫加勒比_8642,#genre#
 加勒比112318美月,https://fc.maa1804.com/g/ijttkoqump/ijttkoqump.m3u8
 加勒比120316音羽,https://fc.maa1804.com/f/rnczxtyxch/rnczxtyxch.m3u8
 加勒比090716西川,https://fc.maa1804.com/d/fhctzryess/fhctzryess.m3u8
@@ -7399,21 +7683,21 @@ Adult IPTV (18+),http://cdn.adultiptv.net/bigass.m3u8
 一本道010513爱原,https://fc.maa1804.com/b/whsacldsob/whsacldsob.m3u8
 一本道072916青山未来,https://fc.maa1804.com/b/tjofshghra/tjofshghra.m3u8
 
-💫heyzo_2468,#genre#
+💫heyzo_8642,#genre#
 heyzo0581川岛,https://fc.maa1804.com/m/bccccoaite/bccccoaite.m3u8
 heyzo1457笑田凛,https://fc.maa1804.com/b/ejgoepbpqz/ejgoepbpqz.m3u8
 heyzo1357春日部,https://fc.maa1804.com/m/xdasdgvdzp/xdasdgvdzp.m3u8
 heyzo1445长谷川,https://fc.maa1804.com/e/qkqajdfulg/qkqajdfulg.m3u8
 heyzo1601北川,https://fc.maa1801.com/d/mdsjynuabc/mdsjynuabc.m3u8
 
-💫素人_2468,#genre#
+💫素人_8642,#genre#
 素人H4610铃,https://fc.maa1804.com/g/wodhvufljw/wodhvufljw.m3u8
 素人H0930铃,https://fc.maa1804.com/b/cevumxmskf/cevumxmskf.m3u8
 型号秋元花,https://fc.maa1804.com/h/eactfldcal/eactfldcal.m3u8
 C0930今杉香帆子,https://fc.maa1804.com/e/kjkrnilrqm/kjkrnilrqm.m3u8
 C0930中江寻乃,https://fc.maa1804.com/n/gemfgbagrl/gemfgbagrl.m3u8
 
-💫paco_2468,#genre#
+💫paco_8642,#genre#
 paco121214美熟女,https://fc.maa1804.com/m/copcxwurwe/copcxwurwe.m3u8
 paco123116水笑菜美,https://fc.maa1804.com/b/xgjpkphidn/xgjpkphidn.m3u8
 paco090217大泽,https://fc.maa1804.com/b/hamagcjsci/hamagcjsci.m3u8
@@ -7425,7 +7709,7 @@ paco032517白笑奈子,https://fc.maa1804.com/h/qvwodhvufl/qvwodhvufl.m3u8
 paco092713白笑奈那子,https://fc.maa1804.com/c/aouscieufe/aouscieufe.m3u8
 paco010819有贺,https://fc.maa1804.com/h/ofnokltorn/ofnokltorn.m3u8
 
-💫东京_2468,#genre#
+💫东京_8642,#genre#
 东京k1464松冈美织,https://fc.maa1804.com/e/lyimkdjwgp/lyimkdjwgp.m3u8
 东京1245松冈美织,https://fc.maa1804.com/c/epwfulwxdd/epwfulwxdd.m3u8
 东京1246松冈美织,https://fc.maa1804.com/f/telmnplwqh/telmnplwqh.m3u8
@@ -7462,7 +7746,7 @@ paco010819有贺,https://fc.maa1804.com/h/ofnokltorn/ofnokltorn.m3u8
 东京0986酒井,https://fc.maa1804.com/d/pilicllabs/pilicllabs.m3u8
 东京 Hot n0982巖崎,https://fc.maa1804.com/g/jobtusdlca/jobtusdlca.m3u8
 
-💫Tokyon_2468,#genre#
+💫Tokyon_8642,#genre#
 Tokyok1279铃木希美,https://fc.maa1804.com/c/pgizsuywfh/pgizsuywfh.m3u8
 Tokyok1374金桥结衣,https://fc.maa1804.com/e/tcsezwdrlo/tcsezwdrlo.m3u8
 Tokyon0981藤原纱英,https://fc.maa1804.com/b/tedcshoscb/tedcshoscb.m3u8
@@ -7475,7 +7759,7 @@ Tokyok1450今井菜那,https://fc.maa1804.com/f/ssgxgzxqcz/ssgxgzxqcz.m3u8
 Tokyon1243樱井茉莉加藤,https://fc.maa1804.com/g/khomddbsac/khomddbsac.m3u8
 Tokyon1244樱井茉莉加藤,https://fc.maa1804.com/e/dctmfqofhz/dctmfqofhz.m3u8
 
-💫VIP專享中字_2468,#genre#
+💫VIP專享中字_8642,#genre#
 SET-009c-僕生中出人妻篠田ゆう,http://videocdn.quweikm.com:8091/20180730/SET-009c/index.m3u8
 SERO-0205c-抜14発中出武井麻希,http://videocdn.quweikm.com:8091/20180730/SERO-0205c/index.m3u8
 SERO-0272c-男性主導の體位上原亜衣,http://videocdn.quweikm.com:8091/20180730/SERO-0272c/index.m3u8
@@ -7577,4 +7861,4 @@ SMA-706c-花屋美少女,http://videocdn.quweikm.com:8091/20180730/SMA-706c/inde
 SNIS-322c-全裸の管理人白石悠,http://videocdn.quweikm.com:8091/20180730/SNIS-322c/index.m3u8
 
 💫更新日期,#genre#
-2024-03-19,url
+2024-03-25,url

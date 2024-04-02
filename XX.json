@@ -22,6 +22,7 @@
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
 {"key":"csp_MLYS","name":"🐴毛驴","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"https://www.maolvys.com/"},
+{"key":"csp_Zxzj","name":"🏚️在线","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"},
 {"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.80yy3.com/"},
 {"key":"csp_Bttwoo","name":"✌比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name":"🔷LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pw/"},
@@ -483,7 +484,7 @@
 
 //Jar
 
-"spider": "http://nctv.top/tv/jar/ncdjaj.jar;md5;3C5F0BFA701C22B077842B08BDF3A875",   
+"spider": "http://nctv.top/tv/jar/ncdjaj.jar;md5;6B6A8129F2B7C49A67167575FF1933BE",   
 //"spider": "http://nctv.top/tv/jar/xbxy.jar;md5;FD3CEFC7302F3A39A442682F802B11E5",",   
 //"spider": "http://nctv.top/tv/jar/int.jar;md5;2A88192B6A0A8F95C9F9F99CD501F90A",                        
 //"spider": "https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/jar/custom_spider.jar;md5;edab3976b24e102336354d445026329f", 
@@ -504,7 +505,7 @@
 
 //直播源
 
-"lives": [{"name": "live","type": 0,"url": "http://nctv.top/tv/X.png","playerType":1,"ua":"okhttp/3.15","epg":"https://epg.imxd.top/api/diyp/?ch={name}&date={date}","logo":"https://logo.tycng.com/{name}.png"},
+"lives": [{"name": "live","type": 0,"url": "http://nctv.top/tv/X.png","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name": "港澳台","type": 0,"url": "http://nctv.top/tv/gt.txt","playerType":1,"ua":"okhttp/3.15","epg":"https://live.fanmingming.com/e.xml","logo":"https://live.fanmingming.com/tv/{频道名称}.png"},
 {"name":"运输车线路","type":"0","url": "https://weixine.net/tv/ysclive.txt"},
 {"name":"直播4","type":"0","url":"https://agit.ai/wekeyfisrt/hkt/raw/branch/main/live/live.js"},
@@ -521,8 +522,8 @@
 {"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"范明明•电台","type":0,"url":"https://already.free.hr/fanmingming/live/main/radio/m3u/index.m3u","playerType":1},
-//{"name":"肥羊•斗鱼","type":0,"url":"https://already.free.hr/Ftindy/IPTV-URL/main/douyuyqk.m3u","playerType":1},
-//{"name":"肥羊•虎牙","type":0,"url":"https://already.free.hr/Ftindy/IPTV-URL/main/huyayqk.m3u","playerType":1},
+{"name":"肥羊•斗鱼","type":0,"url":"https://already.free.hr/Ftindy/IPTV-URL/main/douyuyqk.m3u","playerType":1},
+{"name":"肥羊•虎牙","type":0,"url":"https://already.free.hr/Ftindy/IPTV-URL/main/huyayqk.m3u","playerType":1},
 {"name":"肥羊•YY","type":0,"url":"https://already.free.hr/Ftindy/IPTV-URL/main/yylunbo.m3u","playerType":1},
 //{"name":"初秋语•哔哩","type":0,"url":"./bili.m3u","playerType":1},
 {"name":"IPTV广州直播","type":0,"url":"https://agit.ai/alanchaotang/if/raw/branch/main/LIVE/guangzhou.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},

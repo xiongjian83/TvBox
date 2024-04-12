@@ -1,12 +1,11 @@
 📡  央视频道,#genre#
-
 CCTV1,http://live.nctv.top/tv/ysp.php?id=cctv1
 CCTV2,http://live.nctv.top/tv/ysp.php?id=cctv2
 CCTV3,http://live.nctv.top/tv/ysp.php?id=cctv3
 CCTV4,http://live.nctv.top/tv/ysp.php?id=cctv4
 CCTV5,http://live.nctv.top/tv/ysp.php?id=cctv5
 CCTV5+,http://live.nctv.top/tv/ysp.php?id=cctv5p
-CCTV6,http://live.nctv.top/tv/ysp.php?id=cctv6
+CCTV6,http://live.nctv.top/tv/1905.php?id=cctv6
 CCTV7,http://live.nctv.top/tv/ysp.php?id=cctv7
 CCTV8,http://live.nctv.top/tv/ysp.php?id=cctv8
 CCTV9,http://live.nctv.top/tv/ysp.php?id=cctv9
@@ -365,43 +364,27 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 
 📡  卫视频道,#genre#
 
-湖南卫视,http://live.nctv.top/tv/bestv.php?id=hunws
-江西卫视,http://live.nctv.top/tv/bestv.php?id=jxws
-江苏卫视,http://live.nctv.top/tv/bestv.php?id=jsws
-浙江卫视,http://live.nctv.top/tv/bestv.php?id=zjws
-东南卫视,http://live.nctv.top/tv/bestv.php?id=dnws
-北京卫视,http://live.nctv.top/tv/bestv.php?id=bjws
-东方卫视,http://live.nctv.top/tv/bestv.php?id=dfws
-广东卫视,http://live.nctv.top/tv/bestv.php?id=gdws
-深圳卫视,http://live.nctv.top/tv/bestv.php?id=szws
-天津卫视,http://live.nctv.top/tv/bestv.php?id=tjws
-重庆卫视,http://live.nctv.top/tv/bestv.php?id=cqws
-黑龙江卫视,http://live.nctv.top/tv/bestv.php?id=hljws
-吉林卫视,http://live.nctv.top/tv/bestv.php?id=jlws
-辽宁卫视,http://live.nctv.top/tv/bestv.php?id=lnws
-内蒙古卫视,http://live.nctv.top/tv/bestv.php?id=nmws
-宁夏卫视  ,http://live.nctv.top/tv/bestv.php?id=nxws
-甘肃卫视,http://live.nctv.top/tv/bestv.php?id=gsws
-青海卫视,http://live.nctv.top/tv/bestv.php?id=qhws
-陕西卫视,http://live.nctv.top/tv/bestv.php?id=sxws
-河北卫视,http://live.nctv.top/tv/bestv.php?id=hbws
-山西卫视,http://live.nctv.top/tv/bestv.php?id=sxiws
-山东卫视,http://live.nctv.top/tv/bestv.php?id=sdws
-安徽卫视,http://live.nctv.top/tv/bestv.php?id=ahws
-河南卫视,http://live.nctv.top/tv/bestv.php?id=hnws
-湖北卫视,http://live.nctv.top/tv/bestv.php?id=hubws
-厦门卫视,http://live.nctv.top/tv/bestv.php?id=xmws
-海峡卫视,http://live.nctv.top/tv/bestv.php?id=hxws
-广西卫视,http://live.nctv.top/tv/bestv.php?id=gxws
-云南卫视,http://live.nctv.top/tv/bestv.php?id=ynws
-贵州卫视,http://live.nctv.top/tv/bestv.php?id=gzws
-四川卫视,http://live.nctv.top/tv/bestv.php?id=scws
-海南卫视,http://live.nctv.top/tv/bestv.php?id=hinws
-康巴卫视,http://live.nctv.top/tv/bestv.php?id=kbws
-新疆卫视,http://live.nctv.top/tv/bestv.php?id=xjws
-兵团卫视,http://live.nctv.top/tv/bestv.php?id=btws
-西藏卫视,http://live.nctv.top/tv/bestv.php?id=xzws
-三沙卫视,http://live.nctv.top/tv/bestv.php?id=ssws
+湖南卫视,http://live.nctv.top/tv/ysp.php?id=hunws
+浙江卫视,http://live.nctv.top/tv/ysp.php?id=zjws
+江苏卫视,http://live.nctv.top/tv/ysp.php?id=jsws
+北京卫视,http://live.nctv.top/tv/ysp.php?id=bjws
+东方卫视,http://live.nctv.top/tv/ysp.php?id=dfws
+江西卫视,http://live.nctv.top/tv/ysp.php?id=jxws
+广东卫视,http://live.nctv.top/tv/ysp.php?id=gdws
+安徽卫视,http://live.nctv.top/tv/ysp.php?id=ahws
+天津卫视,http://live.nctv.top/tv/ysp.php?id=tjws
+河南卫视,http://live.nctv.top/tv/ysp.php?id=hnws
+湖北卫视,http://live.nctv.top/tv/ysp.php?id=hubws
+广西卫视,http://live.nctv.top/tv/ysp.php?id=gxws
+四川卫视,http://live.nctv.top/tv/ysp.php?id=scws
+重庆卫视,http://live.nctv.top/tv/ysp.php?id=cqws
+黑龙江卫视,http://live.nctv.top/tv/ysp.php?id=hljws
+辽宁卫视,http://live.nctv.top/tv/ysp.php?id=lnws
+河北卫视,http://live.nctv.top/tv/ysp.php?id=hbws
+贵州卫视,http://live.nctv.top/tv/ysp.php?id=gzws
+东南卫视,http://live.nctv.top/tv/ysp.php?id=dnws
+新疆卫视,http://live.nctv.top/tv/ysp.php?id=xjws
+山东卫视,http://live.nctv.top/tv/ysp.php?id=sdws
 
 湖南卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221225697/iptv8039.smil
 湖南卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221225697/iptv8039.smil
@@ -471,6 +454,47 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 兵团卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221225753/iptv101723.smil
 三沙卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221226984/85722645.smil
 
+
+湖南卫视,http://live.nctv.top/tv/bestv.php?id=hunws
+江西卫视,http://live.nctv.top/tv/bestv.php?id=jxws
+江苏卫视,http://live.nctv.top/tv/bestv.php?id=jsws
+浙江卫视,http://live.nctv.top/tv/bestv.php?id=zjws
+东南卫视,http://live.nctv.top/tv/bestv.php?id=dnws
+北京卫视,http://live.nctv.top/tv/bestv.php?id=bjws
+东方卫视,http://live.nctv.top/tv/bestv.php?id=dfws
+广东卫视,http://live.nctv.top/tv/bestv.php?id=gdws
+深圳卫视,http://live.nctv.top/tv/bestv.php?id=szws
+天津卫视,http://live.nctv.top/tv/bestv.php?id=tjws
+重庆卫视,http://live.nctv.top/tv/bestv.php?id=cqws
+黑龙江卫视,http://live.nctv.top/tv/bestv.php?id=hljws
+吉林卫视,http://live.nctv.top/tv/bestv.php?id=jlws
+辽宁卫视,http://live.nctv.top/tv/bestv.php?id=lnws
+内蒙古卫视,http://live.nctv.top/tv/bestv.php?id=nmws
+宁夏卫视  ,http://live.nctv.top/tv/bestv.php?id=nxws
+甘肃卫视,http://live.nctv.top/tv/bestv.php?id=gsws
+青海卫视,http://live.nctv.top/tv/bestv.php?id=qhws
+陕西卫视,http://live.nctv.top/tv/bestv.php?id=sxws
+河北卫视,http://live.nctv.top/tv/bestv.php?id=hbws
+山西卫视,http://live.nctv.top/tv/bestv.php?id=sxiws
+山东卫视,http://live.nctv.top/tv/bestv.php?id=sdws
+安徽卫视,http://live.nctv.top/tv/bestv.php?id=ahws
+河南卫视,http://live.nctv.top/tv/bestv.php?id=hnws
+湖北卫视,http://live.nctv.top/tv/bestv.php?id=hubws
+厦门卫视,http://live.nctv.top/tv/bestv.php?id=xmws
+海峡卫视,http://live.nctv.top/tv/bestv.php?id=hxws
+广西卫视,http://live.nctv.top/tv/bestv.php?id=gxws
+云南卫视,http://live.nctv.top/tv/bestv.php?id=ynws
+贵州卫视,http://live.nctv.top/tv/bestv.php?id=gzws
+四川卫视,http://live.nctv.top/tv/bestv.php?id=scws
+海南卫视,http://live.nctv.top/tv/bestv.php?id=hinws
+康巴卫视,http://live.nctv.top/tv/bestv.php?id=kbws
+新疆卫视,http://live.nctv.top/tv/bestv.php?id=xjws
+兵团卫视,http://live.nctv.top/tv/bestv.php?id=btws
+西藏卫视,http://live.nctv.top/tv/bestv.php?id=xzws
+三沙卫视,http://live.nctv.top/tv/bestv.php?id=ssws
+
+
+
 湖南卫视,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227037/10000100000000060000000000570888_0.smil
 浙江卫视,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227038/10000100000000060000000000570895_0.smil
 江苏卫视,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227235/10000100000000060000000000680027_0.smil
@@ -517,27 +541,6 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 兵团卫视,http://live.nctv.top/tv/ceshi.php?id=3901
 新疆卫视,http://live.nctv.top/tv/ceshi.php?id=4001
 
-广东卫视,http://live.nctv.top/tv/ysp.php?id=gdws
-湖南卫视,http://live.nctv.top/tv/ysp.php?id=hunws
-安徽卫视,http://live.nctv.top/tv/ysp.php?id=ahws
-浙江卫视,http://live.nctv.top/tv/ysp.php?id=zjws
-江苏卫视,http://live.nctv.top/tv/ysp.php?id=jsws
-北京卫视,http://live.nctv.top/tv/ysp.php?id=bjws
-东方卫视,http://live.nctv.top/tv/ysp.php?id=dfws
-天津卫视,http://live.nctv.top/tv/ysp.php?id=tjws
-河南卫视,http://live.nctv.top/tv/ysp.php?id=hnws
-湖北卫视,http://live.nctv.top/tv/ysp.php?id=hubws
-广西卫视,http://live.nctv.top/tv/ysp.php?id=gxws
-四川卫视,http://live.nctv.top/tv/ysp.php?id=scws
-重庆卫视,http://live.nctv.top/tv/ysp.php?id=cqws
-江西卫视,http://live.nctv.top/tv/ysp.php?id=jxws
-黑龙江卫视,http://live.nctv.top/tv/ysp.php?id=hljws
-辽宁卫视,http://live.nctv.top/tv/ysp.php?id=lnws
-河北卫视,http://live.nctv.top/tv/ysp.php?id=hbws
-贵州卫视,http://live.nctv.top/tv/ysp.php?id=gzws
-东南卫视,http://live.nctv.top/tv/ysp.php?id=dnws
-新疆卫视,http://live.nctv.top/tv/ysp.php?id=xjws
-山东卫视,http://live.nctv.top/tv/ysp.php?id=sdws
 
 湖南卫视,http://116.128.243.121:9901/tsfile/live/0128_1.m3u8
 浙江卫视,http://116.128.243.121:9901/tsfile/live/0124_1.m3u8
@@ -961,6 +964,7 @@ Amc电影台,http://mywlkj.ddns.net:754/tv/tw3.php?id=7
 中视 HD,rtmp://f13h.mine.nu/sat/tv091
 华视 HD,rtmp://f13h.mine.nu/sat/tv111
 民视 HD,rtmp://f13h.mine.nu/sat/tv051
+民视 HD,rtmp://220.130.201.73/sat/tv051
 TVBS新闻 HD,rtmp://f13h.mine.nu/sat/tv551
 TVBS欢乐,rtmp://f13h.mine.nu/sat/tv421
 东森超视,rtmp://f13h.mine.nu/sat/tv331
@@ -1933,7 +1937,7 @@ HZTV2,http://113.74.172.130:4000/udp/239.77.1.173:5146
 辽宁卫视,http://live.nctv.top/tv/bfgd.php?id=058
 辽宁北方,http://live.nctv.top/tv/bfgd.php?id=071
 辽宁生活,http://live.nctv.top/tv/bfgd.php?id=073
-辽宁体育,http://live.nctv.top/tv/bfgd.php?id=072
+辽宁体育,http://live.nctv.top/tv/bfgd.php?id=611
 辽宁影视,http://live.nctv.top/tv/bfgd.php?id=070
 辽宁青少,http://live.nctv.top/tv/bfgd.php?id=075
 辽宁经济,http://live.nctv.top/tv/bfgd.php?id=076

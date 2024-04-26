@@ -1,5 +1,4 @@
 📡  央视频道,#genre#
-
 CCTV1,http://live.nctv.top/888/bestv.php?id=cctv1
 CCTV2,http://live.nctv.top/888/bestv.php?id=cctv2
 CCTV3,http://live.nctv.top/888/bestv.php?id=cctv3
@@ -40,6 +39,41 @@ CCTV14,http://live.nctv.top/888/cqyx.php?id=cctv14
 CCTV15,http://live.nctv.top/888/cqyx.php?id=cctv15
 CCTV16,http://live.nctv.top/888/cqyx.php?id=cctv16
 CCTV17,http://live.nctv.top/888/cqyx.php?id=cctv17
+
+CCTV1,http://183.150.225.170:18900/ysp/?id=cctv1
+CCTV2,http://183.150.225.170:18900/ysp/?id=cctv2
+CCTV3,http://183.150.225.170:18900/ysp/?id=cctv3
+CCTV4,http://183.150.225.170:18900/ysp/?id=cctv4
+CCTV5,http://183.150.225.170:18900/ysp/?id=cctv5
+CCTV5+,http://183.150.225.170:18900/ysp/?id=cctv5p
+CCTV6,http://live.nctv.top/888/1905.php?id=cctv6
+CCTV7,http://183.150.225.170:18900/ysp/?id=cctv7
+CCTV8,http://183.150.225.170:18900/ysp/?id=cctv8
+CCTV9,http://183.150.225.170:18900/ysp/?id=cctv9
+CCTV10,http://183.150.225.170:18900/ysp/?id=cctv10
+CCTV11,http://183.150.225.170:18900/ysp/?id=cctv11
+CCTV12,http://183.150.225.170:18900/ysp/?id=cctv12
+CCTV13,http://183.150.225.170:18900/ysp/?id=cctv13
+CCTV14,http://183.150.225.170:18900/ysp/?id=cctv14
+CCTV15,http://183.150.225.170:18900/ysp/?id=cctv15
+CCTV16,http://183.150.225.170:18900/ysp/?id=cctv16
+CCTV17,http://183.150.225.170:18900/ysp/?id=cctv17
+CCTV164k,http://183.150.225.170:18900/ysp/?id=cctv16-4k
+CCTV4K,http://183.150.225.170:18900/ysp/?id=cctv4k
+CCTV8K,http://183.150.225.170:18900/ysp/?id=cctv8k
+CCTV兵器科技,http://183.150.225.170:18900/ysp/?id=bqkj
+CCTV第一剧场,http://183.150.225.170:18900/ysp/?id=dyjc
+CCTV怀旧剧场,http://183.150.225.170:18900/ysp/?id=hjjc
+CCTV风云剧场,http://183.150.225.170:18900/ysp/?id=fyjc
+CCTV风云音乐,http://183.150.225.170:18900/ysp/?id=fyyy
+CCTV风云足球,http://183.150.225.170:18900/ysp/?id=fyzq
+CCTV电视指南,http://183.150.225.170:18900/ysp/?id=dszn
+CCTV女性时尚,http://183.150.225.170:18900/ysp/?id=nxss
+CCTV央视文化精品,http://183.150.225.170:18900/ysp/?id=whjp
+CCTV世界地理,http://183.150.225.170:18900/ysp/?id=sjdl
+CCTV高尔夫网球,http://183.150.225.170:18900/ysp/?id=gefwq
+CCTV央视台球,http://183.150.225.170:18900/ysp/?id=ystq
+CCTV卫生健康,http://183.150.225.170:18900/ysp/?id=wsjk
 
 CCTV1,http://live.nctv.top/888/qly.php?id=5490
 CCTV2,http://live.nctv.top/888/qly.php?id=5612
@@ -1223,12 +1257,32 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 
 📡  江西频道,#genre#
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv 
-重温经典,http://live.nctv.top/888/ceshi.php?id=1008
+重温经典,http://live.nctv.top/888/yfy.php?id=cwjd
 重温经典,http://live.nctv.top/888/bfgd.php?id=635
-重温经典,http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-重温经典,http://mtw.so/5xS2Mh
 
+江西IPTV,http://220.176.218.35:8888/udp/239.252.219.187:5140
+江西IPTV,http://220.175.144.226:9000/udp/239.252.219.187:5140
 江西IPTV,http://gzly.hkychina.com:6005/udp/239.252.219.187:5140
+
+江西卫视,http://220.176.218.35:8888/udp/239.252.220.63:5140
+江西都市,http://220.176.218.35:8888/udp/239.252.220.238:5140
+江西经济生活,http://220.176.218.35:8888/udp/239.252.219.173:5140
+江西影视旅游,http://220.176.218.35:8888/udp/239.252.220.242:5140
+江西公共农业,http://220.176.218.35:8888/udp/239.252.220.102:5140
+江西少儿,http://220.176.218.35:8888/udp/239.252.219.113:5140
+江西新闻,http://220.176.218.35:8888/udp/239.252.220.100:5140
+江西移动,http://220.176.218.35:8888/udp/239.252.220.241:5140
+江西教育,http://220.176.218.35:8888/udp/239.252.219.115:5140
+
+江西卫视,http://220.175.144.226:9000/udp/239.252.220.63:5140
+江西都市,http://220.175.144.226:9000/udp/239.252.220.238:5140
+江西经济生活,http://220.175.144.226:9000/udp/239.252.219.173:5140
+江西影视旅游,http://220.175.144.226:9000/udp/239.252.220.242:5140
+江西公共农业,http://220.175.144.226:9000/udp/239.252.220.102:5140
+江西少儿,http://220.175.144.226:9000/udp/239.252.219.113:5140
+江西新闻,http://220.175.144.226:9000/udp/239.252.220.100:5140
+江西移动,http://220.175.144.226:9000/udp/239.252.220.241:5140
+江西教育,http://220.175.144.226:9000/udp/239.252.219.115:5140
 
 江西卫视,http://gzly.hkychina.com:6005/udp/239.252.220.63:5140
 江西都市,http://gzly.hkychina.com:6005/udp/239.252.220.238:5140
@@ -1347,8 +1401,8 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 
 📡  上海频道,#genre#
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv 
-重温经典,http://live.nctv.top/888/ceshi.php?id=1008
-重温经典,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+重温经典,http://live.nctv.top/888/yfy.php?id=cwjd
+重温经典,http://live.nctv.top/888/bfgd.php?id=635
 
 上海新闻,http://live.nctv.top/888/bestv.php?id=shxwzh
 上海都市,http://live.nctv.top/888/bestv.php?id=shds
@@ -1440,10 +1494,8 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 
 📡  北京频道,#genre#
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv 
-重温经典,http://live.nctv.top/888/ceshi.php?id=1008
-重温经典,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-重温经典,http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-重温经典,http://mtw.so/5xS2Mh
+重温经典,http://live.nctv.top/888/yfy.php?id=cwjd
+重温经典,http://live.nctv.top/888/bfgd.php?id=635
 
 北京新闻,http://183.242.49.77:8787/live/BTV%E6%96%B0%E9%97%BB/index.m3u8
 北京文艺,http://183.242.49.77:8787/live/BTV%E6%96%87%E8%89%BA/index.m3u8
@@ -1533,6 +1585,9 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 萌宠TV,http://[2409:8087:2:1::28]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOSDD3mErwuVWF5DqfHIW%2FMQ%3D%3D%3A20211105223205%2C10000100000000050000000003887495%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 
 📡  广东频道,#genre#
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv 
+重温经典,http://live.nctv.top/888/yfy.php?id=cwjd
+重温经典,http://live.nctv.top/888/bfgd.php?id=635
 
 广东珠江,http://125.89.163.44:8888/udp/239.77.0.114:5146
 广东珠江,http://125.89.163.44:8888/udp/239.77.0.1:5146
@@ -1694,23 +1749,14 @@ HZTV2,http://125.89.163.44:8888/udp/239.77.1.173:5146
 
 📡  湖南频道,#genre#
 
-湖南经视,http://116.128.243.121:9901/tsfile/live/1000_1.m3u8
-湖南娱乐,http://116.128.243.121:9901/tsfile/live/1002_1.m3u8
-湖南电影,http://116.128.243.121:9901/tsfile/live/1003_1.m3u8
-湖南都市,http://116.128.243.121:9901/tsfile/live/1001_1.m3u8
-湖南电视剧,http://116.128.243.121:9901/tsfile/live/1004_1.m3u8
-湖南爱晚,http://116.128.243.121:9901/tsfile/live/1005_1.m3u8
-湖南教育,http://116.128.243.121:9901/tsfile/live/1009_1.m3u8
-金鹰卡通,http://116.128.243.121:9901/tsfile/live/1007_1.m3u8
-金鹰纪实,http://116.128.243.121:9901/tsfile/live/1006_1.m3u8
 
-湖南爱晚,http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
+湖南经视,http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
+湖南娱乐,http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
 湖南电视剧,http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
 湖南电影,http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
 湖南都市,http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
 湖南国际,http://222.241.154.37:9901/tsfile/live/23024_1.m3u8
-湖南经视,http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
-湖南娱乐,http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
+湖南爱晚,http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
 湖南教育,http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
 
 湖南经视,http://www.yao87.com:4022/udp/239.76.253.103:9000
@@ -1829,6 +1875,14 @@ HZTV2,http://125.89.163.44:8888/udp/239.77.1.173:5146
 
 📡  陕西频道,#genre#
 
+陕西新闻资讯,http://124.115.207.92:8081/udp/239.111.205.28:5140
+陕西体育休闲,http://124.115.207.92:8081/udp/239.111.205.36:5140
+陕西影视频道,http://124.115.207.92:8081/udp/239.111.205.99:5140
+陕西都市青春,http://124.115.207.92:8081/udp/239.111.205.42:5140
+陕西公共频道,http://124.115.207.92:8081/udp/239.111.205.100:5140
+陕西生活频道,http://124.115.207.92:8081/udp/239.111.205.98:5140
+陕西西部电影,http://124.115.207.92:8081/udp/239.111.205.102:5140
+
 陕西新闻资讯,http://live.nctv.top/888/ceshi.php?id=2801
 陕西都市青春,http://live.nctv.top/888/ceshi.php?id=2802
 陕西公共频道,http://live.nctv.top/888/ceshi.php?id=2803
@@ -1856,14 +1910,6 @@ HZTV2,http://125.89.163.44:8888/udp/239.77.1.173:5146
 镇坪综合,http://live.nctv.top/888/ceshi.php?id=2817
 定边综合,http://live.nctv.top/888/ceshi.php?id=2818
 子洲综合,http://live.nctv.top/888/ceshi.php?id=2819
-
-陕西新闻资讯,http://124.115.207.92:8081/udp/239.111.205.28:5140
-陕西体育休闲,http://124.115.207.92:8081/udp/239.111.205.36:5140
-陕西影视频道,http://124.115.207.92:8081/udp/239.111.205.99:5140
-陕西都市青春,http://124.115.207.92:8081/udp/239.111.205.42:5140
-陕西公共频道,http://124.115.207.92:8081/udp/239.111.205.100:5140
-陕西生活频道,http://124.115.207.92:8081/udp/239.111.205.98:5140
-陕西西部电影,http://124.115.207.92:8081/udp/239.111.205.102:5140
 
 陕西新闻资讯,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/index.m3u8
 陕西都市青春,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/index.m3u8
@@ -1948,6 +1994,24 @@ HZTV2,http://125.89.163.44:8888/udp/239.77.1.173:5146
 石家庄新闻综合,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel13014/index.m3u8
 
 📡  湖北频道,#genre#
+
+武汉新闻综合,http://221.234.184.214:4022/rtp/239.69.1.145:10506
+武汉电视剧,http://221.234.184.214:4022/rtp/239.69.1.146:10512
+武汉生活,http://221.234.184.214:4022/rtp/239.69.1.251:11148
+武汉经济,http://221.234.184.214:4022/rtp/239.69.1.35:9850
+武汉文体,http://221.234.184.214:4022/rtp/239.69.1.147:10518
+武汉外语,http://221.234.184.214:4022/rtp/239.69.1.36:9856
+武汉教育,http://221.234.184.214:4022/rtp/239.69.1.60:9994
+
+湖北公共新闻,http://221.234.184.214:4022/rtp/239.69.1.40:9880
+湖北经视,http://221.234.184.214:4022/rtp/239.69.1.41:9886
+湖北综合,http://221.234.184.214:4022/rtp/239.69.1.42:9892
+湖北垄上,http://221.234.184.214:4022/rtp/239.69.1.43:9898
+湖北影视,http://221.234.184.214:4022/rtp/239.69.1.204:10866
+湖北生活,http://221.234.184.214:4022/rtp/239.69.1.205:10872
+湖北教育,http://221.234.184.214:4022/rtp/239.69.1.206:10878
+
+
 武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
 武汉电视剧,http://stream.appwuhan.com/2tzb/sd/live.m3u8
@@ -1957,7 +2021,8 @@ HZTV2,http://125.89.163.44:8888/udp/239.77.1.173:5146
 武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
 武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
 
-湖北公共·新闻,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI
+
+湖北公共新闻,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI
 湖北教育,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
 湖北经视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLVCQ3pDe4nBySab%2B3xPL123aTSCRugzF2ABe36IIJw2evZbYdWUo0ffUw53bflDgU
 湖北垄上,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNL%2Be1h4FfA5QqwJ7IPOz3p2qIS7djSxm17Htd%2FckZkm%2FVqsKHEJFJt26ju9iibzMEo
@@ -2972,18 +3037,6 @@ CETV4,http://live.nctv.top/888/bestv.php?id=cetv4
 谍战剧场,http://live.nctv.top/888/bestv.php?id=dzjc
 全球大片,http://live.nctv.top/888/bestv.php?id=qqdp
 热门剧场,http://live.nctv.top/888/bestv.php?id=rmjc
-空中课堂一年级,http://live.nctv.top/888/bestv.php?id=kzkt1
-空中课堂二年级,http://live.nctv.top/888/bestv.php?id=kzkt2
-空中课堂三年级,http://live.nctv.top/888/bestv.php?id=kzkt3
-空中课堂四年级,http://live.nctv.top/888/bestv.php?id=kzkt4
-空中课堂五年级,http://live.nctv.top/888/bestv.php?id=kzkt5
-空中课堂六年级,http://live.nctv.top/888/bestv.php?id=kzkt6
-空中课堂七年级,http://live.nctv.top/888/bestv.php?id=kzkt7
-空中课堂八年级,http://live.nctv.top/888/bestv.php?id=kzkt8
-空中课堂九年级,http://live.nctv.top/888/bestv.php?id=kzkt9
-空中课堂高一,http://live.nctv.top/888/bestv.php?id=kzktg1
-空中课堂高二,http://live.nctv.top/888/bestv.php?id=kzktg2
-空中课堂高三,http://live.nctv.top/888/bestv.php?id=kzktg3
 
 CCTV1,http://live.nctv.top/888/bst.php?id=cctv1hd8m/8000000
 CCTV2,http://live.nctv.top/888/bst.php?id=cctv2hd8m/8000000
@@ -3794,6 +3847,7 @@ HOY TV78,https://cdn.hklive.tv/hls/78/index.m3u8
 
 
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
+星空卫视,http://61.157.33.5:8888/udp/239.93.0.156:2193
 星空卫视,http://yuju666888.x3322.net:808/hls/110/index.m3u8
 
 
@@ -3877,6 +3931,10 @@ ELEVEN2,rtmp://9hv9.mine.nu/sat/tv741
 CHC动作电影,rtsp://115.153.233.154/PLTV/88888888/224/3221226992/86128817.smil
 CHC高清电影,rtsp://115.153.233.154/PLTV/88888888/224/3221226990/86128784.smil
 CHC家庭影院,rtsp://115.153.233.154/PLTV/88888888/224/3221226959/86128800.smil
+
+CHC高清电影,http://live.nctv.top/888/cqyx.php?id=chcgq
+CHC动作电影,http://live.nctv.top/888/cqyx.php?id=chcdz
+CHC家庭影院,http://live.nctv.top/888/cqyx.php?id=chcjt
 
 CHC动作电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC家庭影院,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
@@ -9232,4 +9290,4 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 
 💫更新日期,#genre#
 
-2024-04-25,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv 
+2024-04-26,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv 

@@ -15,10 +15,10 @@
 {"key":"追剧","name":"追剧","type":3,"api":"csp_TTian","jar":"http://nctv.top/tv/jar/spider.jar","ext":"http://app.kzjtv.com"},
 {"key":"电影牛","name":"电影牛","type":3,"api":"csp_XYQHiker","jar":"http://nctv.top/tv/jar/spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://nctv.top/tv/sub/电影牛.json"},
 {"key":"4KHDR","name":"4KHDR","type":3,"api":"csp_XYQHiker","jar":"http://nctv.top/tv/jar/spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://nctv.top/tv/sub/4KHDR.json"},
-{"key":"玩偶哥哥","name":"玩偶哥哥","type":3,"api":"csp_XYQHiker","jar":"http://nctv.top/tv/jar/spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://nctv.top/tv/sub/玩偶哥哥.json"},
 {"key":"茶杯狐","name":"茶杯狐","type":3,"api":"http://nctv.top/tv/libs/drpy.min.js","ext":"http://nctv.top/tv/js/茶杯狐.js"},
 
-{"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.cz233.com/"},
+{"key": "T4-安博","name": "安博(T4)","type": 4,"api": "https://tang.serv00.net/power/ub1818?token=8726be0d","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": true},
+{"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czys.top/"},
 {"key":"csp_AppTT","name":"💥萌米","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
 {"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_Kkys","name":"💡酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},

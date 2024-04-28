@@ -6,7 +6,7 @@ CCTV3,http://live.nctv.top/888/ysp.php?id=cctv3
 CCTV4,http://live.nctv.top/888/ysp.php?id=cctv4
 CCTV5,http://live.nctv.top/888/ysp.php?id=cctv5
 CCTV5+,http://live.nctv.top/888/ysp.php?id=cctv5p
-CCTV6,http://live.nctv.top/888/1905.php?id=cctv6
+CCTV6,http://live.nctv.top/888/yfy.php?id=cctv6
 CCTV7,http://live.nctv.top/888/ysp.php?id=cctv7
 CCTV8,http://live.nctv.top/888/ysp.php?id=cctv8
 CCTV9,http://live.nctv.top/888/ysp.php?id=cctv9
@@ -1145,28 +1145,6 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 康巴卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001313/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 📡  港台测试,#genre#
-凤凰资讯,https://ali.hlspull.yximgs.com/live/24c69b431c8e2f79958b354f51cad72f.flv
-凤凰中文,https://ali.hlspull.yximgs.com/live/9d8cd032d5559cbea91273d0632e83e3.flv
-凤凰香港,https://ali.hlspull.yximgs.com/live/941c92bf0b8eb90801b0785d0d00aa4e.flv
-翡翠台,https://play.kankanlive.com/live/5370992661453784.flv
-明珠台,https://ali.hlspull.yximgs.com/live/d74389e24fd3a7bcb2de5d9480017c9a.flv
-无线新闻,http://ali.hlspull.yximgs.com/live/wxxwokk.flv
-J2,https://ali.hlspull.yximgs.com/live/22a89122a1436a158d24bd58e51a99df.flv
-ViuTV,https://ali.hlspull.yximgs.com/live/5842f5d547dbf12cb8320cd51f8fa140.flv
-ViuTV6,https://ali.hlspull.yximgs.com/live/8585058fa98c24fcf6e49ecc43986f27.flv
-RTHK31,https://ali.hlspull.yximgs.com/live/521d5a72ea3b2757e1d65c1ed297d2bd.flv
-RTHK32,https://ali.hlspull.yximgs.com/live/9a4b58c1a2a49e35b613aac98b81ae15.flv
-HOY TV78,https://ali.hlspull.yximgs.com/live/ccb6e62c76a5ec8fbf664265d19169e8.flv
-HOY TV77,https://ali.hlspull.yximgs.com/live/2d7a91ab6fdb16c6faa483611dac5b7f.flv
-HOY TV76,https://ali.hlspull.yximgs.com/live/5d8c266b3bcbc3de37f8717f44a61ce4.flv
-Now新聞,https://ali.hlspull.yximgs.com/live/fa44355c655085c5ff9be01718e14453.flv
-Now財經,https://ali.hlspull.yximgs.com/live/8c74d70297cdf95ee874d2d1e68df4f8.flv
-TVB星河,https://ali.hlspull.yximgs.com/live/82b3ea218dd22ebba62b36adbdaa33a0.flv
-天映頻道,https://ali.hlspull.yximgs.com/live/a4aaa149b411672855ea08836e180f6b.flv
-天映电影,https://ali.hlspull.yximgs.com/live/bf0acecc5c8f0a7ae58634c127372eba.flv
-天映經典,https://ali.hlspull.yximgs.com/live/0394bf60b84d7cfca7a6b7a2940584b7.flv
-美亚电影,https://ali.hlspull.yximgs.com/live/6fe0c042f674cebb85e1e74c7f932894.flv
-
 凤凰资讯,http://live.nctv.top/888/gt.php?id=1
 凤凰中文,http://live.nctv.top/888/gt.php?id=2
 凤凰香港,http://live.nctv.top/888/gt.php?id=3
@@ -3555,9 +3533,9 @@ ESPN,http://143.244.60.30/ESPN/index.m3u8
 
 
 🇭🇰港台,#genre#
-凤凰资讯,http://113.64.145.187:8081/hls/36/index.m3u8
-凤凰中文,http://113.64.145.187:8081/hls/37/index.m3u8
-凤凰香港,http://113.64.145.187:8081/hls/38/index.m3u8
+凤凰资讯,http://113.64.145.132:8081/hls/36/index.m3u8
+凤凰中文,http://113.64.145.132:8081/hls/37/index.m3u8
+凤凰香港,http://113.64.145.132:8081/hls/38/index.m3u8
 
 凤凰资讯,http://113.64.145.105:8081/hls/36/index.m3u8
 凤凰中文,http://113.64.145.105:8081/hls/37/index.m3u8
@@ -3565,7 +3543,7 @@ ESPN,http://143.244.60.30/ESPN/index.m3u8
 
 凤凰资讯,http://113.64.145.195:8081/hls/36/index.m3u8
 凤凰资讯,http://113.64.145.121:8081/hls/36/index.m3u8
-凤凰资讯,http://113.64.145.132:8081/hls/36/index.m3u8
+凤凰资讯,http://113.64.145.187:8081/hls/36/index.m3u8
 凤凰资讯,http://113.64.145.100:8081/hls/36/index.m3u8
 
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
@@ -9218,4 +9196,4 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 
 💫更新日期,#genre#
 
-2024-04-28,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv 
+2024-04-29,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv 

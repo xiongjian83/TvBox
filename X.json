@@ -520,6 +520,9 @@
 //直播源
 
 "lives": [{"name": "Live","type": 0,"url": "http://live.nctv.top/x.png","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name": "焦点","type": 0,"url": "https://ykq001.serv00.net/live/complete.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"欧华","type":"0","url": "https://ykq001.serv00.net/live/complete.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name": "斯玛特","type": 0,"url": "http://live.nctv.top/zby/Smartv.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name": "港澳台","type": 0,"url": "http://live.nctv.top/zby/qt.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"组播","type":"0","url": "http://live.nctv.top/zby/zb.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"范明明•综合","type":0,"url":"https://already.free.hr/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},

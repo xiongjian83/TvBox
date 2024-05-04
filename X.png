@@ -91,6 +91,27 @@ CCTV164k,http://live.nctv.top/666/bestv.php?id=cctv164k
 CCTV17,http://live.nctv.top/666/bestv.php?id=cctv17
 CCTV4K,http://live.nctv.top/666/bestv.php?id=cctv4k
 
+CCTV1,http://live.nctv.top/666/bestv1.php?id=cctv1
+CCTV2,http://live.nctv.top/666/bestv1.php?id=cctv2
+CCTV3,http://live.nctv.top/666/bestv1.php?id=cctv3
+CCTV4,http://live.nctv.top/666/bestv1.php?id=cctv4
+CCTV5,http://live.nctv.top/666/bestv1.php?id=cctv5
+CCTV5+,http://live.nctv.top/666/bestv1.php?id=cctv5p
+CCTV5+,http://live.nctv.top/666/bestv1.php?id=cctv5p2
+CCTV6,http://live.nctv.top/666/bestv1.php?id=cctv6
+CCTV7,http://live.nctv.top/666/bestv1.php?id=cctv7
+CCTV8,http://live.nctv.top/666/bestv1.php?id=cctv8
+CCTV9,http://live.nctv.top/666/bestv1.php?id=cctv9
+CCTV10,http://live.nctv.top/666/bestv1.php?id=cctv10
+CCTV11,http://live.nctv.top/666/bestv1.php?id=cctv11
+CCTV12,http://live.nctv.top/666/bestv1.php?id=cctv12
+CCTV13,http://live.nctv.top/666/bestv1.php?id=cctv13
+CCTV14,http://live.nctv.top/666/bestv1.php?id=cctv14
+CCTV15,http://live.nctv.top/666/bestv1.php?id=cctv15
+CCTV16,http://live.nctv.top/666/bestv1.php?id=cctv16
+CCTV164k,http://live.nctv.top/666/bestv1.php?id=cctv164k
+CCTV17,http://live.nctv.top/666/bestv1.php?id=cctv17
+CCTV4K,http://live.nctv.top/666/bestv1.php?id=cctv4k
 
 CCTV1,rtsp://115.153.233.154/PLTV/88888888/224/3221225699/iptv8040.smil
 CCTV2,rtsp://115.153.233.154/PLTV/88888888/224/3221226825/59814584.smil
@@ -445,6 +466,44 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 兵团卫视,http://live.nctv.top/666/bestv.php?id=btws
 西藏卫视,http://live.nctv.top/666/bestv.php?id=xzws
 三沙卫视,http://live.nctv.top/666/bestv.php?id=ssws
+
+湖南卫视,http://live.nctv.top/666/bestv1.php?id=hunws
+江西卫视,http://live.nctv.top/666/bestv1.php?id=jxws
+江苏卫视,http://live.nctv.top/666/bestv1.php?id=jsws
+浙江卫视,http://live.nctv.top/666/bestv1.php?id=zjws
+东南卫视,http://live.nctv.top/666/bestv1.php?id=dnws
+北京卫视,http://live.nctv.top/666/bestv1.php?id=bjws
+东方卫视,http://live.nctv.top/666/bestv1.php?id=dfws
+天津卫视,http://live.nctv.top/666/bestv1.php?id=tjws
+重庆卫视,http://live.nctv.top/666/bestv1.php?id=cqws
+黑龙江卫视,http://live.nctv.top/666/bestv1.php?id=hljws
+吉林卫视,http://live.nctv.top/666/bestv1.php?id=jlws
+辽宁卫视,http://live.nctv.top/666/bestv1.php?id=lnws
+内蒙古卫视,http://live.nctv.top/666/bestv1.php?id=nmws
+宁夏卫视  ,http://live.nctv.top/666/bestv1.php?id=nxws
+甘肃卫视,http://live.nctv.top/666/bestv1.php?id=gsws
+青海卫视,http://live.nctv.top/666/bestv1.php?id=qhws
+陕西卫视,http://live.nctv.top/666/bestv1.php?id=sxws
+河北卫视,http://live.nctv.top/666/bestv1.php?id=hbws
+山西卫视,http://live.nctv.top/666/bestv1.php?id=sxiws
+山东卫视,http://live.nctv.top/666/bestv1.php?id=sdws
+安徽卫视,http://live.nctv.top/666/bestv1.php?id=ahws
+河南卫视,http://live.nctv.top/666/bestv1.php?id=hnws
+湖北卫视,http://live.nctv.top/666/bestv1.php?id=hubws
+厦门卫视,http://live.nctv.top/666/bestv1.php?id=xmws
+海峡卫视,http://live.nctv.top/666/bestv1.php?id=hxws
+广东卫视,http://live.nctv.top/666/bestv1.php?id=gdws
+深圳卫视,http://live.nctv.top/666/bestv1.php?id=szws
+广西卫视,http://live.nctv.top/666/bestv1.php?id=gxws
+云南卫视,http://live.nctv.top/666/bestv1.php?id=ynws
+贵州卫视,http://live.nctv.top/666/bestv1.php?id=gzws
+四川卫视,http://live.nctv.top/666/bestv1.php?id=scws
+康巴卫视,http://live.nctv.top/666/bestv1.php?id=kbws
+新疆卫视,http://live.nctv.top/666/bestv1.php?id=xjws
+兵团卫视,http://live.nctv.top/666/bestv1.php?id=btws
+西藏卫视,http://live.nctv.top/666/bestv1.php?id=xzws
+海南卫视,http://live.nctv.top/666/bestv1.php?id=hinws
+三沙卫视,http://live.nctv.top/666/bestv1.php?id=ssws
 
 湖南卫视,http://live.nctv.top/666/ysp.php?id=hunws
 浙江卫视,http://live.nctv.top/666/ysp.php?id=zjws
@@ -1818,6 +1877,16 @@ HZTV2,http://ddns.cyruslee.top:8888/udp/239.77.1.173:5146
 福建乡村振兴公共,http://live.nctv.top/666/bestv.php?id=fjgg
 福建教育,http://live.nctv.top/666/bestv.php?id=fjjy
 
+福建综合,http://live.nctv.top/666/bestv1.php?id=fjzh
+福建新闻,http://live.nctv.top/666/bestv1.php?id=fjxw
+福建电视剧,http://live.nctv.top/666/bestv1.php?id=fjdsj
+福建经济,http://live.nctv.top/666/bestv1.php?id=fjjj
+福建文体,http://live.nctv.top/666/bestv1.php?id=fjwt
+福建少儿,http://live.nctv.top/666/bestv1.php?id=fjse
+福建旅游,http://live.nctv.top/666/bestv1.php?id=fjly
+福建乡村振兴公共,http://live.nctv.top/666/bestv1.php?id=fjgg
+福建教育,http://live.nctv.top/666/bestv1.php?id=fjjy
+
 福建综合,http://php.jdshipin.com:8880/bst.php?id=fjzh
 福建新闻,http://php.jdshipin.com:8880/bst.php?id=fjxw
 福建文体,http://php.jdshipin.com:8880/bst.php?id=fjwt
@@ -2036,6 +2105,36 @@ HZTV2,http://ddns.cyruslee.top:8888/udp/239.77.1.173:5146
 武侯电视台,https://tv.cry33.com/cdtvflv.php?id=whtv
 新都电视台,https://tv.cry33.com/cdtvflv.php?id=xdzh
 简阳新闻综合,https://tv.cry33.com/cdtvflv.php?id=jyxwzh
+
+📡  重庆频道,#genre#
+
+重庆新闻,http://live.nctv.top/666/cqyx.php?id=cqxw
+重庆科教,http://live.nctv.top/666/cqyx.php?id=cqkj
+重庆影视,http://live.nctv.top/666/cqyx.php?id=cqys
+重庆文体娱乐,http://live.nctv.top/666/cqyx.php?id=cqwtyl
+重庆少儿,http://live.nctv.top/666/cqyx.php?id=cqse
+重庆时尚生活,http://live.nctv.top/666/cqyx.php?id=cqsssh
+重庆新农村,http://live.nctv.top/666/cqyx.php?id=cqxnc
+重庆社会与法,http://live.nctv.top/666/cqyx.php?id=cqshyf
+重庆移动,http://live.nctv.top/666/cqyx.php?id=cqyd
+重庆汽摩,http://live.nctv.top/666/cqyx.php?id=cqqm
+重广融媒,http://live.nctv.top/666/cqyx.php?id=cgrm
+爱看导视,http://live.nctv.top/666/cqyx.php?id=akds
+合川综合,http://live.nctv.top/666/cqyx.php?id=hczh
+长寿综合,http://live.nctv.top/666/cqyx.php?id=cszh
+酉阳综合,http://live.nctv.top/666/cqyx.php?id=yyzh
+云阳综合,http://live.nctv.top/666/cqyx.php?id=yunyzh
+铜梁综合,http://live.nctv.top/666/cqyx.php?id=tlzh
+万州综合,http://live.nctv.top/666/cqyx.php?id=wanzhou
+涪陵综合,http://live.nctv.top/666/cqyx.php?id=fuling
+黔江综合,http://live.nctv.top/666/cqyx.php?id=qianjiang
+永川综合,http://live.nctv.top/666/cqyx.php?id=yongzhou
+武隆综合,http://live.nctv.top/666/cqyx.php?id=wulong
+荣昌综合,http://live.nctv.top/666/cqyx.php?id=rongchang
+潼南综合,http://live.nctv.top/666/cqyx.php?id=tongnan
+丰都综合,http://live.nctv.top/666/cqyx.php?id=fengdu
+巫溪综合,http://live.nctv.top/666/cqyx.php?id=wuxi
+秀山综合,http://live.nctv.top/666/cqyx.php?id=xiushan
 
 📡  山东综合,#genre#
 山东卫视,http://111.15.174.107:8969/tsfile/live/0131_1.m3u8
@@ -2474,10 +2573,10 @@ HZTV2,http://ddns.cyruslee.top:8888/udp/239.77.1.173:5146
 
 📡  湖南组播,#genre#
 
-凤凰中文HD,http://dms.yryyj.site:8188/udp/239.76.246.134:1234
+凤凰中文HD,http://dms.yryyj.site:8188/udp/239.76.246.135:1234
 凤凰中文HD,http://dms.yryyj.site:8188/udp/239.76.253.135:9000
 凤凰资讯HD,http://dms.yryyj.site:8188/udp/239.76.253.134:9000
-凤凰资讯HD,http://dms.yryyj.site:8188/udp/239.76.246.135:1234
+凤凰资讯HD,http://dms.yryyj.site:8188/udp/239.76.246.134:1234
 CCCTV16 4K,http://dms.yryyj.site:8188/udp/239.76.254.200:9000
 CCTV16 4kHDR,http://dms.yryyj.site:8188/udp/239.76.246.230:1234
 CCTV4美洲HD,http://dms.yryyj.site:8188/udp/239.76.253.96:9000
@@ -2811,6 +2910,128 @@ CETV4,http://live.nctv.top/666/bestv.php?id=cetv4
 谍战剧场,http://live.nctv.top/666/bestv.php?id=dzjc
 全球大片,http://live.nctv.top/666/bestv.php?id=qqdp
 热门剧场,http://live.nctv.top/666/bestv.php?id=rmjc
+
+CCTV1,http://live.nctv.top/666/bestv1.php?id=cctv1
+CCTV2,http://live.nctv.top/666/bestv1.php?id=cctv2
+CCTV3,http://live.nctv.top/666/bestv1.php?id=cctv3
+CCTV4,http://live.nctv.top/666/bestv1.php?id=cctv4
+CCTV5,http://live.nctv.top/666/bestv1.php?id=cctv5
+CCTV5+,http://live.nctv.top/666/bestv1.php?id=cctv5p
+CCTV5+,http://live.nctv.top/666/bestv1.php?id=cctv5p2
+CCTV6,http://live.nctv.top/666/bestv1.php?id=cctv6
+CCTV7,http://live.nctv.top/666/bestv1.php?id=cctv7
+CCTV8,http://live.nctv.top/666/bestv1.php?id=cctv8
+CCTV9,http://live.nctv.top/666/bestv1.php?id=cctv9
+CCTV10,http://live.nctv.top/666/bestv1.php?id=cctv10
+CCTV11,http://live.nctv.top/666/bestv1.php?id=cctv11
+CCTV12,http://live.nctv.top/666/bestv1.php?id=cctv12
+CCTV13,http://live.nctv.top/666/bestv1.php?id=cctv13
+CCTV14,http://live.nctv.top/666/bestv1.php?id=cctv14
+CCTV15,http://live.nctv.top/666/bestv1.php?id=cctv15
+CCTV16,http://live.nctv.top/666/bestv1.php?id=cctv16
+CCTV164k,http://live.nctv.top/666/bestv1.php?id=cctv164k
+CCTV17,http://live.nctv.top/666/bestv1.php?id=cctv17
+CCTV4K,http://live.nctv.top/666/bestv1.php?id=cctv4k
+CGTN,http://live.nctv.top/666/bestv1.php?id=cgtn
+CETV1,http://live.nctv.top/666/bestv1.php?id=cetv1
+CETV2,http://live.nctv.top/666/bestv1.php?id=cetv2
+CETV4,http://live.nctv.top/666/bestv1.php?id=cetv4
+中国天气,http://live.nctv.top/666/bestv1.php?id=zgtq
+
+湖南卫视,http://live.nctv.top/666/bestv1.php?id=hunws
+江西卫视,http://live.nctv.top/666/bestv1.php?id=jxws
+江苏卫视,http://live.nctv.top/666/bestv1.php?id=jsws
+浙江卫视,http://live.nctv.top/666/bestv1.php?id=zjws
+东南卫视,http://live.nctv.top/666/bestv1.php?id=dnws
+北京卫视,http://live.nctv.top/666/bestv1.php?id=bjws
+东方卫视,http://live.nctv.top/666/bestv1.php?id=dfws
+天津卫视,http://live.nctv.top/666/bestv1.php?id=tjws
+重庆卫视,http://live.nctv.top/666/bestv1.php?id=cqws
+黑龙江卫视,http://live.nctv.top/666/bestv1.php?id=hljws
+吉林卫视,http://live.nctv.top/666/bestv1.php?id=jlws
+辽宁卫视,http://live.nctv.top/666/bestv1.php?id=lnws
+内蒙古卫视,http://live.nctv.top/666/bestv1.php?id=nmws
+宁夏卫视  ,http://live.nctv.top/666/bestv1.php?id=nxws
+甘肃卫视,http://live.nctv.top/666/bestv1.php?id=gsws
+青海卫视,http://live.nctv.top/666/bestv1.php?id=qhws
+陕西卫视,http://live.nctv.top/666/bestv1.php?id=sxws
+河北卫视,http://live.nctv.top/666/bestv1.php?id=hbws
+山西卫视,http://live.nctv.top/666/bestv1.php?id=sxiws
+山东卫视,http://live.nctv.top/666/bestv1.php?id=sdws
+安徽卫视,http://live.nctv.top/666/bestv1.php?id=ahws
+河南卫视,http://live.nctv.top/666/bestv1.php?id=hnws
+湖北卫视,http://live.nctv.top/666/bestv1.php?id=hubws
+厦门卫视,http://live.nctv.top/666/bestv1.php?id=xmws
+海峡卫视,http://live.nctv.top/666/bestv1.php?id=hxws
+广东卫视,http://live.nctv.top/666/bestv1.php?id=gdws
+深圳卫视,http://live.nctv.top/666/bestv1.php?id=szws
+广西卫视,http://live.nctv.top/666/bestv1.php?id=gxws
+云南卫视,http://live.nctv.top/666/bestv1.php?id=ynws
+贵州卫视,http://live.nctv.top/666/bestv1.php?id=gzws
+四川卫视,http://live.nctv.top/666/bestv1.php?id=scws
+康巴卫视,http://live.nctv.top/666/bestv1.php?id=kbws
+新疆卫视,http://live.nctv.top/666/bestv1.php?id=xjws
+兵团卫视,http://live.nctv.top/666/bestv1.php?id=btws
+西藏卫视,http://live.nctv.top/666/bestv1.php?id=xzws
+海南卫视,http://live.nctv.top/666/bestv1.php?id=hinws
+三沙卫视,http://live.nctv.top/666/bestv1.php?id=ssws
+西藏藏语卫视,http://live.nctv.top/666/bestv1.php?id=xzwszy
+
+北京纪实科教,http://live.nctv.top/666/bestv1.php?id=bjjskj
+北京卡酷少儿,http://live.nctv.top/666/bestv1.php?id=bjkk
+上海东方影视,http://live.nctv.top/666/bestv1.php?id=dfys
+上海第一财经,http://live.nctv.top/666/bestv1.php?id=dycj
+上海新闻综合,http://live.nctv.top/666/bestv1.php?id=shxwzh
+上海都市频道,http://live.nctv.top/666/bestv1.php?id=shds
+上海纪实人文,http://live.nctv.top/666/bestv1.php?id=shjsrw
+上海ICS频道,http://live.nctv.top/666/bestv1.php?id=shics
+上海五星体育,http://live.nctv.top/666/bestv1.php?id=wxty
+欢笑剧场,http://live.nctv.top/666/bestv1.php?id=hxjc
+欢笑剧场4K,http://live.nctv.top/666/bestv1.php?id=hxjc4k
+都市剧场,http://live.nctv.top/666/bestv1.php?id=dsjc
+七彩戏剧,http://live.nctv.top/666/bestv1.php?id=qcxj
+动漫秀场,http://live.nctv.top/666/bestv1.php?id=dmxc
+劲爆体育,http://live.nctv.top/666/bestv1.php?id=jbty
+新视觉,http://live.nctv.top/666/bestv1.php?id=xsj
+游戏风云,http://live.nctv.top/666/bestv1.php?id=yxfy
+哈哈炫动,http://live.nctv.top/666/bestv1.php?id=hhxd
+东方财经,http://live.nctv.top/666/bestv1.php?id=dfcj
+法治天地,http://live.nctv.top/666/bestv1.php?id=fztd
+生活时尚,http://live.nctv.top/666/bestv1.php?id=shss
+金色学堂,http://live.nctv.top/666/bestv1.php?id=jspd
+乐游频道,http://live.nctv.top/666/bestv1.php?id=qjs
+魅力足球,http://live.nctv.top/666/bestv1.php?id=mlzq
+上海教育,http://live.nctv.top/666/bestv1.php?id=shjy
+足球频道,http://live.nctv.top/666/bestv1.php?id=zqpd
+湖南茶频道,http://live.nctv.top/666/bestv1.php?id=cpd
+湖南快乐垂钓,http://live.nctv.top/666/bestv1.php?id=klcd
+湖南金鹰纪,http://live.nctv.top/666/bestv1.php?id=jyjs
+金鹰卡通,http://live.nctv.top/666/bestv1.php?id=jykt
+财富天下,http://live.nctv.top/666/bestv1.php?id=cftx
+福建综合,http://live.nctv.top/666/bestv1.php?id=fjzh
+福建新闻,http://live.nctv.top/666/bestv1.php?id=fjxw
+福建电视剧,http://live.nctv.top/666/bestv1.php?id=fjdsj
+福建经济,http://live.nctv.top/666/bestv1.php?id=fjjj
+福建文体,http://live.nctv.top/666/bestv1.php?id=fjwt
+福建少儿,http://live.nctv.top/666/bestv1.php?id=fjse
+福建旅游,http://live.nctv.top/666/bestv1.php?id=fjly
+福建乡村振兴公共,http://live.nctv.top/666/bestv1.php?id=fjgg
+福建教育,http://live.nctv.top/666/bestv1.php?id=fjjy
+嘉佳卡通,http://live.nctv.top/666/bestv1.php?id=jjkt
+戏曲精选,http://live.nctv.top/666/bestv1.php?id=xqjx
+热门综艺,http://live.nctv.top/666/bestv1.php?id=rmzy
+超级体育,http://live.nctv.top/666/bestv1.php?id=cjty
+健康养生,http://live.nctv.top/666/bestv1.php?id=jkys
+百变课堂,http://live.nctv.top/666/bestv1.php?id=bbkt
+看天下精选,http://live.nctv.top/666/bestv1.php?id=ktxjx
+华语影院,http://live.nctv.top/666/bestv1.php?id=hyyy
+电竞天堂,http://live.nctv.top/666/bestv1.php?id=djtt
+青春动漫,http://live.nctv.top/666/bestv1.php?id=qcdm
+宝宝动画,http://live.nctv.top/666/bestv1.php?id=bbdh
+星光影院,http://live.nctv.top/666/bestv1.php?id=xgyy
+谍战剧场,http://live.nctv.top/666/bestv1.php?id=dzjc
+全球大片,http://live.nctv.top/666/bestv1.php?id=qqdp
+热门剧场,http://live.nctv.top/666/bestv1.php?id=rmjc
 
 CCTV1,http://live.nctv.top/666/bst.php?id=cctv1hd8m/8000000
 CCTV2,http://live.nctv.top/666/bst.php?id=cctv2hd8m/8000000
@@ -3412,10 +3633,9 @@ ESPN,http://143.244.60.30/ESPN/index.m3u8
 
 
 🇭🇰港台,#genre#
-凤凰资讯,http://www.erbao1981.top:8188/udp/239.76.246.8:1234
+
 凤凰资讯,http://www.erbao1981.top:8188/udp/239.76.246.134:1234
-凤凰中文,http://www.erbao1981.top:8188/udp/239.76.246.7:1234
-凤凰中文,http://www.erbao1981.top:8188/udp/239.76.246.135:123
+凤凰中文,http://www.erbao1981.top:8188/udp/239.76.246.135:1234
 
 凤凰资讯,http://183.204.13.28/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰中文,http://183.204.13.28/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
@@ -3721,6 +3941,20 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 华数精彩影视,rtsp://115.153.230.145/PLTV/88888888/224/3221227052/86502219.smil
 爱上4K,rtsp://115.153.230.145/PLTV/88888888/224/3221227025/86502164.smil
 
+欢笑剧场,http://live.nctv.top/666/bestv.php?id=hxjc
+都市剧场,http://live.nctv.top/666/bestv.php?id=dsjc
+劲爆体育,http://live.nctv.top/666/bestv.php?id=jbty
+新视觉,http://live.nctv.top/666/bestv.php?id=xsj
+魅力足球,http://live.nctv.top/666/bestv.php?id=mlzq
+游戏风云,http://live.nctv.top/666/bestv.php?id=yxfy
+
+欢笑剧场,http://live.nctv.top/666/bestv1.php?id=hxjc
+都市剧场,http://live.nctv.top/666/bestv1.php?id=dsjc
+劲爆体育,http://live.nctv.top/666/bestv1.php?id=jbty
+新视觉,http://live.nctv.top/666/bestv1.php?id=xsj
+魅力足球,http://live.nctv.top/666/bestv1.php?id=mlzq
+游戏风云,http://live.nctv.top/666/bestv1.php?id=yxfy
+
 华语影院,http://live.nctv.top/666/bestv.php?id=hyyy
 星光影院,http://live.nctv.top/666/bestv.php?id=xgyy
 全球大片,http://live.nctv.top/666/bestv.php?id=qqdp
@@ -3750,6 +3984,21 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 百变课堂,http://live.nctv.top/666/bst.php?id=bbkt8m/8000000
 看天下精选,http://live.nctv.top/666/bst.php?id=ktxjx8m/8000000
 电竞天堂,http://live.nctv.top/666/bst.php?id=djtt8m/8000000
+
+华语影院,http://live.nctv.top/666/bestv1.php?id=hyyy
+星光影院,http://live.nctv.top/666/bestv1.php?id=xgyy
+全球大片,http://live.nctv.top/666/bestv1.php?id=qqdp
+热门剧场,http://live.nctv.top/666/bestv1.php?id=rmjc8
+谍战剧场,http://live.nctv.top/666/bestv1.php?id=dzjc8
+青春动漫,http://live.nctv.top/666/bestv1.php?id=qcdm
+宝宝动画,http://live.nctv.top/666/bestv1.php?id=bbdh
+戏曲精选,http://live.nctv.top/666/bestv1.php?id=xqjx
+热门综艺,http://live.nctv.top/666/bestv1.php?id=rmzy
+超级体育,http://live.nctv.top/666/bestv1.php?id=qcsj
+健康养生,http://live.nctv.top/666/bestv1.php?id=jkys
+百变课堂,http://live.nctv.top/666/bestv1.php?id=bbkt
+看天下精选,http://live.nctv.top/666/bestv1.php?id=ktxjx
+电竞天堂,http://live.nctv.top/666/bestv1.php?id=djtt
 
 都市剧场,http://guany.myds.me:25852/udp/233.50.201.190:5140
 游戏风云,http://guany.myds.me:25852/udp/233.50.201.183:5140

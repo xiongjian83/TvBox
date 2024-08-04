@@ -1,29 +1,19 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
-    "https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo_fofa.txt",
-    "http://175.178.251.183:6689/channel.txt",
+    "https://raw.githubusercontent.com/xiongjian83/iptv/main/speedtest/zubo_fofa.txt",
     "https://jihulab.com/ss3234741/sj/raw/2a8f0afa421a98836bc891698446c7271c2f32f3/lib/live2.txt",
     "https://gitcode.net/ygbh66/666/raw/master/x.txt",
     "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
     "https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt",
     "http://120.79.4.185/new/mdlive.txt",
     "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt",
-    "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V6.txt",
     "https://live.zhoujie218.top/tv/iptv6.txt",
-    "https://tv.youdu.fan:666/live/",
-    "http://ww.weidonglong.com/dsj.txt",
-    "http://xhztv.top/zbc.txt",
-    "https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt",
-    "https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt",
-    "https://v.nxog.top/m/tv/1/",
     "https://raw.githubusercontent.com/Guovin/TV/gd/result.txt",
-    "http://home.jundie.top:81/Cat/tv/live.txt",
     "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt",
     "https://cdn.jsdelivr.net/gh/YueChan/live@main/IPTV.m3u",
     "https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.txt",
     "https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
-    "https://fm1077.serv00.net/SmartTV.m3u",
     "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
     "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"
 ]
@@ -51,9 +41,8 @@ announcements = [
         "channel": "公告",
         "entries": [
             {"name": "更新日期", "url": "https://liuliuliu.tv/api/channels/1997/stream", "logo": "http://175.178.251.183:6689/LR.jpg"},
-            {"name": "None", "url": "https://liuliuliu.tv/api/channels/233/stream", "logo": "http://175.178.251.183:6689/LR.jpg"},
-          
-        ]
+            {"name": "None", "url": "https://liuliuliu.tv/api/channels/233/stream", "logo": "http://175.178.251.183:6689/LR.jpg"}
+  ]
     }
 ]
 

@@ -1,6 +1,6 @@
 公告,#genre#
 更新日期,https://liuliuliu.tv/api/channels/1997/stream
-2024-09-02,https://liuliuliu.tv/api/channels/233/stream
+2024-09-03,https://liuliuliu.tv/api/channels/233/stream
 📡  央视频道,#genre#
 CCTV1,http://218.80.79.205:4022/udp/239.45.3.145:5140$LR•IPV4『线路1』
 CCTV1,http://58.32.43.55:4022/udp/239.45.3.145:5140$LR•IPV4『线路2』

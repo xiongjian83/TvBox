@@ -4,6 +4,8 @@ source_urls = [
 
     "https://raw.githubusercontent.com/xiongjian83/iptv/main/speedtest/zubo.txt",
     "https://raw.githubusercontent.com/xiongjian83/iptv/main/speedtest/zubo_fofa.txt",
+    "https://raw.githubusercontent.com/xiongjian83/zubo/main/speedtest/zubo.txt",
+    "https://raw.githubusercontent.com/xiongjian83/zubo/main/speedtest/zubo_fofa.txt",
     "https://raw.githubusercontent.com/xiongjian83/iptv/main/xj.txt",
     
 ]

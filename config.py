@@ -1,13 +1,12 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
-
+    "https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt",
+    "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"
     "https://raw.githubusercontent.com/xiongjian83/iptv/main/speedtest/zubo.txt",
-    "https://raw.githubusercontent.com/xiongjian83/iptv/main/speedtest/zubo_fofa.txt",
-    "https://raw.githubusercontent.com/xiongjian83/zubo/main/speedtest/zubo.txt",
-    "https://raw.githubusercontent.com/xiongjian83/zubo/main/speedtest/zubo_fofa.txt",
-    "https://raw.githubusercontent.com/xiongjian83/iptv/main/xj.txt",
-    
+    "https://live.zbds.top/tv/iptv6.txt",  
+    "https://live.zbds.top/tv/iptv4.txt", 
+    "https://raw.githubusercontent.com/xiongjian83/iptv/main/xj.txt",  
 ]
 
 url_blacklist = [
@@ -32,8 +31,8 @@ announcements = [
     {
         "channel": "公告",
         "entries": [
-            {"name": "更新日期", "url": "http://cfss.cc/cdn/hy/11282233.m3u8", "logo": "http://175.178.251.183:6689/LR.jpg"},
-            {"name": None, "url": "http://cfss.cc/cdn/hy/11342387.m3u8", "logo": "http://175.178.251.183:6689/LR.jpg"}
+            {"name": "更新日期", "url": "http://159.75.85.63:35455/huya/11282233", "logo": "http://175.178.251.183:6689/LR.jpg"},
+            {"name": None, "url": "http://159.75.85.63:35455/huya/11342387", "logo": "http://175.178.251.183:6689/LR.jpg"}
   ]
     }
 ]

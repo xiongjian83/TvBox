@@ -32,8 +32,8 @@ announcements = [
     {
         "channel": "公告",
         "entries": [
-            {"name": "更新日期", "url": "http://159.75.85.63:35455/huya/11282233", "logo": "http://175.178.251.183:6689/LR.jpg"},
-            {"name": None, "url": "http://159.75.85.63:35455/huya/11342387", "logo": "http://175.178.251.183:6689/LR.jpg"}
+            {"name": "更新日期", "url": "http://live.nctv.top/6688/huya.php?id=11282233", "logo": "http://175.178.251.183:6689/LR.jpg"},
+            {"name": None, "url": "http://live.nctv.top/6688/huya.php?id=11342387", "logo": "http://175.178.251.183:6689/LR.jpg"}
   ]
     }
 ]

@@ -63,7 +63,7 @@
 
 {"key":"hmys1","name":"自营黑木影视","type":1,"api":"https://heimuer.ggff.net/api.php/tvbox","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://4tvbox.ggff.net/GM.jar"},
 {"key":"T4-heimuer","name":"唐三黑木影视","type":4,"api":"https://tang.hz.cz/power/hme?token=48da13fc","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":false,"jar":"https://4tvbox.ggff.net/GM.jar"},
-{"key":"T4-独播库","name":"唐三独播库","type":4,"api":"https://tang.hz.cz/power/duboku?token=48da13fc","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"https://4tvbox.ggff.net/GM.jar"},"jar":"https://4tvbox.ggff.net/GM.jar"},
+{"key":"T4-独播库","name":"唐三独播库","type":4,"api":"https://tang.hz.cz/power/duboku?token=48da13fc","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"https://4tvbox.ggff.net/GM.jar"},
 {"key":"T4-安博","name":"唐三安博影视","type":4,"api":"https://tang.hz.cz/power/ub18?token=48da13fc","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"https://4tvbox.ggff.net/GM.jar"},
 
 

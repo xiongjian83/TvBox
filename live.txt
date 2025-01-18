@@ -1,6 +1,6 @@
 公告,#genre#
 更新日期,http://live.nctv.top/6688/huya.php?id=11282233
-2025-01-18,http://live.nctv.top/6688/huya.php?id=11342387
+2025-01-19,http://live.nctv.top/6688/huya.php?id=11342387
 📡  央视频道,#genre#
 CCTV1,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000311/index.m3u8?IASHttpSessionId=$LR•IPV6『线路1』
 CCTV1,http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8$LR•IPV6『线路2』

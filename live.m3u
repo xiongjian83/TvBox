@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
 #EXTINF:-1 tvg-id="1" tvg-name="更新日期" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="公告",更新日期
 http://live.nctv.top/6688/huya.php?id=11282233
-#EXTINF:-1 tvg-id="1" tvg-name="2025-02-17" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="公告",2025-02-17
+#EXTINF:-1 tvg-id="1" tvg-name="2025-02-18" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="公告",2025-02-18
 http://live.nctv.top/6688/huya.php?id=11342387
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📡  央视频道",CCTV1
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225642/index.m3u8$LR•IPV6『线路1』

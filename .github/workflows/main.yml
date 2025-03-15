@@ -1,35 +1,51 @@
-name: Daily Update
+
+name: Daily Update  
 
 on:  
   schedule:  
     - cron: "0 0,8,18 * * *" # 每日 0:00,6:00,12:00,18:00 UTC  
   workflow_dispatch:  
+    branches:  
+      - main  
 
 jobs:  
-  run-script:  
+  run_script:  
     runs-on: ubuntu-latest  
 
     steps:  
-    - name: Checkout Repository  
-      uses: actions/checkout@v3  
-      
-    - name: Install Dependencies  
+    - name: Checkout repository  
+      uses: actions/checkout@v2  
+
+    - name: Set up Python  
+      uses: actions/setup-python@v2  
+      with:  
+        python-version: '3.10'  
+
+    - name: Cache dependencies  
+      uses: actions/cache@v2  
+      with:  
+        path: ~/.cache/pip  
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}  
+        restore-keys: |  
+          ${{ runner.os }}-pip-  
+
+    - name: Install dependencies  
       run: |  
-        sudo apt-get update  
-        sudo apt-get install -y yt-dlp sed nmap  
-      
-    - name: Run Python script
-      run: python main.py
+        pip install -r requirements.txt  # 使用 requirements.txt 安装所有依赖项  
 
-    - name: Commit and push if changed
-      run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git add -A
-        if ! git diff --staged --quiet; then
-          git commit -m "Auto-update live files"
-          git push
-        fi
+    - name: Run Python script  
+      run: |  
+        python main.py || { echo 'Script failed!' && exit 1; }  # 添加错误处理  
 
-    env:
-      TZ: Asia/Shanghai
+    - name: Commit and push if changed  
+      run: |  
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"  
+        git config --local user.name "github-actions[bot]"  
+        git add -A  
+        if ! git diff --staged --quiet; then  
+          git commit -m "Auto-update live files"  
+          git push  
+        fi  
+
+    env:  
+      TZ: Asia/Shanghai  

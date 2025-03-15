@@ -28,12 +28,12 @@ jobs:
         restore-keys: |  
           ${{ runner.os }}-pip-  
 
-    - name: List files  # 添加此步骤  
+    - name: List files  # 添加此步骤以检查文件  
       run: ls -la  # 检查当前目录的文件  
 
     - name: Install dependencies  
       run: |  
-        pip install -r requirements.txt  # 确保位于文件的正确相对路径  
+        pip install -r requirements.txt || { echo 'Failed to install dependencies' && exit 1; }  # 添加错误处理  
 
     - name: Run Python script  
       run: |  

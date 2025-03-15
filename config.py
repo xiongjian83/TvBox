@@ -2,13 +2,12 @@ ip_version_priority = "ipv6"
 
 source_urls = [
     "https://raw.githubusercontent.com/zwc456baby/iptv_alive/blob/master/live.txt",
-    "https://raw.githubusercontent.com/MemoryCollection/IPTV/blob/main/multicast.txt",
+    "http://rihou.cc:567/gggg.nzk",
     "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"
-    "https://raw.githubusercontent.com/xiongjian83/iptv/main/speedtest/zubo.txt",
-    "https://raw.githubusercontent.com/PizazzGY/TV/refs/heads/master/output/user_result.txt",
+    "https://jihulab.com/ss3234741/sj/-/raw/08d403ffdae978471cd3204a1d89a64781447b4c/lib/tzlink.php",
     "https://live.zbds.top/tv/iptv6.txt",  
     "https://live.zbds.top/tv/iptv4.txt", 
-    "https://raw.githubusercontent.com/xiongjian83/iptv/main/xj.txt",  
+    "http://live.nctv.top/x.png",  
 ]
 
 url_blacklist = [
@@ -33,8 +32,8 @@ announcements = [
     {
         "channel": "公告",
         "entries": [
-            {"name": "更新日期", "url": "http://live.nctv.top/6688/huya.php?id=11282233", "logo": "http://175.178.251.183:6689/LR.jpg"},
-            {"name": None, "url": "http://live.nctv.top/6688/huya.php?id=11342387", "logo": "http://175.178.251.183:6689/LR.jpg"}
+            {"name": "更新日期", "url": "http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8", "logo": "http://175.178.251.183:6689/LR.jpg"},
+            {"name": None, "url": "http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8", "logo": "http://175.178.251.183:6689/LR.jpg"}
   ]
     }
 ]

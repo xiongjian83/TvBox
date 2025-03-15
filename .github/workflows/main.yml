@@ -1,9 +1,8 @@
-
 name: Daily Update  
 
 on:  
   schedule:  
-    - cron: "0 0,8,18 * * *" # 每日 0:00,6:00,12:00,18:00 UTC  
+    - cron: '45 21 * * *'  
   workflow_dispatch:  
     branches:  
       - main  
@@ -22,7 +21,7 @@ jobs:
         python-version: '3.10'  
 
     - name: Cache dependencies  
-      uses: actions/cache@v2  
+      uses: actions/cache@v3  # 更新为 v3  
       with:  
         path: ~/.cache/pip  
         key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}  

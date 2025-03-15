@@ -2,7 +2,7 @@ name: Daily Update
 
 on:  
   schedule:  
-    - cron: '45 21 * * *'  
+      - cron: "0 0,8,18 * * *" # 每日 0:00,6:00,12:00,18:00 UTC  
   workflow_dispatch:  
     branches:  
       - main  
@@ -30,7 +30,7 @@ jobs:
 
     - name: Install dependencies  
       run: |  
-        pip install -r requirements.txt  # 使用 requirements.txt 安装所有依赖项  
+        pip install requirements # 使用 requirements.txt 安装所有依赖项  
 
     - name: Run Python script  
       run: |  

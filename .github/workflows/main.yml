@@ -39,6 +39,12 @@ jobs:
       run: |  
         python main.py || { echo 'Script failed!' && exit 1; }  # 添加错误处理  
 
+    - name: 提交并推送更改
+        if: steps.detect_changes.outcome != 'success'
+        run: |
+          git commit -m "zubo $(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M:%S')"
+          git push
+
     - name: Commit and push if changed  
       run: |  
         git config --local user.email "github-actions[bot]@users.noreply.github.com"  

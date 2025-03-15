@@ -2,7 +2,7 @@ name: Daily Update
 
 on:  
   schedule:  
-      - cron: "0 0,8,18 * * *" # 每日 0:00,6:00,12:00,18:00 UTC  
+   - cron: "0 0,8,18 * * *" # 每日 0:00,6:00,12:00,18:00 UTC  
   workflow_dispatch:  
     branches:  
       - main  
@@ -21,16 +21,19 @@ jobs:
         python-version: '3.10'  
 
     - name: Cache dependencies  
-      uses: actions/cache@v3  # 更新为 v3  
+      uses: actions/cache@v3  
       with:  
         path: ~/.cache/pip  
         key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}  
         restore-keys: |  
           ${{ runner.os }}-pip-  
 
+    - name: List files  # 添加此步骤  
+      run: ls -la  # 检查当前目录的文件  
+
     - name: Install dependencies  
       run: |  
-        pip install requirements # 使用 requirements.txt 安装所有依赖项  
+        pip install -r requirements.txt  # 确保位于文件的正确相对路径  
 
     - name: Run Python script  
       run: |  

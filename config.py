@@ -6,8 +6,7 @@ source_urls = [
     "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"
     "https://jihulab.com/ss3234741/sj/-/raw/08d403ffdae978471cd3204a1d89a64781447b4c/lib/tzlink.php",
     "https://live.zbds.top/tv/iptv6.txt",  
-    "https://live.zbds.top/tv/iptv4.txt", 
-    "http://live.nctv.top/x.png",  
+    "https://live.zbds.top/tv/iptv4.txt",
 ]
 
 url_blacklist = [

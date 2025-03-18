@@ -806,12 +806,12 @@ CCTV风云音乐,http://nas.hssvm.com:8888/udp/225.1.1.192:5002$LR•IPV4
 南宁公共,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8$LR•IPV4『线路5』
 桂林新闻,https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188$LR•IPV4
 📡  香港频道,#genre#
-Channel 5,p3p://108.181.32.169:32703/642606de000ae43dede457c221b81de1$LR•IPV4
-Channel 8,p3p://108.181.32.169:32703/642606be0002dd54ede3d8b40d6c04dc$LR•IPV4
-美亚电影台,p3p://108.181.32.169:32703/642525310003ad3cea72ca2155c734c3$LR•IPV4
-Nick Jr,p3p://108.181.32.169:32703/642d449d000ac1ec0a2d5151582b3dea$LR•IPV4
-Nickelodeon,p3p://108.181.32.169:32703/642d44b90006faed0a2dbdba7c9816e4$LR•IPV4
-Thrill,p3p://108.181.32.169:32703/644a0879000272f67a89b6687af342ae$LR•IPV4
+Channel 5,p3p://108.181.32.169:35905/642606de000ae43dede457c221b81de1$LR•IPV4
+Channel 8,p3p://108.181.32.169:35905/642606be0002dd54ede3d8b40d6c04dc$LR•IPV4
+美亚电影台,p3p://108.181.32.169:35905/642525310003ad3cea72ca2155c734c3$LR•IPV4
+Nick Jr,p3p://108.181.32.169:35905/642d449d000ac1ec0a2d5151582b3dea$LR•IPV4
+Nickelodeon,p3p://108.181.32.169:35905/642d44b90006faed0a2dbdba7c9816e4$LR•IPV4
+Thrill,p3p://108.181.32.169:35905/644a0879000272f67a89b6687af342ae$LR•IPV4
 📡  台湾频道,#genre#
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$LR•IPV4『线路1』
 AMC电影,http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_TS-1111_1.m3u8$LR•IPV4『线路2』
@@ -823,39 +823,36 @@ AMC电影,http://104.244.79.187:5050/litv/4gtv-4gtv017$LR•IPV4『线路3』
 龙华戏剧,http://122.117.71.103:8533/http/61.222.53.250:8068/hls/13/80/cstv13.m3u8$LR•IPV4
 📡  新闻频道p2p,#genre#
 CGTN,https://0472.org/hls/cgtn.m3u8$LR•IPV4
-BBC World News,p3p://108.181.32.169:32703/6465a784000201aee66e4af152371a81$LR•IPV4
-CNA,p3p://108.181.32.169:32703/6426077a00093ea7ede6b8b64d6d4c6e$LR•IPV4
-MSNBC,p3p://108.181.32.169:32703/6463b01500091c93debfc3337c9a0e9c$LR•IPV4
-The Weather Channel,p3p://108.181.32.169:32703/6465a7fb0004575fe6701c626deb47fd$LR•IPV4
+BBC World News,p3p://108.181.32.169:35905/6465a784000201aee66e4af152371a81$LR•IPV4
+CNA,p3p://108.181.32.169:35905/6426077a00093ea7ede6b8b64d6d4c6e$LR•IPV4
+MSNBC,p3p://108.181.32.169:35905/6463b01500091c93debfc3337c9a0e9c$LR•IPV4
+The Weather Channel,p3p://108.181.32.169:35905/6465a7fb0004575fe6701c626deb47fd$LR•IPV4
 📡  电影频道p2p,#genre#
-CatchPlay电影台,p3p://108.181.32.169:32703/64252479000b7f1aea6ffd6177e3015c$LR•IPV4
-东森电影台,p3p://108.181.32.169:32703/64253899000a078deabe99ff587050b0$LR•IPV4
+CatchPlay电影台,p3p://108.181.32.169:35905/64252479000b7f1aea6ffd6177e3015c$LR•IPV4
+东森电影台,p3p://108.181.32.169:35905/64253899000a078deabe99ff587050b0$LR•IPV4
 纬来电影台,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8$LR•IPV4
-HBO,p3p://108.181.32.169:32703/645faf2100095cb2cf1c4442765c172b$LR•IPV4『线路1』
+HBO,p3p://108.181.32.169:35905/645faf2100095cb2cf1c4442765c172b$LR•IPV4『线路1』
 HBO,http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8$LR•IPV4『线路2』
 AXN,http://122.117.71.103:8557/http/61.222.53.250:8081/hls/71/813/ch43.m3u8$LR•IPV4
-好莱坞电影台,p3p://108.181.32.169:32703/6425244f0001184fea6f56a70aca63d2$LR•IPV4
+好莱坞电影台,p3p://108.181.32.169:35905/6425244f0001184fea6f56a70aca63d2$LR•IPV4
 CINEMAX,http://122.117.71.103:8558/http/61.222.53.250:8081/hls/71/813/ch42.m3u8$LR•IPV4
-BOO,p3p://108.181.32.169:32703/64137e860008ec16a58031233a436c8e$LR•IPV4
-CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz$LR•IPV4『线路1』
-CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8$LR•IPV4『线路2』
-CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8$LR•IPV4『线路3』
-CHC动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8$LR•IPV4『线路4』
-CHC动作电影,https://tv.bfsu.edu.cn/hls/chcatv.m3u8$LR•IPV4『线路5』
-CHC动作电影,http://api3.52tb.xyz/info?id=221&token=20221127jxwhhemby$LR•IPV4『线路6』
-CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt$LR•IPV4『线路1』
-CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$LR•IPV4『线路2』
-CHC家庭影院,http://dassby.qqff.top:99/live/CHC家庭影院/index.m3u8$LR•IPV4『线路3』
-CHC家庭影院,https://tv.bfsu.edu.cn/hls/chctv.m3u8$LR•IPV4『线路4』
-CHC家庭影院,http://api3.52tb.xyz/info?id=220&token=20221127jxwhhemby$LR•IPV4『线路5』
-CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8$LR•IPV4『线路6』
-CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路7』
+BOO,p3p://108.181.32.169:35905/64137e860008ec16a58031233a436c8e$LR•IPV4
+CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8$LR•IPV4『线路1』
+CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8$LR•IPV4『线路2』
+CHC动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8$LR•IPV4『线路3』
+CHC动作电影,https://tv.bfsu.edu.cn/hls/chcatv.m3u8$LR•IPV4『线路4』
+CHC动作电影,http://api3.52tb.xyz/info?id=221&token=20221127jxwhhemby$LR•IPV4『线路5』
+CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$LR•IPV4『线路1』
+CHC家庭影院,http://dassby.qqff.top:99/live/CHC家庭影院/index.m3u8$LR•IPV4『线路2』
+CHC家庭影院,https://tv.bfsu.edu.cn/hls/chctv.m3u8$LR•IPV4『线路3』
+CHC家庭影院,http://api3.52tb.xyz/info?id=220&token=20221127jxwhhemby$LR•IPV4『线路4』
+CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8$LR•IPV4『线路5』
+CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路6』
 📡  戏剧频道p2p,#genre#
 🇨🇳数字4K,#genre#
-CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd$LR•IPV4『线路1』
-CHC影迷电影,http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8$LR•IPV4『线路2』
-CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路3』
-CHC影迷电影,http://hzzzz530.com:4022/udp/239.69.1.241:11088$LR•IPV4『线路4』
+CHC影迷电影,http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8$LR•IPV4『线路1』
+CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路2』
+CHC影迷电影,http://hzzzz530.com:4022/udp/239.69.1.241:11088$LR•IPV4『线路3』
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8$LR•IPV4
 茶频道,http://36.105.100.208:35455/itv/5000000011000031209.m3u8?cdn=bestzb$LR•IPV4『线路1』
 茶频道,http://home.wwang.pw:35455/itv/5000000011000031209.m3u8?cdn=bestzb$LR•IPV4『线路2』

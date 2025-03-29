@@ -1,9 +1,9 @@
-2025-03-29 02:34:28,917 - INFO - url: http://rihou.cc:567/gggg.nzk 获取成功，判断为txt格式
-2025-03-29 02:34:28,929 - INFO - url: http://rihou.cc:567/gggg.nzk 爬取成功✅，包含频道分类: 足球粤评, 赛事咪咕, 欣赏频道, 港粤频道, 闽南频道, 闽南酒店, 港闽频限, 港闽频标, 港波测试, 港闽AKtv, 哪吒修复, 龙珠剧粤, 粤语动漫, 新剧追更, 央卫甘肃, 央卫山西, 央卫咪咕, 央视频道, 广东宽频, 粤港澳闽, 央卫频陆, 特区频陆, 闽南频陆, 童年频道, 抖音电台, 广东频道, 篮球粤评, 大时代粤, 流星花园, 还珠格格, 大地恩情, 粤经典剧, 射雕英雄, 神雕侠侣, 视觉效果, 动感舞曲, 红歌音乐, 蛇年电影, 梅州移动, 北京联通, 山东移动, 山东联通, 天津联通, 重庆联通, 上海电信, 浙江电信, 广西电信, 四川电信, 新闻频陆, 跑马频陆, 体育频陆, 电影频陆, 儿童频陆, 知识频陆, 新坡频陆, 马亚频陆, 印度频陆, 加大频陆, 日本频陆, 韩国频陆, 美国频陆
-2025-03-29 02:34:29,042 - ERROR - url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txthttps://jihulab.com/ss3234741/sj/-/raw/08d403ffdae978471cd3204a1d89a64781447b4c/lib/tzlink.php 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txthttps:/jihulab.com/ss3234741/sj/-/raw/08d403ffdae978471cd3204a1d89a64781447b4c/lib/tzlink.php
-2025-03-29 02:34:29,851 - INFO - url: https://live.zbds.top/tv/iptv6.txt 获取成功，判断为txt格式
-2025-03-29 02:34:29,851 - INFO - url: https://live.zbds.top/tv/iptv6.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 电影频道, 地方频道, 体育频道, 其他频道, 更新时间
-2025-03-29 02:34:30,651 - INFO - url: https://live.zbds.top/tv/iptv4.txt 获取成功，判断为txt格式
-2025-03-29 02:34:30,659 - INFO - url: https://live.zbds.top/tv/iptv4.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 电影频道, 数字频道, 儿童频道, 地方频道, 综艺频道, 纪录频道, 体育频道, 解说频道, 游戏频道, 音乐频道, 戏曲频道, 春晚频道, 直播中国, 其他频道, 更新时间
-2025-03-29 02:34:31,844 - INFO - url: http://live.nctv.top/xj.txt 获取成功，判断为txt格式
-2025-03-29 02:34:31,847 - INFO - url: http://live.nctv.top/xj.txt 爬取成功✅，包含频道分类: 📡  江西频道, 🇨🇳虎牙直播, 🇨🇳斗鱼直播, 🇨🇳电视剧轮播, 🇨🇳 YY频道, 🇨🇳埋堆堆（港剧）, 🇨🇳 NewTV, 📡  香港频道, 📡  新闻频道p2p
+2025-03-29 09:54:07,885 - INFO - url: http://rihou.cc:567/gggg.nzk 获取成功，判断为txt格式
+2025-03-29 09:54:07,898 - INFO - url: http://rihou.cc:567/gggg.nzk 爬取成功✅，包含频道分类: 足球粤评, 赛事咪咕, 欣赏频道, 港粤频道, 闽南频道, 闽南酒店, 港闽频限, 港闽频标, 港波测试, 港闽AKtv, 哪吒修复, 龙珠剧粤, 粤语动漫, 新剧追更, 央卫甘肃, 央卫山西, 央卫咪咕, 央视频道, 广东宽频, 粤港澳闽, 央卫频陆, 特区频陆, 闽南频陆, 童年频道, 抖音电台, 广东频道, 篮球粤评, 大时代粤, 流星花园, 还珠格格, 大地恩情, 粤经典剧, 射雕英雄, 神雕侠侣, 视觉效果, 动感舞曲, 红歌音乐, 蛇年电影, 梅州移动, 北京联通, 山东移动, 山东联通, 天津联通, 重庆联通, 上海电信, 浙江电信, 广西电信, 四川电信, 新闻频陆, 跑马频陆, 体育频陆, 电影频陆, 儿童频陆, 知识频陆, 新坡频陆, 马亚频陆, 印度频陆, 加大频陆, 日本频陆, 韩国频陆, 美国频陆
+2025-03-29 09:54:08,154 - ERROR - url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txthttps://jihulab.com/ss3234741/sj/-/raw/08d403ffdae978471cd3204a1d89a64781447b4c/lib/tzlink.php 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txthttps:/jihulab.com/ss3234741/sj/-/raw/08d403ffdae978471cd3204a1d89a64781447b4c/lib/tzlink.php
+2025-03-29 09:54:09,130 - INFO - url: https://live.zbds.top/tv/iptv6.txt 获取成功，判断为txt格式
+2025-03-29 09:54:09,131 - INFO - url: https://live.zbds.top/tv/iptv6.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 电影频道, 地方频道, 体育频道, 其他频道, 更新时间
+2025-03-29 09:54:10,584 - INFO - url: https://live.zbds.top/tv/iptv4.txt 获取成功，判断为txt格式
+2025-03-29 09:54:10,592 - INFO - url: https://live.zbds.top/tv/iptv4.txt 爬取成功✅，包含频道分类: 央视频道, 卫视频道, 电影频道, 数字频道, 儿童频道, 地方频道, 综艺频道, 纪录频道, 体育频道, 解说频道, 游戏频道, 音乐频道, 戏曲频道, 春晚频道, 直播中国, 其他频道, 更新时间
+2025-03-29 09:54:11,393 - INFO - url: http://live.nctv.top/xj.txt 获取成功，判断为txt格式
+2025-03-29 09:54:11,396 - INFO - url: http://live.nctv.top/xj.txt 爬取成功✅，包含频道分类: 📡  江西频道, 🇨🇳虎牙直播, 🇨🇳斗鱼直播, 🇨🇳电视剧轮播, 🇨🇳 YY频道, 🇨🇳埋堆堆（港剧）, 🇨🇳 NewTV, 📡  香港频道, 📡  新闻频道p2p

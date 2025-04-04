@@ -863,14 +863,14 @@ Hoy Tv,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv$LR•IPV4
 Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod$LR•IPV4
 华丽翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8$LR•IPV4
 亚洲武侠,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8$LR•IPV4
-Channel 5,p3p://108.181.32.169:24423/642606de000ae43dede457c221b81de1$LR•IPV4
-Channel 8,p3p://108.181.32.169:24423/642606be0002dd54ede3d8b40d6c04dc$LR•IPV4
-美亚电影台,p3p://108.181.32.169:24423/642525310003ad3cea72ca2155c734c3$LR•IPV4
+Channel 5,p3p://108.181.32.169:25894/642606de000ae43dede457c221b81de1$LR•IPV4
+Channel 8,p3p://108.181.32.169:25894/642606be0002dd54ede3d8b40d6c04dc$LR•IPV4
+美亚电影台,p3p://108.181.32.169:25894/642525310003ad3cea72ca2155c734c3$LR•IPV4
 中天新闻,P2p://starvod.xyz:19806/dcde303976b6413dbfbfc63da5d3439d$LR•IPV4『线路1』
 中天新闻,P2p://starvod.xyz:19806/c30dc54a6f874c99bd67f9ca7935c63f$LR•IPV4『线路2』
-Nick Jr,p3p://108.181.32.169:24423/642d449d000ac1ec0a2d5151582b3dea$LR•IPV4
-Nickelodeon,p3p://108.181.32.169:24423/642d44b90006faed0a2dbdba7c9816e4$LR•IPV4
-Thrill,p3p://108.181.32.169:24423/644a0879000272f67a89b6687af342ae$LR•IPV4
+Nick Jr,p3p://108.181.32.169:25894/642d449d000ac1ec0a2d5151582b3dea$LR•IPV4
+Nickelodeon,p3p://108.181.32.169:25894/642d44b90006faed0a2dbdba7c9816e4$LR•IPV4
+Thrill,p3p://108.181.32.169:25894/644a0879000272f67a89b6687af342ae$LR•IPV4
 📡  台湾频道,#genre#
 中视新闻,P2p://starvod.xyz:19806/60901e8b36254ffea76905ae140ec8e4$LR•IPV4
 民视新闻,P2p://starvod.xyz:19806/85724af489c94b319c108b754f4eb381$LR•IPV4
@@ -912,24 +912,24 @@ AMC电影,http://104.244.79.187:5050/litv/4gtv-4gtv017$LR•IPV4『线路3』
 年代新闻,P2p://starvod.xyz:19806/5be0f272d36548d1b7fae2f3ea1a02f4$LR•IPV4
 CGTN,https://0472.org/hls/cgtn.m3u8$LR•IPV4『线路1』
 CGTN,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8$LR•IPV4『线路2』
-BBC World News,p3p://108.181.32.169:24423/6465a784000201aee66e4af152371a81$LR•IPV4
-CNA,p3p://108.181.32.169:24423/6426077a00093ea7ede6b8b64d6d4c6e$LR•IPV4
+BBC World News,p3p://108.181.32.169:25894/6465a784000201aee66e4af152371a81$LR•IPV4
+CNA,p3p://108.181.32.169:25894/6426077a00093ea7ede6b8b64d6d4c6e$LR•IPV4
 三立iNEWS,P2p://starvod.xyz:19806/580fb306a29948d59b195c50cc496c52$LR•IPV4
-MSNBC,p3p://108.181.32.169:24423/6463b01500091c93debfc3337c9a0e9c$LR•IPV4
-The Weather Channel,p3p://108.181.32.169:24423/6465a7fb0004575fe6701c626deb47fd$LR•IPV4
+MSNBC,p3p://108.181.32.169:25894/6463b01500091c93debfc3337c9a0e9c$LR•IPV4
+The Weather Channel,p3p://108.181.32.169:25894/6465a7fb0004575fe6701c626deb47fd$LR•IPV4
 📡  电影频道p2p,#genre#
-CatchPlay电影台,p3p://108.181.32.169:24423/64252479000b7f1aea6ffd6177e3015c$LR•IPV4
+CatchPlay电影台,p3p://108.181.32.169:25894/64252479000b7f1aea6ffd6177e3015c$LR•IPV4
 天映频道,P2p://starvod.xyz:19806/aef2d7f0e0724e27a467d3fa8b0952ec$LR•IPV4
 天映经典,P2p://starvod.xyz:19806/bffd7496bf62417d8690e622bba7a577$LR•IPV4
-东森电影台,p3p://108.181.32.169:24423/64253899000a078deabe99ff587050b0$LR•IPV4
+东森电影台,p3p://108.181.32.169:25894/64253899000a078deabe99ff587050b0$LR•IPV4
 纬来电影台,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8$LR•IPV4
 龙祥电影,P2p://starvod.xyz:19806/372eb2545c364594829fda221ee65581$LR•IPV4
-HBO,p3p://108.181.32.169:24423/645faf2100095cb2cf1c4442765c172b$LR•IPV4『线路1』
+HBO,p3p://108.181.32.169:25894/645faf2100095cb2cf1c4442765c172b$LR•IPV4『线路1』
 HBO,http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8$LR•IPV4『线路2』
 AXN,http://122.117.71.103:8557/http/61.222.53.250:8081/hls/71/813/ch43.m3u8$LR•IPV4
-好莱坞电影台,p3p://108.181.32.169:24423/6425244f0001184fea6f56a70aca63d2$LR•IPV4
+好莱坞电影台,p3p://108.181.32.169:25894/6425244f0001184fea6f56a70aca63d2$LR•IPV4
 CINEMAX,http://122.117.71.103:8558/http/61.222.53.250:8081/hls/71/813/ch42.m3u8$LR•IPV4
-BOO,p3p://108.181.32.169:24423/64137e860008ec16a58031233a436c8e$LR•IPV4
+BOO,p3p://108.181.32.169:25894/64137e860008ec16a58031233a436c8e$LR•IPV4
 CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8$LR•IPV4『线路1』
 CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8$LR•IPV4『线路2』
 CHC动作电影,http://218.15.183.23:9901/tsfile/live/23039_1.m3u8$LR•IPV4『线路3』

@@ -77,8 +77,8 @@ announcements = [
     {
         "channel": "公告",
         "entries": [
-            {"name": "更新日期", "url": "http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8", "logo": "http://175.178.251.183:6689/LR.jpg"},
-            {"name": None, "url": "http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8", "logo": "http://175.178.251.183:6689/LR.jpg"}
+            {"name": "更新日期", "url": "http://live.nctv.top/huya.php?id=11342412", "logo": "http://175.178.251.183:6689/LR.jpg"},
+            {"name": None, "url": "http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.m3u8?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2", "logo": "http://175.178.251.183:6689/LR.jpg"}
   ]
     }
 ]

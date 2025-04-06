@@ -58,4 +58,5 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-    
+    env:
+      TZ: Asia/Shanghai  # 设置环境变量，将时区设置为上海

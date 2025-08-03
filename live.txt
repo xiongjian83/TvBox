@@ -1,6 +1,6 @@
 公告,#genre#
 更新日期,http://live.nctv.top/huya.php?id=11342412
-2025-08-03,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.m3u8?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+2025-08-04,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.m3u8?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 📡  央视频道,#genre#
 📡  卫视频道,#genre#
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$LR•IPV4
@@ -129,14 +129,8 @@ Hoy Tv,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv$LR•IPV4
 Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod$LR•IPV4
 华丽翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8$LR•IPV4
 亚洲武侠,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8$LR•IPV4
-Channel 5,https://smart.pendy.dpdns.org/Smart.php?id=Channel5HD$LR•IPV4
-Channel 8,https://smart.pendy.dpdns.org/Smart.php?id=Channel8HD$LR•IPV4
-Channel U,https://smart.pendy.dpdns.org/Smart.php?id=ChannelU$LR•IPV4
 中天新闻,P2p://starvod.xyz:19806/dcde303976b6413dbfbfc63da5d3439d$LR•IPV4『线路1』
 中天新闻,P2p://starvod.xyz:19806/c30dc54a6f874c99bd67f9ca7935c63f$LR•IPV4『线路2』
-Nick Jr,https://smart.pendy.dpdns.org/Smart.php?id=Nickjr$LR•IPV4
-Nickelodeon,https://smart.pendy.dpdns.org/Smart.php?id=Nickelodeon$LR•IPV4
-Thrill,https://smart.pendy.dpdns.org/Smart.php?id=Thrill$LR•IPV4
 📡  台湾频道,#genre#
 中视新闻,P2p://starvod.xyz:19806/60901e8b36254ffea76905ae140ec8e4$LR•IPV4
 民视新闻,P2p://starvod.xyz:19806/85724af489c94b319c108b754f4eb381$LR•IPV4
@@ -167,16 +161,8 @@ Thrill,https://smart.pendy.dpdns.org/Smart.php?id=Thrill$LR•IPV4
 东森财经,P2p://starvod.xyz:19806/9db737ccfb474f40afaf632f0f45b3db$LR•IPV4
 📡  新闻频道p2p,#genre#
 年代新闻,P2p://starvod.xyz:19806/5be0f272d36548d1b7fae2f3ea1a02f4$LR•IPV4
-BBC World News,https://smart.pendy.dpdns.org/Smart.php?id=bbcnews_twn$LR•IPV4『线路1』
-BBC World News,https://smart.pendy.dpdns.org/Smart.php?id=Bbcnews$LR•IPV4『线路2』
-BBC World News,https://smart.pendy.dpdns.org/Smart.php?id=bbcworldnews_antik$LR•IPV4『线路3』
-CNBC,https://smart.pendy.dpdns.org/Smart.php?id=cnbc_twn$LR•IPV4
-CNA,https://smart.pendy.dpdns.org/Smart.php?id=cna$LR•IPV4
 三立iNEWS,P2p://starvod.xyz:19806/580fb306a29948d59b195c50cc496c52$LR•IPV4
-Euronews,https://smart.pendy.dpdns.org/Smart.php?id=euronews_antik$LR•IPV4
-Fox News,https://smart.pendy.dpdns.org/Smart.php?id=foxnews_twn$LR•IPV4
 📡  电影频道p2p,#genre#
-HBO Family,https://smart.pendy.dpdns.org/Smart.php?id=Hbofamily$LR•IPV4
 天映频道,P2p://starvod.xyz:19806/aef2d7f0e0724e27a467d3fa8b0952ec$LR•IPV4
 天映经典,P2p://starvod.xyz:19806/bffd7496bf62417d8690e622bba7a577$LR•IPV4
 龙祥电影,P2p://starvod.xyz:19806/372eb2545c364594829fda221ee65581$LR•IPV4
@@ -254,13 +240,12 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.m3u8?ws
 天龙八部,http://www.xzbn.site:35455/douyu/7655471$LR•IPV4『线路4』
 天龙八部,http://alist.xicp.fun:35455/yy/1351814644#https://live.metshop.top/yy/1351814644$LR•IPV4『线路5』
 天龙八部,http://alist.xicp.fun:35455/yy/1382749944$LR•IPV4『线路6』
-笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8$LR•IPV4『线路1』
-笑傲江湖,http://2.itv.nctv.top:54321/yy/1354930909$LR•IPV4『线路2』
-笑傲江湖,http://www.xzbn.site:35455/yy/1354930909$LR•IPV4『线路3』
-笑傲江湖,http://alist.xicp.fun:35455/yy/1354930909#https://live.metshop.top/yy/1354930909$LR•IPV4『线路4』
-笑傲江湖,http://alist.xicp.fun:35455/yy/1354930909$LR•IPV4『线路5』
-笑傲江湖,http://live.nctv.top/huya.php?id=23865142$LR•IPV4『线路6』
-笑傲江湖,http://www.xzbn.site:35455/huya/23865142$LR•IPV4『线路7』
+笑傲江湖,http://2.itv.nctv.top:54321/yy/1354930909$LR•IPV4『线路1』
+笑傲江湖,http://www.xzbn.site:35455/yy/1354930909$LR•IPV4『线路2』
+笑傲江湖,http://alist.xicp.fun:35455/yy/1354930909#https://live.metshop.top/yy/1354930909$LR•IPV4『线路3』
+笑傲江湖,http://alist.xicp.fun:35455/yy/1354930909$LR•IPV4『线路4』
+笑傲江湖,http://live.nctv.top/huya.php?id=23865142$LR•IPV4『线路5』
+笑傲江湖,http://www.xzbn.site:35455/huya/23865142$LR•IPV4『线路6』
 寻秦记,http://2.itv.nctv.top:54321/yy/1382749900#http://www.xzbn.site:35455/yy/1382749900$LR•IPV4『线路1』
 寻秦记,http://alist.xicp.fun:35455/yy/1382749900#,https://live.metshop.top/yy/1382749900$LR•IPV4『线路2』
 寻秦记,http://live.nctv.top/huya.php?id=23864973$LR•IPV4『线路3』
@@ -668,8 +653,7 @@ X战警系列电影,http://alist.xicp.fun:35455/yy/1382736893$LR•IPV4
 苦乐村官,http://alist.xicp.fun:35455/yy/1382736864$LR•IPV4
 金装四大才子,http://alist.xicp.fun:35455/yy/1354926600$LR•IPV4
 心理追凶-港剧,http://alist.xicp.fun:35455/yy/1354936207$LR•IPV4
-非诚勿扰,https://vip.ffzy-play2.com/20221021/162_cb2bb175/index.m3u8$LR•IPV4『线路1』
-非诚勿扰,http://alist.xicp.fun:35455/yy/1382745100$LR•IPV4『线路2』
+非诚勿扰,http://alist.xicp.fun:35455/yy/1382745100$LR•IPV4
 白夜追凶第一季,http://alist.xicp.fun:35455/yy/1354932359$LR•IPV4
 地球上的地狱,http://alist.xicp.fun:35455/yy/1382736918$LR•IPV4
 寻味顺德-美食纪录片,http://alist.xicp.fun:35455/yy/1382736844$LR•IPV4

@@ -189,8 +189,6 @@ rtsp://115.153.233.154/PLTV/88888888/224/3221226942/69552502.smil$LR•IPV4『�
 rtsp://115.153.245.70/PLTV/88888888/224/3221226942/69552502.smil$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="📡  江西频道",江西教育
 rtsp://115.153.212.72/PLTV/88888888/224/3221226942/69552502.smil$LR•IPV4『线路4』
-#EXTINF:-1 tvg-id="1" tvg-name="深圳少儿频道" tvg-logo="https://live.fanmingming.com/tv/深圳少儿频道.png" group-title="📡  广东频道",深圳少儿频道
-http://atsj.tv.inf.ua/php/gd.php?id=szse$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="📡  香港频道",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="📡  香港频道",翡翠台
@@ -432,19 +430,17 @@ http://alist.xicp.fun:35455/yy/1351814644#https://live.metshop.top/yy/1351814644
 #EXTINF:-1 tvg-id="6" tvg-name="天龙八部" tvg-logo="https://live.fanmingming.com/tv/天龙八部.png" group-title="🇨🇳虎牙直播",天龙八部
 http://alist.xicp.fun:35455/yy/1382749944$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="1" tvg-name="笑傲江湖" tvg-logo="https://live.fanmingming.com/tv/笑傲江湖.png" group-title="🇨🇳虎牙直播",笑傲江湖
-https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8$LR•IPV4『线路1』
+http://2.itv.nctv.top:54321/yy/1354930909$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="笑傲江湖" tvg-logo="https://live.fanmingming.com/tv/笑傲江湖.png" group-title="🇨🇳虎牙直播",笑傲江湖
-http://2.itv.nctv.top:54321/yy/1354930909$LR•IPV4『线路2』
+http://www.xzbn.site:35455/yy/1354930909$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="笑傲江湖" tvg-logo="https://live.fanmingming.com/tv/笑傲江湖.png" group-title="🇨🇳虎牙直播",笑傲江湖
-http://www.xzbn.site:35455/yy/1354930909$LR•IPV4『线路3』
+http://alist.xicp.fun:35455/yy/1354930909#https://live.metshop.top/yy/1354930909$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="笑傲江湖" tvg-logo="https://live.fanmingming.com/tv/笑傲江湖.png" group-title="🇨🇳虎牙直播",笑傲江湖
-http://alist.xicp.fun:35455/yy/1354930909#https://live.metshop.top/yy/1354930909$LR•IPV4『线路4』
+http://alist.xicp.fun:35455/yy/1354930909$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="笑傲江湖" tvg-logo="https://live.fanmingming.com/tv/笑傲江湖.png" group-title="🇨🇳虎牙直播",笑傲江湖
-http://alist.xicp.fun:35455/yy/1354930909$LR•IPV4『线路5』
+http://live.nctv.top/huya.php?id=23865142$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="笑傲江湖" tvg-logo="https://live.fanmingming.com/tv/笑傲江湖.png" group-title="🇨🇳虎牙直播",笑傲江湖
-http://live.nctv.top/huya.php?id=23865142$LR•IPV4『线路6』
-#EXTINF:-1 tvg-id="7" tvg-name="笑傲江湖" tvg-logo="https://live.fanmingming.com/tv/笑傲江湖.png" group-title="🇨🇳虎牙直播",笑傲江湖
-http://www.xzbn.site:35455/huya/23865142$LR•IPV4『线路7』
+http://www.xzbn.site:35455/huya/23865142$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="1" tvg-name="寻秦记" tvg-logo="https://live.fanmingming.com/tv/寻秦记.png" group-title="🇨🇳虎牙直播",寻秦记
 http://2.itv.nctv.top:54321/yy/1382749900#http://www.xzbn.site:35455/yy/1382749900$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="寻秦记" tvg-logo="https://live.fanmingming.com/tv/寻秦记.png" group-title="🇨🇳虎牙直播",寻秦记
@@ -1254,9 +1250,7 @@ http://alist.xicp.fun:35455/yy/1354926600$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="心理追凶-港剧" tvg-logo="https://live.fanmingming.com/tv/心理追凶-港剧.png" group-title="🇨🇳 YY频道",心理追凶-港剧
 http://alist.xicp.fun:35455/yy/1354936207$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="非诚勿扰" tvg-logo="https://live.fanmingming.com/tv/非诚勿扰.png" group-title="🇨🇳 YY频道",非诚勿扰
-https://vip.ffzy-play2.com/20221021/162_cb2bb175/index.m3u8$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="非诚勿扰" tvg-logo="https://live.fanmingming.com/tv/非诚勿扰.png" group-title="🇨🇳 YY频道",非诚勿扰
-http://alist.xicp.fun:35455/yy/1382745100$LR•IPV4『线路2』
+http://alist.xicp.fun:35455/yy/1382745100$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="白夜追凶第一季" tvg-logo="https://live.fanmingming.com/tv/白夜追凶第一季.png" group-title="🇨🇳 YY频道",白夜追凶第一季
 http://alist.xicp.fun:35455/yy/1354932359$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="地球上的地狱" tvg-logo="https://live.fanmingming.com/tv/地球上的地狱.png" group-title="🇨🇳 YY频道",地球上的地狱

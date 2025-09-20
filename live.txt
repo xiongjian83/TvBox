@@ -130,14 +130,20 @@ Hoy Tv,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv$LR•IPV4
 Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod$LR•IPV4
 华丽翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8$LR•IPV4
 亚洲武侠,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8$LR•IPV4
-Channel 5,http://00ds.mc.hi.cn/ddzbsmt.php?id=Channel5HD$LR•IPV4
-Channel 8,http://00ds.mc.hi.cn/ddzbsmt.php?id=Channel8HD$LR•IPV4
-Channel U,http://00ds.mc.hi.cn/ddzbsmt.php?id=ChannelU$LR•IPV4
+Channel 5,http://free.cnlive.club/channel/2f64b875/index.m3u8?q=1758348728277$LR•IPV4
+Channel 8,http://free.cnlive.club/channel/2f64b878/index.m3u8?q=1758348728277$LR•IPV4
+Channel U,http://free.cnlive.club/channel/2f64b895/index.m3u8?q=1758348728277$LR•IPV4
 中天新闻,P2p://starvod.xyz:19806/dcde303976b6413dbfbfc63da5d3439d$LR•IPV4『线路1』
 中天新闻,P2p://starvod.xyz:19806/c30dc54a6f874c99bd67f9ca7935c63f$LR•IPV4『线路2』
-Nick Jr,http://00ds.mc.hi.cn/ddzbsmt.php?id=Nickjr$LR•IPV4
-Nickelodeon,http://00ds.mc.hi.cn/ddzbsmt.php?id=Nickelodeon$LR•IPV4
-Thrill,http://00ds.mc.hi.cn/ddzbsmt.php?id=Thrill$LR•IPV4
+Nick Jr,http://free.cnlive.club/channel/n75fc9ff7/index.m3u8?q=1758348728277$LR•IPV4『线路1』
+Nick Jr,http://free.cnlive.club/channel/20599755/index.m3u8?q=1758348728277$LR•IPV4『线路2』
+Nick Jr,http://free.cnlive.club/channel/n7234a5b3/index.m3u8?q=1758348728277$LR•IPV4『线路3』
+Nickelodeon,http://free.cnlive.club/channel/n6a165737/index.m3u8?q=1758348728277$LR•IPV4『线路1』
+Nickelodeon,http://free.cnlive.club/channel/1c7b5a15/index.m3u8?q=1758348728277$LR•IPV4『线路2』
+Nickelodeon,http://free.cnlive.club/channel/24e2e10d/index.m3u8?q=1758348728277$LR•IPV4『线路3』
+Thrill,http://free.cnlive.club/channel/n7cf4bd6f/index.m3u8?q=1758348728277$LR•IPV4『线路1』
+Thrill,http://free.cnlive.club/channel/2e30b49e/index.m3u8?q=1758348728277$LR•IPV4『线路2』
+Thrill,http://free.cnlive.club/channel/n2b05b19d/index.m3u8?q=1758348728277$LR•IPV4『线路3』
 📡  台湾频道,#genre#
 中视新闻,P2p://starvod.xyz:19806/60901e8b36254ffea76905ae140ec8e4$LR•IPV4
 民视新闻,P2p://starvod.xyz:19806/85724af489c94b319c108b754f4eb381$LR•IPV4
@@ -148,7 +154,8 @@ Thrill,http://00ds.mc.hi.cn/ddzbsmt.php?id=Thrill$LR•IPV4
 八大综合,P2p://starvod.xyz:19806/473b62b7f9d040dab92267754502fb64$LR•IPV4
 中视菁采,P2p://starvod.xyz:19806/ab03f4a5d3444f999b245245d9f5db9b$LR•IPV4
 中视经典,P2p://starvod.xyz:19806/a0d66cf5bc664556b1547e965464a5df$LR•IPV4
-龙华电影,P2p://starvod.xyz:19806/bb08f432ff684290a154dd0add3b2b9a$LR•IPV4
+龙华电影,http://free.cnlive.club/channel/n5e8ca809/index.m3u8?q=1758348728277$LR•IPV4『线路1』
+龙华电影,P2p://starvod.xyz:19806/bb08f432ff684290a154dd0add3b2b9a$LR•IPV4『线路2』
 龙华偶像,P2p://starvod.xyz:19806/f15d8401c26743e8b1b91e411d98c9bd$LR•IPV4
 龙华戏剧,P2p://starvod.xyz:19806/c01e140674374ad1801668e99b3f0b89$LR•IPV4
 靖洋戏剧,P2p://starvod.xyz:19806/7c9e5f12ff0e4c27a7cfdd2365f777f5$LR•IPV4
@@ -163,24 +170,34 @@ Thrill,http://00ds.mc.hi.cn/ddzbsmt.php?id=Thrill$LR•IPV4
 靖天资讯,P2p://starvod.xyz:19806/d07b3592bf284ef4a25a99b84aecf4d0$LR•IPV4
 博斯魅力,P2p://starvod.xyz:19806/849f392784d4416195ae08039dc1a5b0$LR•IPV4
 博斯网球,P2p://starvod.xyz:19806/ead4e147b5504b68bf5cf48877bedaef$LR•IPV4
-靖天卡通,P2p://starvod.xyz:19806/9b96baec9941499fbe6b6ffd8626a9f9$LR•IPV4
+靖天卡通,http://free.cnlive.club/channel/n6567f5b8/index.m3u8?q=1758348728277$LR•IPV4『线路1』
+靖天卡通,P2p://starvod.xyz:19806/9b96baec9941499fbe6b6ffd8626a9f9$LR•IPV4『线路2』
 非凡商业,P2p://starvod.xyz:19806/409e71d738aa4803b297adf29dc01738$LR•IPV4
 东森财经,P2p://starvod.xyz:19806/9db737ccfb474f40afaf632f0f45b3db$LR•IPV4
 📡  新闻频道p2p,#genre#
 年代新闻,P2p://starvod.xyz:19806/5be0f272d36548d1b7fae2f3ea1a02f4$LR•IPV4
-BBC World News,http://00ds.mc.hi.cn/ddzbsmt.php?id=bbcnews_twn$LR•IPV4『线路1』
-BBC World News,http://00ds.mc.hi.cn/ddzbsmt.php?id=Bbcnews$LR•IPV4『线路2』
-BBC World News,http://00ds.mc.hi.cn/ddzbsmt.php?id=bbcworldnews_antik$LR•IPV4『线路3』
-CNBC,http://00ds.mc.hi.cn/ddzbsmt.php?id=cnbc_twn$LR•IPV4
-CNA,http://00ds.mc.hi.cn/ddzbsmt.php?id=cna$LR•IPV4
+CGTN,http://free.cnlive.club/channel/n337674eb/index.m3u8?q=1758348728277$LR•IPV4『线路1』
+CGTN,http://free.cnlive.club/channel/7b42e3b6/index.m3u8?q=1758348728277$LR•IPV4『线路2』
+BBC World News,http://free.cnlive.club/channel/n66a1746b/index.m3u8?q=1758348728277$LR•IPV4『线路1』
+BBC World News,http://free.cnlive.club/channel/2e8ad8ee/index.m3u8?q=1758348728277$LR•IPV4『线路2』
+BBC World News,http://free.cnlive.club/channel/361e4ef6/index.m3u8?q=1758348728277$LR•IPV4『线路3』
+CNBC,http://free.cnlive.club/channel/n33765cdd/index.m3u8?q=1758348728277$LR•IPV4『线路1』
+CNBC,http://free.cnlive.club/channel/n1b02e444/index.m3u8?q=1758348728277$LR•IPV4『线路2』
+CNBC,http://free.cnlive.club/channel/7b42fbc4/index.m3u8?q=1758348728277$LR•IPV4『线路3』
+CNA,http://free.cnlive.club/channel/n43b97ee1/index.m3u8?q=1758348728277$LR•IPV4『线路1』
+CNA,http://free.cnlive.club/channel/4e9c8333/index.m3u8?q=1758348728277$LR•IPV4『线路2』
+CNA,http://free.cnlive.club/channel/fa51166/index.m3u8?q=1758348728277$LR•IPV4『线路3』
 三立iNEWS,P2p://starvod.xyz:19806/580fb306a29948d59b195c50cc496c52$LR•IPV4
-Euronews,http://00ds.mc.hi.cn/ddzbsmt.php?id=euronews_antik$LR•IPV4
-Fox News,http://00ds.mc.hi.cn/ddzbsmt.php?id=foxnews_twn$LR•IPV4
+Euronews,http://free.cnlive.club/channel/19750d38/index.m3u8?q=1758348728277$LR•IPV4
+Fox News,http://free.cnlive.club/channel/n41640285/index.m3u8?q=1758348728277$LR•IPV4
 📡  电影频道p2p,#genre#
-HBO Family,http://00ds.mc.hi.cn/ddzbsmt.php?id=Hbofamily$LR•IPV4
-天映频道,P2p://starvod.xyz:19806/aef2d7f0e0724e27a467d3fa8b0952ec$LR•IPV4
-天映经典,P2p://starvod.xyz:19806/bffd7496bf62417d8690e622bba7a577$LR•IPV4
+HBO Family,http://free.cnlive.club/channel/n50b4438b/index.m3u8?q=1758348728277$LR•IPV4
+天映频道,http://free.cnlive.club/channel/n7e466c41/index.m3u8?q=1758348728277$LR•IPV4『线路1』
+天映频道,P2p://starvod.xyz:19806/aef2d7f0e0724e27a467d3fa8b0952ec$LR•IPV4『线路2』
+天映经典,http://free.cnlive.club/channel/n7e49c99a/index.m3u8?q=1758348728277$LR•IPV4『线路1』
+天映经典,P2p://starvod.xyz:19806/bffd7496bf62417d8690e622bba7a577$LR•IPV4『线路2』
 龙祥电影,P2p://starvod.xyz:19806/372eb2545c364594829fda221ee65581$LR•IPV4
+CINEMAX,http://free.cnlive.club/channel/2420c041/index.m3u8?q=1758348728277$LR•IPV4
 📡  戏剧频道p2p,#genre#
 🇨🇳数字4K,#genre#
 🇨🇳虎牙直播,#genre#

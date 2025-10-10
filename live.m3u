@@ -219,10 +219,22 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod$LR•IPV4
 http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="亚洲武侠" tvg-logo="https://live.fanmingming.com/tv/亚洲武侠.png" group-title="📡  香港频道",亚洲武侠
 http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8$LR•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="Channel 5" tvg-logo="https://live.fanmingming.com/tv/Channel 5.png" group-title="📡  香港频道",Channel 5
+http://cniptv.hxfrock.ggff.net/Smart.php?id=Channel5HD$LR•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="Channel 8" tvg-logo="https://live.fanmingming.com/tv/Channel 8.png" group-title="📡  香港频道",Channel 8
+http://cniptv.hxfrock.ggff.net/Smart.php?id=Channel8HD$LR•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="Channel U" tvg-logo="https://live.fanmingming.com/tv/Channel U.png" group-title="📡  香港频道",Channel U
+http://cniptv.hxfrock.ggff.net/Smart.php?id=ChannelU$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="📡  香港频道",中天新闻
 P2p://starvod.xyz:19806/dcde303976b6413dbfbfc63da5d3439d$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="📡  香港频道",中天新闻
 P2p://starvod.xyz:19806/c30dc54a6f874c99bd67f9ca7935c63f$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Nick Jr" tvg-logo="https://live.fanmingming.com/tv/Nick Jr.png" group-title="📡  香港频道",Nick Jr
+http://cniptv.hxfrock.ggff.net/Smart.php?id=Nickjr$LR•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="Nickelodeon" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="📡  香港频道",Nickelodeon
+http://cniptv.hxfrock.ggff.net/Smart.php?id=Nickelodeon$LR•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="Thrill" tvg-logo="https://live.fanmingming.com/tv/Thrill.png" group-title="📡  香港频道",Thrill
+http://cniptv.hxfrock.ggff.net/Smart.php?id=Thrill$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="📡  台湾频道",中视新闻
 P2p://starvod.xyz:19806/60901e8b36254ffea76905ae140ec8e4$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻.png" group-title="📡  台湾频道",民视新闻
@@ -279,8 +291,24 @@ P2p://starvod.xyz:19806/409e71d738aa4803b297adf29dc01738$LR•IPV4
 P2p://starvod.xyz:19806/9db737ccfb474f40afaf632f0f45b3db$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="年代新闻" tvg-logo="https://live.fanmingming.com/tv/年代新闻.png" group-title="📡  新闻频道p2p",年代新闻
 P2p://starvod.xyz:19806/5be0f272d36548d1b7fae2f3ea1a02f4$LR•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="BBC World News" tvg-logo="https://live.fanmingming.com/tv/BBC World News.png" group-title="📡  新闻频道p2p",BBC World News
+http://cniptv.hxfrock.ggff.net/Smart.php?id=bbcnews_twn$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="BBC World News" tvg-logo="https://live.fanmingming.com/tv/BBC World News.png" group-title="📡  新闻频道p2p",BBC World News
+http://cniptv.hxfrock.ggff.net/Smart.php?id=Bbcnews$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="BBC World News" tvg-logo="https://live.fanmingming.com/tv/BBC World News.png" group-title="📡  新闻频道p2p",BBC World News
+http://cniptv.hxfrock.ggff.net/Smart.php?id=bbcworldnews_antik$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="CNBC" tvg-logo="https://live.fanmingming.com/tv/CNBC.png" group-title="📡  新闻频道p2p",CNBC
+http://cniptv.hxfrock.ggff.net/Smart.php?id=cnbc_twn$LR•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="CNA" tvg-logo="https://live.fanmingming.com/tv/CNA.png" group-title="📡  新闻频道p2p",CNA
+http://cniptv.hxfrock.ggff.net/Smart.php?id=cna$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="三立iNEWS" tvg-logo="https://live.fanmingming.com/tv/三立iNEWS.png" group-title="📡  新闻频道p2p",三立iNEWS
 P2p://starvod.xyz:19806/580fb306a29948d59b195c50cc496c52$LR•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="Euronews" tvg-logo="https://live.fanmingming.com/tv/Euronews.png" group-title="📡  新闻频道p2p",Euronews
+http://cniptv.hxfrock.ggff.net/Smart.php?id=euronews_antik$LR•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="Fox News" tvg-logo="https://live.fanmingming.com/tv/Fox News.png" group-title="📡  新闻频道p2p",Fox News
+http://cniptv.hxfrock.ggff.net/Smart.php?id=foxnews_twn$LR•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="HBO Family" tvg-logo="https://live.fanmingming.com/tv/HBO Family.png" group-title="📡  电影频道p2p",HBO Family
+http://cniptv.hxfrock.ggff.net/Smart.php?id=Hbofamily$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="天映频道" tvg-logo="https://live.fanmingming.com/tv/天映频道.png" group-title="📡  电影频道p2p",天映频道
 P2p://starvod.xyz:19806/aef2d7f0e0724e27a467d3fa8b0952ec$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="天映经典" tvg-logo="https://live.fanmingming.com/tv/天映经典.png" group-title="📡  电影频道p2p",天映经典

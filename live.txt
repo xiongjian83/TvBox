@@ -129,24 +129,24 @@ Hoy Tv,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv$LR•IPV4
 Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod$LR•IPV4
 华丽翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8$LR•IPV4
 亚洲武侠,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8$LR•IPV4
-Channel 5,http://jp.809899.xyz/smt.php?id=Channel5HD$LR•IPV4『线路1』
+Channel 5,https://smt.go-iptv.ggff.net/smart.php?id=Channel5HD&token=Goiptv$LR•IPV4『线路1』
 Channel 5,https://tzh911.qzz.io/play-smt.php?id=Channel5HD$LR•IPV4『线路2』
 Channel 5,http://156.239.254.7:5555/smt.php?id=Channel5HD$LR•IPV4『线路3』
-Channel 8,http://jp.809899.xyz/smt.php?id=Channel8HD$LR•IPV4『线路1』
+Channel 8,https://smt.go-iptv.ggff.net/smart.php?id=Channel8HD&token=Goiptv$LR•IPV4『线路1』
 Channel 8,https://tzh911.qzz.io/play-smt.php?id=Channel8HD$LR•IPV4『线路2』
 Channel 8,http://156.239.254.7:5555/smt.php?id=Channel8HD$LR•IPV4『线路3』
-Channel U,http://jp.809899.xyz/smt.php?id=ChannelU$LR•IPV4『线路1』
+Channel U,https://smt.go-iptv.ggff.net/smart.php?id=ChannelU&token=Goiptv$LR•IPV4『线路1』
 Channel U,https://tzh911.qzz.io/play-smt.php?id=ChannelU$LR•IPV4『线路2』
 Channel U,http://156.239.254.7:5555/smt.php?id=ChannelU$LR•IPV4『线路3』
 中天新闻,P2p://starvod.xyz:19806/dcde303976b6413dbfbfc63da5d3439d$LR•IPV4『线路1』
 中天新闻,P2p://starvod.xyz:19806/c30dc54a6f874c99bd67f9ca7935c63f$LR•IPV4『线路2』
-Nick Jr,http://jp.809899.xyz/smt.php?id=Nickjr$LR•IPV4『线路1』
+Nick Jr,https://smt.go-iptv.ggff.net/smart.php?id=Nickjr&token=Goiptv$LR•IPV4『线路1』
 Nick Jr,https://tzh911.qzz.io/play-smt.php?id=Nickjr$LR•IPV4『线路2』
 Nick Jr,http://156.239.254.7:5555/smt.php?id=Nickjr$LR•IPV4『线路3』
-Nickelodeon,http://jp.809899.xyz/smt.php?id=Nickelodeon$LR•IPV4『线路1』
+Nickelodeon,https://smt.go-iptv.ggff.net/smart.php?id=Nickelodeon&token=Goiptv$LR•IPV4『线路1』
 Nickelodeon,https://tzh911.qzz.io/play-smt.php?id=Nickelodeon$LR•IPV4『线路2』
 Nickelodeon,http://156.239.254.7:5555/smt.php?id=Nickelodeon$LR•IPV4『线路3』
-Thrill,http://jp.809899.xyz/smt.php?id=Thrill$LR•IPV4『线路1』
+Thrill,https://smt.go-iptv.ggff.net/smart.php?id=Thrill&token=Goiptv$LR•IPV4『线路1』
 Thrill,https://tzh911.qzz.io/play-smt.php?id=Thrill$LR•IPV4『线路2』
 Thrill,http://156.239.254.7:5555/smt.php?id=Thrill$LR•IPV4『线路3』
 📡  台湾频道,#genre#
@@ -179,30 +179,30 @@ Thrill,http://156.239.254.7:5555/smt.php?id=Thrill$LR•IPV4『线路3』
 东森财经,P2p://starvod.xyz:19806/9db737ccfb474f40afaf632f0f45b3db$LR•IPV4
 📡  新闻频道p2p,#genre#
 年代新闻,P2p://starvod.xyz:19806/5be0f272d36548d1b7fae2f3ea1a02f4$LR•IPV4
-BBC World News,http://jp.809899.xyz/smt.php?id=bbcnews_twn$LR•IPV4『线路1』
-BBC World News,http://jp.809899.xyz/smt.php?id=Bbcnews$LR•IPV4『线路2』
-BBC World News,http://jp.809899.xyz/smt.php?id=bbcworldnews_antik$LR•IPV4『线路3』
+BBC World News,https://smt.go-iptv.ggff.net/smart.php?id=bbcnews_twn&token=Goiptv$LR•IPV4『线路1』
+BBC World News,https://smt.go-iptv.ggff.net/smart.php?id=Bbcnews&token=Goiptv$LR•IPV4『线路2』
+BBC World News,https://smt.go-iptv.ggff.net/smart.php?id=bbcworldnews_antik&token=Goiptv$LR•IPV4『线路3』
 BBC World News,https://tzh911.qzz.io/play-smt.php?id=bbcnews_twn$LR•IPV4『线路4』
 BBC World News,https://tzh911.qzz.io/play-smt.php?id=Bbcnews$LR•IPV4『线路5』
 BBC World News,http://156.239.254.7:5555/smt.php?id=bbcnews_twn$LR•IPV4『线路6』
 BBC World News,http://156.239.254.7:5555/smt.php?id=Bbcnews$LR•IPV4『线路7』
 BBC World News,https://tzh911.qzz.io/play-smt.php?id=bbcworldnews_antik$LR•IPV4『线路8』
 BBC World News,http://156.239.254.7:5555/smt.php?id=bbcworldnews_antik$LR•IPV4『线路9』
-CNBC,http://jp.809899.xyz/smt.php?id=cnbc_twn$LR•IPV4『线路1』
+CNBC,https://smt.go-iptv.ggff.net/smart.php?id=cnbc_twn&token=Goiptv$LR•IPV4『线路1』
 CNBC,https://tzh911.qzz.io/play-smt.php?id=cnbc_twn$LR•IPV4『线路2』
 CNBC,http://156.239.254.7:5555/smt.php?id=cnbc_twn$LR•IPV4『线路3』
-CNA,http://jp.809899.xyz/smt.php?id=cna$LR•IPV4『线路1』
+CNA,https://smt.go-iptv.ggff.net/smart.php?id=cna&token=Goiptv$LR•IPV4『线路1』
 CNA,https://tzh911.qzz.io/play-smt.php?id=cna$LR•IPV4『线路2』
 CNA,http://156.239.254.7:5555/smt.php?id=cna$LR•IPV4『线路3』
 三立iNEWS,P2p://starvod.xyz:19806/580fb306a29948d59b195c50cc496c52$LR•IPV4
-Euronews,http://jp.809899.xyz/smt.php?id=euronews_antik$LR•IPV4『线路1』
+Euronews,https://smt.go-iptv.ggff.net/smart.php?id=euronews_antik&token=Goiptv$LR•IPV4『线路1』
 Euronews,https://tzh911.qzz.io/play-smt.php?id=euronews_antik$LR•IPV4『线路2』
 Euronews,http://156.239.254.7:5555/smt.php?id=euronews_antik$LR•IPV4『线路3』
-Fox News,http://jp.809899.xyz/smt.php?id=foxnews_twn$LR•IPV4『线路1』
+Fox News,https://smt.go-iptv.ggff.net/smart.php?id=foxnews_twn&token=Goiptv$LR•IPV4『线路1』
 Fox News,https://tzh911.qzz.io/play-smt.php?id=foxnews_twn$LR•IPV4『线路2』
 Fox News,http://156.239.254.7:5555/smt.php?id=foxnews_twn$LR•IPV4『线路3』
 📡  电影频道p2p,#genre#
-HBO Family,http://jp.809899.xyz/smt.php?id=Hbofamily$LR•IPV4『线路1』
+HBO Family,https://smt.go-iptv.ggff.net/smart.php?id=Hbofamily&token=Goiptv$LR•IPV4『线路1』
 HBO Family,https://tzh911.qzz.io/play-smt.php?id=Hbofamily$LR•IPV4『线路2』
 HBO Family,http://156.239.254.7:5555/smt.php?id=Hbofamily$LR•IPV4『线路3』
 天映频道,P2p://starvod.xyz:19806/aef2d7f0e0724e27a467d3fa8b0952ec$LR•IPV4

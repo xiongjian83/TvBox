@@ -222,15 +222,15 @@ http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8$LR�
 #EXTINF:-1 tvg-id="1" tvg-name="Channel 5" tvg-logo="https://live.fanmingming.com/tv/Channel 5.png" group-title="📡  香港频道",Channel 5
 https://smt.go-iptv.ggff.net/smart.php?id=Channel5HD&token=Goiptv$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="Channel 5" tvg-logo="https://live.fanmingming.com/tv/Channel 5.png" group-title="📡  香港频道",Channel 5
-http://huanqiuzhibo.cn/smart.php?id=Channel5HD$LR•IPV4『线路2』
+http://96.44.160.246:9999/smt.php?id=Channel5HD$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="Channel 8" tvg-logo="https://live.fanmingming.com/tv/Channel 8.png" group-title="📡  香港频道",Channel 8
 https://smt.go-iptv.ggff.net/smart.php?id=Channel8HD&token=Goiptv$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="Channel 8" tvg-logo="https://live.fanmingming.com/tv/Channel 8.png" group-title="📡  香港频道",Channel 8
-http://huanqiuzhibo.cn/smart.php?id=Channel8HD$LR•IPV4『线路2』
+http://96.44.160.246:9999/smt.php?id=Channel8HD$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="Channel U" tvg-logo="https://live.fanmingming.com/tv/Channel U.png" group-title="📡  香港频道",Channel U
 https://smt.go-iptv.ggff.net/smart.php?id=ChannelU&token=Goiptv$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="Channel U" tvg-logo="https://live.fanmingming.com/tv/Channel U.png" group-title="📡  香港频道",Channel U
-http://huanqiuzhibo.cn/smart.php?id=ChannelU$LR•IPV4『线路2』
+http://96.44.160.246:9999/smt.php?id=ChannelU$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="📡  香港频道",中天新闻
 P2p://starvod.xyz:19806/dcde303976b6413dbfbfc63da5d3439d$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="📡  香港频道",中天新闻
@@ -238,15 +238,15 @@ P2p://starvod.xyz:19806/c30dc54a6f874c99bd67f9ca7935c63f$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="Nick Jr" tvg-logo="https://live.fanmingming.com/tv/Nick Jr.png" group-title="📡  香港频道",Nick Jr
 https://smt.go-iptv.ggff.net/smart.php?id=Nickjr&token=Goiptv$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="Nick Jr" tvg-logo="https://live.fanmingming.com/tv/Nick Jr.png" group-title="📡  香港频道",Nick Jr
-http://huanqiuzhibo.cn/smart.php?id=Nickjr$LR•IPV4『线路2』
+http://96.44.160.246:9999/smt.php?id=Nickjr$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="Nickelodeon" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="📡  香港频道",Nickelodeon
 https://smt.go-iptv.ggff.net/smart.php?id=Nickelodeon&token=Goiptv$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="Nickelodeon" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="📡  香港频道",Nickelodeon
-http://huanqiuzhibo.cn/smart.php?id=Nickelodeon$LR•IPV4『线路2』
+http://96.44.160.246:9999/smt.php?id=Nickelodeon$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="Thrill" tvg-logo="https://live.fanmingming.com/tv/Thrill.png" group-title="📡  香港频道",Thrill
 https://smt.go-iptv.ggff.net/smart.php?id=Thrill&token=Goiptv$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="Thrill" tvg-logo="https://live.fanmingming.com/tv/Thrill.png" group-title="📡  香港频道",Thrill
-http://huanqiuzhibo.cn/smart.php?id=Thrill$LR•IPV4『线路2』
+http://96.44.160.246:9999/smt.php?id=Thrill$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="📡  台湾频道",中视新闻
 P2p://starvod.xyz:19806/60901e8b36254ffea76905ae140ec8e4$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻.png" group-title="📡  台湾频道",民视新闻
@@ -310,33 +310,33 @@ https://smt.go-iptv.ggff.net/smart.php?id=Bbcnews&token=Goiptv$LR•IPV4『线�
 #EXTINF:-1 tvg-id="3" tvg-name="BBC World News" tvg-logo="https://live.fanmingming.com/tv/BBC World News.png" group-title="📡  新闻频道p2p",BBC World News
 https://smt.go-iptv.ggff.net/smart.php?id=bbcworldnews_antik&token=Goiptv$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="BBC World News" tvg-logo="https://live.fanmingming.com/tv/BBC World News.png" group-title="📡  新闻频道p2p",BBC World News
-http://huanqiuzhibo.cn/smart.php?id=bbcnews_twn$LR•IPV4『线路4』
+http://96.44.160.246:9999/smt.php?id=bbcnews_twn$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="BBC World News" tvg-logo="https://live.fanmingming.com/tv/BBC World News.png" group-title="📡  新闻频道p2p",BBC World News
-http://huanqiuzhibo.cn/smart.php?id=Bbcnews$LR•IPV4『线路5』
+http://96.44.160.246:9999/smt.php?id=Bbcnews$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="BBC World News" tvg-logo="https://live.fanmingming.com/tv/BBC World News.png" group-title="📡  新闻频道p2p",BBC World News
-http://huanqiuzhibo.cn/smart.php?id=bbcworldnews_antik$LR•IPV4『线路6』
+http://96.44.160.246:9999/smt.php?id=bbcworldnews_antik$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="1" tvg-name="CNBC" tvg-logo="https://live.fanmingming.com/tv/CNBC.png" group-title="📡  新闻频道p2p",CNBC
 https://smt.go-iptv.ggff.net/smart.php?id=cnbc_twn&token=Goiptv$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CNBC" tvg-logo="https://live.fanmingming.com/tv/CNBC.png" group-title="📡  新闻频道p2p",CNBC
-http://huanqiuzhibo.cn/smart.php?id=cnbc_twn$LR•IPV4『线路2』
+http://96.44.160.246:9999/smt.php?id=cnbc_twn$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="CNA" tvg-logo="https://live.fanmingming.com/tv/CNA.png" group-title="📡  新闻频道p2p",CNA
 https://smt.go-iptv.ggff.net/smart.php?id=cna&token=Goiptv$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CNA" tvg-logo="https://live.fanmingming.com/tv/CNA.png" group-title="📡  新闻频道p2p",CNA
-http://huanqiuzhibo.cn/smart.php?id=cna$LR•IPV4『线路2』
+http://96.44.160.246:9999/smt.php?id=cna$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="三立iNEWS" tvg-logo="https://live.fanmingming.com/tv/三立iNEWS.png" group-title="📡  新闻频道p2p",三立iNEWS
 P2p://starvod.xyz:19806/580fb306a29948d59b195c50cc496c52$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Euronews" tvg-logo="https://live.fanmingming.com/tv/Euronews.png" group-title="📡  新闻频道p2p",Euronews
 https://smt.go-iptv.ggff.net/smart.php?id=euronews_antik&token=Goiptv$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="Euronews" tvg-logo="https://live.fanmingming.com/tv/Euronews.png" group-title="📡  新闻频道p2p",Euronews
-http://huanqiuzhibo.cn/smart.php?id=euronews_antik$LR•IPV4『线路2』
+http://96.44.160.246:9999/smt.php?id=euronews_antik$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="Fox News" tvg-logo="https://live.fanmingming.com/tv/Fox News.png" group-title="📡  新闻频道p2p",Fox News
 https://smt.go-iptv.ggff.net/smart.php?id=foxnews_twn&token=Goiptv$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="Fox News" tvg-logo="https://live.fanmingming.com/tv/Fox News.png" group-title="📡  新闻频道p2p",Fox News
-http://huanqiuzhibo.cn/smart.php?id=foxnews_twn$LR•IPV4『线路2』
+http://96.44.160.246:9999/smt.php?id=foxnews_twn$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="HBO Family" tvg-logo="https://live.fanmingming.com/tv/HBO Family.png" group-title="📡  电影频道p2p",HBO Family
 https://smt.go-iptv.ggff.net/smart.php?id=Hbofamily&token=Goiptv$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="HBO Family" tvg-logo="https://live.fanmingming.com/tv/HBO Family.png" group-title="📡  电影频道p2p",HBO Family
-http://huanqiuzhibo.cn/smart.php?id=Hbofamily$LR•IPV4『线路2』
+http://96.44.160.246:9999/smt.php?id=Hbofamily$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="天映频道" tvg-logo="https://live.fanmingming.com/tv/天映频道.png" group-title="📡  电影频道p2p",天映频道
 P2p://starvod.xyz:19806/aef2d7f0e0724e27a467d3fa8b0952ec$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="天映经典" tvg-logo="https://live.fanmingming.com/tv/天映经典.png" group-title="📡  电影频道p2p",天映经典

@@ -1,6 +1,6 @@
 公告,#genre#
 更新日期,http://live.nctv.top/huya.php?id=11342412
-2026-04-13,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.m3u8?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+2026-04-14,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.m3u8?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 📡  央视频道,#genre#
 CCTV1,http://183.222.242.31:8088/hls/1/index.m3u8$LR•IPV4
 CCTV2,http://183.222.242.31:8088/hls/2/index.m3u8$LR•IPV4
@@ -19,24 +19,24 @@ CCTV13,http://183.222.242.31:8088/hls/13/index.m3u8$LR•IPV4
 CCTV14,http://183.222.242.31:8088/hls/14/index.m3u8$LR•IPV4
 CCTV15,http://183.222.242.31:8088/hls/15/index.m3u8$LR•IPV4
 📡  卫视频道,#genre#
-凤凰资讯,p3p://focus169.org:35351/68b0665c0002e72fcb015310459b5b02$LR•IPV4『线路1』
+凤凰资讯,p3p://focus169.org:38902/68b0665c0002e72fcb015310459b5b02$LR•IPV4『线路1』
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$LR•IPV4『线路2』
-凤凰中文,p3p://focus169.org:35351/68a6abe2000dd5d9a5012600500a1279$LR•IPV4『线路1』
-凤凰中文,p3p://focus169.org:35351/6884d6010003149c20d695cc31c54300$LR•IPV4『线路2』
+凤凰中文,p3p://focus169.org:38902/68a6abe2000dd5d9a5012600500a1279$LR•IPV4『线路1』
+凤凰中文,p3p://focus169.org:38902/6884d6010003149c20d695cc31c54300$LR•IPV4『线路2』
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$LR•IPV4『线路3』
 凤凰中文,P2p://starvod.xyz:19806/5299589f7105498cb0ba0e2c6355de74$LR•IPV4『线路4』
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk$LR•IPV4『线路1』
 凤凰香港,P2p://starvod.xyz:19806/c4b31f19f7444cb9b283faa6e9fc1733$LR•IPV4『线路2』
-湖南卫视,p3p://focus169.org:35351/64260ee40007c511ee03ae5a4aed536d$LR•IPV4『线路1』
+湖南卫视,p3p://focus169.org:38902/64260ee40007c511ee03ae5a4aed536d$LR•IPV4『线路1』
 湖南卫视,http://183.222.242.31:8088/hls/18/index.m3u8$LR•IPV4『线路2』
-浙江卫视,p3p://focus169.org:35351/64260fec0004b10aee07b4d0681c628b$LR•IPV4『线路1』
+浙江卫视,p3p://focus169.org:38902/64260fec0004b10aee07b4d0681c628b$LR•IPV4『线路1』
 浙江卫视,http://183.222.242.31:8088/hls/20/index.m3u8$LR•IPV4『线路2』
 东方卫视,http://183.222.242.31:8088/hls/21/index.m3u8$LR•IPV4
-北京卫视,p3p://focus169.org:35351/64260fe100097b88ee078b124b8f3f9d$LR•IPV4『线路1』
+北京卫视,p3p://focus169.org:38902/64260fe100097b88ee078b124b8f3f9d$LR•IPV4『线路1』
 北京卫视,http://183.222.242.31:8088/hls/22/index.m3u8$LR•IPV4『线路2』
-江苏卫视,p3p://focus169.org:35351/64260e700008a9f5ee01e97667ca7d36$LR•IPV4『线路1』
+江苏卫视,p3p://focus169.org:38902/64260e700008a9f5ee01e97667ca7d36$LR•IPV4『线路1』
 江苏卫视,http://183.222.242.31:8088/hls/19/index.m3u8$LR•IPV4『线路2』
-江西卫视,p3p://focus169.org:35351/64260f920000727aee06542a02064fce$LR•IPV4『线路1』
+江西卫视,p3p://focus169.org:38902/64260f920000727aee06542a02064fce$LR•IPV4『线路1』
 江西卫视,http://183.222.242.31:8088/hls/29/index.m3u8$LR•IPV4『线路2』
 江西卫视,http://php.jdshipin.com:8880/jxtv2.php?id=1$LR•IPV4『线路3』
 江西卫视,http://local-live.jxtvcn.com.cn/live/tv_jxtv1.m3u8$LR•IPV4『线路4』
@@ -45,32 +45,32 @@ CCTV15,http://183.222.242.31:8088/hls/15/index.m3u8$LR•IPV4
 江西卫视,rtsp://115.153.245.70/PLTV/88888888/224/3221226656/46275837.smil$LR•IPV4『线路7』
 江西卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221226656/46275837.smil$LR•IPV4『线路8』
 江西卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221226656/46275837.smil$LR•IPV4『线路9』
-安徽卫视,p3p://focus169.org:35351/64260fd5000d5883ee075d2f7d6a48e2$LR•IPV4『线路1』
+安徽卫视,p3p://focus169.org:38902/64260fd5000d5883ee075d2f7d6a48e2$LR•IPV4『线路1』
 安徽卫视,http://183.222.242.31:8088/hls/32/index.m3u8$LR•IPV4『线路2』
 重庆卫视,http://183.222.242.31:8088/hls/27/index.m3u8$LR•IPV4
 四川卫视,http://183.222.242.31:8088/hls/17/index.m3u8$LR•IPV4
-东南卫视,p3p://focus169.org:35351/64260fcb00035aa0ee0733907e64579c$LR•IPV4『线路1』
+东南卫视,p3p://focus169.org:38902/64260fcb00035aa0ee0733907e64579c$LR•IPV4『线路1』
 东南卫视,http://183.222.242.31:8088/hls/30/index.m3u8$LR•IPV4『线路2』
-深圳卫视,p3p://focus169.org:35351/64261082000a8e12ee0a00412f96293c$LR•IPV4『线路1』
+深圳卫视,p3p://focus169.org:38902/64261082000a8e12ee0a00412f96293c$LR•IPV4『线路1』
 深圳卫视,http://112.27.235.94:8000/hls/33/index.m3u8$LR•IPV4『线路2』
-广东卫视,p3p://focus169.org:35351/64260f9d0003bfdeee067ffb753744c8$LR•IPV4『线路1』
+广东卫视,p3p://focus169.org:38902/64260f9d0003bfdeee067ffb753744c8$LR•IPV4『线路1』
 广东卫视,http://183.222.242.31:8088/hls/23/index.m3u8$LR•IPV4『线路2』
-厦门卫视,p3p://focus169.org:35351/6426108e00058067ee0a2dd646df0d41$LR•IPV4
+厦门卫视,p3p://focus169.org:38902/6426108e00058067ee0a2dd646df0d41$LR•IPV4
 贵州卫视,http://183.222.242.31:8088/hls/31/index.m3u8$LR•IPV4
 河北卫视,http://183.222.242.31:8088/hls/33/index.m3u8$LR•IPV4
-河南卫视,p3p://focus169.org:35351/64260fb100056a93ee06ce871c2e5071$LR•IPV4『线路1』
+河南卫视,p3p://focus169.org:38902/64260fb100056a93ee06ce871c2e5071$LR•IPV4『线路1』
 河南卫视,http://183.222.242.31:8088/hls/35/index.m3u8$LR•IPV4『线路2』
-黑龙江卫视,p3p://focus169.org:35351/64260fa7000c1330ee06a92c52724886$LR•IPV4『线路1』
+黑龙江卫视,p3p://focus169.org:38902/64260fa7000c1330ee06a92c52724886$LR•IPV4『线路1』
 黑龙江卫视,http://183.222.242.31:8088/hls/26/index.m3u8$LR•IPV4『线路2』
-湖北卫视,p3p://focus169.org:35351/64260ed500091677ee0374195121319b$LR•IPV4『线路1』
+湖北卫视,p3p://focus169.org:38902/64260ed500091677ee0374195121319b$LR•IPV4『线路1』
 湖北卫视,http://183.222.242.31:8088/hls/28/index.m3u8$LR•IPV4『线路2』
 内蒙古卫视,http://112.27.235.94:8000/hls/49/index.m3u8$LR•IPV4
 辽宁卫视,http://183.222.242.31:8088/hls/34/index.m3u8$LR•IPV4
-山东卫视,p3p://focus169.org:35351/64260f89000475c3ee06320a031a7286$LR•IPV4『线路1』
+山东卫视,p3p://focus169.org:38902/64260f89000475c3ee06320a031a7286$LR•IPV4『线路1』
 山东卫视,http://183.222.242.31:8088/hls/25/index.m3u8$LR•IPV4『线路2』
 山西卫视,http://112.27.235.94:8000/hls/45/index.m3u8$LR•IPV4
 天津卫视,http://183.222.242.31:8088/hls/24/index.m3u8$LR•IPV4
-海南卫视,p3p://focus169.org:35351/64260fc10002a54fee070c525d0d5e83$LR•IPV4
+海南卫视,p3p://focus169.org:38902/64260fc10002a54fee070c525d0d5e83$LR•IPV4
 云南卫视,http://112.27.235.94:8000/hls/40/index.m3u8$LR•IPV4
 📡  江西频道,#genre#
 江西都市,http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxds$LR•IPV4『线路1』
@@ -159,9 +159,9 @@ CCTV15,http://183.222.242.31:8088/hls/15/index.m3u8$LR•IPV4
 📡  浙江频道,#genre#
 📡  江苏频道,#genre#
 📡  广东频道,#genre#
-广东珠江,p3p://focus169.org:35351/6799835900013ee889a12e634f961767$LR•IPV4
-广东国际,p3p://focus169.org:35351/642610c3000df7f5ee0aff0975881941$LR•IPV4
-广东少儿,p3p://focus169.org:35351/642610a2000b33ebee0a7d6c26c160b2$LR•IPV4
+广东珠江,p3p://focus169.org:38902/6799835900013ee889a12e634f961767$LR•IPV4
+广东国际,p3p://focus169.org:38902/642610c3000df7f5ee0aff0975881941$LR•IPV4
+广东少儿,p3p://focus169.org:38902/642610a2000b33ebee0a7d6c26c160b2$LR•IPV4
 📡  湖南频道,#genre#
 📡  福建频道,#genre#
 📡  湖北频道,#genre#
@@ -191,22 +191,22 @@ Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod$LR•IPV4
 华丽翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8$LR•IPV4
 亚洲武侠,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8$LR•IPV4
 Channel 5,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Channel5HD$LR•IPV4『线路1』
-Channel 5,p3p://focus169.org:35351/642606de000ae43dede457c221b81de1$LR•IPV4『线路2』
+Channel 5,p3p://focus169.org:38902/642606de000ae43dede457c221b81de1$LR•IPV4『线路2』
 Channel 8,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Channel8HD$LR•IPV4『线路1』
-Channel 8,p3p://focus169.org:35351/642606be0002dd54ede3d8b40d6c04dc$LR•IPV4『线路2』
+Channel 8,p3p://focus169.org:38902/642606be0002dd54ede3d8b40d6c04dc$LR•IPV4『线路2』
 Channel U,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=ChannelU$LR•IPV4
-美亚电影台,p3p://focus169.org:35351/642525310003ad3cea72ca2155c734c3$LR•IPV4
-中天新闻,p3p://focus169.org:35351/68b98b8e00071bd3eeba61bc11471666$LR•IPV4『线路1』
+美亚电影台,p3p://focus169.org:38902/642525310003ad3cea72ca2155c734c3$LR•IPV4
+中天新闻,p3p://focus169.org:38902/68b98b8e00071bd3eeba61bc11471666$LR•IPV4『线路1』
 中天新闻,P2p://starvod.xyz:19806/dcde303976b6413dbfbfc63da5d3439d$LR•IPV4『线路2』
 中天新闻,P2p://starvod.xyz:19806/c30dc54a6f874c99bd67f9ca7935c63f$LR•IPV4『线路3』
-TVBS,p3p://focus169.org:35351/689ef7f10003c3c286ea78d3090525a9$LR•IPV4
-三立綜合台,p3p://focus169.org:35351/64251e49000e34e7ea57d28a25014df2$LR•IPV4
+TVBS,p3p://focus169.org:38902/689ef7f10003c3c286ea78d3090525a9$LR•IPV4
+三立綜合台,p3p://focus169.org:38902/64251e49000e34e7ea57d28a25014df2$LR•IPV4
 Nick Jr,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nickjr$LR•IPV4『线路1』
-Nick Jr,p3p://focus169.org:35351/642d449d000ac1ec0a2d5151582b3dea$LR•IPV4『线路2』
+Nick Jr,p3p://focus169.org:38902/642d449d000ac1ec0a2d5151582b3dea$LR•IPV4『线路2』
 Nickelodeon,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Nickelodeon$LR•IPV4『线路1』
-Nickelodeon,p3p://focus169.org:35351/642d44b90006faed0a2dbdba7c9816e4$LR•IPV4『线路2』
+Nickelodeon,p3p://focus169.org:38902/642d44b90006faed0a2dbdba7c9816e4$LR•IPV4『线路2』
 Thrill,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Thrill$LR•IPV4『线路1』
-Thrill,p3p://focus169.org:35351/644a0879000272f67a89b6687af342ae$LR•IPV4『线路2』
+Thrill,p3p://focus169.org:38902/644a0879000272f67a89b6687af342ae$LR•IPV4『线路2』
 📡  台湾频道,#genre#
 中视新闻,P2p://starvod.xyz:19806/60901e8b36254ffea76905ae140ec8e4$LR•IPV4
 民视新闻,P2p://starvod.xyz:19806/85724af489c94b319c108b754f4eb381$LR•IPV4
@@ -214,8 +214,8 @@ Thrill,p3p://focus169.org:35351/644a0879000272f67a89b6687af342ae$LR•IPV4『线
 台视财经,P2p://starvod.xyz:19806/e9b57fc5756f4f78b876adf7f59e8c81$LR•IPV4
 华视新闻,P2p://starvod.xyz:19806/fc3998cc8d7d4608bc9d0ade911c3a76$LR•IPV4
 寰宇新闻,P2p://starvod.xyz:19806/6d0911b11be041bbba3bf911b1bb6167$LR•IPV4
-公视,p3p://focus169.org:35351/64251df1000b5a9cea567a0e255d4664$LR•IPV4
-八大综合,p3p://focus169.org:35351/642520b0000c3261ea61346800d61673$LR•IPV4『线路1』
+公视,p3p://focus169.org:38902/64251df1000b5a9cea567a0e255d4664$LR•IPV4
+八大综合,p3p://focus169.org:38902/642520b0000c3261ea61346800d61673$LR•IPV4『线路1』
 八大综合,P2p://starvod.xyz:19806/473b62b7f9d040dab92267754502fb64$LR•IPV4『线路2』
 中视菁采,P2p://starvod.xyz:19806/ab03f4a5d3444f999b245245d9f5db9b$LR•IPV4
 中视经典,P2p://starvod.xyz:19806/a0d66cf5bc664556b1547e965464a5df$LR•IPV4
@@ -232,38 +232,38 @@ Thrill,p3p://focus169.org:35351/644a0879000272f67a89b6687af342ae$LR•IPV4『线
 靖天电影,P2p://starvod.xyz:19806/cd47dabb4fd745df9c81cce941540481$LR•IPV4
 靖天国际,P2p://starvod.xyz:19806/dd4a46925d6549369b0c6b6465c73302$LR•IPV4
 靖天资讯,P2p://starvod.xyz:19806/d07b3592bf284ef4a25a99b84aecf4d0$LR•IPV4
-博斯魅力,p3p://focus169.org:35351/642d395d0004e9950a015dce389f4c91$LR•IPV4『线路1』
+博斯魅力,p3p://focus169.org:38902/642d395d0004e9950a015dce389f4c91$LR•IPV4『线路1』
 博斯魅力,P2p://starvod.xyz:19806/849f392784d4416195ae08039dc1a5b0$LR•IPV4『线路2』
 博斯网球,P2p://starvod.xyz:19806/ead4e147b5504b68bf5cf48877bedaef$LR•IPV4
 靖天卡通,P2p://starvod.xyz:19806/9b96baec9941499fbe6b6ffd8626a9f9$LR•IPV4
 非凡商业,P2p://starvod.xyz:19806/409e71d738aa4803b297adf29dc01738$LR•IPV4
-东森财经,p3p://focus169.org:35351/64251ff20001f010ea5e4b9002e57212$LR•IPV4『线路1』
+东森财经,p3p://focus169.org:38902/64251ff20001f010ea5e4b9002e57212$LR•IPV4『线路1』
 东森财经,P2p://starvod.xyz:19806/9db737ccfb474f40afaf632f0f45b3db$LR•IPV4『线路2』
 📡  新闻频道p2p,#genre#
-民视新闻台,p3p://focus169.org:35351/68b5a795000aab6edf87ddfc70aa74bb$LR•IPV4
+民视新闻台,p3p://focus169.org:38902/68b5a795000aab6edf87ddfc70aa74bb$LR•IPV4
 年代新闻,P2p://starvod.xyz:19806/5be0f272d36548d1b7fae2f3ea1a02f4$LR•IPV4
 CGTN,http://112.27.235.94:8000/hls/17/index.m3u8$LR•IPV4
 BBC World News,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bbcnews_twn$LR•IPV4『线路1』
 BBC World News,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Bbcnews$LR•IPV4『线路2』
 BBC World News,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=bbcworldnews_antik$LR•IPV4『线路3』
-BBC World News,p3p://focus169.org:35351/6465a784000201aee66e4af152371a81$LR•IPV4『线路4』
+BBC World News,p3p://focus169.org:38902/6465a784000201aee66e4af152371a81$LR•IPV4『线路4』
 CNBC,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cnbc_twn$LR•IPV4
 CNA,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=cna$LR•IPV4『线路1』
-CNA,p3p://focus169.org:35351/6426077a00093ea7ede6b8b64d6d4c6e$LR•IPV4『线路2』
+CNA,p3p://focus169.org:38902/6426077a00093ea7ede6b8b64d6d4c6e$LR•IPV4『线路2』
 三立iNEWS,P2p://starvod.xyz:19806/580fb306a29948d59b195c50cc496c52$LR•IPV4
 Euronews,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=euronews_antik$LR•IPV4
 Fox News,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=foxnews_twn$LR•IPV4
-MSNBC,p3p://focus169.org:35351/6463b01500091c93debfc3337c9a0e9c$LR•IPV4
-The Weather Channel,p3p://focus169.org:35351/6465a7fb0004575fe6701c626deb47fd$LR•IPV4
+MSNBC,p3p://focus169.org:38902/6463b01500091c93debfc3337c9a0e9c$LR•IPV4
+The Weather Channel,p3p://focus169.org:38902/6465a7fb0004575fe6701c626deb47fd$LR•IPV4
 📡  电影频道p2p,#genre#
 HBO Family,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Hbofamily$LR•IPV4
 天映频道,P2p://starvod.xyz:19806/aef2d7f0e0724e27a467d3fa8b0952ec$LR•IPV4
 天映经典,P2p://starvod.xyz:19806/bffd7496bf62417d8690e622bba7a577$LR•IPV4
 龙祥电影,P2p://starvod.xyz:19806/372eb2545c364594829fda221ee65581$LR•IPV4
-HBO,p3p://focus169.org:35351/64137f0b0006a17fa58238155813216c$LR•IPV4『线路1』
-HBO,p3p://focus169.org:35351/645faf2100095cb2cf1c4442765c172b$LR•IPV4『线路2』
-好莱坞电影台,p3p://focus169.org:35351/681f654b000782669498cdf850503b77$LR•IPV4
-BOO,p3p://focus169.org:35351/64137e860008ec16a58031233a436c8e$LR•IPV4
+HBO,p3p://focus169.org:38902/64137f0b0006a17fa58238155813216c$LR•IPV4『线路1』
+HBO,p3p://focus169.org:38902/645faf2100095cb2cf1c4442765c172b$LR•IPV4『线路2』
+好莱坞电影台,p3p://focus169.org:38902/681f654b000782669498cdf850503b77$LR•IPV4
+BOO,p3p://focus169.org:38902/64137e860008ec16a58031233a436c8e$LR•IPV4
 📡  戏剧频道p2p,#genre#
 🇨🇳数字4K,#genre#
 🇨🇳虎牙直播,#genre#

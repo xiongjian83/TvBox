@@ -3,9 +3,9 @@
 2026-07-10,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.m3u8?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 📡  央视频道,#genre#
 📡  卫视频道,#genre#
-凤凰资讯,p3p://focus169.org:26571/68b0665c0002e72fcb015310459b5b02$LR•IPV4『线路1』
+凤凰资讯,p3p://focus169.org:36826/68b0665c0002e72fcb015310459b5b02$LR•IPV4『线路1』
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$LR•IPV4『线路2』
-凤凰中文,p3p://focus169.org:26571/6884d6010003149c20d695cc31c54300$LR•IPV4『线路1』
+凤凰中文,p3p://focus169.org:36826/6884d6010003149c20d695cc31c54300$LR•IPV4『线路1』
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$LR•IPV4『线路2』
 凤凰中文,P2p://starvod.xyz:19806/5299589f7105498cb0ba0e2c6355de74$LR•IPV4『线路3』
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk$LR•IPV4『线路1』
@@ -131,15 +131,15 @@ Hoy Tv,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv$LR•IPV4
 Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod$LR•IPV4
 华丽翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8$LR•IPV4
 亚洲武侠,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8$LR•IPV4
-Channel 5,p3p://focus169.org:26571/642606de000ae43dede457c221b81de1$LR•IPV4
-Channel 8,p3p://focus169.org:26571/642606be0002dd54ede3d8b40d6c04dc$LR•IPV4
-美亚电影台,p3p://focus169.org:26571/642525310003ad3cea72ca2155c734c3$LR•IPV4
-中天新闻,p3p://focus169.org:26571/68b98b8e00071bd3eeba61bc11471666$LR•IPV4『线路1』
+Channel 5,p3p://focus169.org:36826/642606de000ae43dede457c221b81de1$LR•IPV4
+Channel 8,p3p://focus169.org:36826/642606be0002dd54ede3d8b40d6c04dc$LR•IPV4
+美亚电影台,p3p://focus169.org:36826/642525310003ad3cea72ca2155c734c3$LR•IPV4
+中天新闻,p3p://focus169.org:36826/68b98b8e00071bd3eeba61bc11471666$LR•IPV4『线路1』
 中天新闻,P2p://starvod.xyz:19806/dcde303976b6413dbfbfc63da5d3439d$LR•IPV4『线路2』
 中天新闻,P2p://starvod.xyz:19806/c30dc54a6f874c99bd67f9ca7935c63f$LR•IPV4『线路3』
-Nick Jr,p3p://focus169.org:26571/642d449d000ac1ec0a2d5151582b3dea$LR•IPV4
-Nickelodeon,p3p://focus169.org:26571/642d44b90006faed0a2dbdba7c9816e4$LR•IPV4
-Thrill,p3p://focus169.org:26571/644a0879000272f67a89b6687af342ae$LR•IPV4
+Nick Jr,p3p://focus169.org:36826/642d449d000ac1ec0a2d5151582b3dea$LR•IPV4
+Nickelodeon,p3p://focus169.org:36826/642d44b90006faed0a2dbdba7c9816e4$LR•IPV4
+Thrill,p3p://focus169.org:36826/644a0879000272f67a89b6687af342ae$LR•IPV4
 📡  台湾频道,#genre#
 中视新闻,P2p://starvod.xyz:19806/60901e8b36254ffea76905ae140ec8e4$LR•IPV4
 民视新闻,P2p://starvod.xyz:19806/85724af489c94b319c108b754f4eb381$LR•IPV4
@@ -163,28 +163,28 @@ Thrill,p3p://focus169.org:26571/644a0879000272f67a89b6687af342ae$LR•IPV4
 靖天电影,P2p://starvod.xyz:19806/cd47dabb4fd745df9c81cce941540481$LR•IPV4
 靖天国际,P2p://starvod.xyz:19806/dd4a46925d6549369b0c6b6465c73302$LR•IPV4
 靖天资讯,P2p://starvod.xyz:19806/d07b3592bf284ef4a25a99b84aecf4d0$LR•IPV4
-博斯魅力,p3p://focus169.org:26571/642d395d0004e9950a015dce389f4c91$LR•IPV4『线路1』
+博斯魅力,p3p://focus169.org:36826/642d395d0004e9950a015dce389f4c91$LR•IPV4『线路1』
 博斯魅力,P2p://starvod.xyz:19806/849f392784d4416195ae08039dc1a5b0$LR•IPV4『线路2』
 博斯网球,P2p://starvod.xyz:19806/ead4e147b5504b68bf5cf48877bedaef$LR•IPV4
 靖天卡通,P2p://starvod.xyz:19806/9b96baec9941499fbe6b6ffd8626a9f9$LR•IPV4
 非凡商业,P2p://starvod.xyz:19806/409e71d738aa4803b297adf29dc01738$LR•IPV4
-东森财经,p3p://focus169.org:26571/64251ff20001f010ea5e4b9002e57212$LR•IPV4『线路1』
+东森财经,p3p://focus169.org:36826/64251ff20001f010ea5e4b9002e57212$LR•IPV4『线路1』
 东森财经,P2p://starvod.xyz:19806/9db737ccfb474f40afaf632f0f45b3db$LR•IPV4『线路2』
 📡  新闻频道p2p,#genre#
-民视新闻台,p3p://focus169.org:26571/68b5a795000aab6edf87ddfc70aa74bb$LR•IPV4
+民视新闻台,p3p://focus169.org:36826/68b5a795000aab6edf87ddfc70aa74bb$LR•IPV4
 年代新闻,P2p://starvod.xyz:19806/5be0f272d36548d1b7fae2f3ea1a02f4$LR•IPV4
-BBC World News,p3p://focus169.org:26571/6465a784000201aee66e4af152371a81$LR•IPV4
-CNA,p3p://focus169.org:26571/6426077a00093ea7ede6b8b64d6d4c6e$LR•IPV4
+BBC World News,p3p://focus169.org:36826/6465a784000201aee66e4af152371a81$LR•IPV4
+CNA,p3p://focus169.org:36826/6426077a00093ea7ede6b8b64d6d4c6e$LR•IPV4
 三立iNEWS,P2p://starvod.xyz:19806/580fb306a29948d59b195c50cc496c52$LR•IPV4
-MSNBC,p3p://focus169.org:26571/6463b01500091c93debfc3337c9a0e9c$LR•IPV4
-The Weather Channel,p3p://focus169.org:26571/6465a7fb0004575fe6701c626deb47fd$LR•IPV4
+MSNBC,p3p://focus169.org:36826/6463b01500091c93debfc3337c9a0e9c$LR•IPV4
+The Weather Channel,p3p://focus169.org:36826/6465a7fb0004575fe6701c626deb47fd$LR•IPV4
 📡  电影频道p2p,#genre#
 天映频道,P2p://starvod.xyz:19806/aef2d7f0e0724e27a467d3fa8b0952ec$LR•IPV4
 天映经典,P2p://starvod.xyz:19806/bffd7496bf62417d8690e622bba7a577$LR•IPV4
 龙祥电影,P2p://starvod.xyz:19806/372eb2545c364594829fda221ee65581$LR•IPV4
-HBO,p3p://focus169.org:26571/645faf2100095cb2cf1c4442765c172b$LR•IPV4
-好莱坞电影台,p3p://focus169.org:26571/681f654b000782669498cdf850503b77$LR•IPV4
-BOO,p3p://focus169.org:26571/64137e860008ec16a58031233a436c8e$LR•IPV4
+HBO,p3p://focus169.org:36826/645faf2100095cb2cf1c4442765c172b$LR•IPV4
+好莱坞电影台,p3p://focus169.org:36826/681f654b000782669498cdf850503b77$LR•IPV4
+BOO,p3p://focus169.org:36826/64137e860008ec16a58031233a436c8e$LR•IPV4
 📡  戏剧频道p2p,#genre#
 🇨🇳数字4K,#genre#
 🇨🇳虎牙直播,#genre#

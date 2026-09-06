@@ -1,6 +1,9 @@
 import re
+import socket
+import ipaddress
 import requests
 import logging
+from urllib.parse import urlparse
 from collections import OrderedDict
 from datetime import datetime
 import config
@@ -24,11 +27,28 @@ def parse_template(template_file):
 
     return template_channels
 
+def is_safe_url(url):
+    try:
+        parsed = urlparse(url)
+        if parsed.scheme not in ("http", "https") or not parsed.hostname:
+            return False
+        for res in socket.getaddrinfo(parsed.hostname, None):
+            ip = ipaddress.ip_address(res[4][0])
+            if ip.is_private or ip.is_loopback or ip.is_link_local or ip.is_reserved or ip.is_multicast:
+                return False
+        return True
+    except Exception:
+        return False
+
 def fetch_channels(url):
     channels = OrderedDict()
 
+    if not is_safe_url(url):
+        logging.error(f"url: {url} 被拒绝❌, 不允许访问内网/非法地址")
+        return channels
+
     try:
-        response = requests.get(url)
+        response = requests.get(url, timeout=10)
         response.raise_for_status()
         response.encoding = 'utf-8'
         lines = response.text.split("\n")
